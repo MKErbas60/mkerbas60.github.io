@@ -1,12 +1,864 @@
 <!DOCTYPE html>
-<html lang="tr">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mustafa Kerem Erbas | Hoş Geldiniz</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>erbas.dev — Mobile Game Developer</title>
+  <meta name="description" content="Mobile games & apps by erbas — Block Master, Block Wood Puzzle, Match Master and more on Google Play." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ─── TOKENS ─────────────────────────────────────────────────────── */
+    :root {
+      --bg:        #05070f;
+      --bg2:       #090d1a;
+      --bg3:       #0d1224;
+      --surface:   #111827;
+      --border:    rgba(255,255,255,0.07);
+      --neon-a:    #ff9100;   /* orange  */
+      --neon-b:    #00f2ff;   /* cyan    */
+      --neon-c:    #bc00ff;   /* purple  */
+      --neon-d:    #39ff14;   /* green   */
+      --neon-e:    #ff2d55;   /* red     */
+      --text:      #f0f4ff;
+      --muted:     rgba(240,244,255,0.45);
+      --font-head: 'Orbitron', sans-serif;
+      --font-body: 'DM Sans', sans-serif;
+      --radius:    16px;
+      --glow-a:    0 0 24px rgba(255,145,0,0.35);
+      --glow-b:    0 0 24px rgba(0,242,255,0.30);
+    }
+
+    /* ─── RESET ──────────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: var(--font-body);
+      background: var(--bg);
+      color: var(--text);
+      overflow-x: hidden;
+      cursor: default;
+    }
+    a { text-decoration: none; color: inherit; }
+    img { display: block; max-width: 100%; }
+
+    /* ─── NOISE OVERLAY ──────────────────────────────────────────────── */
+    body::before {
+      content: '';
+      position: fixed; inset: 0; z-index: 0;
+      pointer-events: none;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+      background-size: 256px;
+      opacity: .5;
+    }
+
+    /* ─── GRID SCANLINES ─────────────────────────────────────────────── */
+    body::after {
+      content: '';
+      position: fixed; inset: 0; z-index: 0;
+      pointer-events: none;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0,242,255,0.012) 2px,
+        rgba(0,242,255,0.012) 4px
+      );
+    }
+
+    /* ─── UTILS ──────────────────────────────────────────────────────── */
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; position: relative; z-index: 1; }
+    .tag {
+      display: inline-block;
+      font-family: var(--font-head);
+      font-size: 10px;
+      letter-spacing: .14em;
+      padding: 4px 10px;
+      border-radius: 100px;
+      border: 1px solid currentColor;
+      opacity: .7;
+    }
+
+    /* ─── LANG TOGGLE ────────────────────────────────────────────────── */
+    .lang-toggle {
+      position: fixed; top: 20px; right: 24px; z-index: 100;
+      display: flex; gap: 4px;
+    }
+    .lang-btn {
+      font-family: var(--font-head);
+      font-size: 11px;
+      letter-spacing: .1em;
+      padding: 6px 14px;
+      border-radius: 100px;
+      border: 1px solid var(--border);
+      background: rgba(9,13,26,.8);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all .2s;
+      backdrop-filter: blur(8px);
+    }
+    .lang-btn.active {
+      border-color: var(--neon-b);
+      color: var(--neon-b);
+      box-shadow: 0 0 12px rgba(0,242,255,.2);
+    }
+    .lang-btn:hover:not(.active) { color: var(--text); border-color: rgba(255,255,255,.2); }
+
+    /* ─── HERO ───────────────────────────────────────────────────────── */
+    .hero {
+      min-height: 100svh;
+      display: flex; align-items: center; justify-content: center;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+      padding: 100px 24px 80px;
+    }
+
+    /* Animated mesh gradient */
+    .hero-bg {
+      position: absolute; inset: 0; z-index: 0;
+      background:
+        radial-gradient(ellipse 80% 60% at 20% 50%, rgba(255,145,0,.10) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 80% at 80% 30%, rgba(0,242,255,.08) 0%, transparent 60%),
+        radial-gradient(ellipse 50% 50% at 50% 100%, rgba(188,0,255,.07) 0%, transparent 60%),
+        var(--bg);
+      animation: meshPulse 8s ease-in-out infinite alternate;
+    }
+    @keyframes meshPulse {
+      0%   { filter: brightness(1); }
+      100% { filter: brightness(1.15); }
+    }
+
+    /* Floating grid lines */
+    .hero-grid {
+      position: absolute; inset: 0; z-index: 0;
+      background-image:
+        linear-gradient(rgba(0,242,255,.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0,242,255,.04) 1px, transparent 1px);
+      background-size: 60px 60px;
+      mask-image: radial-gradient(ellipse 80% 60% at 50% 50%, black 30%, transparent 80%);
+    }
+
+    .hero-content { position: relative; z-index: 1; max-width: 800px; }
+
+    .hero-eyebrow {
+      font-family: var(--font-head);
+      font-size: 11px;
+      letter-spacing: .25em;
+      color: var(--neon-b);
+      margin-bottom: 28px;
+      opacity: 0;
+      animation: fadeUp .6s .1s forwards;
+    }
+
+    .hero-title {
+      font-family: var(--font-head);
+      font-size: clamp(42px, 8vw, 88px);
+      font-weight: 900;
+      line-height: .95;
+      letter-spacing: -.02em;
+      margin-bottom: 24px;
+      opacity: 0;
+      animation: fadeUp .7s .25s forwards;
+    }
+    .hero-title span.neon-a { color: var(--neon-a); text-shadow: var(--glow-a); }
+    .hero-title span.neon-b { color: var(--neon-b); text-shadow: var(--glow-b); }
+
+    .hero-sub {
+      font-size: clamp(15px, 2vw, 18px);
+      font-weight: 300;
+      color: var(--muted);
+      line-height: 1.65;
+      max-width: 560px;
+      margin: 0 auto 40px;
+      opacity: 0;
+      animation: fadeUp .7s .4s forwards;
+    }
+
+    .hero-cta {
+      display: inline-flex; align-items: center; gap: 10px;
+      padding: 14px 32px;
+      border-radius: 100px;
+      background: linear-gradient(135deg, var(--neon-a), #ff5500);
+      color: #000;
+      font-family: var(--font-head);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: .08em;
+      box-shadow: 0 0 32px rgba(255,145,0,.35), 0 4px 16px rgba(0,0,0,.4);
+      transition: transform .2s, box-shadow .2s;
+      opacity: 0;
+      animation: fadeUp .7s .55s forwards;
+    }
+    .hero-cta:hover {
+      transform: translateY(-2px) scale(1.02);
+      box-shadow: 0 0 48px rgba(255,145,0,.5), 0 8px 24px rgba(0,0,0,.5);
+    }
+    .hero-cta svg { width: 18px; height: 18px; }
+
+    /* scroll hint */
+    .scroll-hint {
+      position: absolute; bottom: 32px; left: 50%; transform: translateX(-50%);
+      display: flex; flex-direction: column; align-items: center; gap: 6px;
+      opacity: 0; animation: fadeIn 1s 1.2s forwards;
+      color: var(--muted); font-size: 10px; letter-spacing: .15em;
+      font-family: var(--font-head);
+    }
+    .scroll-hint-line {
+      width: 1px; height: 40px;
+      background: linear-gradient(var(--neon-b), transparent);
+      animation: scrollLine 1.8s ease-in-out infinite;
+    }
+    @keyframes scrollLine {
+      0%,100% { transform: scaleY(1); opacity: 1; }
+      50%      { transform: scaleY(.5); opacity: .4; }
+    }
+
+    /* ─── SECTION SHARED ─────────────────────────────────────────────── */
+    section { padding: 100px 0; position: relative; z-index: 1; }
+    .section-label {
+      font-family: var(--font-head);
+      font-size: 10px;
+      letter-spacing: .3em;
+      color: var(--neon-b);
+      margin-bottom: 16px;
+      text-transform: uppercase;
+    }
+    .section-title {
+      font-family: var(--font-head);
+      font-size: clamp(28px, 4vw, 44px);
+      font-weight: 700;
+      line-height: 1.1;
+      margin-bottom: 16px;
+    }
+    .section-desc {
+      color: var(--muted);
+      font-size: 16px;
+      font-weight: 300;
+      line-height: 1.7;
+      max-width: 520px;
+      margin-bottom: 56px;
+    }
+
+    /* ─── DIVIDER ─────────────────────────────────────────────────────── */
+    .divider {
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--neon-b) 30%, var(--neon-a) 70%, transparent);
+      opacity: .15;
+      margin: 0 auto;
+      max-width: 800px;
+    }
+
+    /* ─── STATS BAR ──────────────────────────────────────────────────── */
+    .stats {
+      background: var(--bg2);
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      padding: 40px 0;
+    }
+    .stats-inner {
+      display: flex; justify-content: center; flex-wrap: wrap;
+      gap: 0;
+    }
+    .stat-item {
+      flex: 1; min-width: 160px;
+      text-align: center;
+      padding: 20px 24px;
+      position: relative;
+    }
+    .stat-item + .stat-item::before {
+      content: '';
+      position: absolute; left: 0; top: 20%; height: 60%;
+      width: 1px;
+      background: var(--border);
+    }
+    .stat-num {
+      font-family: var(--font-head);
+      font-size: clamp(28px, 4vw, 40px);
+      font-weight: 900;
+      background: linear-gradient(135deg, var(--neon-a), var(--neon-b));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      line-height: 1;
+    }
+    .stat-label { color: var(--muted); font-size: 12px; margin-top: 6px; letter-spacing: .05em; }
+
+    /* ─── GAMES GRID ─────────────────────────────────────────────────── */
+    .games-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 24px;
+    }
+
+    .game-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      position: relative;
+      transition: transform .25s, box-shadow .25s;
+      cursor: default;
+    }
+    .game-card:hover {
+      transform: translateY(-6px);
+    }
+    .game-card::before {
+      content: '';
+      position: absolute; inset: 0; border-radius: var(--radius);
+      opacity: 0; transition: opacity .3s;
+      pointer-events: none;
+      border: 1px solid var(--card-accent, var(--neon-a));
+      box-shadow: inset 0 0 32px rgba(0,0,0,.2);
+    }
+    .game-card:hover::before { opacity: 1; }
+
+    .card-thumb {
+      height: 180px;
+      display: flex; align-items: center; justify-content: center;
+      position: relative;
+      overflow: hidden;
+      background: var(--card-bg, #111);
+    }
+    .card-thumb-icon {
+      font-size: 72px;
+      filter: drop-shadow(0 0 24px var(--card-accent, var(--neon-a)));
+      animation: iconFloat 3s ease-in-out infinite;
+      position: relative; z-index: 1;
+    }
+    @keyframes iconFloat {
+      0%,100% { transform: translateY(0); }
+      50%      { transform: translateY(-8px); }
+    }
+    .card-thumb-glow {
+      position: absolute; inset: 0;
+      background: radial-gradient(ellipse 60% 60% at 50% 70%, var(--card-glow, rgba(255,145,0,.18)) 0%, transparent 70%);
+    }
+    /* animated pixel grid for thumb */
+    .card-thumb-grid {
+      position: absolute; inset: 0;
+      background-image:
+        linear-gradient(rgba(255,255,255,.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,.03) 1px, transparent 1px);
+      background-size: 20px 20px;
+    }
+
+    .card-status {
+      position: absolute; top: 12px; right: 12px;
+      font-family: var(--font-head);
+      font-size: 9px;
+      letter-spacing: .12em;
+      padding: 4px 10px;
+      border-radius: 100px;
+      backdrop-filter: blur(8px);
+    }
+    .card-status.live {
+      background: rgba(57,255,20,.12);
+      border: 1px solid rgba(57,255,20,.4);
+      color: var(--neon-d);
+    }
+    .card-status.soon {
+      background: rgba(255,145,0,.12);
+      border: 1px solid rgba(255,145,0,.3);
+      color: var(--neon-a);
+    }
+
+    .card-body { padding: 24px; }
+    .card-genre {
+      font-family: var(--font-head);
+      font-size: 9px;
+      letter-spacing: .2em;
+      color: var(--card-accent, var(--neon-a));
+      margin-bottom: 8px;
+      text-transform: uppercase;
+    }
+    .card-name {
+      font-family: var(--font-head);
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 10px;
+      line-height: 1.1;
+    }
+    .card-desc {
+      font-size: 14px;
+      font-weight: 300;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+    .card-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 20px; }
+    .card-tag {
+      font-size: 10px;
+      padding: 3px 8px;
+      border-radius: 4px;
+      background: rgba(255,255,255,.05);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-weight: 400;
+    }
+
+    .card-link {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 10px 20px;
+      border-radius: 100px;
+      background: rgba(255,255,255,.04);
+      border: 1px solid var(--border);
+      font-family: var(--font-head);
+      font-size: 10px;
+      letter-spacing: .1em;
+      color: var(--text);
+      transition: all .2s;
+    }
+    .card-link:hover {
+      background: rgba(255,255,255,.08);
+      border-color: var(--card-accent, var(--neon-a));
+      color: var(--card-accent, var(--neon-a));
+      box-shadow: 0 0 16px rgba(255,145,0,.15);
+    }
+    .card-link.disabled {
+      opacity: .4; cursor: not-allowed; pointer-events: none;
+    }
+
+    /* ─── ABOUT ──────────────────────────────────────────────────────── */
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 80px;
+      align-items: center;
+    }
+    @media (max-width: 760px) {
+      .about-inner { grid-template-columns: 1fr; gap: 48px; }
+    }
+
+    .about-visual {
+      position: relative;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .about-avatar {
+      width: 220px; height: 220px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--neon-a) 0%, var(--neon-c) 50%, var(--neon-b) 100%);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 80px;
+      position: relative;
+      box-shadow: 0 0 60px rgba(188,0,255,.25), 0 0 120px rgba(255,145,0,.1);
+    }
+    .about-ring {
+      position: absolute;
+      border-radius: 50%;
+      border: 1px solid;
+      animation: ringPulse 3s ease-in-out infinite;
+    }
+    .about-ring:nth-child(1) {
+      width: 260px; height: 260px;
+      border-color: rgba(0,242,255,.2);
+      animation-delay: 0s;
+    }
+    .about-ring:nth-child(2) {
+      width: 300px; height: 300px;
+      border-color: rgba(255,145,0,.12);
+      animation-delay: .5s;
+    }
+    .about-ring:nth-child(3) {
+      width: 340px; height: 340px;
+      border-color: rgba(188,0,255,.08);
+      animation-delay: 1s;
+    }
+    @keyframes ringPulse {
+      0%,100% { transform: scale(1); opacity: 1; }
+      50%      { transform: scale(1.04); opacity: .5; }
+    }
+
+    .about-text .section-desc { margin-bottom: 32px; }
+
+    .skills-list {
+      display: flex; flex-wrap: wrap; gap: 8px;
+    }
+    .skill-chip {
+      padding: 6px 14px;
+      border-radius: 8px;
+      background: rgba(255,255,255,.04);
+      border: 1px solid var(--border);
+      font-size: 12px;
+      color: var(--muted);
+      transition: all .2s;
+    }
+    .skill-chip:hover {
+      border-color: var(--neon-b);
+      color: var(--neon-b);
+      background: rgba(0,242,255,.06);
+    }
+
+    /* ─── FOOTER ─────────────────────────────────────────────────────── */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 48px 0;
+      text-align: center;
+      position: relative; z-index: 1;
+    }
+    .footer-logo {
+      font-family: var(--font-head);
+      font-size: 22px;
+      font-weight: 900;
+      letter-spacing: .08em;
+      background: linear-gradient(135deg, var(--neon-a), var(--neon-b));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 12px;
+    }
+    .footer-copy {
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 8px;
+    }
+    .footer-store {
+      display: inline-flex; align-items: center; gap: 8px;
+      margin-top: 20px;
+      padding: 10px 24px;
+      border-radius: 100px;
+      border: 1px solid var(--border);
+      font-size: 12px;
+      color: var(--muted);
+      transition: all .2s;
+    }
+    .footer-store:hover {
+      border-color: var(--neon-a);
+      color: var(--neon-a);
+    }
+
+    /* ─── ANIMATIONS ─────────────────────────────────────────────────── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(24px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+
+    /* Scroll-triggered reveal */
+    .reveal {
+      opacity: 0;
+      transform: translateY(32px);
+      transition: opacity .7s cubic-bezier(.16,1,.3,1), transform .7s cubic-bezier(.16,1,.3,1);
+    }
+    .reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    .reveal-delay-1 { transition-delay: .1s; }
+    .reveal-delay-2 { transition-delay: .2s; }
+    .reveal-delay-3 { transition-delay: .3s; }
+    .reveal-delay-4 { transition-delay: .4s; }
+
+    /* ─── RESPONSIVE ─────────────────────────────────────────────────── */
+    @media (max-width: 600px) {
+      .stat-item + .stat-item::before { display: none; }
+      .stat-item { min-width: 50%; }
+      .lang-toggle { top: 12px; right: 12px; }
+    }
+  </style>
 </head>
 <body>
-    <h1>Merhaba, Ben Mustafa Kerem Erbaş!</h1>
-    <p>Bu benim GitHub Pages üzerindeki kişisel web sitemdir.</p>
+
+<!-- ── LANG TOGGLE ──────────────────────────────────────────────────────── -->
+<div class="lang-toggle">
+  <button class="lang-btn active" data-lang="en" onclick="setLang('en')">EN</button>
+  <button class="lang-btn" data-lang="tr" onclick="setLang('tr')">TR</button>
+</div>
+
+<!-- ── HERO ─────────────────────────────────────────────────────────────── -->
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-grid"></div>
+  <div class="hero-content">
+    <p class="hero-eyebrow" data-en="MOBILE GAME DEVELOPER" data-tr="MOBİL OYUN GELİŞTİRİCİ">MOBILE GAME DEVELOPER</p>
+    <h1 class="hero-title">
+      <span class="neon-a">ERBAS</span><br/>
+      <span class="neon-b">DEV</span>
+    </h1>
+    <p class="hero-sub"
+       data-en="Crafting fun, polished mobile games &amp; apps for Android. Tap, swipe, match — built with Flutter, powered by passion."
+       data-tr="Android için eğlenceli ve özenle tasarlanmış mobil oyunlar &amp; uygulamalar geliştiriyorum. Flutter ile inşa edildi, tutku ile güçlendirildi.">
+      Crafting fun, polished mobile games &amp; apps for Android. Tap, swipe, match — built with Flutter, powered by passion.
+    </p>
+    <a class="hero-cta" href="https://play.google.com/store/apps/developer?id=erbas" target="_blank" rel="noopener">
+      <!-- Google Play icon -->
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3.18 23.74c.22.13.47.19.73.19.26 0 .52-.07.75-.2l13.1-7.55-2.96-2.96L3.18 23.74zm-1.1-20.8a1.5 1.5 0 0 0-.08.51v17.1a1.5 1.5 0 0 0 .08.51l.06.06L13.3 12 2.14 2.88l-.06.06zM20.81 10.4l-2.61-1.5-3.27 3.1 3.27 3.1 2.64-1.52a1.5 1.5 0 0 0 0-3.18zM4.66 1.27l13.1 7.55-2.96 2.96L3.18.27a1.5 1.5 0 0 1 1.48 1z"/></svg>
+      <span data-en="View on Google Play" data-tr="Google Play'de Gör">View on Google Play</span>
+    </a>
+  </div>
+  <div class="scroll-hint">
+    <span data-en="SCROLL" data-tr="KAYDIR">SCROLL</span>
+    <div class="scroll-hint-line"></div>
+  </div>
+</section>
+
+<!-- ── STATS ─────────────────────────────────────────────────────────────── -->
+<div class="stats">
+  <div class="container">
+    <div class="stats-inner">
+      <div class="stat-item reveal">
+        <div class="stat-num">3+</div>
+        <div class="stat-label" data-en="Apps Published" data-tr="Yayınlanan Uygulama">Apps Published</div>
+      </div>
+      <div class="stat-item reveal reveal-delay-1">
+        <div class="stat-num">Flutter</div>
+        <div class="stat-label" data-en="Primary Stack" data-tr="Ana Teknoloji">Primary Stack</div>
+      </div>
+      <div class="stat-item reveal reveal-delay-2">
+        <div class="stat-num">20+</div>
+        <div class="stat-label" data-en="Supported Languages" data-tr="Desteklenen Dil">Supported Languages</div>
+      </div>
+      <div class="stat-item reveal reveal-delay-3">
+        <div class="stat-num">∞</div>
+        <div class="stat-label" data-en="Games Incoming" data-tr="Gelecek Oyun">Games Incoming</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── GAMES ──────────────────────────────────────────────────────────────── -->
+<section id="games">
+  <div class="container">
+    <p class="section-label reveal" data-en="— PORTFOLIO" data-tr="— PORTFÖY">— PORTFOLIO</p>
+    <h2 class="section-title reveal reveal-delay-1"
+        data-en="Games &amp; Apps"
+        data-tr="Oyunlar &amp; Uygulamalar">Games &amp; Apps</h2>
+    <p class="section-desc reveal reveal-delay-2"
+       data-en="Each project is crafted with a shared core architecture, clean code and an obsessive attention to feel."
+       data-tr="Her proje, ortak bir altyapı mimarisi, temiz kod ve oyun hissine verilen özenli dikkatle tasarlanmıştır.">
+      Each project is crafted with a shared core architecture, clean code and an obsessive attention to feel.
+    </p>
+
+    <div class="games-grid">
+
+      <!-- Block Master -->
+      <div class="game-card reveal" style="--card-accent:var(--neon-a); --card-bg:#0a0e1a; --card-glow:rgba(255,145,0,.22);">
+        <div class="card-thumb">
+          <div class="card-thumb-grid"></div>
+          <div class="card-thumb-glow"></div>
+          <div class="card-thumb-icon">🟧</div>
+          <span class="card-status live" data-en="LIVE" data-tr="YAYINDA">LIVE</span>
+        </div>
+        <div class="card-body">
+          <p class="card-genre" data-en="PUZZLE / ARCADE" data-tr="BULMACA / ARCADE">PUZZLE / ARCADE</p>
+          <h3 class="card-name">Block Master</h3>
+          <p class="card-desc"
+             data-en="A professional Tetris-style block puzzle with hold piece, 7-bag randomizer, ghost piece and an online leaderboard."
+             data-tr="Hold piece, 7-bag randomizer, hayalet parça ve çevrimiçi liderlik tablosu içeren profesyonel Tetris tarzı blok bulmaca.">
+            A professional Tetris-style block puzzle with hold piece, 7-bag randomizer, ghost piece and an online leaderboard.
+          </p>
+          <div class="card-tags">
+            <span class="card-tag">Flutter</span>
+            <span class="card-tag">Riverpod</span>
+            <span class="card-tag">SQLite</span>
+            <span class="card-tag">AdMob</span>
+          </div>
+          <a class="card-link"
+             href="https://play.google.com/store/apps/details?id=com.mkerbas.block_master"
+             target="_blank" rel="noopener">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3.18 23.74c.22.13.47.19.73.19.26 0 .52-.07.75-.2l13.1-7.55-2.96-2.96L3.18 23.74zm-1.1-20.8a1.5 1.5 0 0 0-.08.51v17.1a1.5 1.5 0 0 0 .08.51l.06.06L13.3 12 2.14 2.88l-.06.06zM20.81 10.4l-2.61-1.5-3.27 3.1 3.27 3.1 2.64-1.52a1.5 1.5 0 0 0 0-3.18zM4.66 1.27l13.1 7.55-2.96 2.96L3.18.27a1.5 1.5 0 0 1 1.48 1z"/></svg>
+            <span data-en="Google Play" data-tr="Google Play">Google Play</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Block Wood Puzzle -->
+      <div class="game-card reveal reveal-delay-1" style="--card-accent:var(--neon-d); --card-bg:#060f0a; --card-glow:rgba(57,255,20,.18);">
+        <div class="card-thumb">
+          <div class="card-thumb-grid"></div>
+          <div class="card-thumb-glow"></div>
+          <div class="card-thumb-icon">🪵</div>
+          <span class="card-status live" data-en="LIVE" data-tr="YAYINDA">LIVE</span>
+        </div>
+        <div class="card-body">
+          <p class="card-genre" data-en="PUZZLE / CASUAL" data-tr="BULMACA / CASUAL">PUZZLE / CASUAL</p>
+          <h3 class="card-name">Block Wood Puzzle</h3>
+          <p class="card-desc"
+             data-en="Drag wooden blocks to fill rows and columns. Satisfying combos, smooth haptics and endless zen play."
+             data-tr="Satırları ve sütunları doldurmak için ahşap blokları sürükle. Tatmin edici kombolar, akıcı dokunsal geri bildirim.">
+            Drag wooden blocks to fill rows and columns. Satisfying combos, smooth haptics and endless zen play.
+          </p>
+          <div class="card-tags">
+            <span class="card-tag">Flutter</span>
+            <span class="card-tag">Riverpod</span>
+            <span class="card-tag">GoRouter</span>
+            <span class="card-tag">AdMob</span>
+          </div>
+          <a class="card-link"
+             href="https://play.google.com/store/apps/details?id=com.mkerbas.blockwoodpuzzle"
+             target="_blank" rel="noopener">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3.18 23.74c.22.13.47.19.73.19.26 0 .52-.07.75-.2l13.1-7.55-2.96-2.96L3.18 23.74zm-1.1-20.8a1.5 1.5 0 0 0-.08.51v17.1a1.5 1.5 0 0 0 .08.51l.06.06L13.3 12 2.14 2.88l-.06.06zM20.81 10.4l-2.61-1.5-3.27 3.1 3.27 3.1 2.64-1.52a1.5 1.5 0 0 0 0-3.18zM4.66 1.27l13.1 7.55-2.96 2.96L3.18.27a1.5 1.5 0 0 1 1.48 1z"/></svg>
+            <span data-en="Google Play" data-tr="Google Play">Google Play</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Match Master -->
+      <div class="game-card reveal reveal-delay-2" style="--card-accent:var(--neon-b); --card-bg:#030d12; --card-glow:rgba(0,242,255,.18);">
+        <div class="card-thumb">
+          <div class="card-thumb-grid"></div>
+          <div class="card-thumb-glow"></div>
+          <div class="card-thumb-icon">🐾</div>
+          <span class="card-status live" data-en="LIVE" data-tr="YAYINDA">LIVE</span>
+        </div>
+        <div class="card-body">
+          <p class="card-genre" data-en="MEMORY / CASUAL" data-tr="HAFIZA / CASUAL">MEMORY / CASUAL</p>
+          <h3 class="card-name">Match Master</h3>
+          <p class="card-desc"
+             data-en="Flip cards, find pairs. Multiple themes, difficulty levels from Easy to Expert, and a global leaderboard."
+             data-tr="Kartları çevir, çiftleri bul. Easy'den Expert'e zorluk seviyeleri, çoklu temalar ve küresel liderlik tablosu.">
+            Flip cards, find pairs. Multiple themes, difficulty levels from Easy to Expert, and a global leaderboard.
+          </p>
+          <div class="card-tags">
+            <span class="card-tag">Flutter</span>
+            <span class="card-tag">Riverpod</span>
+            <span class="card-tag">Animation</span>
+            <span class="card-tag">AdMob</span>
+          </div>
+          <a class="card-link"
+             href="https://play.google.com/store/apps/details?id=com.mkerbas.match_master"
+             target="_blank" rel="noopener">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3.18 23.74c.22.13.47.19.73.19.26 0 .52-.07.75-.2l13.1-7.55-2.96-2.96L3.18 23.74zm-1.1-20.8a1.5 1.5 0 0 0-.08.51v17.1a1.5 1.5 0 0 0 .08.51l.06.06L13.3 12 2.14 2.88l-.06.06zM20.81 10.4l-2.61-1.5-3.27 3.1 3.27 3.1 2.64-1.52a1.5 1.5 0 0 0 0-3.18zM4.66 1.27l13.1 7.55-2.96 2.96L3.18.27a1.5 1.5 0 0 1 1.48 1z"/></svg>
+            <span data-en="Google Play" data-tr="Google Play">Google Play</span>
+          </a>
+        </div>
+      </div>
+
+      <!-- Lingo Master -->
+      <div class="game-card reveal reveal-delay-3" style="--card-accent:var(--neon-c); --card-bg:#0c0415; --card-glow:rgba(188,0,255,.18);">
+        <div class="card-thumb">
+          <div class="card-thumb-grid"></div>
+          <div class="card-thumb-glow"></div>
+          <div class="card-thumb-icon">📚</div>
+          <span class="card-status soon" data-en="COMING SOON" data-tr="YAKINDA">COMING SOON</span>
+        </div>
+        <div class="card-body">
+          <p class="card-genre" data-en="EDUCATION / LANGUAGE" data-tr="EĞİTİM / DİL">EDUCATION / LANGUAGE</p>
+          <h3 class="card-name">Lingo Master</h3>
+          <p class="card-desc"
+             data-en="An engaging English learning app with vocabulary games, spaced repetition and progress tracking."
+             data-tr="Kelime oyunları, aralıklı tekrar ve ilerleme takibi içeren eğlenceli bir İngilizce öğrenme uygulaması.">
+            An engaging English learning app with vocabulary games, spaced repetition and progress tracking.
+          </p>
+          <div class="card-tags">
+            <span class="card-tag">Flutter</span>
+            <span class="card-tag">Education</span>
+            <span class="card-tag">Gamification</span>
+          </div>
+          <a class="card-link disabled">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+            <span data-en="In Development" data-tr="Geliştiriliyor">In Development</span>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ── ABOUT ──────────────────────────────────────────────────────────────── -->
+<section id="about">
+  <div class="container">
+    <div class="about-inner">
+      <div class="about-visual reveal">
+        <div class="about-ring"></div>
+        <div class="about-ring"></div>
+        <div class="about-ring"></div>
+        <div class="about-avatar">👾</div>
+      </div>
+      <div class="about-text">
+        <p class="section-label reveal" data-en="— ABOUT" data-tr="— HAKKINDA">— ABOUT</p>
+        <h2 class="section-title reveal reveal-delay-1"
+            data-en="Building games<br/>one pixel at a time."
+            data-tr="Oyunları<br/>bir piksel birden inşa ediyorum.">
+          Building games<br/>one pixel at a time.
+        </h2>
+        <p class="section-desc reveal reveal-delay-2"
+           data-en="I'm an indie mobile game developer focused on Flutter. I build everything from the shared_core architecture to the final Play Store release — clean code, great feel, zero compromise."
+           data-tr="Flutter odaklı bir bağımsız mobil oyun geliştiricisiyim. Shared_core mimarisinden son Play Store sürümüne kadar her şeyi kendim yapıyorum — temiz kod, harika his, sıfır ödün.">
+          I'm an indie mobile game developer focused on Flutter. I build everything from the shared_core architecture to the final Play Store release — clean code, great feel, zero compromise.
+        </p>
+        <div class="skills-list reveal reveal-delay-3">
+          <span class="skill-chip">Flutter</span>
+          <span class="skill-chip">Dart</span>
+          <span class="skill-chip">Riverpod</span>
+          <span class="skill-chip">GoRouter</span>
+          <span class="skill-chip">AdMob</span>
+          <span class="skill-chip">SQLite</span>
+          <span class="skill-chip">Firebase</span>
+          <span class="skill-chip">Clean Architecture</span>
+          <span class="skill-chip">Game Design</span>
+          <span class="skill-chip">UI / UX</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── FOOTER ─────────────────────────────────────────────────────────────── -->
+<footer>
+  <div class="container">
+    <div class="footer-logo">ERBAS.DEV</div>
+    <p style="color:var(--muted);font-size:13px;margin-top:4px;"
+       data-en="Independent Mobile Game Developer"
+       data-tr="Bağımsız Mobil Oyun Geliştiricisi">
+      Independent Mobile Game Developer
+    </p>
+    <a class="footer-store"
+       href="https://play.google.com/store/apps/developer?id=erbas"
+       target="_blank" rel="noopener">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3.18 23.74c.22.13.47.19.73.19.26 0 .52-.07.75-.2l13.1-7.55-2.96-2.96L3.18 23.74zm-1.1-20.8a1.5 1.5 0 0 0-.08.51v17.1a1.5 1.5 0 0 0 .08.51l.06.06L13.3 12 2.14 2.88l-.06.06zM20.81 10.4l-2.61-1.5-3.27 3.1 3.27 3.1 2.64-1.52a1.5 1.5 0 0 0 0-3.18zM4.66 1.27l13.1 7.55-2.96 2.96L3.18.27a1.5 1.5 0 0 1 1.48 1z"/></svg>
+      <span data-en="All Apps on Google Play" data-tr="Google Play'deki Tüm Uygulamalar">All Apps on Google Play</span>
+    </a>
+    <p class="footer-copy" data-en="© 2025 erbas — All rights reserved." data-tr="© 2025 erbas — Tüm hakları saklıdır.">© 2025 erbas — All rights reserved.</p>
+  </div>
+</footer>
+
+<script>
+  /* ── LANG SWITCH ──────────────────────────────────────────────────────── */
+  function setLang(lang) {
+    document.querySelectorAll('[data-en]').forEach(el => {
+      const text = el.getAttribute('data-' + lang);
+      if (!text) return;
+      if (el.innerHTML.includes('<br')) {
+        el.innerHTML = text;
+      } else {
+        el.textContent = text;
+      }
+    });
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.getAttribute('data-lang') === lang);
+    });
+    document.documentElement.lang = lang;
+  }
+
+  /* ── SCROLL REVEAL ────────────────────────────────────────────────────── */
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        observer.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.12 });
+
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+  /* ── PARALLAX HERO GRID ───────────────────────────────────────────────── */
+  const heroGrid = document.querySelector('.hero-grid');
+  window.addEventListener('scroll', () => {
+    const y = window.scrollY;
+    if (heroGrid) {
+      heroGrid.style.transform = `translateY(${y * 0.3}px)`;
+    }
+  }, { passive: true });
+</script>
 </body>
 </html>
