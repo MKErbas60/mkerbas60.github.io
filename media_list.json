@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Big Buck Bunny",
+    "description": "Açık kaynak animasyon filmi - Blender Foundation",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "type": "video",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/320px-Big_buck_bunny_poster_big.jpg",
+    "author": "Blender Foundation",
+    "duration_seconds": 596,
+    "source": "github"
+  },
+  {
+    "title": "Elephant Dream",
+    "description": "İlk açık kaynak animasyon filmi",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "type": "video",
+    "thumbnail_url": null,
+    "author": "Blender Foundation",
+    "duration_seconds": 654,
+    "source": "github"
+  },
+  {
+    "title": "Sample Audio - Jazz",
+    "description": "Creative Commons lisanslı caz müziği örneği",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "type": "audio",
+    "thumbnail_url": null,
+    "author": "SoundHelix",
+    "duration_seconds": 372,
+    "source": "github"
+  },
+  {
+    "title": "Sample Audio - Classical",
+    "description": "Creative Commons lisanslı klasik müzik örneği",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "type": "audio",
+    "thumbnail_url": null,
+    "author": "SoundHelix",
+    "duration_seconds": 311,
+    "source": "github"
+  },
+  {
+    "title": "For Bigger Blazes",
+    "description": "Google video örneği",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "type": "video",
+    "thumbnail_url": null,
+    "author": "Google",
+    "duration_seconds": 15,
+    "source": "github"
+  },
+  {
+    "title": "YouTube - Flutter Intro",
+    "description": "Flutter ile geliştirilen mobil uygulamaların tanıtımı",
+    "url": "https://www.youtube.com/watch?v=fq4N0hgOWzU",
+    "type": "video",
+    "thumbnail_url": null,
+    "author": "Flutter",
+    "duration_seconds": null,
+    "source": "youtube"
+  }
+]
