@@ -368,5 +368,15 @@
     "author": "Flutter",
     "duration_seconds": null,
     "source": "youtube"
+  },
+  {
+    "title": "Google Drive Video",
+    "description": "Google Drive üzerinde barındırılan video dosyası",
+    "url": "https://drive.google.com/uc?export=download&id=1TeMIwJ-EAS5zWnQEA4FTUhwnL8Jukaxo",
+    "type": "video",
+    "thumbnail_url": null,
+    "author": "Unknown",
+    "duration_seconds": null,
+    "source": "google_drive"
   }
 ]
