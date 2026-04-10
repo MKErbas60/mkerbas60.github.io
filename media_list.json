@@ -312,7 +312,17 @@
   {
     "title": "Mülk Süresi",
     "description": "Mahir al Muaiqly - Mülk Süresi",
-    "url": "https://raw.githubusercontent.com/MKErbas60/mkerbas60.github.io/main/videoplayback.mp4",
+    "url": "https://raw.githubusercontent.com/MKErbas60/mkerbas60.github.io/main/Mülk.mp4",
+    "type": "video",
+    "thumbnail_url": null,
+    "author": "Blender Foundation",
+    "duration_seconds": 654,
+    "source": "github"
+  },
+    {
+    "title": "Mülk Süresi",
+    "description": "Mahir al Muaiqly - Mülk Süresi",
+    "url": "https://raw.githubusercontent.com/MKErbas60/mkerbas60.github.io/main/Nebe.mp4",
     "type": "video",
     "thumbnail_url": null,
     "author": "Blender Foundation",
