@@ -1,4 +1,5 @@
-[
+{
+  "questions": [
   {
     "topic_name": "Genel Hükümler ve Temel İlkeler",
     "question_text": "657 sayılı Devlet Memurları Kanunu'nun 3. maddesinde belirtilen temel ilkeler hangileridir?",
@@ -594,3 +595,4 @@
     "difficulty": 2
   }
 ]
+}
