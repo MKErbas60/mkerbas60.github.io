@@ -1,113 +1,113 @@
 {
   "topics": [
     {
-      "id": "topic-001-01",
-      "regulation_id": "reg-001",
+      "id": "657_sayili_devlet_memurlari_kanunu__genel_hukumler_ve_temel_kavramlar",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
       "name": "Genel Hükümler ve Temel Kavramlar"
     },
     {
-      "id": "topic-001-02",
-      "regulation_id": "reg-001",
+      "id": "657_sayili_devlet_memurlari_kanunu__devlet_memurluguna_alinma_sartlari",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
       "name": "Devlet Memurluğuna Alınma Şartları"
     },
     {
-      "id": "topic-001-03",
-      "regulation_id": "reg-001",
+      "id": "657_sayili_devlet_memurlari_kanunu__memurlarin_odev_ve_sorumluluklari",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
       "name": "Memurların Ödev ve Sorumlulukları"
     },
     {
-      "id": "topic-001-04",
-      "regulation_id": "reg-001",
+      "id": "657_sayili_devlet_memurlari_kanunu__memurlarin_haklari",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
       "name": "Memurların Hakları"
     },
     {
-      "id": "topic-001-05",
-      "regulation_id": "reg-001",
+      "id": "657_sayili_devlet_memurlari_kanunu__disiplin_hukumleri",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
       "name": "Disiplin Hükümleri"
     },
     {
-      "id": "topic-001-06",
-      "regulation_id": "reg-001",
+      "id": "657_sayili_devlet_memurlari_kanunu__cesitli_ve_son_hukumler",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
       "name": "Çeşitli ve Son Hükümler"
     },
     {
-      "id": "topic-002-01",
-      "regulation_id": "reg-002",
+      "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__kanunun_kapsami_ve_temel_kavramlar",
+      "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
       "name": "Kanunun Kapsamı ve Temel Kavramlar"
     },
     {
-      "id": "topic-002-02",
-      "regulation_id": "reg-002",
+      "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__izin_ve_sorusturma_usulu",
+      "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
       "name": "İzin ve Soruşturma Usulü"
     },
     {
-      "id": "topic-002-03",
-      "regulation_id": "reg-002",
+      "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__yargilama_surecleri",
+      "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
       "name": "Yargılama Süreçleri"
     },
     {
-      "id": "topic-003-01",
-      "regulation_id": "reg-003",
+      "id": "2577_sayili_idari_yargilama_usulu_kanunu__genel_esaslar_ve_gorev",
+      "regulation_id": "2577_sayili_idari_yargilama_usulu_kanunu",
       "name": "Genel Esaslar ve Görev"
     },
     {
-      "id": "topic-003-02",
-      "regulation_id": "reg-003",
+      "id": "2577_sayili_idari_yargilama_usulu_kanunu__dava_acma_sureleri_ve_usulu",
+      "regulation_id": "2577_sayili_idari_yargilama_usulu_kanunu",
       "name": "Dava Açma Süreleri ve Usulü"
     },
     {
-      "id": "topic-003-03",
-      "regulation_id": "reg-003",
+      "id": "2577_sayili_idari_yargilama_usulu_kanunu__kanun_yollari",
+      "regulation_id": "2577_sayili_idari_yargilama_usulu_kanunu",
       "name": "Kanun Yolları"
     },
     {
-      "id": "topic-004-01",
-      "regulation_id": "reg-004",
+      "id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun__etik_davranis_ilkeleri",
+      "regulation_id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun",
       "name": "Etik Davranış İlkeleri"
     },
     {
-      "id": "topic-004-02",
-      "regulation_id": "reg-004",
+      "id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun__etik_kurul_ve_basvuru_usulu",
+      "regulation_id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun",
       "name": "Etik Kurul ve Başvuru Usulü"
     },
     {
-      "id": "topic-005-01",
-      "regulation_id": "reg-005",
+      "id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu__mal_bildirimi_yukumlulugu",
+      "regulation_id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu",
       "name": "Mal Bildirimi Yükümlülüğü"
     },
     {
-      "id": "topic-005-02",
-      "regulation_id": "reg-005",
+      "id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu__rusvet_ve_yaptirimlar",
+      "regulation_id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu",
       "name": "Rüşvet ve Yaptırımlar"
     },
     {
-      "id": "topic-006-01",
-      "regulation_id": "reg-006",
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__bilgi_edinme_hakkinin_kapsami",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
       "name": "Bilgi Edinme Hakkının Kapsamı"
     },
     {
-      "id": "topic-006-02",
-      "regulation_id": "reg-006",
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu_ve_istisnalar",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
       "name": "Başvuru Usulü ve İstisnalar"
     },
     {
-      "id": "topic-007-01",
-      "regulation_id": "reg-007",
+      "id": "6245_sayili_harcirah_kanunu__harcirah_turleri_ve_hesaplama",
+      "regulation_id": "6245_sayili_harcirah_kanunu",
       "name": "Harcırah Türleri ve Hesaplama"
     },
     {
-      "id": "topic-007-02",
-      "regulation_id": "reg-007",
+      "id": "6245_sayili_harcirah_kanunu__yurt_disi_harcirah_esaslari",
+      "regulation_id": "6245_sayili_harcirah_kanunu",
       "name": "Yurt Dışı Harcırah Esasları"
     },
     {
-      "id": "topic-008-01",
-      "regulation_id": "reg-008",
+      "id": "2914_sayili_yuksekogretim_personel_kanunu__akademik_personel_statusu",
+      "regulation_id": "2914_sayili_yuksekogretim_personel_kanunu",
       "name": "Akademik Personel Statüsü"
     },
     {
-      "id": "topic-008-02",
-      "regulation_id": "reg-008",
+      "id": "2914_sayili_yuksekogretim_personel_kanunu__idari_personel_ve_gorev_tanimlari",
+      "regulation_id": "2914_sayili_yuksekogretim_personel_kanunu",
       "name": "İdari Personel ve Görev Tanımları"
     }
   ]

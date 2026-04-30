@@ -1,71 +1,71 @@
 {
   "regulations": [
     {
-      "id": "reg-001",
+      "id": "657_sayili_devlet_memurlari_kanunu",
       "name": "657 Sayılı Devlet Memurları Kanunu",
       "description": "Devlet memurlarının görev, yetki, sorumluluk ve haklarını düzenleyen temel kanun."
     },
     {
-      "id": "reg-002",
+      "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
       "name": "4483 Sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
       "description": "Kamu görevlilerinin görevleri nedeniyle işledikleri suçlarda izin ve soruşturma prosedürlerini düzenler."
     },
     {
-      "id": "reg-003",
+      "id": "2577_sayili_idari_yargilama_usulu_kanunu",
       "name": "2577 Sayılı İdari Yargılama Usulü Kanunu",
       "description": "İdare mahkemelerinde dava açma usul ve esaslarını düzenleyen kanun."
     },
     {
-      "id": "reg-004",
+      "id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun",
       "name": "5176 Sayılı Kamu Görevlileri Etik Kurulu Kurulması Hakkında Kanun",
       "description": "Kamu görevlilerinin uyacakları etik davranış ilkelerini ve etik kurulun çalışma esaslarını düzenler."
     },
     {
-      "id": "reg-005",
+      "id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu",
       "name": "3628 Sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
       "description": "Kamu görevlilerinin mal bildiriminde bulunma yükümlülüklerini ve rüşvetle mücadele tedbirlerini düzenler."
     },
     {
-      "id": "reg-006",
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu",
       "name": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
       "description": "Vatandaşların kamu kurumlarından bilgi edinme haklarını ve bu hakkın kullanım usullerini düzenler."
     },
     {
-      "id": "reg-007",
+      "id": "6245_sayili_harcirah_kanunu",
       "name": "6245 Sayılı Harcırah Kanunu",
       "description": "Kamu görevlilerine görevle ilgili seyahat ve geçici görev harcırahlarını düzenleyen kanun."
     },
     {
-      "id": "reg-008",
+      "id": "2914_sayili_yuksekogretim_personel_kanunu",
       "name": "2914 Sayılı Yükseköğretim Personel Kanunu",
       "description": "Yükseköğretim kurumlarında görev yapan akademik ve idari personelin statüsünü düzenler."
     }
   ],
   "blueprints": [
     {
-      "id": "bp-gys-2024",
+      "id": "gys_2024_resmi_sinav",
       "title": "GYS 2024 Resmi Sınav",
       "duration": 80,
       "total_questions": 50,
       "distribution": {
-        "reg-001": 20,
-        "reg-002": 10,
-        "reg-003": 10,
-        "reg-004": 5,
-        "reg-005": 5
+        "657_sayili_devlet_memurlari_kanunu": 20,
+        "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun": 10,
+        "2577_sayili_idari_yargilama_usulu_kanunu": 10,
+        "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun": 5,
+        "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu": 5
       }
     },
     {
-      "id": "bp-gys-deneme",
+      "id": "gys_deneme_sinavi_kisa",
       "title": "GYS Deneme Sınavı (Kısa)",
       "duration": 40,
       "total_questions": 25,
       "distribution": {
-        "reg-001": 10,
-        "reg-002": 5,
-        "reg-003": 5,
-        "reg-004": 3,
-        "reg-005": 2
+        "657_sayili_devlet_memurlari_kanunu": 10,
+        "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun": 5,
+        "2577_sayili_idari_yargilama_usulu_kanunu": 5,
+        "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun": 3,
+        "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu": 2
       }
     }
   ]
