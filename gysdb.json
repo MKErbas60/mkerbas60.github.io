@@ -1,0 +1,226 @@
+{
+  "regulations": [
+    {
+      "id": "reg_1",
+      "name": "Türkiye Cumhuriyeti Anayasası",
+      "description": "Genel Esaslar, Temel Haklar ve Ödevler, Cumhuriyetin Temel Organları",
+      "topics": [
+        {"id": "topic_1_1", "name": "Birinci Kısım (Genel Esaslar)"},
+        {"id": "topic_1_2", "name": "İkinci Kısım (Temel Haklar ve Ödevler)"},
+        {"id": "topic_1_3", "name": "Üçüncü Kısım (Cumhuriyetin Temel Organları)"}
+      ]
+    },
+    {
+      "id": "reg_genel",
+      "name": "Genel Kültür - Genel Yetenek",
+      "topics": [
+        {"id": "topic_gen_1", "name": "Genel Kültür"},
+        {"id": "topic_gen_2", "name": "Genel Yetenek"}
+      ]
+    },
+    {
+      "id": "reg_turkce",
+      "name": "Türkçe ve Dil Bilgisi",
+      "topics": [{"id": "topic_tur_1", "name": "Türkçe ve Dil Bilgisi"}]
+    },
+    {
+      "id": "reg_inkilap",
+      "name": "Atatürk İlkeleri ve İnkılap Tarihi",
+      "topics": [{"id": "topic_ink_1", "name": "Atatürk İlkeleri ve İnkılap Tarihi"}]
+    },
+    {
+      "id": "reg_5",
+      "name": "657 Sayılı Devlet Memurları Kanunu",
+      "description": "Geçici Maddeler ile Ek Geçici Maddeler hariç",
+      "topics": [
+        {"id": "topic_5_1", "name": "Genel Hükümler"},
+        {"id": "topic_5_2", "name": "Ödevler ve Sorumluluklar"}
+      ]
+    },
+    {
+      "id": "reg_3071",
+      "name": "3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun",
+      "topics": [{"id": "topic_3071_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_4483",
+      "name": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+      "topics": [{"id": "topic_4483_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_4688",
+      "name": "4688 Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
+      "topics": [{"id": "topic_4688_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_4734",
+      "name": "4734 sayılı Kamu İhale Kanunu",
+      "topics": [{"id": "topic_4734_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_4857",
+      "name": "4857 sayılı İş Kanunu",
+      "topics": [{"id": "topic_4857_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_4982",
+      "name": "4982 sayılı Bilgi Edinme Hakkı Kanunu",
+      "topics": [{"id": "topic_4982_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_5018",
+      "name": "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "topics": [{"id": "topic_5018_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_6331",
+      "name": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
+      "topics": [{"id": "topic_6331_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_6356",
+      "name": "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu",
+      "topics": [{"id": "topic_6356_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_6698",
+      "name": "6698 sayılı Kişisel Verilerin Korunması Kanunu",
+      "topics": [{"id": "topic_6698_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_6735",
+      "name": "6735 sayılı Uluslararası İşgücü Kanunu",
+      "topics": [{"id": "topic_6735_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_7201",
+      "name": "7201 sayılı Tebligat Kanunu",
+      "topics": [{"id": "topic_7201_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_7315",
+      "name": "7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu",
+      "topics": [{"id": "topic_7315_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_cbk1",
+      "name": "1 sayılı CB Kararnamesi (Altıncı Kısım: Üçüncü Bölüm)",
+      "topics": [{"id": "topic_cb1_1", "name": "Çalışma ve Sosyal Güvenlik Bakanlığı Teşkilatı"}]
+    },
+    {
+      "id": "reg_cbk4",
+      "name": "4 sayılı CB Kararnamesi",
+      "description": "7., 19., 30. ve 43. Bölümler",
+      "topics": [{"id": "topic_cb4_1", "name": "Bakanlığa Bağlı Kuruluşlar"}]
+    },
+    {
+      "id": "reg_gys_yon",
+      "name": "Bakanlık Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
+      "topics": [{"id": "topic_gys_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_disiplin_yon",
+      "name": "Bakanlık Disiplin Amirleri Yönetmeliği",
+      "topics": [{"id": "topic_dis_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_sikayet_yon",
+      "name": "Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik",
+      "topics": [{"id": "topic_sik_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_isg_yon",
+      "name": "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği",
+      "topics": [{"id": "topic_isg_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_etik_yon",
+      "name": "Kamu Görevlileri Etik Davranış İlkeleri Yönetmeliği",
+      "topics": [{"id": "topic_etik_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_mal_yon",
+      "name": "Mal Bildiriminde Bulunulması Hakkında Yönetmelik",
+      "topics": [{"id": "topic_mal_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_yazisma_yon",
+      "name": "Resmi Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik",
+      "topics": [{"id": "topic_yaz_1", "name": "Tamamı"}]
+    },
+    {
+      "id": "reg_isgucu_yon",
+      "name": "Uluslararası İşgücü Kanunu Uygulama Yönetmeliği",
+      "topics": [{"id": "topic_isgu_1", "name": "Tamamı"}]
+    }
+  ],
+  "blueprints": [
+    {
+      "id": "official_sube_muduru",
+      "title": "Şube Müdürü",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 2, "reg_genel": 6, "reg_turkce": 2, "reg_inkilap": 2, "reg_5": 5,
+        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4734": 2, "reg_4857": 2,
+        "reg_4982": 1, "reg_5018": 2, "reg_6331": 2, "reg_6356": 2, "reg_6698": 2,
+        "reg_6735": 1, "reg_7201": 1, "reg_7315": 1, "reg_cbk1": 1, "reg_cbk4": 1,
+        "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 1, "reg_isg_yon": 1,
+        "reg_etik_yon": 1, "reg_mal_yon": 1, "reg_yazisma_yon": 4, "reg_isgucu_yon": 1
+      }
+    },
+    {
+      "id": "official_sef",
+      "title": "Şef",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 2, "reg_genel": 6, "reg_turkce": 3, "reg_inkilap": 3, "reg_5": 6,
+        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4982": 1, "reg_6331": 2,
+        "reg_6356": 2, "reg_6698": 2, "reg_6735": 2, "reg_7201": 2, "reg_7315": 1,
+        "reg_cbk1": 1, "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 2,
+        "reg_etik_yon": 2, "reg_mal_yon": 1, "reg_yazisma_yon": 6, "reg_isgucu_yon": 1
+      }
+    },
+    {
+      "id": "official_memur",
+      "title": "Memur",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 5, "reg_genel": 5, "reg_turkce": 5, "reg_inkilap": 3, "reg_5": 6,
+        "reg_3071": 1, "reg_4483": 1, "reg_4982": 2, "reg_7201": 2, "reg_cbk1": 2,
+        "reg_gys_yon": 2, "reg_disiplin_yon": 3, "reg_sikayet_yon": 2, "reg_etik_yon": 1,
+        "reg_mal_yon": 2, "reg_yazisma_yon": 8
+      }
+    },
+    {
+      "id": "official_muhendis",
+      "title": "Mühendis",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 2, "reg_genel": 6, "reg_turkce": 2, "reg_inkilap": 2, "reg_5": 5,
+        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4734": 2, "reg_4857": 2,
+        "reg_4982": 1, "reg_5018": 2, "reg_6331": 2, "reg_6356": 2, "reg_6698": 2,
+        "reg_6735": 1, "reg_7201": 1, "reg_7315": 1, "reg_cbk1": 1, "reg_cbk4": 1,
+        "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 1, "reg_isg_yon": 1,
+        "reg_etik_yon": 1, "reg_mal_yon": 1, "reg_yazisma_yon": 4, "reg_isgucu_yon": 1
+      }
+    },
+    {
+      "id": "official_programci",
+      "title": "Programcı",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 2, "reg_genel": 6, "reg_turkce": 2, "reg_inkilap": 2, "reg_5": 5,
+        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4734": 2, "reg_4857": 2,
+        "reg_4982": 1, "reg_5018": 2, "reg_6331": 2, "reg_6356": 2, "reg_6698": 2,
+        "reg_6735": 1, "reg_7201": 1, "reg_7315": 1, "reg_cbk1": 1, "reg_cbk4": 1,
+        "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 1, "reg_isg_yon": 1,
+        "reg_etik_yon": 1, "reg_mal_yon": 1, "reg_yazisma_yon": 4, "reg_isgucu_yon": 1
+      }
+    }
+  ]
+}
