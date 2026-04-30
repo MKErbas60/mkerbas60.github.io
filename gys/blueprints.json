@@ -1,0 +1,71 @@
+{
+  "blueprints": [
+    {
+      "id": "official_sube_muduru",
+      "title": "Şube Müdürü",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 2, "reg_genel": 6, "reg_turkce": 2, "reg_inkilap": 2, "reg_5": 5,
+        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4734": 2, "reg_4857": 2,
+        "reg_4982": 1, "reg_5018": 2, "reg_6331": 2, "reg_6356": 2, "reg_6698": 2,
+        "reg_6735": 1, "reg_7201": 1, "reg_7315": 1, "reg_cbk1": 1, "reg_cbk4": 1,
+        "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 1, "reg_isg_yon": 1,
+        "reg_etik_yon": 1, "reg_mal_yon": 1, "reg_yazisma_yon": 4, "reg_isgucu_yon": 1
+      }
+    },
+    {
+      "id": "official_sef",
+      "title": "Şef",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 2, "reg_genel": 6, "reg_turkce": 3, "reg_inkilap": 3, "reg_5": 6,
+        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4982": 1, "reg_6331": 2,
+        "reg_6356": 2, "reg_6698": 2, "reg_6735": 2, "reg_7201": 2, "reg_7315": 1,
+        "reg_cbk1": 1, "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 2,
+        "reg_etik_yon": 2, "reg_mal_yon": 1, "reg_yazisma_yon": 6, "reg_isgucu_yon": 1
+      }
+    },
+    {
+      "id": "official_memur",
+      "title": "Memur",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 5, "reg_genel": 5, "reg_turkce": 5, "reg_inkilap": 3, "reg_5": 6,
+        "reg_3071": 1, "reg_4483": 1, "reg_4982": 2, "reg_7201": 2, "reg_cbk1": 2,
+        "reg_gys_yon": 2, "reg_disiplin_yon": 3, "reg_sikayet_yon": 2, "reg_etik_yon": 1,
+        "reg_mal_yon": 2, "reg_yazisma_yon": 8
+      }
+    },
+    {
+      "id": "official_muhendis",
+      "title": "Mühendis",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 2, "reg_genel": 6, "reg_turkce": 2, "reg_inkilap": 2, "reg_5": 5,
+        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4734": 2, "reg_4857": 2,
+        "reg_4982": 1, "reg_5018": 2, "reg_6331": 2, "reg_6356": 2, "reg_6698": 2,
+        "reg_6735": 1, "reg_7201": 1, "reg_7315": 1, "reg_cbk1": 1, "reg_cbk4": 1,
+        "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 1, "reg_isg_yon": 1,
+        "reg_etik_yon": 1, "reg_mal_yon": 1, "reg_yazisma_yon": 4, "reg_isgucu_yon": 1
+      }
+    },
+    {
+      "id": "official_programci",
+      "title": "Programcı",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "reg_1": 2, "reg_genel": 6, "reg_turkce": 2, "reg_inkilap": 2, "reg_5": 5,
+        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4734": 2, "reg_4857": 2,
+        "reg_4982": 1, "reg_5018": 2, "reg_6331": 2, "reg_6356": 2, "reg_6698": 2,
+        "reg_6735": 1, "reg_7201": 1, "reg_7315": 1, "reg_cbk1": 1, "reg_cbk4": 1,
+        "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 1, "reg_isg_yon": 1,
+        "reg_etik_yon": 1, "reg_mal_yon": 1, "reg_yazisma_yon": 4, "reg_isgucu_yon": 1
+      }
+    }
+  ]
+}
