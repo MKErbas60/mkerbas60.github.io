@@ -1,87 +1,186 @@
 {
   "regulations": [
     {
+      "id": "turkiye_cumhuriyeti_anayasasi",
+      "name": "Türkiye Cumhuriyeti Anayasası",
+      "description": "Birinci Kısım (Genel Esaslar), İkinci Kısım (Temel Haklar ve Ödevler), Üçüncü Kısım (Cumhuriyetin Temel Organları)"
+    },
+    {
       "id": "657_sayili_devlet_memurlari_kanunu",
       "name": "657 Sayılı Devlet Memurları Kanunu",
-      "description": "Devlet memurlarının görev, yetki, sorumluluk ve haklarını düzenleyen temel kanun."
+      "description": "Geçici Maddeler ile Ek Geçici Maddeler hariç (Şube Müdürü). Şef/Memur/ÜD için: Kısım-1 Bölüm 1-4, Kısım-4 Bölüm 4-5-7, Kısım-7"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "3071 Sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun",
+      "description": "Dilekçe hakkının kullanılmasına ilişkin usul ve esaslar"
     },
     {
       "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
       "name": "4483 Sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
-      "description": "Kamu görevlilerinin görevleri nedeniyle işledikleri suçlarda izin ve soruşturma prosedürlerini düzenler."
+      "description": "Kamu görevlilerinin yargılanmasına ilişkin usul ve esaslar"
     },
     {
-      "id": "2577_sayili_idari_yargilama_usulu_kanunu",
-      "name": "2577 Sayılı İdari Yargılama Usulü Kanunu",
-      "description": "İdare mahkemelerinde dava açma usul ve esaslarını düzenleyen kanun."
+      "id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "4688 Sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
+      "description": "Kamu görevlilerinin sendikal hakları ve toplu sözleşme esasları"
     },
     {
-      "id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun",
-      "name": "5176 Sayılı Kamu Görevlileri Etik Kurulu Kurulması Hakkında Kanun",
-      "description": "Kamu görevlilerinin uyacakları etik davranış ilkelerini ve etik kurulun çalışma esaslarını düzenler."
+      "id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "4734 Sayılı Kamu İhale Kanunu",
+      "description": "Kamu ihalelerinde uygulanacak usul ve esaslar"
     },
     {
-      "id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu",
-      "name": "3628 Sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
-      "description": "Kamu görevlilerinin mal bildiriminde bulunma yükümlülüklerini ve rüşvetle mücadele tedbirlerini düzenler."
+      "id": "4857_sayili_is_kanunu",
+      "name": "4857 Sayılı İş Kanunu",
+      "description": "İş ilişkileri, iş sözleşmesi ve çalışma koşullarına ilişkin esaslar"
     },
     {
       "id": "4982_sayili_bilgi_edinme_hakki_kanunu",
       "name": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
-      "description": "Vatandaşların kamu kurumlarından bilgi edinme haklarını ve bu hakkın kullanım usullerini düzenler."
+      "description": "Kamu kurumlarından bilgi edinme hakkı ve usulleri"
     },
     {
-      "id": "6245_sayili_harcirah_kanunu",
-      "name": "6245 Sayılı Harcırah Kanunu",
-      "description": "Kamu görevlilerine görevle ilgili seyahat ve geçici görev harcırahlarını düzenleyen kanun."
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "5018 Sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "description": "Kamu malî yönetimi ve kontrol esasları"
     },
     {
-      "id": "2914_sayili_yuksekogretim_personel_kanunu",
-      "name": "2914 Sayılı Yükseköğretim Personel Kanunu",
-      "description": "Yükseköğretim kurumlarında görev yapan akademik ve idari personelin statüsünü düzenler."
+      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "6331 Sayılı İş Sağlığı ve Güvenliği Kanunu",
+      "description": "İş sağlığı ve güvenliğine ilişkin usul ve esaslar"
+    },
+    {
+      "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "name": "6356 Sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu",
+      "description": "Özel sektör sendikaları ve toplu iş sözleşmesi esasları"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "6698 Sayılı Kişisel Verilerin Korunması Kanunu",
+      "description": "Kişisel verilerin işlenmesi ve korunmasına ilişkin esaslar"
+    },
+    {
+      "id": "6735_sayili_uluslararasi_isgucu_kanunu",
+      "name": "6735 Sayılı Uluslararası İşgücü Kanunu",
+      "description": "Yabancıların çalışma izni ve uluslararası işgücüne ilişkin esaslar"
+    },
+    {
+      "id": "7201_sayili_tebligat_kanunu",
+      "name": "7201 Sayılı Tebligat Kanunu",
+      "description": "Resmi tebligat usul ve esasları"
+    },
+    {
+      "id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
+      "name": "7315 Sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu",
+      "description": "Güvenlik soruşturması ve arşiv araştırmasına ilişkin esaslar"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+      "description": "Altıncı Kısım: Üçüncü Bölüm (Çalışma ve Sosyal Güvenlik Bakanlığı teşkilatı)"
+    },
+    {
+      "id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "4 Sayılı Bakanlıklara Bağlı Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+      "description": "Yedinci Bölüm, Ondokuzuncu Bölüm, Otuzuncu Bölüm, Kırküçüncü Bölüm"
+    },
+    {
+      "id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
+      "name": "Çalışma ve Sosyal Güvenlik Bakanlığı Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
+      "description": "Bakanlık personelinin görevde yükselme ve unvan değişikliğine ilişkin usul ve esaslar"
+    },
+    {
+      "id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "name": "Çalışma ve Sosyal Güvenlik Bakanlığı Disiplin Amirleri Yönetmeliği",
+      "description": "Bakanlık personelinin disiplin amirlerini belirleyen yönetmelik"
+    },
+    {
+      "id": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik",
+      "name": "Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik",
+      "description": "Devlet memurlarının şikayet ve müracaat usul ve esasları"
+    },
+    {
+      "id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
+      "name": "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği",
+      "description": "İşyerlerinde iş sağlığı ve güvenliği hizmetlerine ilişkin usul ve esaslar"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelik",
+      "description": "Kamu görevlilerinin uyması gereken etik ilkeler ve başvuru esasları"
+    },
+    {
+      "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
+      "name": "Mal Bildiriminde Bulunulması Hakkında Yönetmelik",
+      "description": "Kamu görevlilerinin mal bildiriminde bulunmasına ilişkin usul ve esaslar"
+    },
+    {
+      "id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "name": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik",
+      "description": "Kamu kurumlarında resmi yazışma kural ve standartları"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Uluslararası İşgücü Kanunu Uygulama Yönetmeliği",
+      "description": "6735 Sayılı Uluslararası İşgücü Kanununun uygulama esasları"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek",
+      "name": "Genel Kültür ve Genel Yetenek",
+      "description": "Genel kültür, genel yetenek ve güncel konular"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi",
+      "name": "Türkçe ve Dil Bilgisi",
+      "description": "Türkçe dil bilgisi, yazım kuralları ve anlama"
+    },
+    {
+      "id": "ataturk_ilkeleri_ve_inkilap_tarihi",
+      "name": "Atatürk İlkeleri ve İnkılap Tarihi",
+      "description": "Atatürk ilkeleri, Türk inkılabı ve yakın tarih"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Alan Bilgisi: Bilgisayar Mühendisliği",
+      "description": "Ünvan değişikliği sınavı – Bilgisayar Mühendisi alan bilgisi konuları (30 soru)"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Alan Bilgisi: Endüstri Mühendisliği",
+      "description": "Ünvan değişikliği sınavı – Endüstri Mühendisi alan bilgisi konuları (30 soru)"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Alan Bilgisi: Kimya Mühendisliği",
+      "description": "Ünvan değişikliği sınavı – Kimya Mühendisi alan bilgisi konuları (30 soru)"
+    },
+    {
+      "id": "alan_bilgisi_ziraat_muhendisligi",
+      "name": "Alan Bilgisi: Ziraat Mühendisliği",
+      "description": "Ünvan değişikliği sınavı – Ziraat Mühendisi alan bilgisi konuları (30 soru)"
+    },
+    {
+      "id": "alan_bilgisi_programci",
+      "name": "Alan Bilgisi: Programcı",
+      "description": "Ünvan değişikliği sınavı – Programcı alan bilgisi konuları (30 soru)"
     }
   ],
   "blueprints": [
     {
-      "id": "gys_2024_resmi_sinav",
-      "title": "GYS 2024 Resmi Sınav",
-      "duration": 80,
-      "total_questions": 50,
-      "distribution": {
-        "657_sayili_devlet_memurlari_kanunu": 20,
-        "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun": 10,
-        "2577_sayili_idari_yargilama_usulu_kanunu": 10,
-        "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun": 5,
-        "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu": 5
-      }
-    },
-    {
-      "id": "gys_deneme_sinavi_kisa",
-      "title": "GYS Deneme Sınavı (Kısa)",
-      "duration": 40,
-      "total_questions": 25,
-      "distribution": {
-        "657_sayili_devlet_memurlari_kanunu": 10,
-        "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun": 5,
-        "2577_sayili_idari_yargilama_usulu_kanunu": 5,
-        "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun": 3,
-        "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu": 2
-      }
-    },
-    {
-      "id": "sube_muduru",
-      "title": "Şube Müdürü",
+      "id": "bp_sube_mudurlugu",
+      "title": "Şube Müdürü Sınavı (GYS 2026)",
       "duration": 80,
       "total_questions": 50,
       "distribution": {
         "turkiye_cumhuriyeti_anayasasi": 2,
         "genel_kultur_ve_genel_yetenek": 6,
-        "turkce": 2,
+        "turkce_ve_dil_bilgisi": 2,
         "ataturk_ilkeleri_ve_inkilap_tarihi": 2,
         "657_sayili_devlet_memurlari_kanunu": 5,
-        "3071_sayili_dilekce_hakki_kanunu": 1,
+        "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun": 1,
         "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun": 1,
-        "4688_sayili_kamu_gorevlileri_sendikalari_kanunu": 2,
+        "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu": 2,
         "4734_sayili_kamu_ihale_kanunu": 2,
         "4857_sayili_is_kanunu": 2,
         "4982_sayili_bilgi_edinme_hakki_kanunu": 1,
@@ -89,150 +188,205 @@
         "6331_sayili_is_sagligi_ve_guvenligi_kanunu": 2,
         "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu": 2,
         "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 2,
-        "6735_sayili_uluslararasi_isgucuu_kanunu": 1,
+        "6735_sayili_uluslararasi_isgucu_kanunu": 1,
         "7201_sayili_tebligat_kanunu": 1,
-        "7315_sayili_cumhurbaskanligi_kararnamesinin_uygulanmasi_hakkinda_kanun": 1,
-        "1_sayili_cumhurbaskanligi_kararnamese_cumhurbaskanligi_teskilati": 1,
-        "4_sayili_cumhurbaskanligi_kararnamese_ust_kademe_kamu_yoneticileri": 1,
-        "gys_yonetmeligi": 1,
-        "disiplin_kurullari_ve_disiplin_amirleri_yonetmeligi": 1,
-        "sikayet_ve_itiraz_yonetmeligi": 1,
-        "is_sagligi_ve_guvenligi_risk_degerlendirmesi_yonetmeligi": 1,
-        "kamu_gorevlileri_etik_davranis_ilkeleri_yonetmeligi": 1,
-        "mal_bildirimi_yonetmeligi": 1,
-        "resmi_yazisma_kurallari_yonetmeligi": 4,
-        "isgucu_yetistirme_ve_uyum_yonetmeligi": 1
+        "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu": 1,
+        "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 1,
+        "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi": 1,
+        "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik": 1,
+        "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi": 1,
+        "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik": 1,
+        "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik": 1,
+        "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik": 4,
+        "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi": 1
       }
     },
     {
-      "id": "sef",
-      "title": "Şef",
+      "id": "bp_sef",
+      "title": "Şef Sınavı (GYS 2026)",
       "duration": 80,
       "total_questions": 50,
       "distribution": {
         "turkiye_cumhuriyeti_anayasasi": 2,
         "genel_kultur_ve_genel_yetenek": 6,
-        "turkce": 3,
+        "turkce_ve_dil_bilgisi": 3,
         "ataturk_ilkeleri_ve_inkilap_tarihi": 3,
         "657_sayili_devlet_memurlari_kanunu": 6,
-        "3071_sayili_dilekce_hakki_kanunu": 1,
+        "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun": 1,
         "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun": 1,
-        "4688_sayili_kamu_gorevlileri_sendikalari_kanunu": 2,
+        "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu": 2,
         "4982_sayili_bilgi_edinme_hakki_kanunu": 1,
         "6331_sayili_is_sagligi_ve_guvenligi_kanunu": 2,
         "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu": 2,
         "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 2,
-        "6735_sayili_uluslararasi_isgucuu_kanunu": 2,
+        "6735_sayili_uluslararasi_isgucu_kanunu": 2,
         "7201_sayili_tebligat_kanunu": 2,
-        "7315_sayili_cumhurbaskanligi_kararnamesinin_uygulanmasi_hakkinda_kanun": 1,
-        "1_sayili_cumhurbaskanligi_kararnamese_cumhurbaskanligi_teskilati": 1,
-        "gys_yonetmeligi": 1,
-        "disiplin_kurullari_ve_disiplin_amirleri_yonetmeligi": 1,
-        "sikayet_ve_itiraz_yonetmeligi": 2,
-        "kamu_gorevlileri_etik_davranis_ilkeleri_yonetmeligi": 2,
-        "mal_bildirimi_yonetmeligi": 1,
-        "resmi_yazisma_kurallari_yonetmeligi": 6,
-        "isgucu_yetistirme_ve_uyum_yonetmeligi": 1
+        "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu": 1,
+        "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi": 1,
+        "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik": 2,
+        "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik": 2,
+        "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik": 1,
+        "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik": 6
       }
     },
     {
-      "id": "memur",
-      "title": "Memur",
+      "id": "bp_memur",
+      "title": "Memur Sınavı (GYS 2026)",
       "duration": 80,
       "total_questions": 50,
       "distribution": {
         "turkiye_cumhuriyeti_anayasasi": 5,
         "genel_kultur_ve_genel_yetenek": 5,
-        "turkce": 5,
+        "turkce_ve_dil_bilgisi": 5,
         "ataturk_ilkeleri_ve_inkilap_tarihi": 3,
         "657_sayili_devlet_memurlari_kanunu": 6,
-        "3071_sayili_dilekce_hakki_kanunu": 1,
+        "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun": 1,
         "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun": 1,
         "4982_sayili_bilgi_edinme_hakki_kanunu": 2,
         "7201_sayili_tebligat_kanunu": 2,
-        "1_sayili_cumhurbaskanligi_kararnamese_cumhurbaskanligi_teskilati": 2,
-        "gys_yonetmeligi": 2,
-        "disiplin_kurullari_ve_disiplin_amirleri_yonetmeligi": 3,
-        "sikayet_ve_itiraz_yonetmeligi": 2,
-        "kamu_gorevlileri_etik_davranis_ilkeleri_yonetmeligi": 1,
-        "mal_bildirimi_yonetmeligi": 2,
-        "resmi_yazisma_kurallari_yonetmeligi": 8
+        "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 2,
+        "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi": 2,
+        "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi": 3,
+        "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik": 2,
+        "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik": 1,
+        "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik": 2,
+        "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik": 8
       }
     },
     {
-      "id": "muhendis",
-      "title": "Mühendis",
+      "id": "bp_ud_ortak",
+      "title": "Ünvan Değişikliği – Ortak Konular (ÜD 2026)",
+      "duration": 80,
+      "total_questions": 20,
+      "distribution": {
+        "turkiye_cumhuriyeti_anayasasi": 2,
+        "genel_kultur_ve_genel_yetenek": 2,
+        "turkce_ve_dil_bilgisi": 2,
+        "ataturk_ilkeleri_ve_inkilap_tarihi": 1,
+        "657_sayili_devlet_memurlari_kanunu": 3,
+        "4982_sayili_bilgi_edinme_hakki_kanunu": 1,
+        "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 1,
+        "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi": 1,
+        "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik": 1,
+        "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik": 1,
+        "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik": 1,
+        "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik": 3
+      }
+    },
+    {
+      "id": "bp_ud_bilgisayar_muhendisi",
+      "title": "Mühendis (Bilgisayar) Sınavı (ÜD 2026)",
       "duration": 80,
       "total_questions": 50,
       "distribution": {
         "turkiye_cumhuriyeti_anayasasi": 2,
-        "genel_kultur_ve_genel_yetenek": 6,
-        "turkce": 2,
-        "ataturk_ilkeleri_ve_inkilap_tarihi": 2,
-        "657_sayili_devlet_memurlari_kanunu": 5,
-        "3071_sayili_dilekce_hakki_kanunu": 1,
-        "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun": 1,
-        "4688_sayili_kamu_gorevlileri_sendikalari_kanunu": 2,
-        "4734_sayili_kamu_ihale_kanunu": 2,
-        "4857_sayili_is_kanunu": 2,
+        "genel_kultur_ve_genel_yetenek": 2,
+        "turkce_ve_dil_bilgisi": 2,
+        "ataturk_ilkeleri_ve_inkilap_tarihi": 1,
+        "657_sayili_devlet_memurlari_kanunu": 3,
         "4982_sayili_bilgi_edinme_hakki_kanunu": 1,
-        "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu": 2,
-        "6331_sayili_is_sagligi_ve_guvenligi_kanunu": 2,
-        "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu": 2,
-        "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 2,
-        "6735_sayili_uluslararasi_isgucuu_kanunu": 1,
-        "7201_sayili_tebligat_kanunu": 1,
-        "7315_sayili_cumhurbaskanligi_kararnamesinin_uygulanmasi_hakkinda_kanun": 1,
-        "1_sayili_cumhurbaskanligi_kararnamese_cumhurbaskanligi_teskilati": 1,
-        "4_sayili_cumhurbaskanligi_kararnamese_ust_kademe_kamu_yoneticileri": 1,
-        "gys_yonetmeligi": 1,
-        "disiplin_kurullari_ve_disiplin_amirleri_yonetmeligi": 1,
-        "sikayet_ve_itiraz_yonetmeligi": 1,
-        "is_sagligi_ve_guvenligi_risk_degerlendirmesi_yonetmeligi": 1,
-        "kamu_gorevlileri_etik_davranis_ilkeleri_yonetmeligi": 1,
-        "mal_bildirimi_yonetmeligi": 1,
-        "resmi_yazisma_kurallari_yonetmeligi": 4,
-        "isgucu_yetistirme_ve_uyum_yonetmeligi": 1
+        "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 1,
+        "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi": 1,
+        "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik": 1,
+        "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik": 1,
+        "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik": 1,
+        "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik": 3,
+        "alan_bilgisi_bilgisayar_muhendisligi": 30
       }
     },
     {
-      "id": "programci",
-      "title": "Programcı",
+      "id": "bp_ud_endustri_muhendisi",
+      "title": "Mühendis (Endüstri) Sınavı (ÜD 2026)",
       "duration": 80,
       "total_questions": 50,
       "distribution": {
         "turkiye_cumhuriyeti_anayasasi": 2,
-        "genel_kultur_ve_genel_yetenek": 6,
-        "turkce": 2,
-        "ataturk_ilkeleri_ve_inkilap_tarihi": 2,
-        "657_sayili_devlet_memurlari_kanunu": 5,
-        "3071_sayili_dilekce_hakki_kanunu": 1,
-        "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun": 1,
-        "4688_sayili_kamu_gorevlileri_sendikalari_kanunu": 2,
-        "4734_sayili_kamu_ihale_kanunu": 2,
-        "4857_sayili_is_kanunu": 2,
+        "genel_kultur_ve_genel_yetenek": 2,
+        "turkce_ve_dil_bilgisi": 2,
+        "ataturk_ilkeleri_ve_inkilap_tarihi": 1,
+        "657_sayili_devlet_memurlari_kanunu": 3,
         "4982_sayili_bilgi_edinme_hakki_kanunu": 1,
-        "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu": 2,
-        "6331_sayili_is_sagligi_ve_guvenligi_kanunu": 2,
-        "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu": 2,
-        "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 2,
-        "6735_sayili_uluslararasi_isgucuu_kanunu": 1,
-        "7201_sayili_tebligat_kanunu": 1,
-        "7315_sayili_cumhurbaskanligi_kararnamesinin_uygulanmasi_hakkinda_kanun": 1,
-        "1_sayili_cumhurbaskanligi_kararnamese_cumhurbaskanligi_teskilati": 1,
-        "4_sayili_cumhurbaskanligi_kararnamese_ust_kademe_kamu_yoneticileri": 1,
-        "gys_yonetmeligi": 1,
-        "disiplin_kurullari_ve_disiplin_amirleri_yonetmeligi": 1,
-        "sikayet_ve_itiraz_yonetmeligi": 1,
-        "is_sagligi_ve_guvenligi_risk_degerlendirmesi_yonetmeligi": 1,
-        "kamu_gorevlileri_etik_davranis_ilkeleri_yonetmeligi": 1,
-        "mal_bildirimi_yonetmeligi": 1,
-        "resmi_yazisma_kurallari_yonetmeligi": 4,
-        "isgucu_yetistirme_ve_uyum_yonetmeligi": 1
+        "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 1,
+        "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi": 1,
+        "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik": 1,
+        "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik": 1,
+        "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik": 1,
+        "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik": 3,
+        "alan_bilgisi_endustri_muhendisligi": 30
+      }
+    },
+    {
+      "id": "bp_ud_kimya_muhendisi",
+      "title": "Mühendis (Kimya) Sınavı (ÜD 2026)",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "turkiye_cumhuriyeti_anayasasi": 2,
+        "genel_kultur_ve_genel_yetenek": 2,
+        "turkce_ve_dil_bilgisi": 2,
+        "ataturk_ilkeleri_ve_inkilap_tarihi": 1,
+        "657_sayili_devlet_memurlari_kanunu": 3,
+        "4982_sayili_bilgi_edinme_hakki_kanunu": 1,
+        "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 1,
+        "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi": 1,
+        "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik": 1,
+        "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik": 1,
+        "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik": 1,
+        "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik": 3,
+        "alan_bilgisi_kimya_muhendisligi": 30
+      }
+    },
+    {
+      "id": "bp_ud_ziraat_muhendisi",
+      "title": "Mühendis (Ziraat) Sınavı (ÜD 2026)",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "turkiye_cumhuriyeti_anayasasi": 2,
+        "genel_kultur_ve_genel_yetenek": 2,
+        "turkce_ve_dil_bilgisi": 2,
+        "ataturk_ilkeleri_ve_inkilap_tarihi": 1,
+        "657_sayili_devlet_memurlari_kanunu": 3,
+        "4982_sayili_bilgi_edinme_hakki_kanunu": 1,
+        "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 1,
+        "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi": 1,
+        "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik": 1,
+        "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik": 1,
+        "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik": 1,
+        "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik": 3,
+        "alan_bilgisi_ziraat_muhendisligi": 30
+      }
+    },
+    {
+      "id": "bp_ud_programci",
+      "title": "Programcı Sınavı (ÜD 2026)",
+      "duration": 80,
+      "total_questions": 50,
+      "distribution": {
+        "turkiye_cumhuriyeti_anayasasi": 2,
+        "genel_kultur_ve_genel_yetenek": 2,
+        "turkce_ve_dil_bilgisi": 2,
+        "ataturk_ilkeleri_ve_inkilap_tarihi": 1,
+        "657_sayili_devlet_memurlari_kanunu": 3,
+        "4982_sayili_bilgi_edinme_hakki_kanunu": 1,
+        "6698_sayili_kisisel_verilerin_korunmasi_kanunu": 1,
+        "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi": 1,
+        "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi": 1,
+        "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik": 1,
+        "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik": 1,
+        "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik": 1,
+        "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik": 3,
+        "alan_bilgisi_programci": 30
       }
     }
-
   ]
 }
-
-

@@ -1,114 +1,629 @@
 {
   "topics": [
     {
-      "id": "657_sayili_devlet_memurlari_kanunu__genel_hukumler_ve_temel_kavramlar",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Genel Hükümler ve Temel Kavramlar"
+      "id": "birinci_kisim_genel_esaslar",
+      "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+      "name": "Birinci Kısım: Genel Esaslar"
     },
     {
-      "id": "657_sayili_devlet_memurlari_kanunu__devlet_memurluguna_alinma_sartlari",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Devlet Memurluğuna Alınma Şartları"
+      "id": "ikinci_kisim_temel_haklar_ve_odevler",
+      "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+      "name": "İkinci Kısım: Temel Haklar ve Ödevler"
     },
     {
-      "id": "657_sayili_devlet_memurlari_kanunu__memurlarin_odev_ve_sorumluluklari",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Memurların Ödev ve Sorumlulukları"
+      "id": "ucuncu_kisim_cumhuriyetin_temel_organlari",
+      "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+      "name": "Üçüncü Kısım: Cumhuriyetin Temel Organları"
     },
     {
-      "id": "657_sayili_devlet_memurlari_kanunu__memurlarin_haklari",
+      "id": "kisim_1_bolum_1_kapsam_amac_temel_ilkeler_istihdam_sekilleri",
       "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Memurların Hakları"
+      "name": "Kısım-1 Bölüm-1: Kapsam, Amaç, Temel İlkeler, İstihdam Şekilleri"
     },
     {
-      "id": "657_sayili_devlet_memurlari_kanunu__disiplin_hukumleri",
+      "id": "kisim_1_bolum_2_odevler_ve_sorumluluklar",
       "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Disiplin Hükümleri"
+      "name": "Kısım-1 Bölüm-2: Ödevler ve Sorumluluklar"
     },
     {
-      "id": "657_sayili_devlet_memurlari_kanunu__cesitli_ve_son_hukumler",
+      "id": "kisim_1_bolum_3_genel_haklar",
       "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Çeşitli ve Son Hükümler"
+      "name": "Kısım-1 Bölüm-3: Genel Haklar"
     },
     {
-      "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__kanunun_kapsami_ve_temel_kavramlar",
+      "id": "kisim_1_bolum_4_yasaklar",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Kısım-1 Bölüm-4: Yasaklar"
+    },
+    {
+      "id": "kisim_4_bolum_4_memurlugun_sona_ermesi",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Kısım-4 Bölüm-4: Memurluğun Sona Ermesi"
+    },
+    {
+      "id": "kisim_4_bolum_5_calisma_saatleri_ve_izinler",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Kısım-4 Bölüm-5: Çalışma Saatleri ve İzinler"
+    },
+    {
+      "id": "kisim_4_bolum_7_disiplin",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Kısım-4 Bölüm-7: Disiplin"
+    },
+    {
+      "id": "kisim_7_devlet_memurlarinin_yetistirilmesi",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Kısım-7: Devlet Memurlarının Yetiştirilmesi"
+    },
+    {
+      "id": "mali_haklar_maas_tazminat_ek_gosterge",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Mali Haklar (Maaş, Tazminat, Ek Gösterge)"
+    },
+    {
+      "id": "siniflandirma_ve_kadro",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Sınıflandırma ve Kadro"
+    },
+    {
+      "id": "atama_nakil_ve_ilerleme",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Atama, Nakil ve İlerleme"
+    },
+    {
+      "id": "kanunun_kapsami_ve_dilekce_hakki",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Kanunun Kapsamı ve Dilekçe Hakkı"
+    },
+    {
+      "id": "dilekce_verme_usulu_ve_cevaplama_sureleri",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Dilekçe Verme Usulü ve Cevaplama Süreleri"
+    },
+    {
+      "id": "kanunun_kapsami_ve_on_inceleme",
       "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
-      "name": "Kanunun Kapsamı ve Temel Kavramlar"
+      "name": "Kanunun Kapsamı ve Ön İnceleme"
     },
     {
-      "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__izin_ve_sorusturma_usulu",
+      "id": "sorusturma_izni_ve_itiraz",
       "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
-      "name": "İzin ve Soruşturma Usulü"
+      "name": "Soruşturma İzni ve İtiraz"
     },
     {
-      "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__yargilama_surecleri",
-      "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
-      "name": "Yargılama Süreçleri"
+      "id": "tanimlar_ve_sendika_kurma_hakki",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Tanımlar ve Sendika Kurma Hakkı"
     },
     {
-      "id": "2577_sayili_idari_yargilama_usulu_kanunu__genel_esaslar_ve_gorev",
-      "regulation_id": "2577_sayili_idari_yargilama_usulu_kanunu",
-      "name": "Genel Esaslar ve Görev"
+      "id": "toplu_sozlesme_usul_ve_esaslari",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Toplu Sözleşme Usul ve Esasları"
     },
     {
-      "id": "2577_sayili_idari_yargilama_usulu_kanunu__dava_acma_sureleri_ve_usulu",
-      "regulation_id": "2577_sayili_idari_yargilama_usulu_kanunu",
-      "name": "Dava Açma Süreleri ve Usulü"
+      "id": "yasaklar_ve_guvenceler",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Yasaklar ve Güvenceler"
     },
     {
-      "id": "2577_sayili_idari_yargilama_usulu_kanunu__kanun_yollari",
-      "regulation_id": "2577_sayili_idari_yargilama_usulu_kanunu",
-      "name": "Kanun Yolları"
+      "id": "temel_ilkeler_ve_tanimlar",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Temel İlkeler ve Tanımlar"
     },
     {
-      "id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun__etik_davranis_ilkeleri",
-      "regulation_id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun",
+      "id": "ihale_usulleri_acik_belli_istekliler_pazarlik",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "İhale Usulleri (Açık, Belli İstekliler, Pazarlık)"
+    },
+    {
+      "id": "yasaklar_ve_cezalar",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Yasaklar ve Cezalar"
+    },
+    {
+      "id": "is_sozlesmesi_turleri_ve_kurulmasi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "İş Sözleşmesi Türleri ve Kurulması"
+    },
+    {
+      "id": "calisma_sureleri_ve_fazla_calisma",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Çalışma Süreleri ve Fazla Çalışma"
+    },
+    {
+      "id": "is_sozlesmesinin_feshi_ve_kidem_tazminati",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "İş Sözleşmesinin Feshi ve Kıdem Tazminatı"
+    },
+    {
+      "id": "yillik_ucretli_izin",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Yıllık Ücretli İzin"
+    },
+    {
+      "id": "bilgi_edinme_hakki_ve_basvuru_usulu",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "Bilgi Edinme Hakkı ve Başvuru Usulü"
+    },
+    {
+      "id": "istisnalar_ve_bilgi_edinme_kurulu",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "İstisnalar ve Bilgi Edinme Kurulu"
+    },
+    {
+      "id": "butce_turleri_ve_hazirlanmasi",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Bütçe Türleri ve Hazırlanması"
+    },
+    {
+      "id": "ic_kontrol_ve_ic_denetim",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "İç Kontrol ve İç Denetim"
+    },
+    {
+      "id": "harcama_yetkilisi_ve_sorumluluk",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Harcama Yetkilisi ve Sorumluluk"
+    },
+    {
+      "id": "isyeri_hekimi_ve_is_guvenligi_uzmani",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "İşyeri Hekimi ve İş Güvenliği Uzmanı"
+    },
+    {
+      "id": "isverenin_yukumlulukleri",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "İşverenin Yükümlülükleri"
+    },
+    {
+      "id": "calisanlarin_hak_ve_yukumlulukleri",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "Çalışanların Hak ve Yükümlülükleri"
+    },
+    {
+      "id": "risk_degerlendirmesi_ve_acil_durum_planlari",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "Risk Değerlendirmesi ve Acil Durum Planları"
+    },
+    {
+      "id": "sendika_kurulusu_ve_uyelik",
+      "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "name": "Sendika Kuruluşu ve Üyelik"
+    },
+    {
+      "id": "toplu_is_sozlesmesi_yapilmasi",
+      "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "name": "Toplu İş Sözleşmesi Yapılması"
+    },
+    {
+      "id": "grev_ve_lokavt",
+      "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "name": "Grev ve Lokavt"
+    },
+    {
+      "id": "genel_ilkeler_ve_tanimlar",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Genel İlkeler ve Tanımlar"
+    },
+    {
+      "id": "kisisel_verilerin_islenme_sartlari",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kişisel Verilerin İşlenme Şartları"
+    },
+    {
+      "id": "ozel_nitelikli_veriler_ve_haklar",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Özel Nitelikli Veriler ve Haklar"
+    },
+    {
+      "id": "kisisel_verileri_koruma_kurumu_ve_yaptirimlar",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kişisel Verileri Koruma Kurumu ve Yaptırımlar"
+    },
+    {
+      "id": "calisma_izni_turleri_ve_basvuru",
+      "regulation_id": "6735_sayili_uluslararasi_isgucu_kanunu",
+      "name": "Çalışma İzni Türleri ve Başvuru"
+    },
+    {
+      "id": "calisma_izni_istisnalari",
+      "regulation_id": "6735_sayili_uluslararasi_isgucu_kanunu",
+      "name": "Çalışma İzni İstisnaları"
+    },
+    {
+      "id": "idari_yaptirimlar_ve_sinir_disi",
+      "regulation_id": "6735_sayili_uluslararasi_isgucu_kanunu",
+      "name": "İdari Yaptırımlar ve Sınır Dışı"
+    },
+    {
+      "id": "tebligat_usulu_ve_cesitleri",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "Tebligat Usulü ve Çeşitleri"
+    },
+    {
+      "id": "elektronik_tebligat",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "Elektronik Tebligat"
+    },
+    {
+      "id": "ilanen_tebligat",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "İlanen Tebligat"
+    },
+    {
+      "id": "guvenlik_sorusturmasi_usulu",
+      "regulation_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
+      "name": "Güvenlik Soruşturması Usulü"
+    },
+    {
+      "id": "arsiv_arastirmasi_kapsami_ve_sinirlari",
+      "regulation_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
+      "name": "Arşiv Araştırması Kapsamı ve Sınırları"
+    },
+    {
+      "id": "csgb_teskilat_yapisi_altinci_kisim_ucuncu_bolum",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "ÇSGB Teşkilat Yapısı (Altıncı Kısım Üçüncü Bölüm)"
+    },
+    {
+      "id": "merkez_teskilati_ve_bagli_kuruluslar",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Merkez Teşkilatı ve Bağlı Kuruluşlar"
+    },
+    {
+      "id": "yedinci_bolum_iskur_teskilati",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Yedinci Bölüm: İŞKUR Teşkilatı"
+    },
+    {
+      "id": "ondokuzuncu_bolum_sgk_teskilati",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Ondokuzuncu Bölüm: SGK Teşkilatı"
+    },
+    {
+      "id": "otuzuncu_bolum_ilgili_kuruluslar",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Otuzuncu Bölüm: İlgili Kuruluşlar"
+    },
+    {
+      "id": "kirkucuncu_bolum_isggm_teskilati",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Kırküçüncü Bölüm: İSGGM Teşkilatı"
+    },
+    {
+      "id": "kapsam_tanimlar_ve_genel_ilkeler",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
+      "name": "Kapsam, Tanımlar ve Genel İlkeler"
+    },
+    {
+      "id": "gorevde_yukselme_ve_unvan_degisikligi_sartlari",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
+      "name": "Görevde Yükselme ve Unvan Değişikliği Şartları"
+    },
+    {
+      "id": "sinav_usulu_ve_atama_esaslari",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
+      "name": "Sınav Usulü ve Atama Esasları"
+    },
+    {
+      "id": "disiplin_amirleri_listesi",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "name": "Disiplin Amirleri Listesi"
+    },
+    {
+      "id": "disiplin_cezalari_ve_uygulama_usulu",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "name": "Disiplin Cezaları ve Uygulama Usulü"
+    },
+    {
+      "id": "sikayet_ve_muracaat_basvuru_usulu",
+      "regulation_id": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik",
+      "name": "Şikayet ve Müracaat Başvuru Usulü"
+    },
+    {
+      "id": "inceleme_suresi_ve_sonuclandirma",
+      "regulation_id": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik",
+      "name": "İnceleme Süresi ve Sonuçlandırma"
+    },
+    {
+      "id": "ortak_saglik_ve_guvenlik_birimleri_osgb",
+      "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
+      "name": "Ortak Sağlık ve Güvenlik Birimleri (OSGB)"
+    },
+    {
+      "id": "is_guvenligi_uzmanlarinin_gorev_ve_yetkileri",
+      "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
+      "name": "İş Güvenliği Uzmanlarının Görev ve Yetkileri"
+    },
+    {
+      "id": "isyeri_hekimlerinin_gorev_ve_yetkileri",
+      "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
+      "name": "İşyeri Hekimlerinin Görev ve Yetkileri"
+    },
+    {
+      "id": "etik_davranis_ilkeleri",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
       "name": "Etik Davranış İlkeleri"
     },
     {
-      "id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun__etik_kurul_ve_basvuru_usulu",
-      "regulation_id": "5176_sayili_kamu_gorevlileri_etik_kurulu_kurulmasi_hakkinda_kanun",
-      "name": "Etik Kurul ve Başvuru Usulü"
+      "id": "kamu_gorevlileri_etik_kurulu",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Kamu Görevlileri Etik Kurulu"
     },
     {
-      "id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu__mal_bildirimi_yukumlulugu",
-      "regulation_id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu",
-      "name": "Mal Bildirimi Yükümlülüğü"
+      "id": "basvuru_usul_ve_esaslari",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Başvuru Usul ve Esasları"
     },
     {
-      "id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu__rusvet_ve_yaptirimlar",
-      "regulation_id": "3628_sayili_mal_bildiriminde_bulunulmasi_rusvet_ve_yolsuzluklarla_mucadele_kanunu",
-      "name": "Rüşvet ve Yaptırımlar"
+      "id": "mal_bildirimi_kapsami_ve_yukumluler",
+      "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
+      "name": "Mal Bildirimi Kapsamı ve Yükümlüler"
     },
     {
-      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__bilgi_edinme_hakkinin_kapsami",
-      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-      "name": "Bilgi Edinme Hakkının Kapsamı"
+      "id": "bildirim_sureleri_ve_usulu",
+      "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
+      "name": "Bildirim Süreleri ve Usulü"
     },
     {
-      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu_ve_istisnalar",
-      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-      "name": "Başvuru Usulü ve İstisnalar"
+      "id": "yazi_bicimleri_olur_yazisma_ust_yazi",
+      "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "name": "Yazı Biçimleri (Olur, Yazışma, Üst Yazı)"
     },
     {
-      "id": "6245_sayili_harcirah_kanunu__harcirah_turleri_ve_hesaplama",
-      "regulation_id": "6245_sayili_harcirah_kanunu",
-      "name": "Harcırah Türleri ve Hesaplama"
+      "id": "yazinin_unsurlari_baslik_imza_ek_dagitim",
+      "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "name": "Yazının Unsurları (Başlık, İmza, Ek, Dağıtım)"
     },
     {
-      "id": "6245_sayili_harcirah_kanunu__yurt_disi_harcirah_esaslari",
-      "regulation_id": "6245_sayili_harcirah_kanunu",
-      "name": "Yurt Dışı Harcırah Esasları"
+      "id": "elektronik_ortamda_yazisma",
+      "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "name": "Elektronik Ortamda Yazışma"
     },
     {
-      "id": "2914_sayili_yuksekogretim_personel_kanunu__akademik_personel_statusu",
-      "regulation_id": "2914_sayili_yuksekogretim_personel_kanunu",
-      "name": "Akademik Personel Statüsü"
+      "id": "yazim_kurallari_ve_kisaltmalar",
+      "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "name": "Yazım Kuralları ve Kısaltmalar"
     },
     {
-      "id": "2914_sayili_yuksekogretim_personel_kanunu__idari_personel_ve_gorev_tanimlari",
-      "regulation_id": "2914_sayili_yuksekogretim_personel_kanunu",
-      "name": "İdari Personel ve Görev Tanımları"
+      "id": "calisma_izni_basvuru_belgeleri_ve_sureci",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Çalışma İzni Başvuru Belgeleri ve Süreci"
+    },
+    {
+      "id": "izin_uzatma_ve_iptal_esaslari",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "İzin Uzatma ve İptal Esasları"
+    },
+    {
+      "id": "guncel_olaylar_ve_genel_kultur",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Güncel Olaylar ve Genel Kültür"
+    },
+    {
+      "id": "genel_yetenek_mantik_sayisal",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Genel Yetenek (Mantık, Sayısal)"
+    },
+    {
+      "id": "imla_ve_noktalama_kurallari",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "İmlâ ve Noktalama Kuralları"
+    },
+    {
+      "id": "dil_bilgisi_sozcuk_turleri_cumle",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Dil Bilgisi (Sözcük Türleri, Cümle)"
+    },
+    {
+      "id": "anlama_ve_anlatim",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Anlama ve Anlatım"
+    },
+    {
+      "id": "ataturk_ilkeleri",
+      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
+      "name": "Atatürk İlkeleri"
+    },
+    {
+      "id": "inkilaplar_ve_kurtulus_savasi",
+      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
+      "name": "İnkılaplar ve Kurtuluş Savaşı"
+    },
+    {
+      "id": "cumhuriyetin_ilani_ve_erken_donem",
+      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
+      "name": "Cumhuriyetin İlanı ve Erken Dönem"
+    },
+    {
+      "id": "bilgisayar_aglari",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Bilgisayar Ağları"
+    },
+    {
+      "id": "veri_tabani_yonetim_sistemleri_ve_sql",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Veri Tabanı Yönetim Sistemleri ve SQL"
+    },
+    {
+      "id": "web_programlama",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Web Programlama"
+    },
+    {
+      "id": "programlama_dilleri",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Programlama Dilleri"
+    },
+    {
+      "id": "algoritma_analizi_ve_tasarimi",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Algoritma Analizi ve Tasarımı"
+    },
+    {
+      "id": "veri_yapilari",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Veri Yapıları"
+    },
+    {
+      "id": "nesne_yonelimli_programlama_c_java",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Nesne Yönelimli Programlama (C#, Java)"
+    },
+    {
+      "id": "bilgisayar_mimarisi_ve_donanim",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Bilgisayar Mimarisi ve Donanım"
+    },
+    {
+      "id": "olasilik_ve_muhendislik_istatistigi",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Olasılık ve Mühendislik İstatistiği"
+    },
+    {
+      "id": "rassal_surecler",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Rassal Süreçler"
+    },
+    {
+      "id": "yoneylem_arastirmasi",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Yöneylem Araştırması"
+    },
+    {
+      "id": "muhendislik_ekonomisi",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Mühendislik Ekonomisi"
+    },
+    {
+      "id": "uretim_planlama_ve_envanter_kontrolu",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Üretim Planlama ve Envanter Kontrolü"
+    },
+    {
+      "id": "karar_teorisi",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Karar Teorisi"
+    },
+    {
+      "id": "kalite_ve_guvenilirlik",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Kalite ve Güvenilirlik"
+    },
+    {
+      "id": "yonetim_bilgi_sistemleri",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Yönetim Bilgi Sistemleri"
+    },
+    {
+      "id": "cizelgeleme",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Çizelgeleme"
+    },
+    {
+      "id": "tesis_ici_yerlesim",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Tesis İçi Yerleşim"
+    },
+    {
+      "id": "diferansiyel_denklemler",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Diferansiyel Denklemler"
+    },
+    {
+      "id": "olasilik_ve_istatistik",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Olasılık ve İstatistik"
+    },
+    {
+      "id": "termodinamik",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Termodinamik"
+    },
+    {
+      "id": "kimya_muhendisligi_temel_islemleri",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Kimya Mühendisliği Temel İşlemleri"
+    },
+    {
+      "id": "akiskanlar_mekanigi",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Akışkanlar Mekaniği"
+    },
+    {
+      "id": "kimyasal_reaksiyon_muhendisligi",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Kimyasal Reaksiyon Mühendisliği"
+    },
+    {
+      "id": "isi_ve_kutle_transferi",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Isı ve Kütle Transferi"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi__yoneylem_arastirmasi",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Yöneylem Araştırması"
+    },
+    {
+      "id": "istatistik_ve_olasilik",
+      "regulation_id": "alan_bilgisi_ziraat_muhendisligi",
+      "name": "İstatistik ve Olasılık"
+    },
+    {
+      "id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
+      "regulation_id": "alan_bilgisi_ziraat_muhendisligi",
+      "name": "Diferansiyel Denklemler"
+    },
+    {
+      "id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
+      "regulation_id": "alan_bilgisi_ziraat_muhendisligi",
+      "name": "Mühendislik Ekonomisi"
+    },
+    {
+      "id": "biyoloji",
+      "regulation_id": "alan_bilgisi_ziraat_muhendisligi",
+      "name": "Biyoloji"
+    },
+    {
+      "id": "ziraat_muhendisligine_giris",
+      "regulation_id": "alan_bilgisi_ziraat_muhendisligi",
+      "name": "Ziraat Mühendisliğine Giriş"
+    },
+    {
+      "id": "toprak_bilgisi",
+      "regulation_id": "alan_bilgisi_ziraat_muhendisligi",
+      "name": "Toprak Bilgisi"
+    },
+    {
+      "id": "temel_ofis_uygulamalari",
+      "regulation_id": "alan_bilgisi_programci",
+      "name": "Temel Ofis Uygulamaları"
+    },
+    {
+      "id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
+      "regulation_id": "alan_bilgisi_programci",
+      "name": "Algoritma Analizi ve Tasarımı"
+    },
+    {
+      "id": "windows_isletim_sistemi_ve_temel_bilgisayar",
+      "regulation_id": "alan_bilgisi_programci",
+      "name": "Windows İşletim Sistemi ve Temel Bilgisayar"
+    },
+    {
+      "id": "alan_bilgisi_programci__web_programlama",
+      "regulation_id": "alan_bilgisi_programci",
+      "name": "Web Programlama"
+    },
+    {
+      "id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_ve_sql",
+      "regulation_id": "alan_bilgisi_programci",
+      "name": "Veri Tabanı Yönetim Sistemleri ve SQL"
+    },
+    {
+      "id": "nesne_yonelimli_programlama_c",
+      "regulation_id": "alan_bilgisi_programci",
+      "name": "Nesne Yönelimli Programlama (C#)"
     }
   ]
 }
