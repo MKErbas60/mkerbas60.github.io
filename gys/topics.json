@@ -1,6 +1,31 @@
 {
   "topics": [
     {
+      "id": "turkiye_cumhuriyeti_anayasasi__cumhuriyetin_nitelikleri_ve_baslangic_ilkeleri",
+      "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+      "name": "Cumhuriyetin Nitelikleri ve Başlangıç İlkeleri"
+    },
+	{
+	  "id": "turkiye_cumhuriyeti_anayasasi__yurutme_organi",
+	  "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+	  "name": "Yürütme Organı"
+	},
+	{
+	  "id": "turkiye_cumhuriyeti_anayasasi__anayasanin_degistirilmesi_ve_uygulanmasi",
+	  "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+	  "name": "Anayasanın Değiştirilmesi ve Uygulanması"
+	},	
+	{
+	  "id": "turkiye_cumhuriyeti_anayasasi__yasama_organi",
+	  "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+	  "name": "Yasama Organı"
+	},	
+	{
+	  "id": "turkiye_cumhuriyeti_anayasasi__yargi_organi",
+	  "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+	  "name": "Yargı Organı"
+	},		
+    {
       "id": "turkiye_cumhuriyeti_anayasasi__birinci_kisim_genel_esaslar",
       "regulation_id": "turkiye_cumhuriyeti_anayasasi",
       "name": "Birinci Kısım: Genel Esaslar"
