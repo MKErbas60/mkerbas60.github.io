@@ -1,36 +1,114 @@
 {
   "topics": [
-    {"id": "topic_1_1",    "regulation_id": "reg_1",            "name": "Birinci Kısım (Genel Esaslar)"},
-    {"id": "topic_1_2",    "regulation_id": "reg_1",            "name": "İkinci Kısım (Temel Haklar ve Ödevler)"},
-    {"id": "topic_1_3",    "regulation_id": "reg_1",            "name": "Üçüncü Kısım (Cumhuriyetin Temel Organları)"},
-    {"id": "topic_gen_1",  "regulation_id": "reg_genel",        "name": "Genel Kültür"},
-    {"id": "topic_gen_2",  "regulation_id": "reg_genel",        "name": "Genel Yetenek"},
-    {"id": "topic_tur_1",  "regulation_id": "reg_turkce",       "name": "Türkçe ve Dil Bilgisi"},
-    {"id": "topic_ink_1",  "regulation_id": "reg_inkilap",      "name": "Atatürk İlkeleri ve İnkılap Tarihi"},
-    {"id": "topic_5_1",    "regulation_id": "reg_5",            "name": "Genel Hükümler"},
-    {"id": "topic_5_2",    "regulation_id": "reg_5",            "name": "Ödevler ve Sorumluluklar"},
-    {"id": "topic_3071_1", "regulation_id": "reg_3071",         "name": "Tamamı"},
-    {"id": "topic_4483_1", "regulation_id": "reg_4483",         "name": "Tamamı"},
-    {"id": "topic_4688_1", "regulation_id": "reg_4688",         "name": "Tamamı"},
-    {"id": "topic_4734_1", "regulation_id": "reg_4734",         "name": "Tamamı"},
-    {"id": "topic_4857_1", "regulation_id": "reg_4857",         "name": "Tamamı"},
-    {"id": "topic_4982_1", "regulation_id": "reg_4982",         "name": "Tamamı"},
-    {"id": "topic_5018_1", "regulation_id": "reg_5018",         "name": "Tamamı"},
-    {"id": "topic_6331_1", "regulation_id": "reg_6331",         "name": "Tamamı"},
-    {"id": "topic_6356_1", "regulation_id": "reg_6356",         "name": "Tamamı"},
-    {"id": "topic_6698_1", "regulation_id": "reg_6698",         "name": "Tamamı"},
-    {"id": "topic_6735_1", "regulation_id": "reg_6735",         "name": "Tamamı"},
-    {"id": "topic_7201_1", "regulation_id": "reg_7201",         "name": "Tamamı"},
-    {"id": "topic_7315_1", "regulation_id": "reg_7315",         "name": "Tamamı"},
-    {"id": "topic_cb1_1",  "regulation_id": "reg_cbk1",         "name": "Çalışma ve Sosyal Güvenlik Bakanlığı Teşkilatı"},
-    {"id": "topic_cb4_1",  "regulation_id": "reg_cbk4",         "name": "Bakanlığa Bağlı Kuruluşlar"},
-    {"id": "topic_gys_1",  "regulation_id": "reg_gys_yon",      "name": "Tamamı"},
-    {"id": "topic_dis_1",  "regulation_id": "reg_disiplin_yon", "name": "Tamamı"},
-    {"id": "topic_sik_1",  "regulation_id": "reg_sikayet_yon",  "name": "Tamamı"},
-    {"id": "topic_isg_1",  "regulation_id": "reg_isg_yon",      "name": "Tamamı"},
-    {"id": "topic_etik_1", "regulation_id": "reg_etik_yon",     "name": "Tamamı"},
-    {"id": "topic_mal_1",  "regulation_id": "reg_mal_yon",      "name": "Tamamı"},
-    {"id": "topic_yaz_1",  "regulation_id": "reg_yazisma_yon",  "name": "Tamamı"},
-    {"id": "topic_isgu_1", "regulation_id": "reg_isgucu_yon",   "name": "Tamamı"}
+    {
+      "id": "topic-001-01",
+      "regulation_id": "reg-001",
+      "name": "Genel Hükümler ve Temel Kavramlar"
+    },
+    {
+      "id": "topic-001-02",
+      "regulation_id": "reg-001",
+      "name": "Devlet Memurluğuna Alınma Şartları"
+    },
+    {
+      "id": "topic-001-03",
+      "regulation_id": "reg-001",
+      "name": "Memurların Ödev ve Sorumlulukları"
+    },
+    {
+      "id": "topic-001-04",
+      "regulation_id": "reg-001",
+      "name": "Memurların Hakları"
+    },
+    {
+      "id": "topic-001-05",
+      "regulation_id": "reg-001",
+      "name": "Disiplin Hükümleri"
+    },
+    {
+      "id": "topic-001-06",
+      "regulation_id": "reg-001",
+      "name": "Çeşitli ve Son Hükümler"
+    },
+    {
+      "id": "topic-002-01",
+      "regulation_id": "reg-002",
+      "name": "Kanunun Kapsamı ve Temel Kavramlar"
+    },
+    {
+      "id": "topic-002-02",
+      "regulation_id": "reg-002",
+      "name": "İzin ve Soruşturma Usulü"
+    },
+    {
+      "id": "topic-002-03",
+      "regulation_id": "reg-002",
+      "name": "Yargılama Süreçleri"
+    },
+    {
+      "id": "topic-003-01",
+      "regulation_id": "reg-003",
+      "name": "Genel Esaslar ve Görev"
+    },
+    {
+      "id": "topic-003-02",
+      "regulation_id": "reg-003",
+      "name": "Dava Açma Süreleri ve Usulü"
+    },
+    {
+      "id": "topic-003-03",
+      "regulation_id": "reg-003",
+      "name": "Kanun Yolları"
+    },
+    {
+      "id": "topic-004-01",
+      "regulation_id": "reg-004",
+      "name": "Etik Davranış İlkeleri"
+    },
+    {
+      "id": "topic-004-02",
+      "regulation_id": "reg-004",
+      "name": "Etik Kurul ve Başvuru Usulü"
+    },
+    {
+      "id": "topic-005-01",
+      "regulation_id": "reg-005",
+      "name": "Mal Bildirimi Yükümlülüğü"
+    },
+    {
+      "id": "topic-005-02",
+      "regulation_id": "reg-005",
+      "name": "Rüşvet ve Yaptırımlar"
+    },
+    {
+      "id": "topic-006-01",
+      "regulation_id": "reg-006",
+      "name": "Bilgi Edinme Hakkının Kapsamı"
+    },
+    {
+      "id": "topic-006-02",
+      "regulation_id": "reg-006",
+      "name": "Başvuru Usulü ve İstisnalar"
+    },
+    {
+      "id": "topic-007-01",
+      "regulation_id": "reg-007",
+      "name": "Harcırah Türleri ve Hesaplama"
+    },
+    {
+      "id": "topic-007-02",
+      "regulation_id": "reg-007",
+      "name": "Yurt Dışı Harcırah Esasları"
+    },
+    {
+      "id": "topic-008-01",
+      "regulation_id": "reg-008",
+      "name": "Akademik Personel Statüsü"
+    },
+    {
+      "id": "topic-008-02",
+      "regulation_id": "reg-008",
+      "name": "İdari Personel ve Görev Tanımları"
+    }
   ]
 }

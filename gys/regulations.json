@@ -1,212 +1,71 @@
 {
   "regulations": [
     {
-      "id": "reg_1",
-      "name": "Türkiye Cumhuriyeti Anayasası",
-      "description": "Genel Esaslar, Temel Haklar ve Ödevler, Cumhuriyetin Temel Organları"
-    },
-    {
-      "id": "reg_genel",
-      "name": "Genel Kültür - Genel Yetenek",
-      "description": ""
-    },
-    {
-      "id": "reg_turkce",
-      "name": "Türkçe ve Dil Bilgisi",
-      "description": ""
-    },
-    {
-      "id": "reg_inkilap",
-      "name": "Atatürk İlkeleri ve İnkılap Tarihi",
-      "description": ""
-    },
-    {
-      "id": "reg_5",
+      "id": "reg-001",
       "name": "657 Sayılı Devlet Memurları Kanunu",
-      "description": "Geçici Maddeler ile Ek Geçici Maddeler hariç"
+      "description": "Devlet memurlarının görev, yetki, sorumluluk ve haklarını düzenleyen temel kanun."
     },
     {
-      "id": "reg_3071",
-      "name": "3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun",
-      "description": ""
+      "id": "reg-002",
+      "name": "4483 Sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+      "description": "Kamu görevlilerinin görevleri nedeniyle işledikleri suçlarda izin ve soruşturma prosedürlerini düzenler."
     },
     {
-      "id": "reg_4483",
-      "name": "4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
-      "description": ""
+      "id": "reg-003",
+      "name": "2577 Sayılı İdari Yargılama Usulü Kanunu",
+      "description": "İdare mahkemelerinde dava açma usul ve esaslarını düzenleyen kanun."
     },
     {
-      "id": "reg_4688",
-      "name": "4688 Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
-      "description": ""
+      "id": "reg-004",
+      "name": "5176 Sayılı Kamu Görevlileri Etik Kurulu Kurulması Hakkında Kanun",
+      "description": "Kamu görevlilerinin uyacakları etik davranış ilkelerini ve etik kurulun çalışma esaslarını düzenler."
     },
     {
-      "id": "reg_4734",
-      "name": "4734 sayılı Kamu İhale Kanunu",
-      "description": ""
+      "id": "reg-005",
+      "name": "3628 Sayılı Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu",
+      "description": "Kamu görevlilerinin mal bildiriminde bulunma yükümlülüklerini ve rüşvetle mücadele tedbirlerini düzenler."
     },
     {
-      "id": "reg_4857",
-      "name": "4857 sayılı İş Kanunu",
-      "description": ""
+      "id": "reg-006",
+      "name": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
+      "description": "Vatandaşların kamu kurumlarından bilgi edinme haklarını ve bu hakkın kullanım usullerini düzenler."
     },
     {
-      "id": "reg_4982",
-      "name": "4982 sayılı Bilgi Edinme Hakkı Kanunu",
-      "description": ""
+      "id": "reg-007",
+      "name": "6245 Sayılı Harcırah Kanunu",
+      "description": "Kamu görevlilerine görevle ilgili seyahat ve geçici görev harcırahlarını düzenleyen kanun."
     },
     {
-      "id": "reg_5018",
-      "name": "5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
-      "description": ""
-    },
-    {
-      "id": "reg_6331",
-      "name": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
-      "description": ""
-    },
-    {
-      "id": "reg_6356",
-      "name": "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu",
-      "description": ""
-    },
-    {
-      "id": "reg_6698",
-      "name": "6698 sayılı Kişisel Verilerin Korunması Kanunu",
-      "description": ""
-    },
-    {
-      "id": "reg_6735",
-      "name": "6735 sayılı Uluslararası İşgücü Kanunu",
-      "description": ""
-    },
-    {
-      "id": "reg_7201",
-      "name": "7201 sayılı Tebligat Kanunu",
-      "description": ""
-    },
-    {
-      "id": "reg_7315",
-      "name": "7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu",
-      "description": ""
-    },
-    {
-      "id": "reg_cbk1",
-      "name": "1 sayılı CB Kararnamesi (Altıncı Kısım: Üçüncü Bölüm)",
-      "description": ""
-    },
-    {
-      "id": "reg_cbk4",
-      "name": "4 sayılı CB Kararnamesi",
-      "description": "7., 19., 30. ve 43. Bölümler"
-    },
-    {
-      "id": "reg_gys_yon",
-      "name": "Bakanlık Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
-      "description": ""
-    },
-    {
-      "id": "reg_disiplin_yon",
-      "name": "Bakanlık Disiplin Amirleri Yönetmeliği",
-      "description": ""
-    },
-    {
-      "id": "reg_sikayet_yon",
-      "name": "Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik",
-      "description": ""
-    },
-    {
-      "id": "reg_isg_yon",
-      "name": "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği",
-      "description": ""
-    },
-    {
-      "id": "reg_etik_yon",
-      "name": "Kamu Görevlileri Etik Davranış İlkeleri Yönetmeliği",
-      "description": ""
-    },
-    {
-      "id": "reg_mal_yon",
-      "name": "Mal Bildiriminde Bulunulması Hakkında Yönetmelik",
-      "description": ""
-    },
-    {
-      "id": "reg_yazisma_yon",
-      "name": "Resmi Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik",
-      "description": ""
-    },
-    {
-      "id": "reg_isgucu_yon",
-      "name": "Uluslararası İşgücü Kanunu Uygulama Yönetmeliği",
-      "description": ""
+      "id": "reg-008",
+      "name": "2914 Sayılı Yükseköğretim Personel Kanunu",
+      "description": "Yükseköğretim kurumlarında görev yapan akademik ve idari personelin statüsünü düzenler."
     }
   ],
   "blueprints": [
     {
-      "id": "official_sube_muduru",
-      "title": "Şube Müdürü",
+      "id": "bp-gys-2024",
+      "title": "GYS 2024 Resmi Sınav",
       "duration": 80,
       "total_questions": 50,
       "distribution": {
-        "reg_1": 2, "reg_genel": 6, "reg_turkce": 2, "reg_inkilap": 2, "reg_5": 5,
-        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4734": 2, "reg_4857": 2,
-        "reg_4982": 1, "reg_5018": 2, "reg_6331": 2, "reg_6356": 2, "reg_6698": 2,
-        "reg_6735": 1, "reg_7201": 1, "reg_7315": 1, "reg_cbk1": 1, "reg_cbk4": 1,
-        "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 1, "reg_isg_yon": 1,
-        "reg_etik_yon": 1, "reg_mal_yon": 1, "reg_yazisma_yon": 4, "reg_isgucu_yon": 1
+        "reg-001": 20,
+        "reg-002": 10,
+        "reg-003": 10,
+        "reg-004": 5,
+        "reg-005": 5
       }
     },
     {
-      "id": "official_sef",
-      "title": "Şef",
-      "duration": 80,
-      "total_questions": 50,
+      "id": "bp-gys-deneme",
+      "title": "GYS Deneme Sınavı (Kısa)",
+      "duration": 40,
+      "total_questions": 25,
       "distribution": {
-        "reg_1": 2, "reg_genel": 6, "reg_turkce": 3, "reg_inkilap": 3, "reg_5": 6,
-        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4982": 1, "reg_6331": 2,
-        "reg_6356": 2, "reg_6698": 2, "reg_6735": 2, "reg_7201": 2, "reg_7315": 1,
-        "reg_cbk1": 1, "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 2,
-        "reg_etik_yon": 2, "reg_mal_yon": 1, "reg_yazisma_yon": 6, "reg_isgucu_yon": 1
-      }
-    },
-    {
-      "id": "official_memur",
-      "title": "Memur",
-      "duration": 80,
-      "total_questions": 50,
-      "distribution": {
-        "reg_1": 5, "reg_genel": 5, "reg_turkce": 5, "reg_inkilap": 3, "reg_5": 6,
-        "reg_3071": 1, "reg_4483": 1, "reg_4982": 2, "reg_7201": 2, "reg_cbk1": 2,
-        "reg_gys_yon": 2, "reg_disiplin_yon": 3, "reg_sikayet_yon": 2, "reg_etik_yon": 1,
-        "reg_mal_yon": 2, "reg_yazisma_yon": 8
-      }
-    },
-    {
-      "id": "official_muhendis",
-      "title": "Mühendis",
-      "duration": 80,
-      "total_questions": 50,
-      "distribution": {
-        "reg_1": 2, "reg_genel": 6, "reg_turkce": 2, "reg_inkilap": 2, "reg_5": 5,
-        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4734": 2, "reg_4857": 2,
-        "reg_4982": 1, "reg_5018": 2, "reg_6331": 2, "reg_6356": 2, "reg_6698": 2,
-        "reg_6735": 1, "reg_7201": 1, "reg_7315": 1, "reg_cbk1": 1, "reg_cbk4": 1,
-        "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 1, "reg_isg_yon": 1,
-        "reg_etik_yon": 1, "reg_mal_yon": 1, "reg_yazisma_yon": 4, "reg_isgucu_yon": 1
-      }
-    },
-    {
-      "id": "official_programci",
-      "title": "Programcı",
-      "duration": 80,
-      "total_questions": 50,
-      "distribution": {
-        "reg_1": 2, "reg_genel": 6, "reg_turkce": 2, "reg_inkilap": 2, "reg_5": 5,
-        "reg_3071": 1, "reg_4483": 1, "reg_4688": 2, "reg_4734": 2, "reg_4857": 2,
-        "reg_4982": 1, "reg_5018": 2, "reg_6331": 2, "reg_6356": 2, "reg_6698": 2,
-        "reg_6735": 1, "reg_7201": 1, "reg_7315": 1, "reg_cbk1": 1, "reg_cbk4": 1,
-        "reg_gys_yon": 1, "reg_disiplin_yon": 1, "reg_sikayet_yon": 1, "reg_isg_yon": 1,
-        "reg_etik_yon": 1, "reg_mal_yon": 1, "reg_yazisma_yon": 4, "reg_isgucu_yon": 1
+        "reg-001": 10,
+        "reg-002": 5,
+        "reg-003": 5,
+        "reg-004": 3,
+        "reg-005": 2
       }
     }
   ]
