@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "id": "1",
+      "id": "e2f7b8a1-8d9c-4b5a-9f1e-3c7d6b8a9f01",
       "topic_id": "4857_sayili_is_kanunu__genel_hukumler",
       "topic_name": "Genel Hükümler",
       "question_text": "4857 sayılı İş Kanunu'nun amacı nedir?",
@@ -14,7 +14,7 @@
       "difficulty": 1
     },
     {
-      "id": "2",
+      "id": "a9b8c7d6-e5f4-4321-b1a2-c3d4e5f6g7h8",
       "topic_id": "4857_sayili_is_kanunu__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "4857 sayılı Kanun'a göre 'İşçi' tanımı nedir?",
@@ -27,7 +27,7 @@
       "difficulty": 1
     },
     {
-      "id": "3",
+      "id": "1f2e3d4c-5b6a-4c8d-9e0f-1a2b3c4d5e6f",
       "topic_id": "4857_sayili_is_kanunu__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "4857 sayılı Kanun'a göre 'İşveren vekili' kimdir?",
@@ -40,7 +40,7 @@
       "difficulty": 2
     },
     {
-      "id": "4",
+      "id": "7a8b9c0d-1e2f-4a3b-9c8d-7e6f5a4b3c2d",
       "topic_id": "4857_sayili_is_kanunu__isyeri_bildirme",
       "topic_name": "İşyeri Bildirme",
       "question_text": "İşveren, işyeri bildirimini hangi makama yapmak zorundadır?",
@@ -53,7 +53,7 @@
       "difficulty": 2
     },
     {
-      "id": "5",
+      "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
       "topic_id": "4857_sayili_is_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "Aşağıdakilerden hangisi İş Kanunu hükümlerinin uygulanmadığı hallerden biridir?",
@@ -66,7 +66,7 @@
       "difficulty": 2
     },
     {
-      "id": "6",
+      "id": "f8e7d6c5-b4a3-4210-9876-54321abcdef0",
       "topic_id": "4857_sayili_is_kanunu__esit_davranma_ilkesi",
       "topic_name": "Eşit Davranma İlkesi",
       "question_text": "İş ilişkisinde ayrımcılık yasağına aykırı davranıldığında işçi, ne kadar süreye kadar ücret tazminatı talep edebilir?",
@@ -79,7 +79,7 @@
       "difficulty": 3
     },
     {
-      "id": "7",
+      "id": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5f",
       "topic_id": "4857_sayili_is_kanunu__isyerinin_devri",
       "topic_name": "İşyerinin Devri",
       "question_text": "İşyeri devrinde devreden işverenin sorumluluğu devir tarihinden itibaren ne kadar sürer?",
@@ -92,7 +92,7 @@
       "difficulty": 2
     },
     {
-      "id": "8",
+      "id": "d9e8f7a6-b5c4-4321-a0b1-c2d3e4f5g6h7",
       "topic_id": "4857_sayili_is_kanunu__gecici_is_iliskisi",
       "topic_name": "Geçici İş İlişkisi",
       "question_text": "Geçici iş ilişkisi ile çalıştırılan işçinin ücretini ödeme yükümlülüğü kime aittir?",
@@ -105,7 +105,7 @@
       "difficulty": 3
     },
     {
-      "id": "9",
+      "id": "3a4b5c6d-7e8f-4a9b-0c1d-2e3f4a5b6c7d",
       "topic_id": "4857_sayili_is_kanunu__is_sozlesmesi_turleri",
       "topic_name": "İş Sözleşmesi Türleri",
       "question_text": "Süresi bir yıl ve daha fazla olan iş sözleşmelerinin şekli nasıl olmalıdır?",
@@ -118,7 +118,7 @@
       "difficulty": 1
     },
     {
-      "id": "10",
+      "id": "6c7d8e9f-0a1b-4c2d-3e4f-5a6b7c8d9e0f",
       "topic_id": "4857_sayili_is_kanunu__deneme_sureli_is_sozlesmesi",
       "topic_name": "Deneme Süreli İş Sözleşmesi",
       "question_text": "Deneme süreli iş sözleşmesinde deneme süresi en fazla ne kadar olabilir?",
@@ -131,7 +131,7 @@
       "difficulty": 1
     },
     {
-      "id": "11",
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
       "topic_id": "4857_sayili_is_kanunu__sureli_fesih",
       "topic_name": "Süreli Fesih",
       "question_text": "İşi altı aydan az sürmüş olan işçi için bildirim süresi ne kadardır?",
@@ -144,7 +144,7 @@
       "difficulty": 2
     },
     {
-      "id": "12",
+      "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
       "topic_id": "4857_sayili_is_kanunu__sureli_fesih",
       "topic_name": "Süreli Fesih",
       "question_text": "İşi üç yıldan fazla sürmüş işçi için bildirim süresi ne kadardır?",
@@ -157,7 +157,7 @@
       "difficulty": 2
     },
     {
-      "id": "13",
+      "id": "2d3e4f5a-6b7c-4d8e-9f0a-1b2c3d4e5f6a",
       "topic_id": "4857_sayili_is_kanunu__fesih_ve_ise_iade",
       "topic_name": "Fesih ve İşe İade",
       "question_text": "İş sözleşmesi feshedilen işçi, işe iade davası açmak için ne kadar sürede arabulucuya başvurmalıdır?",
@@ -170,7 +170,7 @@
       "difficulty": 2
     },
     {
-      "id": "14",
+      "id": "9f0a1b2c-3d4e-4f5a-6b7c-8d9e0f1a2b3c",
       "topic_id": "4857_sayili_is_kanunu__fesih_ve_ise_iade",
       "topic_name": "Fesih ve İşe İade",
       "question_text": "Feshin geçersizliği durumunda işveren işçiyi işe başlatmazsa ödenmesi gereken tazminat ne kadardır?",
@@ -183,7 +183,7 @@
       "difficulty": 3
     },
     {
-      "id": "15",
+      "id": "5b6c7d8e-9f0a-4b1c-2d3e-4f5a6b7c8d9e",
       "topic_id": "4857_sayili_is_kanunu__hakli_nedenle_fesih",
       "topic_name": "Haklı Nedenle Fesih",
       "question_text": "İşçinin işverenden izin almaksızın bir ay içinde iki defa mazeretsiz işe gelmemesi durumu neyi doğurur?",
@@ -196,7 +196,7 @@
       "difficulty": 2
     },
     {
-      "id": "16",
+      "id": "1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d",
       "topic_id": "4857_sayili_is_kanunu__yeni_is_arama_izni",
       "topic_name": "Yeni İş Arama İzni",
       "question_text": "İş arama izni günlük en az ne kadar süredir?",
@@ -209,7 +209,7 @@
       "difficulty": 1
     },
     {
-      "id": "17",
+      "id": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3b",
       "topic_id": "4857_sayili_is_kanunu__toplu_isci_cikarma",
       "topic_name": "Toplu İşçi Çıkarma",
       "question_text": "Toplu işçi çıkarma bildiriminin bölge müdürlüğüne kaç gün önceden yapılması gerekir?",
@@ -222,7 +222,7 @@
       "difficulty": 2
     },
     {
-      "id": "18",
+      "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
       "topic_id": "4857_sayili_is_kanunu__engelli_ve_eski_hukumlu",
       "topic_name": "Engelli ve Eski Hükümlü",
       "question_text": "Özel sektör işyerlerinde 50 veya daha fazla işçi çalıştırılıyorsa engelli çalıştırma oranı nedir?",
@@ -235,7 +235,7 @@
       "difficulty": 2
     },
     {
-      "id": "19",
+      "id": "4a5b6c7d-8e9f-4a0b-1c2d-3e4f5a6b7c8d",
       "topic_id": "4857_sayili_is_kanunu__ucret",
       "topic_name": "Ücret",
       "question_text": "İşçi ücret alacaklarında zamanaşımı süresi ne kadardır?",
@@ -248,7 +248,7 @@
       "difficulty": 2
     },
     {
-      "id": "20",
+      "id": "0d1e2f3a-4b5c-4d6e-7f8a-9b0c1d2e3f4a",
       "topic_id": "4857_sayili_is_kanunu__ucret",
       "topic_name": "Ücret",
       "question_text": "Ücretin gününde ödenmemesi durumunda uygulanacak faiz nedir?",
@@ -261,7 +261,7 @@
       "difficulty": 2
     },
     {
-      "id": "21",
+      "id": "7f8a9b0c-1d2e-4f3a-4b5c-6d7e8f9a0b1c",
       "topic_id": "4857_sayili_is_kanunu__ucret",
       "topic_name": "Ücret",
       "question_text": "İşçinin ücretinin en fazla ne kadarı haczedilebilir?",
@@ -274,7 +274,7 @@
       "difficulty": 1
     },
     {
-      "id": "22",
+      "id": "3b4c5d6e-7f8a-4b9c-0d1e-2f3a4b5c6d7e",
       "topic_id": "4857_sayili_is_kanunu__fazla_calisma",
       "topic_name": "Fazla Çalışma",
       "question_text": "Fazla çalışma ücreti normal saatlik ücretin yüzde kaç zamlı ödenir?",
@@ -287,7 +287,7 @@
       "difficulty": 2
     },
     {
-      "id": "23",
+      "id": "9d0e1f2a-3b4c-4d5e-6f7a-8b9c0d1e2f3a",
       "topic_id": "4857_sayili_is_kanunu__fazla_calisma",
       "topic_name": "Fazla Çalışma",
       "question_text": "Bir yılda yapılan toplam fazla çalışma süresi en fazla ne kadar olabilir?",
@@ -300,7 +300,7 @@
       "difficulty": 2
     },
     {
-      "id": "24",
+      "id": "6a7b8c9d-0e1f-4a2b-3c4d-5e6f7a8b9c0d",
       "topic_id": "4857_sayili_is_kanunu__hafta_tatili",
       "topic_name": "Hafta Tatili",
       "question_text": "Hafta tatili kaç saattir?",
@@ -313,7 +313,7 @@
       "difficulty": 1
     },
     {
-      "id": "25",
+      "id": "2f3a4b5c-6d7e-4f8a-9b0c-1d2e3f4a5b6c",
       "topic_id": "4857_sayili_is_kanunu__yillik_ucretli_izin",
       "topic_name": "Yıllık Ücretli İzin",
       "question_text": "Yıllık ücretli izne hak kazanmak için işyerinde en az ne kadar çalışmış olmak gerekir?",
@@ -326,7 +326,7 @@
       "difficulty": 1
     },
     {
-      "id": "26",
+      "id": "8e9f0a1b-2c3d-4e4f-5a6b-7c8d9e0f1a2b",
       "topic_id": "4857_sayili_is_kanunu__yillik_ucretli_izin",
       "topic_name": "Yıllık Ücretli İzin",
       "question_text": "5-15 yıl arası (15 hariç) kıdemi olan işçinin yıllık izin süresi ne kadardır?",
@@ -339,7 +339,7 @@
       "difficulty": 2
     },
     {
-      "id": "27",
+      "id": "5d6e7f8a-9b0c-4d1e-2f3a-4b5c6d7e8f9a",
       "topic_id": "4857_sayili_is_kanunu__yillik_ucretli_izin",
       "topic_name": "Yıllık Ücretli İzin",
       "question_text": "Yıllık izin hakkından vazgeçilebilir mi?",
@@ -352,7 +352,7 @@
       "difficulty": 1
     },
     {
-      "id": "28",
+      "id": "1c2d3e4f-5a6b-4c7d-8e9f-0a1b2c3d4e5f",
       "topic_id": "4857_sayili_is_kanunu__yillik_ucretli_izin",
       "topic_name": "Yıllık Ücretli İzin",
       "question_text": "Yıllık ücretli izin bölünerek kullanılabilir mi?",
@@ -365,7 +365,7 @@
       "difficulty": 2
     },
     {
-      "id": "29",
+      "id": "7e8f9a0b-1c2d-4e3f-4a5b-6c7d8e9f0a1b",
       "topic_id": "4857_sayili_is_kanunu__calisma_suresi",
       "topic_name": "Çalışma Süresi",
       "question_text": "Genel bakımdan haftalık çalışma süresi ne kadardır?",
@@ -378,7 +378,7 @@
       "difficulty": 1
     },
     {
-      "id": "30",
+      "id": "4c5d6e7f-8a9b-4c0d-1e2f-3a4b5c6d7e8f",
       "topic_id": "4857_sayili_is_kanunu__ara_dinlenmesi",
       "topic_name": "Ara Dinlenmesi",
       "question_text": "Yedi buçuk saatten fazla süreli işlerde verilen ara dinlenmesi ne kadardır?",
@@ -391,7 +391,7 @@
       "difficulty": 2
     },
     {
-      "id": "31",
+      "id": "0a1b2c3d-4e5f-4a6b-7c8d-9e0f1a2b3c4d",
       "topic_id": "4857_sayili_is_kanunu__gece_calismasi",
       "topic_name": "Gece Çalışması",
       "question_text": "Gece çalışma dönemi en geç saat kaçta başlar?",
@@ -404,7 +404,7 @@
       "difficulty": 2
     },
     {
-      "id": "32",
+      "id": "6d7e8f9a-0b1c-4d2e-3f4a-5b6c7d8e9f0a",
       "topic_id": "4857_sayili_is_kanunu__gece_calismasi",
       "topic_name": "Gece Çalışması",
       "question_text": "İşçilerin gece çalışmaları en fazla kaç saattir?",
@@ -417,7 +417,7 @@
       "difficulty": 1
     },
     {
-      "id": "33",
+      "id": "2b3c4d5e-6f7a-4b8c-9d0e-1f2a3b4c5d6e",
       "topic_id": "4857_sayili_is_kanunu__cocuk_ve_genc_isciler",
       "topic_name": "Çocuk ve Genç İşçiler",
       "question_text": "Kaç yaşını doldurmamış çocukların çalıştırılması yasaktır?",
@@ -430,7 +430,7 @@
       "difficulty": 1
     },
     {
-      "id": "34",
+      "id": "8f9a0b1c-2d3e-4f4a-5b6c-7d8e9f0a1b2c",
       "topic_id": "4857_sayili_is_kanunu__analik_hali",
       "topic_name": "Analık Hali",
       "question_text": "Kadın işçilerin doğumdan önce ve sonra toplam kaç hafta çalıştırılmaması esastır?",
@@ -443,7 +443,7 @@
       "difficulty": 1
     },
     {
-      "id": "35",
+      "id": "5e6f7a8b-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
       "topic_id": "4857_sayili_is_kanunu__isci_ozluk_dosyasi",
       "topic_name": "İşçi Özlük Dosyası",
       "question_text": "İşveren, her işçi için ne tutmak zorundadır?",
@@ -456,7 +456,7 @@
       "difficulty": 1
     },
     {
-      "id": "36",
+      "id": "1d2e3f4a-5b6c-4d7e-8f9a-0b1c2d3e4f5a",
       "topic_id": "4857_sayili_is_kanunu__denetim_ve_teftis",
       "topic_name": "Denetim ve Teftiş",
       "question_text": "Çalışma hayatı ile ilgili mevzuatın uygulanmasını izlemekle görevli olanlar kimlerdir?",
@@ -469,7 +469,7 @@
       "difficulty": 2
     },
     {
-      "id": "37",
+      "id": "7b8c9d0e-1f2a-4b3c-4d5e-6f7a8b9c0d1e",
       "topic_id": "4857_sayili_is_kanunu__mafiyet",
       "topic_name": "Muafiyet",
       "question_text": "İşçi ve işverenlerin Çalışma Bakanlığına yaptığı başvurularla ilgili dilekçeler nelerden muaftır?",
@@ -482,7 +482,7 @@
       "difficulty": 3
     },
     {
-      "id": "38",
+      "id": "4f5a6b7c-8d9e-4f0a-1b2c-3d4e5f6a7b8c",
       "topic_id": "4857_sayili_is_kanunu__zabitaya_yardim",
       "topic_name": "Zabıtaya Yardım",
       "question_text": "İş müfettişlerinin istemi halinde zabıta kuvvetleri yardım etmekle yükümlü müdür?",
@@ -495,7 +495,7 @@
       "difficulty": 2
     },
     {
-      "id": "39",
+      "id": "0c1d2e3f-4a5b-4c6d-7e8f-9a0b1c2d3e4f",
       "topic_id": "4857_sayili_is_kanunu__toplu_isci_cikarma",
       "topic_name": "Toplu İşçi Çıkarma",
       "question_text": "Mevsimlik işlerin niteliğine bağlı yapılan işten çıkarmalarda toplu işçi çıkarma hükümleri uygulanır mı?",
@@ -508,7 +508,7 @@
       "difficulty": 3
     },
     {
-      "id": "40",
+      "id": "6b7c8d9e-0f1a-4b2c-3d4e-5f6a7b8c9d0e",
       "topic_id": "4857_sayili_is_kanunu__ucret_kesme_cezasi",
       "topic_name": "Ücret Kesme Cezası",
       "question_text": "Ücret kesme cezası bir ayda en fazla ne kadar olabilir?",
@@ -521,7 +521,7 @@
       "difficulty": 2
     },
     {
-      "id": "41",
+      "id": "2d3e4f5a-6b7c-4d8e-9f0a-1b2c3d4e5f6a",
       "topic_id": "4857_sayili_is_kanunu__asgari_ucret",
       "topic_name": "Asgari Ücret",
       "question_text": "Asgari ücret en geç ne kadar sürede bir belirlenir?",
@@ -534,7 +534,7 @@
       "difficulty": 2
     },
     {
-      "id": "42",
+      "id": "8a9b0c1d-2e3f-4a4b-5c6d-7e8f9a0b1c2d",
       "topic_id": "4857_sayili_is_kanunu__yarim_ucret",
       "topic_name": "Yarım Ücret",
       "question_text": "Zorlayıcı sebeplerle çalışamayan işçiye bekleme süresinde ne kadar ücret ödenir?",
@@ -547,7 +547,7 @@
       "difficulty": 2
     },
     {
-      "id": "43",
+      "id": "5f6a7b8c-9d0e-4f1a-2b3c-4d5e6f7a8b9c",
       "topic_id": "4857_sayili_is_kanunu__yillik_ucretli_izin",
       "topic_name": "Yıllık Ücretli İzin",
       "question_text": "Yıllık izin dönemine ilişkin ücret izne başlamadan önce nasıl ödenir?",
@@ -560,7 +560,7 @@
       "difficulty": 1
     },
     {
-      "id": "44",
+      "id": "1e2f3a4b-5c6d-4e7f-8a9b-0c1d2e3f4a5b",
       "topic_id": "4857_sayili_is_kanunu__zamanasimi",
       "topic_name": "Zamanaşımı",
       "question_text": "İş sözleşmesinin sona ermesinde, kullanılmayan yıllık izin ücretine ilişkin zamanaşımı ne zaman başlar?",
@@ -573,7 +573,7 @@
       "difficulty": 3
     },
     {
-      "id": "45",
+      "id": "7d8e9f0a-1b2c-4d3e-4f5a-6b7c8d9e0f1a",
       "topic_id": "4857_sayili_is_kanunu__telafi_calismasi",
       "topic_name": "Telafi Çalışması",
       "question_text": "Telafi çalışması ne kadar süre içinde yaptırılabilir?",
@@ -586,7 +586,7 @@
       "difficulty": 2
     },
     {
-      "id": "46",
+      "id": "4b5c6d7e-8f9a-4b0c-1d2e-3f4a5b6c7d8e",
       "topic_id": "4857_sayili_is_kanunu__calisma_suresi",
       "topic_name": "Çalışma Süresi",
       "question_text": "İşçi, fazla çalışma yerine hangi hakka sahiptir?",
@@ -599,7 +599,7 @@
       "difficulty": 2
     },
     {
-      "id": "47",
+      "id": "0f1a2b3c-4d5e-4f6a-7b8c-9d0e1f2a3b4c",
       "topic_id": "4857_sayili_is_kanunu__analik_hali",
       "topic_name": "Analık Hali",
       "question_text": "Kadın işçiye süt izni günde toplam ne kadar verilir?",
@@ -612,7 +612,7 @@
       "difficulty": 1
     },
     {
-      "id": "48",
+      "id": "6e7f8a9b-0c1d-4e2f-3a4b-5c6d7e8f9a0b",
       "topic_id": "4857_sayili_is_kanunu__denetim_ve_teftis",
       "topic_name": "Denetim ve Teftiş",
       "question_text": "İş müfettişlerinin tuttuğu tutanaklar aksi kanıtlanıncaya kadar geçerli midir?",
@@ -625,7 +625,7 @@
       "difficulty": 2
     },
     {
-      "id": "49",
+      "id": "2c3d4e5f-6a7b-4c8d-9e0f-1a2b3c4d5e6f",
       "topic_id": "4857_sayili_is_kanunu__yillik_ucretli_izin",
       "topic_name": "Yıllık Ücretli İzin",
       "question_text": "İzin süresine rastlayan hafta tatili ve ulusal bayramlar izin süresinden sayılır mı?",
@@ -638,7 +638,7 @@
       "difficulty": 2
     },
     {
-      "id": "50",
+      "id": "8b9c0d1e-2f3a-4b4c-5d6e-7f8a9b0c1d2e",
       "topic_id": "4857_sayili_is_kanunu__genel_hukumler",
       "topic_name": "Genel Hükümler",
       "question_text": "İş Kanunu kaç yılında yürürlüğe girmiştir?",

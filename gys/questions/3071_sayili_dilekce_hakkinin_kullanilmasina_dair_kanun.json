@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "id": "1",
+      "id": "7b8e1a3f-2c9d-4e5a-8f7b-6c5d4e3f2a1b",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun'un amacı aşağıdakilerden hangisidir?",
@@ -14,7 +14,7 @@
       "difficulty": 1
     },
     {
-      "id": "2",
+      "id": "a9d8c7b6-5e4f-43a2-b1c0-d9e8f7a6b5c4",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun, hangi kesimleri kapsamına almaktadır?",
@@ -27,7 +27,7 @@
       "difficulty": 1
     },
     {
-      "id": "3",
+      "id": "f2e1d0c9-b8a7-46e5-d4c3-b2a1f0e9d8c7",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "Türkiye'de ikamet eden yabancıların dilekçe hakkından yararlanabilmesi için hangi şart aranır?",
@@ -40,7 +40,7 @@
       "difficulty": 2
     },
     {
-      "id": "4",
+      "id": "c3b2a1f0-e9d8-47c6-b5a4-f3e2d1c0b9a8",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçede bulunması zorunlu olan unsurlar nelerdir?",
@@ -53,7 +53,7 @@
       "difficulty": 1
     },
     {
-      "id": "5",
+      "id": "d4c3b2a1-f0e9-48d7-c6b5-a4f3e2d1c0b9",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Konusuyla ilgili olmayan bir idari makama verilen dilekçe ne yapılır?",
@@ -66,7 +66,7 @@
       "difficulty": 2
     },
     {
-      "id": "6",
+      "id": "e5d4c3b2-a1f0-49e8-d7c6-b5a4f3e2d1c0",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Aşağıdakilerden hangisi incelenemeyecek dilekçelerden biri değildir?",
@@ -79,7 +79,7 @@
       "difficulty": 2
     },
     {
-      "id": "7",
+      "id": "f6e5d4c3-b2a1-40f9-e8d7-c6b5a4f3e2d1",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Yetkili makamlar dilekçe başvurularına veya yapılan işlemin safahatına ilişkin ne kadar sürede cevap vermelidir?",
@@ -92,7 +92,7 @@
       "difficulty": 2
     },
     {
-      "id": "8",
+      "id": "a7f6e5d4-c3b2-41a0-f9e8-d7c6b5a4f3e2",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "TBMM Dilekçe Komisyonuna gönderilen dilekçelerin incelenmesi ve karara bağlanması en geç kaç gün sürer?",
@@ -105,7 +105,7 @@
       "difficulty": 2
     },
     {
-      "id": "9",
+      "id": "b8a7f6e5-d4c3-42b1-a0f9-e8d7c6b5a4f3",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "İlgili kamu kurumları, TBMM Dilekçe Komisyonundan gelen dilekçeleri kaç gün içinde cevaplandırmalıdır?",
@@ -118,7 +118,7 @@
       "difficulty": 2
     },
     {
-      "id": "10",
+      "id": "c9b8a7f6-e5d4-43c2-b1a0-f9e8d7c6b5a4",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonunun yerinde inceleme yapma yetkisi var mıdır?",
@@ -131,7 +131,7 @@
       "difficulty": 2
     },
     {
-      "id": "11",
+      "id": "d0c9b8a7-f6e5-44d3-c2b1-a0f9e8d7c6b5",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun hangi tarihte yayımlanmıştır?",
@@ -144,7 +144,7 @@
       "difficulty": 3
     },
     {
-      "id": "12",
+      "id": "e1d0c9b8-a7f6-45e4-d3c2-b1a0f9e8d7c6",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonunun bilirkişi görevlendirme yetkisi var mıdır?",
@@ -157,7 +157,7 @@
       "difficulty": 2
     },
     {
-      "id": "13",
+      "id": "f2e1d0c9-b8a7-46f5-e4d3-c2b1a0f9e8d7",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "3071 sayılı Kanun'un 9. maddesi ile hangi kanun yürürlükten kaldırılmıştır?",
@@ -170,7 +170,7 @@
       "difficulty": 2
     },
     {
-      "id": "14",
+      "id": "a3f2e1d0-c9b8-47a6-f5e4-d3c2b1a0f9e8",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "TBMM İçtüzüğünde değişiklik yapılıncaya kadar Komisyonun çalışma esasları hakkında ne uygulanır?",
@@ -183,7 +183,7 @@
       "difficulty": 3
     },
     {
-      "id": "15",
+      "id": "b4a3f2e1-d0c9-48b7-a6f5-e4d3c2b1a0f9",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun ne zaman yürürlüğe girmiştir?",
@@ -196,7 +196,7 @@
       "difficulty": 1
     },
     {
-      "id": "16",
+      "id": "c5b4a3f2-e1d0-49c8-b7a6-f5e4d3c2b1a0",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Kamu kurum ve kuruluşları, Komisyona istenen bilgi ve belgeyi verme konusunda yükümlü müdür?",
@@ -209,7 +209,7 @@
       "difficulty": 1
     },
     {
-      "id": "17",
+      "id": "d6c5b4a3-f2e1-40d9-c8b7-a6f5e4d3c2b1",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "Dilekçeler sadece TBMM'ye mi verilir?",
@@ -222,7 +222,7 @@
       "difficulty": 1
     },
     {
-      "id": "18",
+      "id": "e7d6c5b4-a3f2-41e0-d9c8-b7a6f5e4d3c2",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "İşlem safahatının duyurulması durumunda sonuç ayrıca bildirilir mi?",
@@ -235,7 +235,7 @@
       "difficulty": 2
     },
     {
-      "id": "19",
+      "id": "f8e7d6c5-b4a3-42f1-e0d9-c8b7a6f5e4d3",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "TBMM Dilekçe Komisyonu'nun idari denetim isteme yetkisi var mıdır?",
@@ -248,7 +248,7 @@
       "difficulty": 2
     },
     {
-      "id": "20",
+      "id": "a9f8e7d6-c5b4-43a2-f1e0-d9c8b7a6f5e4",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun'un 1. maddesi hangi tarihte değiştirilmiştir?",
@@ -261,7 +261,7 @@
       "difficulty": 3
     },
     {
-      "id": "21",
+      "id": "b0a9f8e7-d6c5-44b3-a2f1-e0d9c8b7a6f5",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonu özel kuruluşlardan belge isteyebilir mi?",
@@ -274,7 +274,7 @@
       "difficulty": 2
     },
     {
-      "id": "22",
+      "id": "c1b0a9f8-e7d6-45c4-b3a2-f1e0d9c8b7a6",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Komisyon, ilgilileri çağırıp bilgi alabilir mi?",
@@ -287,7 +287,7 @@
       "difficulty": 2
     },
     {
-      "id": "23",
+      "id": "d2c1b0a9-f8e7-46d5-c4b3-a2f1e0d9c8b7",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun kaç yılında yürürlüğe girmiştir?",
@@ -300,7 +300,7 @@
       "difficulty": 1
     },
     {
-      "id": "24",
+      "id": "e3d2c1b0-a9f8-47e6-d5c4-b3a2f1e0d9c8",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçede adres olarak ne yazılması gerekir?",
@@ -313,7 +313,7 @@
       "difficulty": 1
     },
     {
-      "id": "25",
+      "id": "f4e3d2c1-b0a9-48f7-e6d5-c4b3a2f1e0d9",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Yetkili olmayan makama gelen dilekçe ne zaman yetkili makama gönderilir?",
@@ -326,7 +326,7 @@
       "difficulty": 3
     },
     {
-      "id": "26",
+      "id": "a5f4e3d2-c1b0-49a8-f7e6-d5c4b3a2f1e0",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun'un 3. maddesi nedir?",
@@ -339,7 +339,7 @@
       "difficulty": 2
     },
     {
-      "id": "27",
+      "id": "b6a5f4e3-d2c1-40b9-a8f7-e6d5c4b3a2f1",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "TBMM Dilekçe Komisyonu'nun yetkileri hangi kanunla genişletilmiştir?",
@@ -352,7 +352,7 @@
       "difficulty": 3
     },
     {
-      "id": "28",
+      "id": "c7b6a5f4-e3d2-41c0-b9a8-f7e6d5c4b3a2",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonu, kamu kurumlarından bilgi isterken hangi tür bilgi/belgeyi isteyebilir?",
@@ -365,7 +365,7 @@
       "difficulty": 2
     },
     {
-      "id": "29",
+      "id": "d8c7b6a5-f4e3-42d1-c0b9-a8f7e6d5c4b3",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun kaç maddeden oluşmaktadır?",
@@ -378,7 +378,7 @@
       "difficulty": 3
     },
     {
-      "id": "30",
+      "id": "e9d8c7b6-a5f4-43e2-d1c0-b9a8f7e6d5c4",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Kamu personelinin yerinde inceleme için gerekli tedbirleri alması zorunlu mudur?",
@@ -391,10 +391,10 @@
       "difficulty": 1
     },
     {
-      "id": "31",
+      "id": "f0e9d8c7-b6a5-44f3-e2d1-c0b9a8f7e6d5",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
-      "question_text": "Dilekçe Komisyonunun karara bağlama süresi içerisinde kamu kurumları kaç gün içinde cevap vermelidir?",
+      "question_text": "Dilekçe Komisyonu'nun karara bağlama süresi içerisinde kamu kurumları kaç gün içinde cevap vermelidir?",
       "option_a": "15 gün",
       "option_b": "30 gün",
       "option_c": "60 gün",
@@ -404,7 +404,7 @@
       "difficulty": 2
     },
     {
-      "id": "32",
+      "id": "a1f0e9d8-c7b6-45a4-f3e2-d1c0b9a8f7e6",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonu, idari denetim yapılmasını kimden isteyebilir?",
@@ -417,7 +417,7 @@
       "difficulty": 2
     },
     {
-      "id": "33",
+      "id": "b2a1f0e9-d8c7-46b5-a4f3-e2d1c0b9a8f7",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonu ilgilileri çağırıp bilgi alabilir mi?",
@@ -430,7 +430,7 @@
       "difficulty": 2
     },
     {
-      "id": "34",
+      "id": "c3b2a1f0-e9d8-47c6-b5a4-f3e2d1c0b9a8",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "Türkiye'de ikamet eden yabancıların dilekçe hakkı için hangi belge veya kayıt gerekir?",
@@ -443,7 +443,7 @@
       "difficulty": 2
     },
     {
-      "id": "35",
+      "id": "d4c3b2a1-f0e9-48d7-c6b5-a4f3e2d1c0b9",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe sahibine cevap nasıl verilir?",
@@ -456,7 +456,7 @@
       "difficulty": 1
     },
     {
-      "id": "36",
+      "id": "e5d4c3b2-a1f0-49e8-d7c6-b5a4f3e2d1c0",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun hangi tertip Düstur'da yayımlanmıştır?",
@@ -469,7 +469,7 @@
       "difficulty": 3
     },
     {
-      "id": "37",
+      "id": "f6e5d4c3-b2a1-40f9-e8d7-c6b5a4f3e2d1",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "TBMM Dilekçe Komisyonuna gönderilen dilekçelerin karara bağlanması süresi olan 60 gün nasıl hesaplanır?",
@@ -482,7 +482,7 @@
       "difficulty": 3
     },
     {
-      "id": "38",
+      "id": "a7f6e5d4-c3b2-41a0-f9e8-d7c6b5a4f3e2",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun'un yayımlandığı Düstur cildi kaçtır?",
@@ -495,7 +495,7 @@
       "difficulty": 3
     },
     {
-      "id": "39",
+      "id": "b8a7f6e5-d4c3-42b1-a0f9-e8d7c6b5a4f3",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonu yerinde inceleme yaparken hangi tedbirleri alabilir?",
@@ -508,7 +508,7 @@
       "difficulty": 2
     },
     {
-      "id": "40",
+      "id": "c9b8a7f6-e5d4-43c2-b1a0-f9e8d7c6b5a4",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun'un ilk yayımlandığı Düstur sayfa sayısı kaçtır?",
@@ -521,7 +521,7 @@
       "difficulty": 3
     },
     {
-      "id": "41",
+      "id": "d0c9b8a7-f6e5-44d3-c2b1-a0f9e8d7c6b5",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun hangi kanunla değiştirilerek yeni dilekçe hakkı uygulaması başlamıştır?",
@@ -534,7 +534,7 @@
       "difficulty": 2
     },
     {
-      "id": "42",
+      "id": "e1d0c9b8-a7f6-45e4-d3c2-b1a0f9e8d7c6",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "Geçici 1. madde ne zaman uygulanmıştır?",
@@ -547,7 +547,7 @@
       "difficulty": 3
     },
     {
-      "id": "43",
+      "id": "f2e1d0c9-b8a7-46f5-e4d3-c2b1a0f9e8d7",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "3071 sayılı Kanun'un yürütülmesinden TBMM Başkanı ve kim sorumludur?",
@@ -560,7 +560,7 @@
       "difficulty": 1
     },
     {
-      "id": "44",
+      "id": "a3f2e1d0-c9b8-47a6-f5e4-d3c2b1a0f9e8",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "Dilekçe hakkı hangi makamlara başvuruyu içerir?",
@@ -573,7 +573,7 @@
       "difficulty": 1
     },
     {
-      "id": "45",
+      "id": "b4a3f2e1-d0c9-48b7-a6f5-e4d3c2b1a0f9",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonu kamu kurumlarından belge istediğinde, kurumların cevap verme süresi nedir?",
@@ -586,7 +586,7 @@
       "difficulty": 2
     },
     {
-      "id": "46",
+      "id": "c5b4a3f2-e1d0-49c8-b7a6-f5e4d3c2b1a0",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonu, kamu kurumu niteliğindeki meslek kuruluşlarından ne talep edebilir?",
@@ -599,7 +599,7 @@
       "difficulty": 2
     },
     {
-      "id": "47",
+      "id": "d6c5b4a3-f2e1-40d9-c8b7-a6f5e4d3c2b1",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe Komisyonunun bilirkişi görevlendirmesi mümkün müdür?",
@@ -612,7 +612,7 @@
       "difficulty": 2
     },
     {
-      "id": "48",
+      "id": "e7d6c5b4-a3f2-41e0-d9c8-b7a6f5e4d3c2",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "3071 sayılı Kanun 8. maddesinin en son değişikliği hangi tarihte yürürlüğe girmiştir?",
@@ -625,7 +625,7 @@
       "difficulty": 3
     },
     {
-      "id": "49",
+      "id": "f8e7d6c5-b4a3-42f1-e0d9-c8b7a6f5e4d3",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_verme_usulu_ve_cevaplama_sureleri",
       "topic_name": "Dilekçe Verme Usulü ve Cevaplama Süreleri",
       "question_text": "Dilekçe sahibi için 30 günlük cevap süresi hangi aşamada başlar?",
@@ -638,7 +638,7 @@
       "difficulty": 3
     },
     {
-      "id": "50",
+      "id": "a9f8e7d6-c5b4-43a2-f1e0-d9c8b7a6f5e4",
       "topic_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "topic_name": "Kanunun Kapsamı ve Dilekçe Hakkı",
       "question_text": "3071 sayılı Kanun'un ilk haline göre hangi kurumlar dilekçeleri cevaplandırmakla yükümlüdür?",

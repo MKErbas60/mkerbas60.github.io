@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "id": "1",
+      "id": "e428c94e-6e27-4a7b-9f93-5e92160d5b54",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "4688 sayılı Kanun'a göre konfederasyon tanımı aşağıdakilerden hangisidir?",
@@ -14,7 +14,7 @@
       "difficulty": 1
     },
     {
-      "id": "2",
+      "id": "76d5421c-3b9e-4b4e-982c-473d56f6c9d1",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "4688 sayılı Kanun kapsamında 'İşyeri' neyi ifade eder?",
@@ -27,7 +27,7 @@
       "difficulty": 1
     },
     {
-      "id": "3",
+      "id": "9a9f248e-f63d-4c3e-8c65-8b8a9667f3c4",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendikalar hangi esasa göre kurulur?",
@@ -40,7 +40,7 @@
       "difficulty": 1
     },
     {
-      "id": "4",
+      "id": "3b2e5f1a-8c9d-4034-8742-9e28f11d9a22",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "4688 sayılı Kanun'a göre sendika kurmak için önceden izin almak gerekir mi?",
@@ -53,7 +53,7 @@
       "difficulty": 1
     },
     {
-      "id": "5",
+      "id": "fd3a1b9e-7c5d-48ef-9a12-6b4c3e2f5a89",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendika veya konfederasyonlar tüzel kişiliği ne zaman kazanır?",
@@ -66,7 +66,7 @@
       "difficulty": 2
     },
     {
-      "id": "6",
+      "id": "c9e8d7f6-a5b4-4321-8765-d4e3c2b1a0f9",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendika kuruluş tüzüğünde belirtilmesi zorunlu olan hususlardan biri aşağıdakilerden hangisidir?",
@@ -79,7 +79,7 @@
       "difficulty": 2
     },
     {
-      "id": "7",
+      "id": "1a2b3c4d-5e6f-4a3b-b2c1-d0e9f8a7b6c5",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendika ve konfederasyonların zorunlu organları nelerdir?",
@@ -92,7 +92,7 @@
       "difficulty": 1
     },
     {
-      "id": "8",
+      "id": "b7c6d5a4-3210-4f9e-8d7c-6b5a43210987",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Olağan genel kurul toplantıları en geç ne kadar sürede bir yapılmalıdır?",
@@ -105,7 +105,7 @@
       "difficulty": 2
     },
     {
-      "id": "9",
+      "id": "4d3e2f1a-b5c6-4879-a0b1-c2d3e4f5a6b7",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Genel kurul toplantı yeter sayısı nedir?",
@@ -118,7 +118,7 @@
       "difficulty": 2
     },
     {
-      "id": "10",
+      "id": "8c7b6a5d-4e3f-4210-9b8a-7c6d5e4f3a2b",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Genel kurullarda seçimler hangi usulle yapılır?",
@@ -131,7 +131,7 @@
       "difficulty": 1
     },
     {
-      "id": "11",
+      "id": "f5e4d3c2-b1a0-4987-8d7c-6b5a43210e42",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendika yönetim kurulları en az ve en çok kaç üyeden oluşur?",
@@ -144,7 +144,7 @@
       "difficulty": 2
     },
     {
-      "id": "12",
+      "id": "7a8b9c0d-1e2f-4a3b-b4c5-d6e7f8a9b0c1",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendika üyeliği nasıl kazanılır?",
@@ -157,7 +157,7 @@
       "difficulty": 1
     },
     {
-      "id": "13",
+      "id": "d1c2b3a4-5e6f-4789-8a9b-0c1d2e3f4a5b",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Birden çok sendikaya üye olunabilir mi?",
@@ -170,7 +170,7 @@
       "difficulty": 1
     },
     {
-      "id": "14",
+      "id": "e9f8d7c6-b5a4-4321-8765-f4e3d2c1b0a9",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Aşağıdakilerden hangisi sendikaya üye olamaz?",
@@ -183,7 +183,7 @@
       "difficulty": 2
     },
     {
-      "id": "15",
+      "id": "3a4b5c6d-7e8f-4910-b1c2-d3e4f5a6b7c8",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Silahlı Kuvvetler mensupları sendikaya üye olabilir mi?",
@@ -196,7 +196,7 @@
       "difficulty": 1
     },
     {
-      "id": "16",
+      "id": "b9c0d1e2-f3a4-4567-8901-23456789abcd",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendikadan çekilme ne zaman geçerli olur?",
@@ -209,7 +209,7 @@
       "difficulty": 2
     },
     {
-      "id": "17",
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Emekliye ayrılanların sendika organlarındaki görevi ne olur?",
@@ -222,7 +222,7 @@
       "difficulty": 3
     },
     {
-      "id": "18",
+      "id": "f2e3d4c5-b6a7-4890-9c1d-2e3f4a5b6c7d",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendikalar uluslararası kuruluşa üye olabilir mi?",
@@ -235,7 +235,7 @@
       "difficulty": 1
     },
     {
-      "id": "19",
+      "id": "d3c4b5a6-9e8f-4712-b3c4-d5e6f7a8b9c0",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "Sendika temsilcileri için sağlanan haftalık izin süresi ne kadardır?",
@@ -248,7 +248,7 @@
       "difficulty": 2
     },
     {
-      "id": "20",
+      "id": "e5f6a7b8-c9d0-4123-b4e5-f6a7b8c9d0e1",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "Aylıksız izne ayrılan yöneticilerin görev süresi boyunca emeklilik hakları için ne yapılır?",
@@ -261,7 +261,7 @@
       "difficulty": 3
     },
     {
-      "id": "21",
+      "id": "c1a2b3d4-e5f6-4789-9a0b-1c2d3e4f5a6b",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "Aylıksız izinli yöneticiler görevden ayrılınca eski görevine dönmek için ne kadar sürede başvurmalıdır?",
@@ -274,7 +274,7 @@
       "difficulty": 2
     },
     {
-      "id": "22",
+      "id": "b2d3e4f5-a6c7-4890-9b1c-2d3e4f5a6b7c",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "Sendikalar siyasi partilerden maddi yardım alabilir mi?",
@@ -287,7 +287,7 @@
       "difficulty": 1
     },
     {
-      "id": "23",
+      "id": "a3c4d5e6-f7b8-4912-8c0d-1e2f3a4b5c6d",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "Sendikalar ticaretle uğraşabilir mi?",
@@ -300,7 +300,7 @@
       "difficulty": 1
     },
     {
-      "id": "24",
+      "id": "d4e5f6a7-b8c9-4012-9d3e-4f5a6b7c8d9e",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Kamu Personeli Danışma Kurulu kaç ayda bir toplanır?",
@@ -313,7 +313,7 @@
       "difficulty": 2
     },
     {
-      "id": "25",
+      "id": "f5a6b7c8-d9e0-4123-8f4a-5b6c7d8e9f0a",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Toplu sözleşme görüşmeleri hangi yıllarda yapılır?",
@@ -326,7 +326,7 @@
       "difficulty": 2
     },
     {
-      "id": "26",
+      "id": "c6d7e8f9-a0b1-4234-9c5d-6e7f8a9b0c1d",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Üyelik ödentisi tutarı nasıl hesaplanır?",
@@ -339,7 +339,7 @@
       "difficulty": 2
     },
     {
-      "id": "27",
+      "id": "b7e8f9a0-c1d2-4345-8a6b-7c8d9e0f1a2b",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Kamu Görevlileri Hakem Kurulu kararları hakkında ne söylenebilir?",
@@ -352,7 +352,7 @@
       "difficulty": 2
     },
     {
-      "id": "28",
+      "id": "a8f9b0c1-d2e3-4456-9b7a-8c9d0e1f2a3b",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Toplu sözleşme süreci en geç ne zaman tamamlanır?",
@@ -365,7 +365,7 @@
       "difficulty": 2
     },
     {
-      "id": "29",
+      "id": "d9a0b1c2-e3f4-4567-8c8d-9e0f1a2b3c4d",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendikaların gelirleri arasında aşağıdakilerden hangisi sayılmaz?",
@@ -378,7 +378,7 @@
       "difficulty": 2
     },
     {
-      "id": "30",
+      "id": "f0b1c2d3-e4f5-4678-9a9b-0c1d2e3f4a5b",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Toplu sözleşme görüşmelerinde uyuşmazlık çıkarsa nereye başvurulabilir?",
@@ -391,7 +391,7 @@
       "difficulty": 2
     },
     {
-      "id": "31",
+      "id": "e1c2d3e4-f5a6-4789-8b0c-1d2e3f4a5b6c",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "İşyeri sendika temsilcisi seçimi neye göre yapılır?",
@@ -404,7 +404,7 @@
       "difficulty": 2
     },
     {
-      "id": "32",
+      "id": "d2e3f4a5-b6c7-4890-9c1d-2e3f4a5b6c7d",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Toplu sözleşme kaç mali yıl için geçerlidir?",
@@ -417,7 +417,7 @@
       "difficulty": 2
     },
     {
-      "id": "33",
+      "id": "c3f4a5b6-c7d8-4901-8e2f-3a4b5c6d7e8f",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendikaların yıllık hesapları kim tarafından denetlenir?",
@@ -430,7 +430,7 @@
       "difficulty": 3
     },
     {
-      "id": "34",
+      "id": "b4a5b6c7-d8e9-4012-9f3a-4b5c6d7e8f9a",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Kamu Görevlileri Hakem Kurulu kaç üyeden oluşur?",
@@ -443,7 +443,7 @@
       "difficulty": 2
     },
     {
-      "id": "35",
+      "id": "a5b6c7d8-e9f0-4123-804b-5c6d7e8f9a0b",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Hakem Kurulu oylamasında eşitlik olursa ne olur?",
@@ -456,7 +456,7 @@
       "difficulty": 3
     },
     {
-      "id": "36",
+      "id": "d6c7d8e9-f0a1-4234-915c-6d7e8f9a0b1c",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendikalar, taşınmaz mal alımı için kime yetki verir?",
@@ -469,7 +469,7 @@
       "difficulty": 2
     },
     {
-      "id": "37",
+      "id": "f7d8e9a0-b1c2-4345-826d-7e8f9a0b1c2d",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "Sendika veya konfederasyonlar hangi durumda kapatılır?",
@@ -482,7 +482,7 @@
       "difficulty": 2
     },
     {
-      "id": "38",
+      "id": "e8e9a0b1-c2d3-4456-937e-8f9a0b1c2d3e",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendika yönetim kurullarının tüzük dışı faaliyetleri denetim dışı mıdır?",
@@ -495,7 +495,7 @@
       "difficulty": 2
     },
     {
-      "id": "39",
+      "id": "d9f0a1b2-c3d4-4567-848f-9a0b1c2d3e4f",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendika ve konfederasyonların yıllık denetim raporları kime sunulur?",
@@ -508,7 +508,7 @@
       "difficulty": 2
     },
     {
-      "id": "40",
+      "id": "c0a1b2c3-d4e5-4678-959a-0b1c2d3e4f5a",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Kamu İşveren Heyeti Başkanı kimdir?",
@@ -521,7 +521,7 @@
       "difficulty": 2
     },
     {
-      "id": "41",
+      "id": "b1b2c3d4-e5f6-4789-860b-1c2d3e4f5a6b",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Kamu Görevlileri Sendikaları Heyeti kaç üyeden oluşur?",
@@ -534,7 +534,7 @@
       "difficulty": 3
     },
     {
-      "id": "42",
+      "id": "a2c3d4e5-f6a7-4890-971c-2d3e4f5a6b7c",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Tüzüğün kanuna aykırılığı tespit edilirse mahkeme ne kadar süre verir?",
@@ -547,7 +547,7 @@
       "difficulty": 3
     },
     {
-      "id": "43",
+      "id": "93d4e5f6-a7b8-4901-882d-3e4f5a6b7c8d",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "Sendika üyeliğinin askıya alınması hallerinde hangi kanun uygulanır?",
@@ -560,7 +560,7 @@
       "difficulty": 3
     },
     {
-      "id": "44",
+      "id": "84e5f6a7-b8c9-4012-993e-4f5a6b7c8d9e",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Toplu sözleşme görüşme gündemini kim belirler?",
@@ -573,7 +573,7 @@
       "difficulty": 2
     },
     {
-      "id": "45",
+      "id": "75f6a7b8-c9d0-4123-804f-5a6b7c8d9e0f",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Kamu görevlileri sendikaları toplam üye sayısını hangi kurum ilan eder?",
@@ -586,7 +586,7 @@
       "difficulty": 2
     },
     {
-      "id": "46",
+      "id": "66a7b8c9-d0e1-4234-9150-6b7c8d9e0f1a",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "Sendika temsilcileri için işyerini değiştirme hakkı kime aittir?",
@@ -599,7 +599,7 @@
       "difficulty": 2
     },
     {
-      "id": "47",
+      "id": "57b8c9d0-e1f2-4345-8261-7c8d9e0f1a2b",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "Sendika genel kurullarında delege sıfatı ne kadar sürer?",
@@ -612,7 +612,7 @@
       "difficulty": 3
     },
     {
-      "id": "48",
+      "id": "48c9d0e1-f2a3-4456-9372-8d9e0f1a2b3c",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
       "question_text": "Hakem Kurulu üyelerine toplantı ücreti nasıl hesaplanır?",
@@ -625,7 +625,7 @@
       "difficulty": 3
     },
     {
-      "id": "49",
+      "id": "39d0e1f2-a3b4-4567-8483-9e0f1a2b3c4d",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
       "topic_name": "Yasaklar ve Güvenceler",
       "question_text": "Sendika temsilcileri temsilcilik görevini nerede yerine getirirler?",
@@ -638,7 +638,7 @@
       "difficulty": 1
     },
     {
-      "id": "50",
+      "id": "20e1f2a3-b4c5-4678-9594-0f1a2b3c4d5e",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
       "question_text": "4688 sayılı Kanun'un yayımlandığı Düstur cildi kaçtır?",
