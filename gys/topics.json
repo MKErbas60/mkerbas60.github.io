@@ -5,26 +5,26 @@
       "regulation_id": "turkiye_cumhuriyeti_anayasasi",
       "name": "Cumhuriyetin Nitelikleri ve Başlangıç İlkeleri"
     },
-	{
-	  "id": "turkiye_cumhuriyeti_anayasasi__yurutme_organi",
-	  "regulation_id": "turkiye_cumhuriyeti_anayasasi",
-	  "name": "Yürütme Organı"
-	},
-	{
-	  "id": "turkiye_cumhuriyeti_anayasasi__anayasanin_degistirilmesi_ve_uygulanmasi",
-	  "regulation_id": "turkiye_cumhuriyeti_anayasasi",
-	  "name": "Anayasanın Değiştirilmesi ve Uygulanması"
-	},	
-	{
-	  "id": "turkiye_cumhuriyeti_anayasasi__yasama_organi",
-	  "regulation_id": "turkiye_cumhuriyeti_anayasasi",
-	  "name": "Yasama Organı"
-	},	
-	{
-	  "id": "turkiye_cumhuriyeti_anayasasi__yargi_organi",
-	  "regulation_id": "turkiye_cumhuriyeti_anayasasi",
-	  "name": "Yargı Organı"
-	},		
+    {
+      "id": "turkiye_cumhuriyeti_anayasasi__yurutme_organi",
+      "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+      "name": "Yürütme Organı"
+    },
+    {
+      "id": "turkiye_cumhuriyeti_anayasasi__anayasanin_degistirilmesi_ve_uygulanmasi",
+      "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+      "name": "Anayasanın Değiştirilmesi ve Uygulanması"
+    },
+    {
+      "id": "turkiye_cumhuriyeti_anayasasi__yasama_organi",
+      "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+      "name": "Yasama Organı"
+    },
+    {
+      "id": "turkiye_cumhuriyeti_anayasasi__yargi_organi",
+      "regulation_id": "turkiye_cumhuriyeti_anayasasi",
+      "name": "Yargı Organı"
+    },
     {
       "id": "turkiye_cumhuriyeti_anayasasi__birinci_kisim_genel_esaslar",
       "regulation_id": "turkiye_cumhuriyeti_anayasasi",
@@ -40,11 +40,6 @@
       "regulation_id": "turkiye_cumhuriyeti_anayasasi",
       "name": "Üçüncü Kısım: Cumhuriyetin Temel Organları"
     },
-{
-    "id": "turkiye_cumhuriyeti_anayasasi__ikinci_kisim_temel_haklar_ve_odevler",
-    "regulation_id": "turkiye_cumhuriyeti_anayasasi",
-    "name": "Temel Haklar ve Ödevler"
-  },	
     {
       "id": "657_sayili_devlet_memurlari_kanunu__kisim_1_bolum_1_kapsam_amac_temel_ilkeler_istihdam_sekilleri",
       "regulation_id": "657_sayili_devlet_memurlari_kanunu",
@@ -101,6 +96,36 @@
       "name": "Atama, Nakil ve İlerleme"
     },
     {
+      "id": "657_sayili_devlet_memurlari_kanunu__genel_hukumler_ve_temel_kavramlar",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Genel Hükümler ve Temel Kavramlar"
+    },
+    {
+      "id": "657_sayili_devlet_memurlari_kanunu__memurlarin_odev_ve_sorumluluklari",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Memurların Ödev ve Sorumlulukları"
+    },
+    {
+      "id": "657_sayili_devlet_memurlari_kanunu__memurlarin_haklari",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Memurların Hakları"
+    },
+    {
+      "id": "657_sayili_devlet_memurlari_kanunu__devlet_memurluguna_alinma_sartlari",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Devlet Memurluğuna Alınma Şartları"
+    },
+    {
+      "id": "657_sayili_devlet_memurlari_kanunu__cesitli_ve_son_hukumler",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Çeşitli ve Son Hükümler"
+    },
+    {
+      "id": "657_sayili_devlet_memurlari_kanunu__disiplin_hukumleri",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Disiplin Hükümleri"
+    },
+    {
       "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
       "name": "Kanunun Kapsamı ve Dilekçe Hakkı"
@@ -150,156 +175,81 @@
       "regulation_id": "4734_sayili_kamu_ihale_kanunu",
       "name": "Yasaklar ve Cezalar"
     },
-{
-    "id": "4734_sayili_kamu_ihale_kanunu__genel_hukumler",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Genel Hükümler"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__ihale_komisyonu",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "İhale Komisyonu"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__yeterlik_kurallari",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Yeterlik Kuralları"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__yasaklar",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Yasaklar"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__ihale_usulleri",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "İhale Usulleri"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__dogrudan_temin",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Doğrudan Temin"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__ilan",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "İlan"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__tekliflerin_hazirlanmasi",
-    "regulation_id": "4734_kamu_ihale_kanunu",
-    "name": "Tekliflerin Hazırlanması"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__tanimlar",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Tanımlar"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__kamu_ihale_kurumu",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Kamu İhale Kurumu"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__sikayet_ve_itiraz",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Şikayet ve İtiraz"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__yasaklar_ve_ceza_sorumlulugu",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Yasaklar ve Ceza Sorumluluğu"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__teminatlar",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Teminatlar"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__sozlesme",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Sözleşme"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__ihaleye_katilim",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "İhaleye Katılım"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__genel_hukumler",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Genel Hükümler"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__ihale_komisyonu",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "İhale Komisyonu"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__yeterlik_kurallari",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Yeterlik Kuralları"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__yasaklar",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Yasaklar"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__ihale_usulleri",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "İhale Usulleri"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__dogrudan_temin",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Doğrudan Temin"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__ilan",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "İlan"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__tekliflerin_hazirlanmasi",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Tekliflerin Hazırlanması"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__tanimlar",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Tanımlar"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__kamu_ihale_kurumu",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Kamu İhale Kurumu"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__sikayet_ve_itiraz",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Şikayet ve İtiraz"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__yasaklar_ve_ceza_sorumlulugu",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Yasaklar ve Ceza Sorumluluğu"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__teminatlar",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Teminatlar"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__sozlesme",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "Sözleşme"
-  },
-  {
-    "id": "4734_sayili_kamu_ihale_kanunu__ihaleye_katilim",
-    "regulation_id": "4734_sayili_kamu_ihale_kanunu",
-    "name": "İhaleye Katılım"
-  },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__genel_hukumler",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Genel Hükümler"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__ihale_komisyonu",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "İhale Komisyonu"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__yeterlik_kurallari",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Yeterlik Kuralları"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__yasaklar",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Yasaklar"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__ihale_usulleri",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "İhale Usulleri"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__dogrudan_temin",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Doğrudan Temin"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__ilan",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "İlan"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__tekliflerin_hazirlanmasi",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Tekliflerin Hazırlanması"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__tanimlar",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Tanımlar"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__kamu_ihale_kurumu",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Kamu İhale Kurumu"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__sikayet_ve_itiraz",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Şikayet ve İtiraz"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__yasaklar_ve_ceza_sorumlulugu",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Yasaklar ve Ceza Sorumluluğu"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__teminatlar",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Teminatlar"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__sozlesme",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "Sözleşme"
+    },
+    {
+      "id": "4734_sayili_kamu_ihale_kanunu__ihaleye_katilim",
+      "regulation_id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "İhaleye Katılım"
+    },
     {
       "id": "4857_sayili_is_kanunu__is_sozlesmesi_turleri_ve_kurulmasi",
       "regulation_id": "4857_sayili_is_kanunu",
@@ -320,157 +270,156 @@
       "regulation_id": "4857_sayili_is_kanunu",
       "name": "Yıllık Ücretli İzin"
     },
-{
-    "id": "4857_sayili_is_kanunu__genel_hukumler",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Genel Hükümler"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__tanimlar",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Tanımlar"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__isyeri_bildirme",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "İşyeri Bildirme"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__istisnalar",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "İstisnalar"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__esit_davranma_ilkesi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Eşit Davranma İlkesi"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__isyerinin_devri",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "İşyerinin Devri"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__gecici_is_iliskisi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Geçici İş İlişkisi"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__deneme_sureli_is_sozlesmesi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Deneme Süreli İş Sözleşmesi"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__sureli_fesih",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Süreli Fesih"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__fesih_ve_ise_iade",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Fesih ve İşe İade"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__hakli_nedenle_fesih",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Haklı Nedenle Fesih"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__yeni_is_arama_izni",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Yeni İş Arama İzni"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__toplu_isci_cikarma",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Toplu İşçi Çıkarma"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__engelli_ve_eski_hukumlu",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Engelli ve Eski Hükümlü"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__ucret",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Ücret"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__hafta_tatili",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Hafta Tatili"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__calisma_suresi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Çalışma Süresi"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__ara_dinlenmesi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Ara Dinlenmesi"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__gece_calismasi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Gece Çalışması"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__cocuk_ve_genc_isciler",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Çocuk ve Genç İşçiler"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__analik_hali",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Analık Hali"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__isci_ozluk_dosyasi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "İşçi Özlük Dosyası"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__denetim_ve_teftis",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Denetim ve Teftiş"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__mafiyet",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Muafiyet"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__zabitaya_yardim",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Zabıtaya Yardım"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__ucret_kesme_cezasi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Ücret Kesme Cezası"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__asgari_ucret",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Asgari Ücret"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__yarim_ucret",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Yarım Ücret"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__zamanasimi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Zamanaşımı"
-  },
-  {
-    "id": "4857_sayili_is_kanunu__telafi_calismasi",
-    "regulation_id": "4857_sayili_is_kanunu",
-    "name": "Telafi Çalışması"
-  },	
-
+    {
+      "id": "4857_sayili_is_kanunu__genel_hukumler",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Genel Hükümler"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__tanimlar",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Tanımlar"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__isyeri_bildirme",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "İşyeri Bildirme"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__istisnalar",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "İstisnalar"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__esit_davranma_ilkesi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Eşit Davranma İlkesi"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__isyerinin_devri",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "İşyerinin Devri"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__gecici_is_iliskisi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Geçici İş İlişkisi"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__deneme_sureli_is_sozlesmesi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Deneme Süreli İş Sözleşmesi"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__sureli_fesih",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Süreli Fesih"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__fesih_ve_ise_iade",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Fesih ve İşe İade"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__hakli_nedenle_fesih",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Haklı Nedenle Fesih"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__yeni_is_arama_izni",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Yeni İş Arama İzni"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__toplu_isci_cikarma",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Toplu İşçi Çıkarma"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__engelli_ve_eski_hukumlu",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Engelli ve Eski Hükümlü"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__ucret",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Ücret"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__hafta_tatili",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Hafta Tatili"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__calisma_suresi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Çalışma Süresi"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__ara_dinlenmesi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Ara Dinlenmesi"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__gece_calismasi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Gece Çalışması"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__cocuk_ve_genc_isciler",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Çocuk ve Genç İşçiler"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__analik_hali",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Analık Hali"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__isci_ozluk_dosyasi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "İşçi Özlük Dosyası"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__denetim_ve_teftis",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Denetim ve Teftiş"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__mafiyet",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Muafiyet"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__zabitaya_yardim",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Zabıtaya Yardım"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__ucret_kesme_cezasi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Ücret Kesme Cezası"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__asgari_ucret",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Asgari Ücret"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__yarim_ucret",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Yarım Ücret"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__zamanasimi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Zamanaşımı"
+    },
+    {
+      "id": "4857_sayili_is_kanunu__telafi_calismasi",
+      "regulation_id": "4857_sayili_is_kanunu",
+      "name": "Telafi Çalışması"
+    },
     {
       "id": "4982_sayili_bilgi_edinme_hakki_kanunu__bilgi_edinme_hakki_ve_basvuru_usulu",
       "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
@@ -481,46 +430,46 @@
       "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
       "name": "İstisnalar ve Bilgi Edinme Kurulu"
     },
-{
-    "id": "4982_sayili_bilgi_edinme_hakki_kanunu__genel_hukumler",
-    "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-    "name": "Genel Hükümler"
-  },
-  {
-    "id": "4982_sayili_bilgi_edinme_hakki_kanunu__kapsam",
-    "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-    "name": "Kapsam"
-  },
-  {
-    "id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu",
-    "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-    "name": "Başvuru Usulü"
-  },
-  {
-    "id": "4982_sayili_bilgi_edinme_hakki_kanunu__cevaplama_sureleri",
-    "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-    "name": "Cevaplama Süreleri"
-  },
-  {
-    "id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
-    "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-    "name": "İstisnalar"
-  },
-  {
-    "id": "4982_sayili_bilgi_edinme_hakki_kanunu__itiraz_yolu",
-    "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-    "name": "İtiraz Yolu"
-  },
-  {
-    "id": "4982_sayili_bilgi_edinme_hakki_kanunu__ucretler",
-    "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-    "name": "Ücretler"
-  },
-  {
-    "id": "4982_sayili_bilgi_edinme_hakki_kanunu__yayinlama",
-    "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-    "name": "Yayınlama"
-  },	
+    {
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__genel_hukumler",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "Genel Hükümler"
+    },
+    {
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__kapsam",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "Kapsam"
+    },
+    {
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "Başvuru Usulü"
+    },
+    {
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__cevaplama_sureleri",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "Cevaplama Süreleri"
+    },
+    {
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "İstisnalar"
+    },
+    {
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__itiraz_yolu",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "İtiraz Yolu"
+    },
+    {
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__ucretler",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "Ücretler"
+    },
+    {
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu__yayinlama",
+      "regulation_id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "Yayınlama"
+    },
     {
       "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__butce_turleri_ve_hazirlanmasi",
       "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
@@ -536,76 +485,76 @@
       "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
       "name": "Harcama Yetkilisi ve Sorumluluk"
     },
-{
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__genel_hukumler",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Genel Hükümler"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__tanimlar",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Tanımlar"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__mali_saydamlik",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Mali Saydamlık"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__hesap_verilebilirlik",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Hesap Verilebilirlik"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__stratejik_plan",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Stratejik Plan"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__butce_hazirligi",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Bütçe Hazırlığı"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__butce_uygulamasi",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Bütçe Uygulaması"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__muhasebe_hizmeti",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Muhasebe Hizmeti"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__ic_kontrol",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "İç Kontrol"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__dis_denetim",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Dış Denetim"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__mali_hizmetler",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Mali Hizmetler"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__kamu_zarari",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Kamu Zararı"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__faaliyet_raporu",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "Faaliyet Raporu"
-  },
-  {
-    "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__ic_denetim",
-    "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-    "name": "İç Denetim"
-  },	
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__genel_hukumler",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Genel Hükümler"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__tanimlar",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Tanımlar"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__mali_saydamlik",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Mali Saydamlık"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__hesap_verilebilirlik",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Hesap Verilebilirlik"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__stratejik_plan",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Stratejik Plan"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__butce_hazirligi",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Bütçe Hazırlığı"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__butce_uygulamasi",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Bütçe Uygulaması"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__muhasebe_hizmeti",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Muhasebe Hizmeti"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__ic_kontrol",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "İç Kontrol"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__dis_denetim",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Dış Denetim"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__mali_hizmetler",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Mali Hizmetler"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__kamu_zarari",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Kamu Zararı"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__faaliyet_raporu",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "Faaliyet Raporu"
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__ic_denetim",
+      "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "İç Denetim"
+    },
     {
       "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isyeri_hekimi_ve_is_guvenligi_uzmani",
       "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
@@ -641,26 +590,26 @@
       "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
       "name": "Grev ve Lokavt"
     },
-{
-    "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tanimlar_ve_amac",
-    "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
-    "name": "Tanımlar ve Amaç"
-  },
-  {
-    "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__kurulus_esaslari",
-    "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
-    "name": "Kuruluş Esasları"
-  },
-  {
-    "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tebligat",
-    "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
-    "name": "Tebligat"
-  },
-  {
-    "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__cerceve_sozlesme",
-    "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
-    "name": "Çerçeve Sözleşme"
-  },	
+    {
+      "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tanimlar_ve_amac",
+      "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "name": "Tanımlar ve Amaç"
+    },
+    {
+      "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__kurulus_esaslari",
+      "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "name": "Kuruluş Esasları"
+    },
+    {
+      "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tebligat",
+      "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "name": "Tebligat"
+    },
+    {
+      "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__cerceve_sozlesme",
+      "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "name": "Çerçeve Sözleşme"
+    },
     {
       "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__genel_ilkeler_ve_tanimlar",
       "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
@@ -681,101 +630,101 @@
       "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
       "name": "Kişisel Verileri Koruma Kurumu ve Yaptırımlar"
     },
-{
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__amac_kapsam_ve_tanimlar",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Amaç, Kapsam ve Tanımlar"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__isleme_sartlari",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kişisel Verilerin İşlenme Şartları"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__silme_yok_etme",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kişisel Verilerin Silinmesi ve Yok Edilmesi"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__yurt_disina_aktarim",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kişisel Verilerin Yurt Dışına Aktarılması"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__aydinlatma_yukumlulugu",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Veri Sorumlusunun Aydınlatma Yükümlülüğü"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurula_sikayet",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kurula Şikâyet ve İnceleme"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_teskilat",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kişisel Verileri Koruma Kurumu"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_uyeleri",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kurul Üyelerinin Seçimi"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_calisma",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kurulun Çalışma Esasları"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kabahatler",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Suçlar ve Kabahatler"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__istisnalar",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "İstisnalar"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_gorevleri",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kurulun Görev ve Yetkileri"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__veri_sorumlulari_sicili",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Veri Sorumluları Sicili (VERBİS)"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__suclar",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Suçlar"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_gelirleri",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kurumun Gelirleri"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__personel",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Uzmanlık Kadroları"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__yururluk",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Yürütme Yetkisi"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__basvuru_usulu",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Veri Sorumlusuna Başvuru"
-  },
-  {
-    "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_kararlari",
-    "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-    "name": "Kurul Kararlarının Uygulanması"
-  },	
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__amac_kapsam_ve_tanimlar",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Amaç, Kapsam ve Tanımlar"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__isleme_sartlari",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kişisel Verilerin İşlenme Şartları"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__silme_yok_etme",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kişisel Verilerin Silinmesi ve Yok Edilmesi"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__yurt_disina_aktarim",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kişisel Verilerin Yurt Dışına Aktarılması"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__aydinlatma_yukumlulugu",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Veri Sorumlusunun Aydınlatma Yükümlülüğü"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurula_sikayet",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kurula Şikâyet ve İnceleme"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_teskilat",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kişisel Verileri Koruma Kurumu"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_uyeleri",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kurul Üyelerinin Seçimi"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_calisma",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kurulun Çalışma Esasları"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kabahatler",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Suçlar ve Kabahatler"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__istisnalar",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "İstisnalar"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_gorevleri",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kurulun Görev ve Yetkileri"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__veri_sorumlulari_sicili",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Veri Sorumluları Sicili (VERBİS)"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__suclar",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Suçlar"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_gelirleri",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kurumun Gelirleri"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__personel",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Uzmanlık Kadroları"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__yururluk",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Yürütme Yetkisi"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__basvuru_usulu",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Veri Sorumlusuna Başvuru"
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_kararlari",
+      "regulation_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "Kurul Kararlarının Uygulanması"
+    },
     {
       "id": "6735_sayili_uluslararasi_isgucu_kanunu__calisma_izni_turleri_ve_basvuru",
       "regulation_id": "6735_sayili_uluslararasi_isgucu_kanunu",
@@ -791,16 +740,16 @@
       "regulation_id": "6735_sayili_uluslararasi_isgucu_kanunu",
       "name": "İdari Yaptırımlar ve Sınır Dışı"
     },
-{
-    "id": "6735_sayili_uluslararasi_isgucu_kanunu__genel_hukumler",
-    "regulation_id": "6735_sayili_uluslararasi_isgucu_kanunu",
-    "name": "Uluslararası İşgücü Kanunu Genel Hükümler"
-  },
-  {
-    "id": "6735_sayili_uluslararasi_isgucu_kanunu__tanimlar",
-    "regulation_id": "6735_sayili_uluslararasi_isgucu_kanunu",
-    "name": "Tanımlar"
-  },	
+    {
+      "id": "6735_sayili_uluslararasi_isgucu_kanunu__genel_hukumler",
+      "regulation_id": "6735_sayili_uluslararasi_isgucu_kanunu",
+      "name": "Uluslararası İşgücü Kanunu Genel Hükümler"
+    },
+    {
+      "id": "6735_sayili_uluslararasi_isgucu_kanunu__tanimlar",
+      "regulation_id": "6735_sayili_uluslararasi_isgucu_kanunu",
+      "name": "Tanımlar"
+    },
     {
       "id": "7201_sayili_tebligat_kanunu__tebligat_usulu_ve_cesitleri",
       "regulation_id": "7201_sayili_tebligat_kanunu",
@@ -816,156 +765,41 @@
       "regulation_id": "7201_sayili_tebligat_kanunu",
       "name": "İlanen Tebligat"
     },
-{
-    "id": "7201_sayili_tebligat_kanunu__genel_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Tebligatın Yapılması ve Vasıtaları"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__elektronik_tebligat",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Elektronik Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Bilinen Adreste Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Vekile Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Askeri Şahıslara Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Tebliğ İmkansızlığı"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Yaş ve Ehliyet Şartı"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "İmza Edemeyecek Durumda Olmak"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__yabanci_memleket",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Yabancı Memlekette Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__ilanen_tebligat",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "İlanen Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Kazai Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Yalan Beyan Suçu"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Hükmi Şahıslara Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Aynı Konutta Oturanlara Tebliğ"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__ilanen_tebligat",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "İlan Şekli"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Yanlış Adres Bildirmek"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Tebliğ Evrakını Tahrip"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Mevkuf ve Mahkumlara Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Avukat Katiplerine Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__idari_tebligat",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "İdari Tebligat Tanımı"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__mali_tebligat",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Sayıştay Tebligatı"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__idari_tebligat",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Tapu İdarelerince Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Tebliğ Memurlarının Statüsü"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Bağımsız Bölüm Sahiplerine Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Vekillerin Birbirine Tebligatı"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Hasım Olma Durumu"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__idari_tebligat",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Temsilciye Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Tebliğ Evrakını Vermeme"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Cumhuriyet Başsavcılığına Tebligat"
-  },
-  {
-    "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
-    "regulation_id": "7201_sayili_tebligat_kanunu",
-    "name": "Vekillerin İlk Tebliği"
-  },	
+    {
+      "id": "7201_sayili_tebligat_kanunu__genel_hukumler",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "Tebligatın Yapılması ve Vasıtaları"
+    },
+    {
+      "id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "Bilinen Adreste Tebligat"
+    },
+    {
+      "id": "7201_sayili_tebligat_kanunu__yabanci_memleket",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "Yabancı Memlekette Tebligat"
+    },
+    {
+      "id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "Kazai Tebligat"
+    },
+    {
+      "id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "Yalan Beyan Suçu"
+    },
+    {
+      "id": "7201_sayili_tebligat_kanunu__idari_tebligat",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "İdari Tebligat Tanımı"
+    },
+    {
+      "id": "7201_sayili_tebligat_kanunu__mali_tebligat",
+      "regulation_id": "7201_sayili_tebligat_kanunu",
+      "name": "Sayıştay Tebligatı"
+    },
     {
       "id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_sorusturmasi_usulu",
       "regulation_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
@@ -976,16 +810,16 @@
       "regulation_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
       "name": "Arşiv Araştırması Kapsamı ve Sınırları"
     },
-{
-    "id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__amac_ve_kapsam",
-    "regulation_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
-    "name": "Amaç ve Kapsam"
-  },
-  {
-    "id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__tanimlar",
-    "regulation_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
-    "name": "Tanımlar"
-  },	
+    {
+      "id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__amac_ve_kapsam",
+      "regulation_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
+      "name": "Amaç ve Kapsam"
+    },
+    {
+      "id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__tanimlar",
+      "regulation_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
+      "name": "Tanımlar"
+    },
     {
       "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__csgb_teskilat_yapisi_altinci_kisim_ucuncu_bolum",
       "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
@@ -1031,16 +865,16 @@
       "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
       "name": "Sınav Usulü ve Atama Esasları"
     },
-{
-    "id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi__baslangic_hukumleri",
-    "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
-    "name": "Başlangıç Hükümleri"
-  },
-  {
-    "id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi__cesitli_hukumler",
-    "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
-    "name": "Çeşitli Hükümler"
-  },	
+    {
+      "id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi__baslangic_hukumleri",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
+      "name": "Başlangıç Hükümleri"
+    },
+    {
+      "id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi__cesitli_hukumler",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
+      "name": "Çeşitli Hükümler"
+    },
     {
       "id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi__disiplin_amirleri_listesi",
       "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
@@ -1051,21 +885,21 @@
       "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
       "name": "Disiplin Cezaları ve Uygulama Usulü"
     },
-{
-    "id": "csgb_disiplin_amirleri_amac",
-    "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
-    "name": "Başlangıç Hükümleri"
-  },
-  {
-    "id": "csgb_disiplin_amirleri_kapsam",
-    "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
-    "name": "Başlangıç Hükümleri"
-  },
-  {
-    "id": "csgb_disiplin_amirleri_strateji_ma_amir",
-    "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
-    "name": "Disiplin Amirleri Cetveli"
-  },	
+    {
+      "id": "csgb_disiplin_amirleri_amac",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "name": "Başlangıç Hükümleri"
+    },
+    {
+      "id": "csgb_disiplin_amirleri_kapsam",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "name": "Başlangıç Hükümleri"
+    },
+    {
+      "id": "csgb_disiplin_amirleri_strateji_ma_amir",
+      "regulation_id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "name": "Disiplin Amirleri Cetveli"
+    },
     {
       "id": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik__sikayet_ve_muracaat_basvuru_usulu",
       "regulation_id": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik",
@@ -1091,21 +925,21 @@
       "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
       "name": "İşyeri Hekimlerinin Görev ve Yetkileri"
     },
-{
-    "id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_tanimlar",
-    "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
-    "name": "Amaç, Kapsam, Dayanak ve Tanımlar"
-  },
-  {
-    "id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__tanimlar_ve_kisaltmalar",
-    "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
-    "name": "Tanımlar ve Kısaltmalar"
-  },
-  {
-    "id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__onayli_defter",
-    "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
-    "name": "Onaylı Defter"
-  },	
+    {
+      "id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_tanimlar",
+      "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
+      "name": "Amaç, Kapsam, Dayanak ve Tanımlar"
+    },
+    {
+      "id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__tanimlar_ve_kisaltmalar",
+      "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
+      "name": "Tanımlar ve Kısaltmalar"
+    },
+    {
+      "id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__onayli_defter",
+      "regulation_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
+      "name": "Onaylı Defter"
+    },
     {
       "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_davranis_ilkeleri",
       "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
@@ -1121,181 +955,181 @@
       "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
       "name": "Başvuru Usul ve Esasları"
     },
-{
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__amac_kapsam_ve_dayanak",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Amaç, Kapsam ve Dayanak"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kapsam",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Kapsam"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hukuki_dayanak",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Hukuki Dayanak"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__durustluk_ve_tarafsizlik",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Dürüstlük ve Tarafsızlık"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__sayginlik_ve_guven",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Saygınlık ve Güven"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yetkili_makamlara_bildirim",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Yetkili Makamlara Bildirim"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__cikar_catismasi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Çıkar Çatışması"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__menfaat_saglama_yasagi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Menfaat Sağlama Yasağı"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hediye_alma_yasagi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Hediye Alma Yasağı"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hediye_bildirimi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Hediye Bildirimi"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kamu_mallarinin_kullanimi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Kamu Mallarının Kullanımı"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__savurganliktan_kacinma",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Savurganlıktan Kaçınma"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__baglayici_aciklamalar",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Bağlayıcı Açıklamalar"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__saydamlik",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Saydamlık"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hesap_verme_sorumlulugu",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Hesap Verme Sorumluluğu"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__eski_kamu_gorevlileriyle_iliskiler",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Eski Kamu Görevlileriyle İlişkiler"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__mal_bildirimi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Mal Bildirimi"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_sozlesme",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Etik Sözleşme"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_komisyonu",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Etik Komisyonu"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__inceleme_ve_arastirma",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "İnceleme ve Araştırma"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_hakki",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Başvuru Hakkı"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_bicimleri",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Başvuru Biçimleri"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvurularin_incelenmesi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Başvuruların İncelenmesi"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__toplanma_ve_karar",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Toplanma ve Karar"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kararlarin_duyurulmasi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Kararların Duyurulması"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_suresi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Başvuru Süresi"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yurutme",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Yürütme"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hediye_yasagi_kapsami",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Hediye Yasağı Kapsamı"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_usulu",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Başvuru Usulü"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yargi_iliskisi",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Yargı İlişkisi"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__disiplin_kurullari",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Disiplin Kurulları"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__egitim",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Eğitim"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kurumsal_ilkeler",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Kurumsal İlkeler"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__sicil_ve_performans",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Sicil ve Performans"
-  },
-  {
-    "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yetki_alani",
-    "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-    "name": "Yetki Alanı"
-  },	
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__amac_kapsam_ve_dayanak",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Amaç, Kapsam ve Dayanak"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kapsam",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Kapsam"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hukuki_dayanak",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Hukuki Dayanak"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__durustluk_ve_tarafsizlik",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Dürüstlük ve Tarafsızlık"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__sayginlik_ve_guven",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Saygınlık ve Güven"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yetkili_makamlara_bildirim",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Yetkili Makamlara Bildirim"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__cikar_catismasi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Çıkar Çatışması"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__menfaat_saglama_yasagi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Menfaat Sağlama Yasağı"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hediye_alma_yasagi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Hediye Alma Yasağı"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hediye_bildirimi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Hediye Bildirimi"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kamu_mallarinin_kullanimi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Kamu Mallarının Kullanımı"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__savurganliktan_kacinma",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Savurganlıktan Kaçınma"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__baglayici_aciklamalar",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Bağlayıcı Açıklamalar"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__saydamlik",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Saydamlık"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hesap_verme_sorumlulugu",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Hesap Verme Sorumluluğu"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__eski_kamu_gorevlileriyle_iliskiler",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Eski Kamu Görevlileriyle İlişkiler"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__mal_bildirimi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Mal Bildirimi"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_sozlesme",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Etik Sözleşme"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_komisyonu",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Etik Komisyonu"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__inceleme_ve_arastirma",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "İnceleme ve Araştırma"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_hakki",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Başvuru Hakkı"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_bicimleri",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Başvuru Biçimleri"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvurularin_incelenmesi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Başvuruların İncelenmesi"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__toplanma_ve_karar",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Toplanma ve Karar"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kararlarin_duyurulmasi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Kararların Duyurulması"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_suresi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Başvuru Süresi"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yurutme",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Yürütme"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hediye_yasagi_kapsami",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Hediye Yasağı Kapsamı"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_usulu",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Başvuru Usulü"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yargi_iliskisi",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Yargı İlişkisi"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__disiplin_kurullari",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Disiplin Kurulları"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__egitim",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Eğitim"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kurumsal_ilkeler",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Kurumsal İlkeler"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__sicil_ve_performans",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Sicil ve Performans"
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yetki_alani",
+      "regulation_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Yetki Alanı"
+    },
     {
       "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildirimi_kapsami_ve_yukumluler",
       "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
@@ -1306,21 +1140,21 @@
       "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
       "name": "Bildirim Süreleri ve Usulü"
     },
-{
-    "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__genel_hukumler",
-    "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
-    "name": "Genel Hükümler"
-  },
-  {
-    "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__birden_fazla_mal_bildirimi",
-    "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
-    "name": "Birden Fazla Mal Bildirimi"
-  },
-  {
-    "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__idare_meclisi_bildirimi",
-    "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
-    "name": "İdare Meclisi Bildirimi"
-  },	
+    {
+      "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__genel_hukumler",
+      "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
+      "name": "Genel Hükümler"
+    },
+    {
+      "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__birden_fazla_mal_bildirimi",
+      "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
+      "name": "Birden Fazla Mal Bildirimi"
+    },
+    {
+      "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__idare_meclisi_bildirimi",
+      "regulation_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
+      "name": "İdare Meclisi Bildirimi"
+    },
     {
       "id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__yazi_bicimleri_olur_yazisma_ust_yazi",
       "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
@@ -1341,26 +1175,6 @@
       "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
       "name": "Yazım Kuralları ve Kısaltmalar"
     },
-{
-    "id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__yazi_bicimleri_olur_yazisma_ust_yazi",
-    "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
-    "name": "Yazı Biçimleri (Olur, Yazışma, Üst Yazı)"
-  },
-  {
-    "id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__yazinin_unsurlari_baslik_imza_ek_dagitim",
-    "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
-    "name": "Yazının Unsurları (Başlık, İmza, Ek, Dağıtım)"
-  },
-  {
-    "id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__elektronik_ortamda_yazisma",
-    "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
-    "name": "Elektronik Ortamda Yazışma"
-  },
-  {
-    "id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__yazim_kurallari_ve_kisaltmalar",
-    "regulation_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
-    "name": "Yazım Kuralları ve Kısaltmalar"
-  },	
     {
       "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_basvuru_belgeleri_ve_sureci",
       "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
@@ -1371,241 +1185,241 @@
       "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
       "name": "İzin Uzatma ve İptal Esasları"
     },
-{
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__tanimlar_ve_genel_hukumler",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Tanımlar ve Genel Hükümler"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_basvuru_usulu",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Çalışma İzni Başvuru Usulü"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_sureleri",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Çalışma İzni Süreleri"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_muafiyeti",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Çalışma İzni Muafiyeti"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sure_uzatma_basvurulari",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Süre Uzatma Başvuruları"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izninin_iptali",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Çalışma İzninin İptali"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__nitelikli_isgucu_ve_yatirimci",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Nitelikli İşgücü ve Yatırımcı"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__yabanci_ogrenciler",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Yabancı Öğrenciler"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__bildirim_yukumlulugu",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Bildirim Yükümlülüğü"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__on_izin",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Ön İzin"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__idari_itiraz",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "İdari İtiraz"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__kktc_vatandaslari",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "KKTC Vatandaşları"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sporcu_muafiyetleri",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Sporcu Muafiyetleri"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__belge_eksikligi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Belge Eksikliği"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__mavi_kart_sahipleri",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Mavi Kart Sahipleri"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__degerlendirme_suresi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Değerlendirme Süresi"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__muhendis_ve_mimarlar",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Mühendis ve Mimarlar"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__iptal_sartlari",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "İptal Şartları"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__harclar",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Harçlar"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sistem_ve_dil",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Sistem ve Dil"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__turizm_muafiyetleri",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Turizm Muafiyetleri"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__suresiz_calisma_izni",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Süresiz Çalışma İzni"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__askiya_alma",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "İznin Askıya Alınması"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__nitelikli_isgucu_kriterleri",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Nitelikli İşgücü Kriterleri"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__evli_yabancilar",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Evli Yabancılar"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__iptal_bildirim",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Belge İadesi"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sinir_disi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Sınır Dışı"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__ikamet_sarti",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "İkamet Şartı"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__denetim",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Denetim"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__gemiadami_muafiyeti",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Gemiadamı Muafiyeti"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__elektronik_tebligat",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Elektronik Tebligat"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calismaya_devam",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Çalışmaya Devam"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__referans_numarasi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Referans Numarası"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__kayip_belgeler",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Kayıp Belgeler"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__izin_ve_pasaport_iliskisi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "İzin ve Pasaport İlişkisi"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__is_ve_meslek_kisiti",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "İş ve Meslek Kısıtı"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__yeni_basvuru_suresi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Yeni Başvuru Süresi"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sirket_ici_degisim",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Şirket İçi Değişim"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__tanitim_ofisi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Tanıtım Ofisi"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__genel_tanimlar",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Genel Tanımlar"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__itiraz_mercisi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "İtiraz Usulü"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sgk_bildirimi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "SGK Bildirimi"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__stajyer_muafiyeti",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Stajyer Muafiyeti"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sube_degisikligi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Şube Değişikliği"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__bilgi_talebi",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Bilgi Talebi"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__yurda_giris_ve_baslama",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Yurda Giriş ve Başlama"
-  },
-  {
-    "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__egitim_on_izni",
-    "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-    "name": "Eğitim Ön İzni"
-  }	
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__tanimlar_ve_genel_hukumler",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Tanımlar ve Genel Hükümler"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_basvuru_usulu",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Çalışma İzni Başvuru Usulü"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_sureleri",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Çalışma İzni Süreleri"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_muafiyeti",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Çalışma İzni Muafiyeti"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sure_uzatma_basvurulari",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Süre Uzatma Başvuruları"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izninin_iptali",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Çalışma İzninin İptali"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__nitelikli_isgucu_ve_yatirimci",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Nitelikli İşgücü ve Yatırımcı"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__yabanci_ogrenciler",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Yabancı Öğrenciler"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__bildirim_yukumlulugu",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Bildirim Yükümlülüğü"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__on_izin",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Ön İzin"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__idari_itiraz",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "İdari İtiraz"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__kktc_vatandaslari",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "KKTC Vatandaşları"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sporcu_muafiyetleri",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Sporcu Muafiyetleri"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__belge_eksikligi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Belge Eksikliği"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__mavi_kart_sahipleri",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Mavi Kart Sahipleri"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__degerlendirme_suresi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Değerlendirme Süresi"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__muhendis_ve_mimarlar",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Mühendis ve Mimarlar"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__iptal_sartlari",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "İptal Şartları"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__harclar",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Harçlar"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sistem_ve_dil",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Sistem ve Dil"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__turizm_muafiyetleri",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Turizm Muafiyetleri"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__suresiz_calisma_izni",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Süresiz Çalışma İzni"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__askiya_alma",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "İznin Askıya Alınması"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__nitelikli_isgucu_kriterleri",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Nitelikli İşgücü Kriterleri"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__evli_yabancilar",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Evli Yabancılar"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__iptal_bildirim",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Belge İadesi"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sinir_disi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Sınır Dışı"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__ikamet_sarti",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "İkamet Şartı"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__denetim",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Denetim"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__gemiadami_muafiyeti",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Gemiadamı Muafiyeti"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__elektronik_tebligat",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Elektronik Tebligat"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calismaya_devam",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Çalışmaya Devam"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__referans_numarasi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Referans Numarası"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__kayip_belgeler",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Kayıp Belgeler"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__izin_ve_pasaport_iliskisi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "İzin ve Pasaport İlişkisi"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__is_ve_meslek_kisiti",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "İş ve Meslek Kısıtı"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__yeni_basvuru_suresi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Yeni Başvuru Süresi"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sirket_ici_degisim",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Şirket İçi Değişim"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__tanitim_ofisi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Tanıtım Ofisi"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__genel_tanimlar",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Genel Tanımlar"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__itiraz_mercisi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "İtiraz Usulü"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sgk_bildirimi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "SGK Bildirimi"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__stajyer_muafiyeti",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Stajyer Muafiyeti"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sube_degisikligi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Şube Değişikliği"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__bilgi_talebi",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Bilgi Talebi"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__yurda_giris_ve_baslama",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Yurda Giriş ve Başlama"
+    },
+    {
+      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__egitim_on_izni",
+      "regulation_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
+      "name": "Eğitim Ön İzni"
+    },
     {
       "id": "genel_kultur_ve_genel_yetenek__guncel_olaylar_ve_genel_kultur",
       "regulation_id": "genel_kultur_ve_genel_yetenek",
@@ -1835,36 +1649,6 @@
       "id": "alan_bilgisi_programci__nesne_yonelimli_programlama_c",
       "regulation_id": "alan_bilgisi_programci",
       "name": "Nesne Yönelimli Programlama (C#)"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__genel_hukumler_ve_temel_kavramlar",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Genel Hükümler ve Temel Kavramlar"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__memurlarin_odev_ve_sorumluluklari",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Memurların Ödev ve Sorumlulukları"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__memurlarin_haklari",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Memurların Hakları"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__devlet_memurluguna_alinma_sartlari",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Devlet Memurluğuna Alınma Şartları"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__cesitli_ve_son_hukumler",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Çeşitli ve Son Hükümler"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__disiplin_hukumleri",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Disiplin Hükümleri"
     }
   ]
 }
