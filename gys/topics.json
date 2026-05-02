@@ -2729,6 +2729,26 @@
       "id": "turkiye_cumhuriyeti_anayasasi__anayasanin_degistirilmesi_ve_uygulanmasi",
       "regulation_id": "turkiye_cumhuriyeti_anayasasi",
       "name": "Anayasanın Değiştirilmesi ve Uygulanması"
-    }
+    },
+{
+      "id": "genel_kultur__tarih",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Tarih"
+    },
+    {
+      "id": "genel_kultur__cografya",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Coğrafya"
+    },
+    {
+      "id": "genel_kultur__vatandaslik",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Vatandaşlık"
+    },
+    {
+      "id": "genel_kultur__sanat_ve_bilim",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Sanat ve Bilim"
+    }	
   ]
 }
