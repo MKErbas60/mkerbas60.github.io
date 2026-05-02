@@ -175,6 +175,41 @@
       "regulation_id": "4857_sayili_is_kanunu",
       "name": "Telafi Çalışması"
     },
+	{
+      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__genel_hukumler_amac_ve_kapsam",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "Genel Hükümler, Amaç ve Kapsam"
+    },
+    {
+      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__tanimlar",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "Tanımlar"
+    },
+    {
+      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_yukumlulukleri_ve_risk_degerlendirmesi",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "İşveren Yükümlülükleri ve Risk Değerlendirmesi"
+    },
+    {
+      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__is_sagligi_ve_guvenligi_hizmetleri",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "İş Sağlığı ve Güvenliği Hizmetleri"
+    },
+    {
+      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__calisanlarin_hak_ve_yukumlulukleri",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "Çalışanların Hak ve Yükümlülükleri"
+    },
+    {
+      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isg_kurullari_uzmanlar_ve_hekimler",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "İSG Kurulları, Uzmanlar ve Hekimler"
+    },
+    {
+      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__denetim_idari_para_cezalari_ve_son_hukumler",
+      "regulation_id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "Denetim, İdari Para Cezaları ve Son Hükümler"
+    },
     {
       "id": "6356_sayili_kanun_tanimlar_ve_amac",
       "regulation_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
