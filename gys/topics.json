@@ -1,5 +1,25 @@
 {
   "topics": [
+	{
+      "id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
+      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
+      "name": "Kurtuluş Savaşı Hazırlık Dönemi"
+    },
+    {
+      "id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
+      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
+      "name": "Kurtuluş Savaşı Cepheler"
+    },
+    {
+      "id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
+      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
+      "name": "Atatürk İlkeleri"
+    },
+    {
+      "id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
+      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
+      "name": "Atatürk İnkılapları"
+    },
     {
       "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
@@ -2730,7 +2750,7 @@
       "regulation_id": "turkiye_cumhuriyeti_anayasasi",
       "name": "Anayasanın Değiştirilmesi ve Uygulanması"
     },
-{
+	{
       "id": "genel_kultur__tarih",
       "regulation_id": "genel_kultur_ve_genel_yetenek",
       "name": "Tarih"
@@ -2749,26 +2769,6 @@
       "id": "genel_kultur__sanat_ve_bilim",
       "regulation_id": "genel_kultur_ve_genel_yetenek",
       "name": "Sanat ve Bilim"
-    },
-	{
-      "id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
-      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
-      "name": "Kurtuluş Savaşı Hazırlık Dönemi"
-    },
-    {
-      "id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
-      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
-      "name": "Kurtuluş Savaşı Cepheler"
-    },
-    {
-      "id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
-      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
-      "name": "Atatürk İlkeleri"
-    },
-    {
-      "id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
-      "name": "Atatürk İnkılapları"
     }	
   ]
 }
