@@ -2814,7 +2814,26 @@
       "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__danisma_yardimci_birimler",
       "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
       "name": "Danışma ve Yardımcı Birimler: Basın, Özel Kalem, Çalışma Meclisi (Madde 96/D–96/G)"
-    }
-	
+    },
+    {
+      "id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)"
+    },
+    {
+      "id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)"
+    },
+    {
+      "id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)"
+    },
+    {
+      "id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)"
+    }	
   ]
 }
