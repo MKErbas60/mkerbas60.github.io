@@ -2834,6 +2834,96 @@
       "id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
       "name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)"
-    }	
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Ses Bilgisi (Fonoloji)"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__hece_bilgisi",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Hece Bilgisi"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Yazım Kuralları (İmla)"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Noktalama İşaretleri"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__kelime_turleri",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Kelime Türleri"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "İsim ve Zamir"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__sifat_ve_zarf",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Sıfat ve Zarf"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Fiil ve Fiil Çekimi"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__ekler_ve_yapim_ekleri",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Ekler ve Yapım Ekleri"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Kelime Yapısı ve Türetme"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Cümle Bilgisi"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__cumle_turleri",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Cümle Türleri"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Anlam Bilgisi (Semantik)"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Deyim ve Atasözleri"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Anlatım Biçimleri ve Metin Türleri"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Paragraf ve Ana Düşünce"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Dil ve Anlatım Yanlışlıkları"
+    },
+    {
+      "id": "turkce_ve_dil_bilgisi__sozlu_anlatim_ve_konusma_kurallari",
+      "regulation_id": "turkce_ve_dil_bilgisi",
+      "name": "Sözlü Anlatım ve Konuşma Kuralları"
+    }
   ]
 }
