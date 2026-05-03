@@ -2769,6 +2769,52 @@
       "id": "genel_kultur__sanat_ve_bilim",
       "regulation_id": "genel_kultur_ve_genel_yetenek",
       "name": "Sanat ve Bilim"
-    }	
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__bakanligin_gorevi",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Bakanlığın Görevi ve Yetkileri (Madde 86)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__bakanligin_teskilati",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Bakanlığın Teşkilatı (Madde 87)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__hizmet_birimleri",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Hizmet Birimleri (Madde 88)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__calisma_genel_mudurlugu",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Çalışma Genel Müdürlüğü (Madde 89)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__isg_genel_mudurlugu",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "İş Sağlığı ve Güvenliği Genel Müdürlüğü (Madde 90)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__uluslararasi_isgucu_genel_mudurlugu",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Uluslararası İşgücü Genel Müdürlüğü (Madde 91)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__dis_iliskiler_ab_genel_mudurlugu",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Dış İlişkiler ve Avrupa Birliği Genel Müdürlüğü (Madde 92)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__diger_hizmet_birimleri",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Diğer Hizmet Birimleri: Hukuk, BT, Rehberlik, Strateji, Personel, Destek (Madde 93–96/C)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__danisma_yardimci_birimler",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Danışma ve Yardımcı Birimler: Basın, Özel Kalem, Çalışma Meclisi (Madde 96/D–96/G)"
+    }
+	
   ]
 }
