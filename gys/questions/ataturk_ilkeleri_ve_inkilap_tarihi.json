@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc01",
+      "id": "952a97c3-beee-43e5-931f-1826952be716",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal Atatürk'ün 'Milli sınırlar içinde vatan bir bütündür, parçalanamaz' ifadesi ilk kez nerede kullanılmıştır?",
@@ -14,7 +14,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc02",
+      "id": "3c5503b8-0e8e-4122-b4db-d6ae48a7d71d",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amasya Genelgesi'nin önemi nedir?",
@@ -27,7 +27,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc03",
+      "id": "76e71d9f-98e2-4379-9d5e-e8b25a7db85a",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
       "question_text": "Kurtuluş Savaşı'nda Batı Cephesi'nde Yunanlılara karşı kazanılan ilk zafer hangisidir?",
@@ -40,7 +40,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc04",
+      "id": "e1aa5ee2-7bb3-4d28-8388-f508a069fa0d",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Atatürk'ün 'Egemenlik, kayıtsız şartsız milletindir' sözü hangi ilkesiyle doğrudan ilgilidir?",
@@ -53,7 +53,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc05",
+      "id": "8d958beb-0bf7-49b2-a24a-a96b7b26a7cc",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Saltanat hangi tarihte kaldırılmıştır?",
@@ -66,7 +66,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc06",
+      "id": "10d158c4-f48a-4857-a954-a4f1d037eb39",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Aşağıdakilerden hangisi 3 Mart 1924'te gerçekleştirilen inkılaplardan biri değildir?",
@@ -79,7 +79,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc07",
+      "id": "9dfffc26-f907-44a0-99ba-0affc2328468",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Devletçilik ilkesi temel olarak hangi alandaki eksikliği gidermek için uygulanmıştır?",
@@ -92,7 +92,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc08",
+      "id": "c475f4e9-b5ea-492a-95e1-cadfea22bff1",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Misak-ı Milli kararları hangi meclis tarafından kabul edilmiştir?",
@@ -105,7 +105,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc09",
+      "id": "2ea05b42-8b4f-4d82-bb9c-9bc4b36f71b6",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Laiklik ilkesinin en temel amacı nedir?",
@@ -118,7 +118,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc10",
+      "id": "743e966b-5607-499f-84be-c230dc292e31",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türk kadınına seçme ve seçilme hakkı hangi yıl tam olarak tanınmıştır?",
@@ -131,7 +131,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc11",
+      "id": "29d85acf-0465-4fd8-baf4-063c3d2c3746",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
       "question_text": "Doğu Cephesi'nde hangi devletle savaşılmıştır?",
@@ -144,7 +144,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc12",
+      "id": "882b63d7-a2ed-436b-b874-6681b3b46a60",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Aşağıdakilerden hangisi Atatürk'ün 'Bütünleyici İlkeleri' arasında yer alır?",
@@ -157,7 +157,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc13",
+      "id": "c228f0d1-45e4-4c63-986e-bf60830bb488",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal'in '9. Ordu Müfettişi' olarak Anadolu'ya gönderilme amacı nedir?",
@@ -170,7 +170,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc14",
+      "id": "b93adb4e-b163-42d3-8cd3-fc70492cc719",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Yeni Türk Harfleri ne zaman kabul edilmiştir?",
@@ -183,7 +183,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc15",
+      "id": "83d23ebe-c370-416c-86b5-ea3fbcef25ae",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Atatürkçü düşünce sisteminde 'Aklın ve bilimin rehberliği' hangi ilkenin sonucudur?",
@@ -196,7 +196,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc16",
+      "id": "511041af-e8dc-43ac-9cec-c54180c411c0",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
       "question_text": "Güney Cephesi'nde hangi devletle mücadele edilmiştir?",
@@ -209,7 +209,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc17",
+      "id": "fcaff216-f5e1-4d87-a785-c51268cfac94",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Temsil Heyeti hangi kongrede oluşturulmuştur?",
@@ -222,7 +222,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc18",
+      "id": "7c8d796d-ede7-475e-85f0-3ff4185d234c",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Soyadı Kanunu hangi yıl kabul edilmiştir?",
@@ -235,7 +235,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc19",
+      "id": "d21a1a18-2731-4b95-800d-3b534a061247",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Halkçılık ilkesinin en temel amacı nedir?",
@@ -248,7 +248,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc20",
+      "id": "7c52d0b0-cd2e-445d-8415-cad3e063cda6",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal'in 'Ya istiklal ya ölüm' sözü hangi dönemde söylenmiştir?",
@@ -261,7 +261,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc21",
+      "id": "9c7bc6ee-62ad-46ef-8051-6becee107dbd",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Medeni Kanun hangi ülkeden örnek alınarak hazırlanmıştır?",
@@ -274,7 +274,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc22",
+      "id": "a07eb89b-f64c-429c-89f8-5e51cb2f816b",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Milliyetçilik ilkesinin temelinde ne vardır?",
@@ -287,7 +287,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc23",
+      "id": "1d1b90c0-8ce4-461c-a059-474ac283fdce",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
       "question_text": "Sakarya Meydan Muharebesi'nin sonucu nedir?",
@@ -300,7 +300,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc24",
+      "id": "ad12c58f-9d23-4894-9614-4e840360ef04",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal'in 'Milletin bağımsızlığını, yine milletin azim ve kararı kurtaracaktır' sözü nerede geçmektedir?",
@@ -313,7 +313,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc25",
+      "id": "804882c2-1b51-426a-a2dc-b9b0f2848ca4",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Kılık kıyafet düzenlemesi ne zaman yapılmıştır?",
@@ -326,7 +326,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc26",
+      "id": "743a06ea-5daa-4ed7-9708-2efed968d7a7",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "İnkılapçılık ilkesinin en temel amacı nedir?",
@@ -339,7 +339,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc27",
+      "id": "fc80a5fd-3e93-4c75-95cf-5c43cef3322a",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
       "question_text": "Kurtuluş Savaşı'nda Batı Cephesi'nde son savaş hangisidir?",
@@ -352,7 +352,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc28",
+      "id": "77dd9396-c802-4678-8d60-f26b50fb9d5c",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Sivas Kongresi'nde hangi cemiyetler birleştirilmiştir?",
@@ -365,7 +365,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc29",
+      "id": "526cde63-6670-4981-bcb4-e307e70ce94d",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Aşar vergisinin kaldırılması hangi ilke ile ilgilidir?",
@@ -378,7 +378,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc30",
+      "id": "a11b28f6-b215-44e4-b4c3-f424feba8eda",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Atatürk ilkelerinin ortak amacı nedir?",
@@ -391,7 +391,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc31",
+      "id": "e1b8219f-36e3-45b8-96c6-0d09a67349e7",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal'in askerlik görevinden istifa ettiği yer neresidir?",
@@ -404,7 +404,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc32",
+      "id": "b4208d16-cd99-41d4-81f5-36ea8a740122",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Kabotaj Kanunu hangi ilke ile ilgilidir?",
@@ -417,7 +417,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc33",
+      "id": "6a6a0374-4f52-4bf5-850a-4acdfb64ca2b",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Cumhuriyetçilik ilkesinin temel özelliği nedir?",
@@ -430,7 +430,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc34",
+      "id": "7769e71b-aff0-49d0-bd42-c7db95a7edb2",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
       "question_text": "İstiklal Marşı'mız hangi savaş sonrasında kabul edilmiştir?",
@@ -443,7 +443,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc35",
+      "id": "1eb09e9a-5ba2-402e-b5b8-ed870cf7bb2b",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türk Dil Kurumu ne zaman kurulmuştur?",
@@ -456,7 +456,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc36",
+      "id": "ff169137-d8f9-47a6-a7c2-39d76fa3173d",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Kurtuluş Savaşı'nın yol haritası nerede belirlenmiştir?",
@@ -469,7 +469,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc37",
+      "id": "f08c8d8d-9179-4952-8efb-d2529a2a6b77",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Atatürk ilkelerinden hangisi yenilikçi ve değişime açık olmayı savunur?",
@@ -482,7 +482,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc38",
+      "id": "6a8abd0a-48c6-4ca6-adf4-30fb8d63dfb9",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
       "question_text": "Kurtuluş Savaşı hangi antlaşma ile askeri safhası sona ermiştir?",
@@ -495,7 +495,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc39",
+      "id": "e2a4b582-4f33-4aa4-af97-a3df5892230f",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Halifelik ne zaman kaldırılmıştır?",
@@ -508,7 +508,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc40",
+      "id": "e4e73906-9eee-48a2-bc49-2f1ca6f0007a",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Atatürk'ün milliyetçilik ilkesinin temel özelliği nedir?",
@@ -521,7 +521,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc41",
+      "id": "643d5908-9b5b-4b12-847d-35ad3d187cf4",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Milli Mücadele'nin ilk kongresi hangisidir?",
@@ -534,7 +534,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc42",
+      "id": "f336467d-188b-42dd-9116-5c40f0e0d470",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Miladi takvimin kabulü hangi yıl olmuştur?",
@@ -547,7 +547,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc43",
+      "id": "862ea494-4330-4cf8-a681-9d8c9ec3d074",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Laiklik hangi anayasa değişikliği ile anayasaya girmiştir?",
@@ -560,7 +560,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc44",
+      "id": "b60d66b9-ba49-472d-bb85-4ded74cb3424",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
       "question_text": "Kurtuluş Savaşı'nda hangi antlaşma ile Ermenilerle savaş sona ermiştir?",
@@ -573,7 +573,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc45",
+      "id": "3bee6106-4820-4472-ae80-7fa63dcba299",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Hangi gelişme Türk kadınına siyasi hakkını tam olarak kazandırmıştır?",
@@ -586,7 +586,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc46",
+      "id": "bbf5e808-9853-47e4-91c2-3c35dd80bbc0",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Devletçilik ilkesi ne zaman uygulanmaya başlanmıştır?",
@@ -599,7 +599,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc47",
+      "id": "4211b4b4-4ab9-4951-95e7-48ffc844dabe",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amasya Görüşmeleri kim ile kim arasında yapılmıştır?",
@@ -612,7 +612,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc48",
+      "id": "e85bc9a4-5333-48b0-aa85-e21a0a4049f9",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türk Tarih Kurumu ne zaman kurulmuştur?",
@@ -625,7 +625,7 @@
       "difficulty": 3
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc49",
+      "id": "43237274-4737-494a-8adb-d42d048eeb39",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
       "question_text": "Laiklik ilkesinin Türk toplumuna sağladığı en önemli avantaj nedir?",
@@ -638,7 +638,7 @@
       "difficulty": 2
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8012-3456789abc50",
+      "id": "121988b1-4277-4d64-98f7-31d96dd2800d",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
       "question_text": "Büyük Taarruz hangi tarihte başlamıştır?",
