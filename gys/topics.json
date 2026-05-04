@@ -2751,25 +2751,75 @@
       "name": "Anayasanın Değiştirilmesi ve Uygulanması"
     },
 	{
-      "id": "genel_kultur__tarih",
+      "id": "genel_kultur_ve_genel_yetenek__tarih",
       "regulation_id": "genel_kultur_ve_genel_yetenek",
       "name": "Tarih"
     },
     {
-      "id": "genel_kultur__cografya",
+      "id": "genel_kultur_ve_genel_yetenek__cografya",
       "regulation_id": "genel_kultur_ve_genel_yetenek",
       "name": "Coğrafya"
     },
     {
-      "id": "genel_kultur__vatandaslik",
+      "id": "genel_kultur_ve_genel_yetenek__vatandaslik",
       "regulation_id": "genel_kultur_ve_genel_yetenek",
       "name": "Vatandaşlık"
     },
     {
-      "id": "genel_kultur__sanat_ve_bilim",
+      "id": "genel_kultur_ve_genel_yetenek__sanat_ve_bilim",
       "regulation_id": "genel_kultur_ve_genel_yetenek",
       "name": "Sanat ve Bilim"
     },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__tarih",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Tarih"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__cografya",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Coğrafya"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__vatandaslik",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Vatandaşlık"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__sanat_ve_bilim",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Sanat ve Bilim"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__guncel_konular",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Güncel Konular"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__ekonomi",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Ekonomi"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__dil_ve_edebiyat",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Dil ve Edebiyat"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__matematik_ve_mantik",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Matematik ve Mantık"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__fen_bilimleri",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Fen Bilimleri"
+    },
+    {
+      "id": "genel_kultur_ve_genel_yetenek__uluslararasi_iliskiler",
+      "regulation_id": "genel_kultur_ve_genel_yetenek",
+      "name": "Uluslararası İlişkiler"
+    },	
     {
       "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__bakanligin_gorevi",
       "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
