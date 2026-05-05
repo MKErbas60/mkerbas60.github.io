@@ -2,7 +2,7 @@
   "questions": [
     {
       "id": "2d1f4a9b-8e3c-4d2a-9f1b-5e6c7d8a9b01",
-      "topic_id": "6698_sayili_kvkk_amac_kapsam_ve_tanimlar",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__amac_kapsam_ve_tanimlar",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "6698 sayılı Kişisel Verilerin Korunması Kanunu'nun 3. maddesi uyarınca, 'kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgi' olarak tanımlanan kavram nedir?",
       "option_a": "İlgili kişi",
@@ -15,7 +15,7 @@
     },
     {
       "id": "a1b2c3d4-e5f6-4a5b-bcde-f12345678902",
-      "topic_id": "6698_sayili_kvkk_genel_ilkeler",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__genel_ilkeler",
       "topic_name": "Kişisel Verilerin İşlenmesinde Genel İlkeler",
       "question_text": "6698 sayılı Kanun'un 4. maddesi uyarınca, kişisel verilerin işlenmesinde uyulması zorunlu olan temel ilkelerden hangisi yanlıştır?",
       "option_a": "Hukuka ve dürüstlük kurallarına uygun olma",
@@ -28,7 +28,7 @@
     },
     {
       "id": "f9e8d7c6-b5a4-4321-8765-432109876503",
-      "topic_id": "6698_sayili_kvkk_isleme_sartlari",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__isleme_sartlari",
       "topic_name": "Kişisel Verilerin İşlenme Şartları",
       "question_text": "6698 sayılı Kanun'un 5. maddesine göre, kişisel verilerin işlenebilmesi için temel kural olarak aşağıdakilerden hangisinin varlığı aranır?",
       "option_a": "Veri sorumlusunun kendi kararı",
@@ -41,7 +41,7 @@
     },
     {
       "id": "bcde1234-5678-90ab-cdef-123456789004",
-      "topic_id": "6698_sayili_kvkk_ozel_nitelikli_veriler",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__ozel_nitelikli_veriler",
       "topic_name": "Özel Nitelikli Kişisel Veriler",
       "question_text": "6698 sayılı Kanun'un 6. maddesi kapsamında, aşağıdakilerden hangisi 'özel nitelikli kişisel veri' kapsamına girmez?",
       "option_a": "Siyasi düşünce",
@@ -54,7 +54,7 @@
     },
     {
       "id": "76543210-fedc-ba98-7654-3210abcdef05",
-      "topic_id": "6698_sayili_kvkk_silme_yok_etme",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__silme_yok_etme",
       "topic_name": "Kişisel Verilerin Silinmesi ve Yok Edilmesi",
       "question_text": "6698 sayılı Kanun'un 7. maddesi uyarınca, verilerin işlenmesini gerektiren sebepler ortadan kalktığında verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi süreci kim tarafından yürütülür?",
       "option_a": "Sadece mahkeme kararıyla",
@@ -67,7 +67,7 @@
     },
     {
       "id": "11223344-5566-7788-9900-aabbccddeeff",
-      "topic_id": "6698_sayili_kvkk_yurt_disina_aktarim",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__yurt_disina_aktarim",
       "topic_name": "Kişisel Verilerin Yurt Dışına Aktarılması",
       "question_text": "6698 sayılı Kanun'un 9. maddesine göre, kişisel verilerin yurt dışına aktarılmasında yeterlilik kararını verme yetkisi hangi makama aittir?",
       "option_a": "Cumhurbaşkanlığı",
@@ -80,7 +80,7 @@
     },
     {
       "id": "abcdef12-3456-7890-abcd-ef1234567807",
-      "topic_id": "6698_sayili_kvkk_aydinlatma_yukumlulugu",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__aydinlatma_yukumlulugu",
       "topic_name": "Veri Sorumlusunun Aydınlatma Yükümlülüğü",
       "question_text": "6698 sayılı Kanun'un 10. maddesi uyarınca, veri sorumlusunun aydınlatma yükümlülüğü kapsamında aşağıdakilerden hangisini belirtmesi zorunlu değildir?",
       "option_a": "Veri sorumlusunun kimliği",
@@ -93,7 +93,7 @@
     },
     {
       "id": "98765432-10ab-cdef-0123-456789abcdef",
-      "topic_id": "6698_sayili_kvkk_ilgili_kisi_haklari",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__ilgili_kisi_haklari",
       "topic_name": "İlgili Kişinin Hakları",
       "question_text": "6698 sayılı Kanun'un 13. maddesi uyarınca, ilgili kişinin veri sorumlusuna yaptığı başvuru en geç kaç gün içinde sonuçlandırılmalıdır?",
       "option_a": "15 gün",
@@ -106,7 +106,7 @@
     },
     {
       "id": "550e8400-e29b-41d4-a716-446655440009",
-      "topic_id": "6698_sayili_kvkk_kurula_sikayet",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurula_sikayet",
       "topic_name": "Kurula Şikâyet ve İnceleme",
       "question_text": "6698 sayılı Kanun'un 14. maddesi uyarınca, veri sorumlusuna yapılan başvurunun reddedilmesi üzerine Kurula şikayette bulunma süresi en fazla ne kadardır?",
       "option_a": "Cevabın öğrenildiği tarihten itibaren 30 gün içinde",
@@ -119,7 +119,7 @@
     },
     {
       "id": "660e8400-e29b-41d4-a716-446655440010",
-      "topic_id": "6698_sayili_kvkk_kurum_teskilat",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_teskilat",
       "topic_name": "Kişisel Verileri Koruma Kurumu",
       "question_text": "6698 sayılı Kanun'un 19. maddesi uyarınca, Kişisel Verileri Koruma Kurumu'nun en üst karar organı hangisidir?",
       "option_a": "Başkanlık",
@@ -132,7 +132,7 @@
     },
     {
       "id": "770e8400-e29b-41d4-a716-446655440011",
-      "topic_id": "6698_sayili_kvkk_kurul_uyeleri",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_uyeleri",
       "topic_name": "Kurul Üyelerinin Seçimi",
       "question_text": "6698 sayılı Kanun'un 21. maddesi uyarınca, Kişisel Verileri Koruma Kurulu kaç üyeden oluşmaktadır?",
       "option_a": "5",
@@ -145,7 +145,7 @@
     },
     {
       "id": "880e8400-e29b-41d4-a716-446655440012",
-      "topic_id": "6698_sayili_kvkk_kurul_uyeleri",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_uyeleri",
       "topic_name": "Kurul Üyelerinin Seçimi",
       "question_text": "6698 sayılı Kanun'un 21. maddesi uyarınca, Kurul üyelerinin seçimi nasıl yapılır?",
       "option_a": "5 üye TBMM, 4 üye Cumhurbaşkanı tarafından seçilir",
@@ -158,7 +158,7 @@
     },
     {
       "id": "990e8400-e29b-41d4-a716-446655440013",
-      "topic_id": "6698_sayili_kvkk_kurul_calisma",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_calisma",
       "topic_name": "Kurulun Çalışma Esasları",
       "question_text": "6698 sayılı Kanun'un 23. maddesi uyarınca, Kurul üyeleri oylamalarda çekimser oy kullanabilir mi?",
       "option_a": "Evet, kullanabilir",
@@ -171,7 +171,7 @@
     },
     {
       "id": "000e8400-e29b-41d4-a716-446655440014",
-      "topic_id": "6698_sayili_kvkk_kabahatler",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kabahatler",
       "topic_name": "Suçlar ve Kabahatler",
       "question_text": "6698 sayılı Kanun'un 18. maddesi uyarınca, aydınlatma yükümlülüğüne aykırılık halinde uygulanacak idari para cezası üst sınırı nedir?",
       "option_a": "10.000 TL",
@@ -184,7 +184,7 @@
     },
     {
       "id": "110e8400-e29b-41d4-a716-446655440015",
-      "topic_id": "6698_sayili_kvkk_istisnalar",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "6698 sayılı Kanun'un 28. maddesi uyarınca, hangi amaçlarla veri işlenmesi Kanun kapsamı dışındadır?",
       "option_a": "Bankaların müşteri verilerini işlemesi",
@@ -196,8 +196,8 @@
       "difficulty": 2
     },
     {
-      "id": "220e8400-e29b-41d4-a716-446655440016",
-      "topic_id": "6698_sayili_kvkk_tanimlar",
+      "id": "120e8400-e29b-41d4-a716-446655440016",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "6698 sayılı Kanun'un 3. maddesi uyarınca, 'veri sorumlusunun verdiği yetkiye dayanarak onun adına kişisel verileri işleyen' kişi veya kurum hangisidir?",
       "option_a": "Veri sorumlusu",
@@ -209,8 +209,8 @@
       "difficulty": 1
     },
     {
-      "id": "330e8400-e29b-41d4-a716-446655440017",
-      "topic_id": "6698_sayili_kvkk_kurul_gorevleri",
+      "id": "130e8400-e29b-41d4-a716-446655440017",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_gorevleri",
       "topic_name": "Kurulun Görev ve Yetkileri",
       "question_text": "6698 sayılı Kanun'un 15. maddesi uyarınca, Kurul, şikayet tarihinden itibaren kaç gün içinde cevap vermezse talep reddedilmiş sayılır?",
       "option_a": "15 gün",
@@ -222,8 +222,8 @@
       "difficulty": 3
     },
     {
-      "id": "440e8400-e29b-41d4-a716-446655440018",
-      "topic_id": "6698_sayili_kvkk_veri_sorumlulari_sicili",
+      "id": "140e8400-e29b-41d4-a716-446655440018",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__veri_sorumlulari_sicili",
       "topic_name": "Veri Sorumluları Sicili (VERBİS)",
       "question_text": "6698 sayılı Kanun'un 16. maddesi uyarınca, Veri Sorumluları Sicili (VERBİS) hangi makamın gözetiminde tutulur?",
       "option_a": "Adalet Bakanlığı",
@@ -235,8 +235,8 @@
       "difficulty": 2
     },
     {
-      "id": "550e8400-e29b-41d4-a716-446655440019",
-      "topic_id": "6698_sayili_kvkk_suclar",
+      "id": "150e8400-e29b-41d4-a716-446655440019",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__suclar",
       "topic_name": "Suçlar",
       "question_text": "6698 sayılı Kanun'un 17. maddesi uyarınca, kişisel verilerin silinmemesi durumunda hangi kanun hükümleri uygulanır?",
       "option_a": "Türk Borçlar Kanunu",
@@ -248,9 +248,9 @@
       "difficulty": 2
     },
     {
-      "id": "660e8400-e29b-41d4-a716-446655440020",
-      "topic_id": "6698_sayili_kvkk_kurum_teskilat",
-      "topic_name": "Kurumun İlişkili Olduğu Bakanlık",
+      "id": "160e8400-e29b-41d4-a716-446655440020",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_teskilat",
+      "topic_name": "Kişisel Verileri Koruma Kurumu",
       "question_text": "6698 sayılı Kanun'un 19. maddesi uyarınca, Kişisel Verileri Koruma Kurumu hangi makam ile ilişkilidir?",
       "option_a": "Adalet Bakanlığı",
       "option_b": "İçişleri Bakanlığı",
@@ -261,8 +261,8 @@
       "difficulty": 2
     },
     {
-      "id": "770e8400-e29b-41d4-a716-446655440021",
-      "topic_id": "6698_sayili_kvkk_kurul_uyeleri",
+      "id": "170e8400-e29b-41d4-a716-446655440021",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_uyeleri",
       "topic_name": "Kurul Üyelerinin Görev Süresi",
       "question_text": "6698 sayılı Kanun'un 21. maddesi uyarınca, Kurul üyelerinin görev süresi kaç yıldır?",
       "option_a": "2 yıl",
@@ -274,10 +274,10 @@
       "difficulty": 1
     },
     {
-      "id": "880e8400-e29b-41d4-a716-446655440022",
-      "topic_id": "6698_sayili_kvkk_isleme_sartlari",
+      "id": "180e8400-e29b-41d4-a716-446655440022",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__isleme_sartlari",
       "topic_name": "Kişisel Verilerin İşlenme Şartları",
-      "question_text": "6698 sayılı Kanun'un 5. maddesi uyarınca, aşağıdakilerden hangisi açık rıza aranmaksızın veri işlenebilecek hallerden biri değildir?",
+      "question_text": "6698 sayılı Kanun'un 5. madd uyarınca, aşağıdakilerden hangisi açık rıza aranmaksızın veri işlenebilecek hallerden biri değildir?",
       "option_a": "Kanunlarda açıkça öngörülmesi",
       "option_b": "İlgili kişinin kendisi tarafından alenileştirilmiş olması",
       "option_c": "Veri sorumlusunun reklam ve pazarlama faaliyetleri için gerekli olması",
@@ -287,8 +287,8 @@
       "difficulty": 2
     },
     {
-      "id": "990e8400-e29b-41d4-a716-446655440023",
-      "topic_id": "6698_sayili_kvkk_kurul_calisma",
+      "id": "190e8400-e29b-41d4-a716-446655440023",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_calisma",
       "topic_name": "Kurulun Toplanma Sayısı",
       "question_text": "6698 sayılı Kanun'un 23. maddesi uyarınca, Kurul, başkan dâhil en az kaç üye ile toplanır?",
       "option_a": "5",
@@ -300,8 +300,8 @@
       "difficulty": 3
     },
     {
-      "id": "aa0e8400-e29b-41d4-a716-446655440024",
-      "topic_id": "6698_sayili_kvkk_kurul_uyeleri",
+      "id": "200e8400-e29b-41d4-a716-446655440024",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_uyeleri",
       "topic_name": "Üyelik Şartları",
       "question_text": "6698 sayılı Kanun'un 21. maddesi uyarınca, Kurul üyeliğine seçileceklerde aranan şartlardan biri hangisidir?",
       "option_a": "Bir siyasi partiye üye olmak",
@@ -313,8 +313,8 @@
       "difficulty": 2
     },
     {
-      "id": "bb0e8400-e29b-41d4-a716-446655440025",
-      "topic_id": "6698_sayili_kvkk_kurul_calisma",
+      "id": "210e8400-e29b-41d4-a716-446655440025",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_calisma",
       "topic_name": "Karar Yeter Sayısı",
       "question_text": "6698 sayılı Kanun'un 23. maddesi uyarınca, Kurul kararlarını hangi çoğunlukla alır?",
       "option_a": "Katılanların salt çoğunluğu",
@@ -326,8 +326,8 @@
       "difficulty": 2
     },
     {
-      "id": "cc0e8400-e29b-41d4-a716-446655440026",
-      "topic_id": "6698_sayili_kvkk_kurul_uyeleri",
+      "id": "220e8400-e29b-41d4-a716-446655440026",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_uyeleri",
       "topic_name": "Yemin Metni",
       "question_text": "6698 sayılı Kanun'un 21. maddesi uyarınca, Kurul üyeleri yemin etmek için nereye başvurur?",
       "option_a": "Anayasa Mahkemesi",
@@ -339,8 +339,8 @@
       "difficulty": 3
     },
     {
-      "id": "dd0e8400-e29b-41d4-a716-446655440027",
-      "topic_id": "6698_sayili_kvkk_kurum_teskilat",
+      "id": "230e8400-e29b-41d4-a716-446655440027",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_teskilat",
       "topic_name": "Başkanlık Teşkilatı",
       "question_text": "6698 sayılı Kanun'un 25. maddesi uyarınca, kurum bünyesinde kurulabilecek daire başkanlıklarının sayısı en fazla kaçtır?",
       "option_a": "5",
@@ -352,8 +352,8 @@
       "difficulty": 3
     },
     {
-      "id": "ee0e8400-e29b-41d4-a716-446655440028",
-      "topic_id": "6698_sayili_kvkk_veri_guvenligi",
+      "id": "240e8400-e29b-41d4-a716-446655440028",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__veri_guvenligi",
       "topic_name": "Veri Güvenliği Yükümlülükleri",
       "question_text": "6698 sayılı Kanun'un 12. maddesi uyarınca, kişisel verilerin kanuni olmayan yollarla elde edilmesi hâlinde veri sorumlusu bu durumu kime bildirir?",
       "option_a": "Sadece Cumhuriyet Savcılığına",
@@ -365,8 +365,8 @@
       "difficulty": 2
     },
     {
-      "id": "ff0e8400-e29b-41d4-a716-446655440029",
-      "topic_id": "6698_sayili_kvkk_kabahatler",
+      "id": "250e8400-e29b-41d4-a716-446655440029",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kabahatler",
       "topic_name": "İdari Para Cezalarına İtiraz",
       "question_text": "6698 sayılı Kanun'un 18. maddesi uyarınca, Kurulca verilen idari para cezalarına karşı nereye dava açılır?",
       "option_a": "Sulh Ceza Hakimliği",
@@ -378,8 +378,8 @@
       "difficulty": 2
     },
     {
-      "id": "120e8400-e29b-41d4-a716-446655440030",
-      "topic_id": "6698_sayili_kvkk_tanimlar",
+      "id": "260e8400-e29b-41d4-a716-446655440030",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__tanimlar",
       "topic_name": "Açık Rıza Tanımı",
       "question_text": "6698 sayılı Kanun'un 3. maddesi uyarınca, 'Açık Rıza' tanımında hangi unsur yer almaz?",
       "option_a": "Belirli bir konuya ilişkin olma",
@@ -391,8 +391,8 @@
       "difficulty": 2
     },
     {
-      "id": "130e8400-e29b-41d4-a716-446655440031",
-      "topic_id": "6698_sayili_kvkk_ozel_nitelikli_veriler",
+      "id": "270e8400-e29b-41d4-a716-446655440031",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__ozel_nitelikli_veriler",
       "topic_name": "Özel Nitelikli Veri İşleme",
       "question_text": "6698 sayılı Kanun'un 6. maddesi uyarınca, özel nitelikli kişisel verilerin işlenmesinde kim tarafından belirlenen yeterli önlemlerin alınması şarttır?",
       "option_a": "Bakanlar Kurulu",
@@ -404,8 +404,8 @@
       "difficulty": 2
     },
     {
-      "id": "140e8400-e29b-41d4-a716-446655440032",
-      "topic_id": "6698_sayili_kvkk_yurt_disina_aktarim",
+      "id": "280e8400-e29b-41d4-a716-446655440032",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__yurt_disina_aktarim",
       "topic_name": "Yurt Dışına Aktarım Bildirimi",
       "question_text": "6698 sayılı Kanun'un 9. maddesi uyarınca, yurt dışına veri aktarımında kullanılan 'Standart Sözleşme' kaç iş günü içinde Kuruma bildirilir?",
       "option_a": "3 iş günü",
@@ -417,8 +417,8 @@
       "difficulty": 3
     },
     {
-      "id": "150e8400-e29b-41d4-a716-446655440033",
-      "topic_id": "6698_sayili_kvkk_kurul_gorevleri",
+      "id": "290e8400-e29b-41d4-a716-446655440033",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_gorevleri",
       "topic_name": "Kurulun İnceleme Süresi",
       "question_text": "6698 sayılı Kanun'un 15. maddesi uyarınca, Kurulun istediği bilgi ve belgeleri veri sorumlusu kaç gün içinde göndermek zorundadır?",
       "option_a": "7 gün",
@@ -430,8 +430,8 @@
       "difficulty": 2
     },
     {
-      "id": "160e8400-e29b-41d4-a716-446655440034",
-      "topic_id": "6698_sayili_kvkk_kurul_kararlari",
+      "id": "300e8400-e29b-41d4-a716-446655440034",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_kararlari",
       "topic_name": "Kurul Kararlarının Uygulanması",
       "question_text": "6698 sayılı Kanun'un 15. maddesi uyarınca, Kurul kararları tebliğden itibaren en geç kaç gün içinde yerine getirilmelidir?",
       "option_a": "15 gün",
@@ -443,8 +443,8 @@
       "difficulty": 2
     },
     {
-      "id": "170e8400-e29b-41d4-a716-446655440035",
-      "topic_id": "6698_sayili_kvkk_istisnalar",
+      "id": "310e8400-e29b-41d4-a716-446655440035",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__istisnalar",
       "topic_name": "Kısmi İstisnalar",
       "question_text": "6698 sayılı Kanun'un 28. maddesi uyarınca, Devletin ekonomik çıkarlarının korunması durumunda hangi hak saklıdır?",
       "option_a": "Aydınlatma yükümlülüğü",
@@ -456,8 +456,8 @@
       "difficulty": 3
     },
     {
-      "id": "180e8400-e29b-41d4-a716-446655440036",
-      "topic_id": "6698_sayili_kvkk_kurul_gorevleri",
+      "id": "320e8400-e29b-41d4-a716-446655440036",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_gorevleri",
       "topic_name": "Yıllık Faaliyet Raporu",
       "question_text": "6698 sayılı Kanun'un 20. maddesi uyarınca, kurumun yıllık faaliyet raporu nereye sunulur?",
       "option_a": "Sadece Cumhurbaşkanlığına",
@@ -469,8 +469,8 @@
       "difficulty": 2
     },
     {
-      "id": "190e8400-e29b-41d4-a716-446655440037",
-      "topic_id": "6698_sayili_kvkk_kurul_gorevleri",
+      "id": "330e8400-e29b-41d4-a716-446655440037",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_gorevleri",
       "topic_name": "İlke Kararları",
       "question_text": "6698 sayılı Kanun'un 15. maddesi uyarınca, ihlalin yaygın olduğu tespit edilirse Kurul ne yapar?",
       "option_a": "Soruşturmayı durdurur.",
@@ -482,8 +482,8 @@
       "difficulty": 2
     },
     {
-      "id": "200e8400-e29b-41d4-a716-446655440038",
-      "topic_id": "6698_sayili_kvkk_kurum_gelirleri",
+      "id": "340e8400-e29b-41d4-a716-446655440038",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_gelirleri",
       "topic_name": "Kurumun Gelirleri",
       "question_text": "6698 sayılı Kanun'un 29. maddesi uyarınca, Kişisel Verileri Koruma Kurumu'nun gelirleri arasında hangisi yer almaz?",
       "option_a": "Genel bütçeden yapılacak hazine yardımları",
@@ -495,8 +495,8 @@
       "difficulty": 1
     },
     {
-      "id": "210e8400-e29b-41d4-a716-446655440039",
-      "topic_id": "6698_sayili_kvkk_kurul_uyeleri",
+      "id": "350e8400-e29b-41d4-a716-446655440039",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_uyeleri",
       "topic_name": "Üyeliğin Sona Ermesi",
       "question_text": "6698 sayılı Kanun'un 21. maddesi uyarınca, bir Kurul üyesinin bir yıl içinde toplam kaç toplantıya mazeretsiz katılmaması durumunda üyeliği sona erer?",
       "option_a": "5",
@@ -508,8 +508,8 @@
       "difficulty": 3
     },
     {
-      "id": "220e8400-e29b-41d4-a716-446655440040",
-      "topic_id": "6698_sayili_kvkk_personel",
+      "id": "360e8400-e29b-41d4-a716-446655440040",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__personel",
       "topic_name": "Uzmanlık Kadroları",
       "question_text": "6698 sayılı Kanun'un 26. maddesi uyarınca, Kurumda istihdam edilen uzmanların unvanı nedir?",
       "option_a": "Veri Koruma Denetçisi",
@@ -521,8 +521,8 @@
       "difficulty": 1
     },
     {
-      "id": "230e8400-e29b-41d4-a716-446655440041",
-      "topic_id": "6698_sayili_kvkk_tanimlar",
+      "id": "370e8400-e29b-41d4-a716-446655440041",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__tanimlar",
       "topic_name": "Anonim Hale Getirme",
       "question_text": "6698 sayılı Kanun'un 3. maddesi uyarınca, verilerin başka verilerle eşleştirilerek dahi hiçbir surette kimliği belirli bir gerçek kişiyle ilişkilendirilemeyecek hâle getirilmesine ne ad verilir?",
       "option_a": "Veri silme",
@@ -534,8 +534,8 @@
       "difficulty": 1
     },
     {
-      "id": "240e8400-e29b-41d4-a716-446655440042",
-      "topic_id": "6698_sayili_kvkk_kurum_teskilat",
+      "id": "380e8400-e29b-41d4-a716-446655440042",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_teskilat",
       "topic_name": "Kurumun Merkezi",
       "question_text": "6698 sayılı Kanun'un 19. maddesi uyarınca, Kişisel Verileri Koruma Kurumu'nun merkezi nerededir?",
       "option_a": "İstanbul",
@@ -547,8 +547,8 @@
       "difficulty": 1
     },
     {
-      "id": "250e8400-e29b-41d4-a716-446655440043",
-      "topic_id": "6698_sayili_kvkk_kurul_calisma",
+      "id": "390e8400-e29b-41d4-a716-446655440043",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_calisma",
       "topic_name": "Toplantı Gündemi",
       "question_text": "6698 sayılı Kanun'un 23. maddesi uyarınca, Kurulun toplantı günlerini ve gündemini kim belirler?",
       "option_a": "Cumhurbaşkanı",
@@ -560,8 +560,8 @@
       "difficulty": 1
     },
     {
-      "id": "260e8400-e29b-41d4-a716-446655440044",
-      "topic_id": "6698_sayili_kvkk_kurul_uyeleri",
+      "id": "400e8400-e29b-41d4-a716-446655440044",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_uyeleri",
       "topic_name": "Yasaklı Faaliyetler",
       "question_text": "6698 sayılı Kanun'un 21. maddesi uyarınca, Kurul üyeleri görevleri süresince aşağıdakilerden hangisini yapabilir?",
       "option_a": "Ticaretle uğraşmak",
@@ -573,8 +573,8 @@
       "difficulty": 2
     },
     {
-      "id": "270e8400-e29b-41d4-a716-446655440045",
-      "topic_id": "6698_sayili_kvkk_basvuru_usulu",
+      "id": "410e8400-e29b-41d4-a716-446655440045",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__basvuru_usulu",
       "topic_name": "Veri Sorumlusuna Başvuru",
       "question_text": "6698 sayılı Kanun'un 13. maddesi uyarınca, ilgili kişi taleplerini veri sorumlusuna hangi yolla iletir?",
       "option_a": "Sadece sözlü olarak",
@@ -586,8 +586,8 @@
       "difficulty": 1
     },
     {
-      "id": "280e8400-e29b-41d4-a716-446655440046",
-      "topic_id": "6698_sayili_kvkk_kabahatler",
+      "id": "420e8400-e29b-41d4-a716-446655440046",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kabahatler",
       "topic_name": "VERBİS Cezaları",
       "question_text": "6698 sayılı Kanun'un 18. maddesi uyarınca, Veri Sorumluları Siciline (VERBİS) kayıt ve bildirim yükümlülüğüne aykırı hareket edenlere verilecek ceza üst sınırı nedir?",
       "option_a": "100.000 TL",
@@ -599,8 +599,8 @@
       "difficulty": 3
     },
     {
-      "id": "290e8400-e29b-41d4-a716-446655440047",
-      "topic_id": "6698_sayili_kvkk_kurum_teskilat",
+      "id": "430e8400-e29b-41d4-a716-446655440047",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_teskilat",
       "topic_name": "Başkan Yardımcısı Ataması",
       "question_text": "6698 sayılı Kanun'un 24. maddesi uyarınca, Kurumda Başkan Yardımcısını kim atar?",
       "option_a": "Cumhurbaşkanı",
@@ -612,10 +612,10 @@
       "difficulty": 2
     },
     {
-      "id": "300e8400-e29b-41d4-a716-446655440048",
-      "topic_id": "6698_sayili_kvkk_ozel_nitelikli_veriler",
+      "id": "440e8400-e29b-41d4-a716-446655440048",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__ozel_nitelikli_veriler",
       "topic_name": "Özel Nitelikli Veriler",
-      "question_text": "6698 sayılı Kanun'un 6. maddesi uyarınca, aşağıdakilerden hangisi özel nitelikli verilerin işlenebileceği özel amaçlardan biri değildir?",
+      "question_text": "6698 sayılı Kanun'un 6. maddesi uyarınca, aşağıdakilerden hangisi özel nitelikli kişisel verilerin işlenebileceği özel amaçlardan biri değildir?",
       "option_a": "Kamu sağlığının korunması",
       "option_b": "Tıbbi teşhis ve tedavi",
       "option_c": "Şirketin genel pazarlama stratejisini belirlemek",
@@ -625,8 +625,8 @@
       "difficulty": 3
     },
     {
-      "id": "310e8400-e29b-41d4-a716-446655440049",
-      "topic_id": "6698_sayili_kvkk_kurul_gorevleri",
+      "id": "450e8400-e29b-41d4-a716-446655440049",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurul_gorevleri",
       "topic_name": "Önleyici Tedbirler",
       "question_text": "6698 sayılı Kanun'un 15. maddesi uyarınca, telafisi güç zararların doğması halinde Kurul aşağıdakilerden hangisine karar verebilir?",
       "option_a": "Şirketin iflasına",
@@ -638,8 +638,8 @@
       "difficulty": 2
     },
     {
-      "id": "320e8400-e29b-41d4-a716-446655440050",
-      "topic_id": "6698_sayili_kvkk_yururluk",
+      "id": "460e8400-e29b-41d4-a716-446655440050",
+      "topic_id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__yururluk",
       "topic_name": "Yürütme Yetkisi",
       "question_text": "6698 sayılı Kanun hükümlerini kim yürütür?",
       "option_a": "Cumhurbaşkanı",
