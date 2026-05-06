@@ -20,6 +20,11 @@
       "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
       "name": "Atatürk İnkılapları"
     },
+	{
+	  "id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
+	  "regulation_id": "ataturk_ilkeleri_ve_inkilap_tarihi",
+	  "name": "Genel Kültür ve Tarih"
+	},
     {
       "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami_ve_dilekce_hakki",
       "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
@@ -2511,6 +2516,16 @@
       "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
       "name": "Soruşturma İzni ve İtiraz"
     },
+	{
+	  "id": "4483_sayili_kanun__kanunun_kapsami_ve_on_inceleme",
+	  "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
+	  "name": "Kanunun Kapsamı ve Ön İnceleme"
+	},
+	{
+	  "id": "4483_sayili_kanun__sorusturma_izni_ve_itiraz",
+	  "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
+	  "name": "Soruşturma İzni ve İtiraz"
+	},	
     {
       "id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
       "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
