@@ -1,4 +1,5 @@
 {
+  "total": 100,
   "questions": [
     {
       "id": "1a2b3c4d-5e6f-7890-a1b2-c3d4e5f67890",
@@ -1349,6 +1350,6 @@
       "correct_option": "B",
       "explanation": "D-8 Örgütü; Türkiye, Pakistan, Bangladeş, Endonezya, İran, Mısır, Nijerya ve Malezya'dan oluşan 8 gelişmekte olan Müslüman ülkenin ekonomik işbirliği örgütüdür.",
       "difficulty": 3
-    }	
+    }
   ]
 }

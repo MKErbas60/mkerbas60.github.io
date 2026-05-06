@@ -1,4 +1,5 @@
 {
+  "total": 47,
   "questions": [
     {
       "id": "a1b2c3d4-e5f6-4789-8012-3456789abcde",
@@ -610,6 +611,6 @@
       "correct_option": "A",
       "explanation": "Madde 3'e göre kamu idaresi tanımı, Kanun'un 2. maddesindeki genel yönetim kapsamını ifade eder.",
       "difficulty": 1
-    }	
+    }
   ]
 }

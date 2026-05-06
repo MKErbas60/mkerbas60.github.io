@@ -1,4 +1,5 @@
 {
+  "total": 49,
   "questions": [
     {
       "id": "e428c94e-6e27-4a7b-9f93-5e92160d5b54",
@@ -636,6 +637,6 @@
       "correct_option": "B",
       "explanation": "4688 sayılı Kanun, Düstur'un 40. cildinde yayımlanmıştır.",
       "difficulty": 3
-    }	
+    }
   ]
 }
