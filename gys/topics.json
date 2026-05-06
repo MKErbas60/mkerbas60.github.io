@@ -2440,16 +2440,6 @@
       "regulation_id": "657_sayili_devlet_memurlari_kanunu",
       "name": "Devlet Memurluğuna Alınma Şartları"
     },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__cesitli_ve_son_hukumler",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Çeşitli ve Son Hükümler"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__disiplin_hukumleri",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Disiplin Hükümleri"
-    },
 	{
 	  "id": "657_sayili_devlet_memurlari_kanunu__istihdam_sekilleri",
 	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
@@ -2495,6 +2485,17 @@
 	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
 	  "name": "Görevden Uzaklaştırma"
 	},
+    {
+      "id": "657_sayili_devlet_memurlari_kanunu__disiplin",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Disiplin Cezaları"
+    },
+    {
+      "id": "657_sayili_devlet_memurlari_kanunu__izinler",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "İzinler"
+    },
+
 	{
 	  "id": "657_sayili_devlet_memurlari_kanunu__basari_odulleri",
 	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
@@ -2709,21 +2710,6 @@
       "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__faaliyet_raporu",
       "regulation_id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
       "name": "Faaliyet Raporu"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__disiplin",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Disiplin Cezaları"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__gundelik_ve_yolluk",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "Gündelik ve Yolluk"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu__izinler",
-      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "İzinler"
     },
     {
       "id": "7201_sayili_tebligat_kanunu__genel_hukumler",
