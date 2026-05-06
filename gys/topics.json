@@ -2450,7 +2450,57 @@
       "regulation_id": "657_sayili_devlet_memurlari_kanunu",
       "name": "Disiplin Hükümleri"
     },
-    {
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunu__istihdam_sekilleri",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "İstihdam Şekilleri"
+	},
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunu__aday_memurluk",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "Aday Memurluk"
+	},
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunun__kapsami",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "Kanunun Kapsamı"
+	},
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunu__atama_ve_goreve_baslama",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "Atama ve Göreve Başlama"
+	},
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunu__kademe_ilerlemesi",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "Kademe İlerlemesi"
+	},
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunu__derece_yukselmesi",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "Derece Yükselmesi"
+	},
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunu__calisma_saatleri",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "Çalışma Saatleri"
+	},
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunu__memurlugun_sona_ermesi",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "Memurluğun Sona Ermesi"
+	},
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunu__gorevden_uzaklastirma",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "Görevden Uzaklaştırma"
+	},
+	{
+	  "id": "657_sayili_devlet_memurlari_kanunu__basari_odulleri",
+	  "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+	  "name": "Başarı Ödülleri"
+	},	
+	{
       "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__kanunun_kapsami_ve_on_inceleme",
       "regulation_id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
       "name": "Kanunun Kapsamı ve Ön İnceleme"
@@ -2661,7 +2711,7 @@
       "name": "Faaliyet Raporu"
     },
     {
-      "id": "657_sayili_devlet_memurlari_kanunu__disiplin_cezalari",
+      "id": "657_sayili_devlet_memurlari_kanunu__disiplin",
       "regulation_id": "657_sayili_devlet_memurlari_kanunu",
       "name": "Disiplin Cezaları"
     },
