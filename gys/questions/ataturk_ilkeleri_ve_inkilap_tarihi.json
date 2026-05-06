@@ -2603,7 +2603,7 @@
     },
     {
       "id": "e4a2c1b9-3d8e-4f7a-9c6b-5d4e3f2a1b0c",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal Atatürk'ün milli bilinci uyandırmak için 28-29 Mayıs 1919 tarihinde yayımladığı genelge hangisidir?",
       "option_a": "Amasya Genelgesi",
@@ -2616,7 +2616,7 @@
     },
     {
       "id": "f5b3d2c0-4e9f-5a8b-0d7c-6e5f4a3b2c1d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Milli Mücadele'nin gerekçesi, amacı ve yöntemi ilk kez nerede belirlenmiştir?",
       "option_a": "Sivas Kongresi",
@@ -2629,7 +2629,7 @@
     },
     {
       "id": "a6c4e3d1-5f0a-6b9c-1e8d-7f6a5b4c3d2e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Batı Anadolu'da 'Galip Hoca' takma adıyla kongreler düzenleyen kişi kimdir?",
       "option_a": "İsmet İnönü",
@@ -2642,7 +2642,7 @@
     },
     {
       "id": "b7d5f4e2-6a1b-7c0d-2f9e-8g7f6e5d4c3b",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Manda ve himayenin kesin olarak reddedildiği kongre hangisidir?",
       "option_a": "Erzurum Kongresi",
@@ -2655,7 +2655,7 @@
     },
     {
       "id": "c8e6g5f3-7b2c-8d1e-3g0f-9h8g7f6e5d4c",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Temsil Heyeti hangi kongrede kurulmuştur?",
       "option_a": "Amasya Genelgesi",
@@ -2668,7 +2668,7 @@
     },
     {
       "id": "d9f7h6g4-8c3d-9e2f-4h1g-0i9h8g7f6e5d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Sivas Kongresi'nden sonra çıkarılan ve milletin sesini duyurmayı amaçlayan gazete hangisidir?",
       "option_a": "Hakimiyet-i Milliye",
@@ -2798,7 +2798,7 @@
     },
     {
       "id": "n9p7r6q4-8m3n-9o2p-4r1q-0s9r8q7p6o5n",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Saltanat hangi tarihte kaldırılmıştır?",
       "option_a": "29 Ekim 1923",
@@ -2811,7 +2811,7 @@
     },
     {
       "id": "o0q8s7r5-9n4o-0p3q-5s2r-1t0s9r8q7p6o",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Tevhid-i Tedrisat Kanunu hangi amaçla çıkarılmıştır?",
       "option_a": "Harf devrimini yapmak",
@@ -2824,7 +2824,7 @@
     },
     {
       "id": "p1r9t8s6-0o5p-1q4r-6t3s-2u1t0s9r8q7p",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Medeni Kanun hangi ülkeden örnek alınmıştır?",
       "option_a": "Fransa",
@@ -2837,7 +2837,7 @@
     },
     {
       "id": "q2s0u9t7-1p6q-2r5s-7u4t-3v2u1t0s9r8q",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Cumhuriyet döneminin ilk bankası hangisidir?",
       "option_a": "Ziraat Bankası",
@@ -2850,7 +2850,7 @@
     },
     {
       "id": "r3t1v0u8-2q7r-3s6t-8v5u-4w3v2u1t0s9r",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Yeni harflerle basılan ilk gazete hangisidir?",
       "option_a": "İrade-i Milliye",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": "s4u2w1v9-3r8s-4t7u-9w6v-5x4w3v2u1t0s",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türk kadınına milletvekili seçme ve seçilme hakkı hangi tarihte tanınmıştır?",
       "option_a": "1930",
@@ -2876,7 +2876,7 @@
     },
     {
       "id": "t5v3x2w0-4s9t-5u8v-0x7w-6y5x4w3v2u1t",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Soyadı Kanunu hangi yıl kabul edilmiştir?",
       "option_a": "1930",
@@ -2889,7 +2889,7 @@
     },
     {
       "id": "u6w4y3x1-5t0u-6v9w-1y8x-7z6y5x4w3v2u",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Kabotaj Kanunu hangi tarihte çıkarılmıştır?",
       "option_a": "1925",
@@ -2902,7 +2902,7 @@
     },
     {
       "id": "v7x5z4y2-6u1v-7w0x-2z9y-8a7z6y5x4w3v",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Tekke ve zaviyelerin kapatılmasına ilişkin kanun hangi yıl kabul edilmiştir?",
       "option_a": "1923",
@@ -2915,7 +2915,7 @@
     },
     {
       "id": "w8y6a5z3-7v2w-8x1y-3a0z-9b8a7z6y5x4w",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Şeyh Sait İsyanı'nı bastırmak için çıkarılan kanun hangisidir?",
       "option_a": "Hıyanet-i Vataniye",
@@ -2954,7 +2954,7 @@
     },
     {
       "id": "z1b9d8c6-0y5z-1a4b-6d3c-2e1d0c9b8a7z",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "Türkiye Cumhuriyeti'nin ilk Genelkurmay Başkanı kimdir?",
       "option_a": "Fethi Okyar",
@@ -2967,7 +2967,7 @@
     },
     {
       "id": "a2c0e9d7-1z6a-2b5c-7e4d-3f2e1d0c9b8a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "Türkiye'nin ilk muhalefet partisi hangisidir?",
       "option_a": "Cumhuriyet Halk Partisi",
@@ -2980,7 +2980,7 @@
     },
     {
       "id": "b3d1f0e8-2a7b-3c6d-8f5e-4g3f2e1d0c9b",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Yeni harflerle yayınlanan ilk tarih dergisi hangisidir?",
       "option_a": "Belleten",
@@ -3019,7 +3019,7 @@
     },
     {
       "id": "e6g4i3h1-5d0e-6f9g-1i8h-7j6i5h4g3f2e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Milli mücadelenin tek merkezden yönetilmesi kararı hangi kongrede alınmıştır?",
       "option_a": "Erzurum",
@@ -3032,7 +3032,7 @@
     },
     {
       "id": "f7h5j4i2-6e1f-7g0h-2j9i-8k7j6i5h4g3f",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Hatay hangi tarihte anavatana katılmıştır?",
       "option_a": "1936",
@@ -3045,7 +3045,7 @@
     },
     {
       "id": "g8i6k5j3-7f2g-8h1i-3k0j-9l8k7j6i5h4g",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Erzurum Kongresi'nde ilk kez neyin gerekliliğinden bahsedilmiştir?",
       "option_a": "Cumhuriyetin ilanı",
@@ -3071,7 +3071,7 @@
     },
     {
       "id": "i0k8m7l5-9h4i-0j3k-5m2l-1n0m9l8k7j6i",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türkiye'de Miladi Takvim ve uluslararası saat sistemine geçiş hangi tarihte olmuştur?",
       "option_a": "1925",
@@ -3084,7 +3084,7 @@
     },
     {
       "id": "j1l9n8m6-0i5j-1k4l-6n3m-2o1n0m9l8k7j",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amasya Genelgesi'nde Sivas'ta ulusal bir kongrenin toplanması kararı nerede alınmıştır?",
       "option_a": "Erzurum Kongresi",
@@ -3097,7 +3097,7 @@
     },
     {
       "id": "k2m0o9n7-1j6k-2l5m-7o4n-3p2o1n0m9l8k",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Erzurum Kongresi'nde azınlıklara hangi hakların verilmeyeceği belirtilmiştir?",
       "option_a": "Ekonomik ayrıcalıklar",
@@ -3110,7 +3110,7 @@
     },
     {
       "id": "l3n1p0o8-2k7l-3m6n-8p5o-4q3p2o1n0m9l",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Öğretim birliğini sağlayan kanun hangisidir?",
       "option_a": "Harf İnkılabı",
@@ -3136,7 +3136,7 @@
     },
     {
       "id": "n5p3r2q0-4m9n-5o8p-0r7q-6s5r4q3p2o1n",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Gaziantep'e 'Gazi' ünvanı hangi yıl verilmiştir?",
       "option_a": "1921",
@@ -3149,7 +3149,7 @@
     },
     {
       "id": "o6q4s3r1-5n0o-6p9q-1s8r-7t6s5r4q3p2o",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Milli Mücadele'nin gerekçesi, amacı ve yöntemi nerede belirlenmiştir?",
       "option_a": "Sivas Kongresi",
@@ -3162,7 +3162,7 @@
     },
     {
       "id": "p7r5t4s2-6o1p-7q0r-2t9s-8u7t6s5r4q3p",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal Paşa hangi gelişme öncesinde askerlikten istifa etmiştir?",
       "option_a": "Sivas Kongresi",
@@ -3175,7 +3175,7 @@
     },
     {
       "id": "q8s6u5t3-7p2q-8r1s-3u0t-9v8u7t6s5r4q",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Ermenilerin katledildikleri ile ilgili ortaya atılan iddiaların asılsız olduğunu belirten ABD'li general kimdir?",
       "option_a": "Amiral Bristol",
@@ -3188,7 +3188,7 @@
     },
     {
       "id": "r9t7v6u4-8q3r-9s2t-4v1u-0w9v8u7t6s5r",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Soyadı Kanunu ile Mecelle yürürlükten kalkmıştır. Peki Medeni Kanun hangi ülkenin kanunundan örnek alınmıştır?",
       "option_a": "İtalya",
@@ -3201,7 +3201,7 @@
     },
     {
       "id": "s0u8w7v5-9r4s-0t3u-5w2v-1x0w9v8u7t6s",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Karakol Cemiyeti'nin görevi nedir?",
       "option_a": "Milleti teşkilatlandırmak",
@@ -3227,7 +3227,7 @@
     },
     {
       "id": "u2w0y9x7-1t6u-2v5w-7y4x-3z2y1x0w9v8u",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Yeni Türk harfleri ne zaman kabul edilmiştir?",
       "option_a": "1923",
@@ -3240,7 +3240,7 @@
     },
     {
       "id": "v3x1z0y8-2u7v-3w6x-8z5y-4a3z2y1x0w9v",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Misak-ı Milli kararları ne zaman ilan edilmiştir?",
       "option_a": "28 Ocak 1920",
@@ -3266,7 +3266,7 @@
     },
     {
       "id": "x5z3b2a0-4w9x-5y8z-0b7a-6c5b4a3z2y1x",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Montrö Boğazlar Sözleşmesi ne zaman imzalanmıştır?",
       "option_a": "1936",
@@ -3292,7 +3292,7 @@
     },
     {
       "id": "z7b5d4c2-6y1z-7a0b-2d9c-8e7d6c5b4a3z",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal Atatürk'ün Samsun'a çıkışı ne zamandır?",
       "option_a": "19 Mayıs 1919",
@@ -3305,7 +3305,7 @@
     },
     {
       "id": "a8c6e5d3-7z2a-8b1c-3e0d-9f8e7d6c5b4a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Soyadı Kanunu ile ilgili hangi bilgi doğrudur?",
       "option_a": "1930'da kabul edilmiştir",
@@ -3318,7 +3318,7 @@
     },
     {
       "id": "b9d7f6e4-8a3b-9c2d-4f1e-0g9f8e7d6c5b",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Kadınlara köy ihtiyar heyetlerine seçme ve seçilme hakkı ne zaman tanınmıştır?",
       "option_a": "1930",
@@ -3344,7 +3344,7 @@
     },
     {
       "id": "d1f9h8g6-0c5d-1e4f-6h3g-2i1h0g9f8e7d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amasya Görüşmeleri hangi tarihlerde yapılmıştır?",
       "option_a": "20-22 Ekim 1919",
@@ -3357,7 +3357,7 @@
     },
     {
       "id": "e2g0i9h7-1d6e-2f5g-7i4h-3j2i1h0g9f8e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Diyanet İşleri Başkanlığı'nın kurulmasıyla neyin yerini almıştır?",
       "option_a": "Evkaf Nezareti",
@@ -3383,7 +3383,7 @@
     },
     {
       "id": "g4i2k1j9-3f8g-4h7i-9k6j-5l4k3j2i1h0g",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türkiye Cumhuriyetinin ilk Meclis Başkanı kimdir?",
       "option_a": "Mustafa Kemal Atatürk",
@@ -3409,7 +3409,7 @@
     },
     {
       "id": "i6k4m3l1-5h0i-6j9k-1m8l-7n6m5l4k3j2i",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Aşar vergisi hangi yıl kaldırılmıştır?",
       "option_a": "1924",
@@ -3435,7 +3435,7 @@
     },
     {
       "id": "k8m6o5n3-7j2k-8l1m-3o0n-9p8o7n6m5l4k",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Cumhuriyetin ilanı ne zaman olmuştur?",
       "option_a": "23 Nisan 1920",
@@ -3448,7 +3448,7 @@
     },
     {
       "id": "l9n7p6o4-8k3l-9m2n-4p1o-0q9p8o7n6m5l",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Erzurum Kongresi hangi tarihler arasında yapılmıştır?",
       "option_a": "23 Temmuz-7 Ağustos 1919",
@@ -3487,7 +3487,7 @@
     },
     {
       "id": "o2q0s9r7-1n6o-2p5q-7s4r-3t2s1r0q9p8o",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "Milli Mücadele döneminde Antep'e verilen ünvan ve tarih nedir?",
       "option_a": "Gazi - 1921",
@@ -3513,7 +3513,7 @@
     },
     {
       "id": "q4s2u1t9-3p8q-4r7s-9u6t-5v4u3t2s1r0q",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?",
       "option_a": "Mustafa Kemal Atatürk",
@@ -3526,7 +3526,7 @@
     },
     {
       "id": "r5t3v2u0-4q9r-5s8t-0v7u-6w5v4u3t2s1r",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Medreseler ne zaman kapatılmıştır?",
       "option_a": "1923",
@@ -3539,7 +3539,7 @@
     },
     {
       "id": "s6u4w3v1-5r0s-6t9u-1w8v-7x6w5v4u3t2s",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Şapka Kanunu ne zaman kabul edilmiştir?",
       "option_a": "1924",
@@ -3552,7 +3552,7 @@
     },
     {
       "id": "t7v5x4w2-6s1t-7u0v-2x9w-8y7x6w5v4u3t",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Misak-ı Milli kararları nerede alınmıştır?",
       "option_a": "Sivas Kongresi",
@@ -3578,7 +3578,7 @@
     },
     {
       "id": "v9x7z6y4-8u3v-9w2x-4z1y-0a9z8y7x6w5v",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal'in 9. Ordu Müfettişliğine atanmasının amacı nedir?",
       "option_a": "Kongreleri denetlemek",
@@ -3591,7 +3591,7 @@
     },
     {
       "id": "w0y8a7z5-9v4w-0x3y-5a2z-1b0a9z8y7x6w",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türkiye Cumhuriyeti'nin ilk Cumhurbaşkanı kimdir?",
       "option_a": "İsmet İnönü",
@@ -3604,7 +3604,7 @@
     },
     {
       "id": "x1z9b8a6-0w5x-1y4z-6b3a-2c1b0a9z8y7x",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "İlk defa yeni bir hükümetin gerekliliğinden hangi kongrede bahsedilmiştir?",
       "option_a": "Sivas Kongresi",
@@ -3617,7 +3617,7 @@
     },
     {
       "id": "y2a0c9b7-1x6y-2z5a-7c4b-3d2c1b0a9z8y",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Milli mücadeleyi tek merkezden yönetmek için yapılan kongre hangisidir?",
       "option_a": "Erzurum",
@@ -3630,7 +3630,7 @@
     },
     {
       "id": "z3b1d0c8-2y7z-3a6b-8d5c-4e3d2c1b0a9z",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Hatay'ın anavatana katılması hangi tarihtir?",
       "option_a": "1936",
@@ -3643,7 +3643,7 @@
     },
     {
       "id": "a4c2e1d9-3z8a-4b7c-9e6d-5f4e3d2c1b0a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Erzurum Kongresi'nde ilk defa vatan sınırlarından bahsedilmiştir.",
       "option_a": "Doğru",
@@ -3654,7 +3654,7 @@
     },
     {
       "id": "b5d3f2e0-4a9b-5c8d-0f7e-6g5f4e3d2c1b",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Milli mücadele sürecinde 'Milli İrade' kavramı ilk defa nerede kullanılmıştır?",
       "option_a": "Amasya Genelgesi",
@@ -3667,7 +3667,7 @@
     },
     {
       "id": "c6e4g3f1-5b0c-6d9e-1g8f-7h6g5f4e3d2c",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Teşviki Sanayi Kanunu ne zaman çıkarılmıştır?",
       "option_a": "1923",
@@ -3693,7 +3693,7 @@
     },
     {
       "id": "e8g6i5h3-7d2e-8f1g-3i0h-9j8i7h6g5f4e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Alaşehir Kongresi hangi tarihtedir?",
       "option_a": "16 Ağustos 1919",
@@ -3706,7 +3706,7 @@
     },
     {
       "id": "f9h7j6i4-8e3f-9g2h-4j1i-0k9j8i7h6g5f",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Hiyanet-i Vataniye Kanunu ne zaman kabul edilmiştir?",
       "option_a": "23 Nisan 1920",
@@ -3719,7 +3719,7 @@
     },
     {
       "id": "g0i8k7j5-9f4g-0h3i-5k2j-1l0k9j8i7h6g",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mebusan Meclisi Misak-ı Milliyi ne zaman kabul etmiştir?",
       "option_a": "12 Ocak 1920",
@@ -3732,7 +3732,7 @@
     },
     {
       "id": "h1j9l8k6-0g5h-1i4j-6l3k-2m1l0k9j8i7h",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türk kadınına köy ihtiyar heyetlerine seçme ve seçilme hakkı hangi tarihte tanınmıştır?",
       "option_a": "1930",
@@ -3758,7 +3758,7 @@
     },
     {
       "id": "j3l1n0m8-2i7j-3k6l-8n5m-4o3n2m1l0k9j",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Temsil Heyeti'nin tüm yurdu temsil ettiği kararı hangi kongrede alınmıştır?",
       "option_a": "Erzurum",
@@ -3771,7 +3771,7 @@
     },
     {
       "id": "k4m2o1n9-3j8k-4l7m-9o6n-5p4o3n2m1l0k",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Yeni Türk harfleriyle basılan ilk gazete hangisidir?",
       "option_a": "Mardin",
@@ -3797,7 +3797,7 @@
     },
     {
       "id": "m6o4q3p1-5l0m-6n9o-1q8p-7r6q5p4o3n2m",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Şeriye ve Evkaf Vekâletlerinin kaldırılması hangi tarihtir?",
       "option_a": "3 Mart 1924",
@@ -3836,7 +3836,7 @@
     },
     {
       "id": "p9r7t6s4-8o3p-9q2r-4t1s-0u9t8s7r6q5p",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Temsil Heyeti hangi kongrede kurulmuştur?",
       "option_a": "Amasya",
@@ -3849,7 +3849,7 @@
     },
     {
       "id": "q0s8u7t5-9p4q-0r3s-5u2t-1v0u9t8s7r6q",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "Türkiye Cumhuriyeti'nin ilk meclis başkanı kimdir?",
       "option_a": "Mustafa Kemal Atatürk",
@@ -3862,7 +3862,7 @@
     },
     {
       "id": "r1t9v8u6-0q5r-1s4t-6v3u-2w1v0u9t8s7r",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "İngilizlerin İstanbul'u işgali ne zaman gerçekleşmiştir?",
       "option_a": "16 Mart 1920",
@@ -3888,7 +3888,7 @@
     },
     {
       "id": "t3v1x0w8-2s7t-3u6v-8x5w-4y3x2w1v0u9t",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amasya Görüşmeleri İstanbul hükümeti ile hangi tarihlerde yapılmıştır?",
       "option_a": "20-22 Ekim 1919",
@@ -3901,7 +3901,7 @@
     },
     {
       "id": "u4w2y1x9-3t8u-4v7w-9y6x-5z4y1x0w9v8u",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Teşviki Sanayi Kanunu hangi tarihte çıkarılmıştır?",
       "option_a": "1923",
@@ -3914,7 +3914,7 @@
     },
     {
       "id": "v5x3z2y0-4u9v-5w8x-0z7y-6a5z2y1x0w9v",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal'in askerlikten istifa ettiği kongre hangisidir?",
       "option_a": "Sivas",
@@ -3940,7 +3940,7 @@
     },
     {
       "id": "x7z5b4a2-6w1x-7y0z-2b9a-8c7b4a3z2y1x",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türk kadınına belediye seçimlerine katılma hakkı hangi yıl verilmiştir?",
       "option_a": "1926",
@@ -3966,7 +3966,7 @@
     },
     {
       "id": "z9b7d6c4-8y3z-9a2b-4d1c-0e9d6c5b4a3z",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Şeyh Sait İsyanı hangi tarihte başlamıştır?",
       "option_a": "1924",
@@ -3979,7 +3979,7 @@
     },
     {
       "id": "a0c8e7d5-9z4a-0b3c-5e2d-1f0e7d6c5b4a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Milli Mücadele'nin ilk kongresi hangisidir?",
       "option_a": "Erzurum",
@@ -3992,7 +3992,7 @@
     },
     {
       "id": "b1d9f8e6-0a5b-1c4d-6f3e-2g1f8e7d6c5b",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "Yeni harflerle basılan ilk gazete hangisidir?",
       "option_a": "İrade-i Milliye",
@@ -4005,7 +4005,7 @@
     },
     {
       "id": "c2e0g9f7-1b6c-2d5e-7g4f-3h2g9f8e7d6c",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Medeni Kanun ne zaman kabul edilmiştir?",
       "option_a": "1925",
@@ -4031,7 +4031,7 @@
     },
     {
       "id": "e4g2i1h9-3d8e-4f7g-9i6h-5j4i1h0g9f8e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amasya Görüşmeleri ne zaman yapılmıştır?",
       "option_a": "Ekim 1919",
@@ -4044,7 +4044,7 @@
     },
     {
       "id": "f5h3j2i0-4e9f-5g8h-0j7i-6k5j2i1h0g9f",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Miladi takvim hangi yıl kabul edilmiştir?",
       "option_a": "1925",
@@ -4057,7 +4057,7 @@
     },
     {
       "id": "g6i4k3j1-5f0g-6h9i-1k8j-7l6k3j2i1h0g",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Sivas Kongresi ne zaman toplanmıştır?",
       "option_a": "4-12 Eylül 1919",
@@ -4070,7 +4070,7 @@
     },
     {
       "id": "h7j5l4k2-6g1h-7i0j-2l9k-8m7l4k3j2i1h",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amiral Bristol raporu hangi tarihte yayınlanmıştır?",
       "option_a": "13 Ekim 1919",
@@ -4083,7 +4083,7 @@
     },
     {
       "id": "i8k6m5l3-7h2i-8j1k-3m0l-9n8k5l4k3j2i",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Tevhid-i Tedrisat Kanunu hangi tarihte kabul edilmiştir?",
       "option_a": "3 Mart 1924",
@@ -4096,7 +4096,7 @@
     },
     {
       "id": "j9l7n6m4-8i3j-9k2l-4n1m-0o9n6m5l4k3j",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "TBMM hangi şehirde açılmıştır?",
       "option_a": "İstanbul",
@@ -4135,7 +4135,7 @@
     },
     {
       "id": "m2o0q9p7-1l6m-2n5o-7q4p-3r2q9p8o7n6m",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Medeni Kanun ile neyin yerini almıştır?",
       "option_a": "Mecelle",
@@ -4148,7 +4148,7 @@
     },
     {
       "id": "n3p1r0q8-2m7n-3o6p-8r5q-4s3r0q9p8o7n",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Yeni Türk harflerinin kabulü hangi kanunla gerçekleşmiştir?",
       "option_a": "Yeni Türk Harflerinin Kabul ve Tatbiki Hakkında Kanun",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": "o4q2s1r9-3n8o-4p7q-9s6r-5t4s1r0q9p8o",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Hiyanet-i Vataniye Kanunu'nun kabul tarihi nedir?",
       "option_a": "29 Nisan 1920",
@@ -4187,7 +4187,7 @@
     },
     {
       "id": "q6s4u3t1-5p0q-6r9s-1u8t-7v6u3t2s1r0q",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Soyadı Kanunu kabul tarihi nedir?",
       "option_a": "4 Haziran 1934",
@@ -4200,7 +4200,7 @@
     },
     {
       "id": "r7t5v4u2-6q1r-7s0t-2v9u-8w7v4u3t2s1r",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Tekke, zaviye ve türbelerin kapatılmasına dair kanun hangi tarihtir?",
       "option_a": "30 Kasım 1925",
@@ -4213,7 +4213,7 @@
     },
     {
       "id": "s8u6w5v3-7r2s-8t1u-3w0v-9x8w5v4u3t2s",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "İlk muhalefet partisi hangisidir?",
       "option_a": "Terakkiperver Cumhuriyet Fırkası",
@@ -4226,7 +4226,7 @@
     },
     {
       "id": "t9v7x6w4-8s3t-9u2v-4x1w-0y9v6w5v4u3t",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amasya Genelgesi hangi tarihtedir?",
       "option_a": "22 Haziran 1919",
@@ -4239,7 +4239,7 @@
     },
     {
       "id": "u0w8y7x5-9t4u-0v3w-5y2x-1z0w7x6w5v4u",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Takriri Sükun Kanunu hangi isyan sonrası çıkarılmıştır?",
       "option_a": "Menemen",
@@ -4252,7 +4252,7 @@
     },
     {
       "id": "v1x9z8y6-0u5v-1w4x-6z3y-2a1z8y7x6w5v",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türk kadınına milletvekili seçme ve seçilme hakkı hangi değişiklik ile verilmiştir?",
       "option_a": "Medeni Kanun",
@@ -4265,7 +4265,7 @@
     },
     {
       "id": "w2y0a9z7-1v6w-2x5y-7a4z-3b2a9z8y7x6w",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "Cumhuriyet döneminin ilk partisi hangisidir?",
       "option_a": "Cumhuriyet Halk Fırkası",
@@ -4278,7 +4278,7 @@
     },
     {
       "id": "x3z1b0a8-2w7x-3y6z-8b5a-4c3b0a9z8y7x",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Şapka Kanunu ile ilgili hangi bilgi doğrudur?",
       "option_a": "1923'te kabul edildi",
@@ -4291,7 +4291,7 @@
     },
     {
       "id": "y4a2c1b9-3x8y-4z7a-9c6b-5d4c1b0a9z8y",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Diyanet İşleri Başkanlığı'nın kurulmasıyla ne kaldırılmıştır?",
       "option_a": "Şeyhülislamlık",
@@ -4317,7 +4317,7 @@
     },
     {
       "id": "a6c4e3d1-5z0a-6b9c-1e8d-7f6a5b4c3d2a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Temsil Heyeti ne zaman kurulmuştur?",
       "option_a": "Erzurum Kongresi",
@@ -4343,7 +4343,7 @@
     },
     {
       "id": "c8e6g5f3-7b2c-8d1e-3g0f-9h8g7f6e5d4c",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Lozan Barış Antlaşması hangi meclis tarafından onaylanmıştır?",
       "option_a": "1. TBMM",
@@ -4356,7 +4356,7 @@
     },
     {
       "id": "d9f7h6g4-8c3d-9e2f-4h1g-0i9h8g7f6e5d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Mustafa Kemal, hangi tarihte askerlikten istifa etmiştir?",
       "option_a": "8-9 Temmuz 1919",
@@ -4369,7 +4369,7 @@
     },
     {
       "id": "e0g8i7h5-9d4e-0f3g-5i2h-1j0i9h8g7f6e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Alaşehir Kongresi hangi tarihtedir?",
       "option_a": "16 Ağustos 1919",
@@ -4408,7 +4408,7 @@
     },
     {
       "id": "h3j1l0k8-2g7h-3i6j-8l5k-4m3l2k1j0i9h",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Yeni Türk harfleriyle yayınlanan ilk dergi hangisidir?",
       "option_a": "Belleten",
@@ -4434,7 +4434,7 @@
     },
     {
       "id": "j5l3n2m0-4i9j-5k8l-0n7m-6o5n4m3l2k1j",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amasya Görüşmeleri ne zaman yapılmıştır?",
       "option_a": "20-22 Ekim 1919",
@@ -4447,7 +4447,7 @@
     },
     {
       "id": "k6m4o3n1-5j0k-6l9m-1o8n-7p6o5n4m3l2k",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Tevhid-i Tedrisat Kanunu hangi tarihte kabul edilmiştir?",
       "option_a": "3 Mart 1924",
@@ -4460,7 +4460,7 @@
     },
     {
       "id": "l7n5p4o2-6k1l-7m0n-2p9o-8q7p6o5n4m3l",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Balıkesir Kongresi hangi tarihtedir?",
       "option_a": "28 Haziran 1919",
@@ -4499,7 +4499,7 @@
     },
     {
       "id": "o0q8s7r5-9n4o-0p3q-5s2r-1t0s9r8q7p6o",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Medeni Kanun ile neyin yerini almıştır?",
       "option_a": "Mecelle",
@@ -4525,7 +4525,7 @@
     },
     {
       "id": "q2s0u9t7-1p6q-2r5s-7u4t-3v2u1t0s9r8q",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Tekke ve zaviyelerin kapatılmasına dair kanun hangi tarihtir?",
       "option_a": "30 Kasım 1925",
@@ -4538,7 +4538,7 @@
     },
     {
       "id": "r3t1v0u8-2q7r-3s6t-8v5u-4w3v2u1t0s9r",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?",
       "option_a": "Mustafa Kemal Atatürk",
@@ -4551,7 +4551,7 @@
     },
     {
       "id": "s4u2w1v9-3r8s-4t7u-9w6v-5x4w3v2u1t0s",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Şapka İnkılabı ne zaman gerçekleşmiştir?",
       "option_a": "25 Kasım 1925",
@@ -4577,7 +4577,7 @@
     },
     {
       "id": "u6w4y3x1-5t0u-6v9w-1y8x-7z6y5x4w3v2u",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Milli Mücadele'yi anlatan 'Nutuk' hangi yılda CHP kurultayında okunmuştur?",
       "option_a": "1925",
@@ -4590,7 +4590,7 @@
     },
     {
       "id": "v7x5z4y2-6u1v-7w0x-2z9y-8a7z6y5x4w3v",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Amasya Genelgesi hangi tarihtedir?",
       "option_a": "22 Haziran 1919",
@@ -4603,7 +4603,7 @@
     },
     {
       "id": "w8y6a5z3-7v2w-8x1y-3a0z-9b8a7z6y5x4w",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Tevhid-i Tedrisat Kanunu hangi amaçla çıkarılmıştır?",
       "option_a": "Harf devrimini yapmak",
@@ -4642,7 +4642,7 @@
     },
     {
       "id": "z1b9d8c6-0y5z-1a4b-6d3c-2e1d0c9b8a7z",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Medeni Kanun hangi tarihte kabul edilmiştir?",
       "option_a": "17 Şubat 1926",
@@ -4655,7 +4655,7 @@
     },
     {
       "id": "a2c0e9d7-1z6a-2b5c-7e4d-3f2e1d0c9b8a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "TBMM'nin açılış tarihi nedir?",
       "option_a": "23 Nisan 1920",
@@ -4668,7 +4668,7 @@
     },
     {
       "id": "b3d1f0e8-2a7b-3c6d-8f5e-4g3f2e1d0c9b",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Cumhuriyetin ilk başbakanı kimdir?",
       "option_a": "İsmet İnönü",
@@ -4681,7 +4681,7 @@
     },
     {
       "id": "c4e2g1f9-3b8c-4d7e-9g6f-5h4g3f2e1d0c",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Cumhuriyet ilan edildikten sonra ilk meclis başkanı kimdir?",
       "option_a": "Fethi Okyar",
@@ -4707,7 +4707,7 @@
     },
     {
       "id": "e6g4i3h1-5d0e-6f9g-1i8h-7j6i5h4g3f2e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Yeni Türk harflerinin kabulü hangi kanunla olmuştur?",
       "option_a": "Yeni Türk Harflerinin Kabul ve Tatbiki Hakkında Kanun",
@@ -4731,7 +4731,7 @@
     },
     {
       "id": "g8i6k5j3-7f2g-8h1i-3k0j-9l8k7j6i5h4g",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Medeni Kanun ile ne yürürlükten kalkmıştır?",
       "option_a": "Mecelle",
@@ -4744,7 +4744,7 @@
     },
     {
       "id": "h9j7l6k4-8g3h-9i2j-4l1k-0m9l8k7j6i5h",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Erzurum Kongresi'nde ilk kez neyin gerekliliğinden bahsedilmiştir?",
       "option_a": "Yeni bir hükümet kurulması",
@@ -4757,7 +4757,7 @@
     },
     {
       "id": "i0k8m7l5-9h4i-0j3k-5m2l-1n0m9l8k7j6i",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Cumhuriyet'in ilk bankası hangisidir?",
       "option_a": "İş Bankası",
@@ -4770,7 +4770,7 @@
     },
     {
       "id": "j1l9n8m6-0i5j-1k4l-6n3m-2o1n0m9l8k7j",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Tevhid-i Tedrisat Kanununun amacı nedir?",
       "option_a": "Öğretim birliğini sağlamak",
@@ -4796,7 +4796,7 @@
     },
     {
       "id": "l3n1p0o8-2k7l-3m6n-8p5o-4q3p2o1n0m9l",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Sivas Kongresi kararlarının tümünü bağlayan temel ilke nedir?",
       "option_a": "Vatan bir bütündür, parçalanamaz",
@@ -4822,7 +4822,7 @@
     },
     {
       "id": "n5p3r2q0-4m9n-5o8p-0r7q-6s5r4q3p2o1n",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Temsil Heyeti tüm yurdu temsil ettiği kararı ne zaman alınmıştır?",
       "option_a": "Sivas Kongresi",
@@ -4835,7 +4835,7 @@
     },
     {
       "id": "o6q4s3r1-5n0o-6p9q-1s8r-7t6s5r4q3p2o",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Cumhuriyet'in ilk partisi hangisidir?",
       "option_a": "Cumhuriyet Halk Partisi",
@@ -4861,7 +4861,7 @@
     },
     {
       "id": "q8s6u5t3-7p2q-8r1s-3u0t-9v8u7t6s5r4q",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__genel_kultur_ve_tarih",
       "topic_name": "Genel Kültür ve Tarih",
       "question_text": "Türkiye'nin ilk Meclis Başkanı kimdir?",
       "option_a": "Mustafa Kemal",
@@ -4874,7 +4874,7 @@
     },
     {
       "id": "r9t7v6u4-8q3r-9s2t-4v1u-0w9v8u7t6s5r",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
       "question_text": "Erzurum Kongresi'nde ilk defa neyin sınırından bahsedilmiştir?",
       "option_a": "Vatan",
@@ -4887,7 +4887,7 @@
     },
     {
       "id": "s0u8w7v5-9r4s-0t3u-5w2v-1x0w9v8u7t6s",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__inkilaplar",
+      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
       "question_text": "Türk kadınına milletvekili seçme ve seçilme hakkı hangi yıl anayasa değişikliği ile verilmiştir?",
       "option_a": "1930",

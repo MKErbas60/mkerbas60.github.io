@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "e7b1a1a1-1234-4a5b-8c9d-1a2b3c4d5e6f",
-      "topic_id": "6356_sayili_kanun_tanimlar_ve_amac",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tanimlar_ve_amac",
       "topic_name": "Tanımlar ve Amaç",
       "question_text": "6356 sayılı Kanun'un 2. maddesi uyarınca, bir konfederasyon kurulabilmesi için değişik işkollarında faaliyet gösteren en az kaç sendikanın bir araya gelmesi gerekir?",
       "option_a": "3",
@@ -16,7 +16,7 @@
     },
     {
       "id": "f8c2b2b2-2345-5b6c-9d0e-2b3c4d5e6f7g",
-      "topic_id": "6356_sayili_kanun_kurulus_esaslari",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "6356 sayılı Kanun'un 2. maddesi uyarınca, bir sendikanın kurulabilmesi için en az kaç işçi veya işverenin bir araya gelmesi zorunludur?",
       "option_a": "5",
@@ -29,7 +29,7 @@
     },
     {
       "id": "a1d3c3c3-3456-6c7d-0e1f-3c4d5e6f7g8h",
-      "topic_id": "6356_sayili_kanun_iskolu_tespiti",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__iskolu_tespiti",
       "topic_name": "İşkolu Tespiti",
       "question_text": "6356 sayılı Kanun'un 5. maddesi uyarınca, bir işyerinin girdiği işkolunun tespiti hangi makam tarafından yapılır?",
       "option_a": "Valilik",
@@ -42,7 +42,7 @@
     },
     {
       "id": "b2e4d4d4-4567-7d8e-1f2g-4d5e6f7g8h9i",
-      "topic_id": "6356_sayili_kanun_kuruculuk_sartlari",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__kuruculuk_sartlari",
       "topic_name": "Kuruculuk Şartları",
       "question_text": "6356 sayılı Kanun'un 6. maddesi uyarınca, hangi suçlardan mahkûm olanlar, cezaları infaz edilmiş olsa dahi sendika kurucusu olamazlar?",
       "option_a": "Taksirli suçlar",
@@ -55,7 +55,7 @@
     },
     {
       "id": "c3f5e5e5-5678-8e9f-2g3h-5e6f7g8h9i0j",
-      "topic_id": "6356_sayili_kanun_tuzel_kisilik",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tuzel_kisilik",
       "topic_name": "Tüzel Kişilik Kazanılması",
       "question_text": "6356 sayılı Kanun'un 7. maddesi uyarınca, sendikalar tüzel kişiliği ne zaman kazanır?",
       "option_a": "Bakanlık onayladığında",
@@ -68,7 +68,7 @@
     },
     {
       "id": "d4a6f6f6-6789-9f0a-3h4i-6f7g8h9i0j1k",
-      "topic_id": "6356_sayili_kanun_organlar",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__organlar",
       "topic_name": "Kuruluş Organları",
       "question_text": "6356 sayılı Kanun'un 9. maddesi uyarınca, sendikaların zorunlu organları arasında aşağıdakilerden hangisi yer almaz?",
       "option_a": "Genel Kurul",
@@ -81,7 +81,7 @@
     },
     {
       "id": "e5b7g7g7-7890-0a1b-4i5j-7g8h9i0j1k2l",
-      "topic_id": "6356_sayili_kanun_yonetim_kurulu_sayisi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__yonetim_kurulu_sayisi",
       "topic_name": "Organ Üye Sayıları",
       "question_text": "6356 sayılı Kanun'un 9. maddesi uyarınca, konfederasyonların yönetim kurulu üye sayısı en az kaç olmalıdır?",
       "option_a": "3",
@@ -94,7 +94,7 @@
     },
     {
       "id": "f6c8h8h8-8901-1b2c-5j6k-8h9i0j1k2l3m",
-      "topic_id": "6356_sayili_kanun_genel_kurul_zamani",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__genel_kurul_zamani",
       "topic_name": "Genel Kurul Zamanı",
       "question_text": "6356 sayılı Kanun'un 12. maddesi uyarınca, sendikaların olağan genel kurulu en geç kaç yılda bir toplanmalıdır?",
       "option_a": "2",
@@ -107,7 +107,7 @@
     },
     {
       "id": "a7d9i9i9-9012-2c3d-6k7l-9i0j1k2l3m4n",
-      "topic_id": "6356_sayili_kanun_toplanti_yeter_sayisi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__toplanti_yeter_sayisi",
       "topic_name": "Toplantı ve Karar Yeter Sayıları",
       "question_text": "6356 sayılı Kanun'un 13. maddesi uyarınca, sendika genel kurulunun toplantı yeter sayısı nedir?",
       "option_a": "Üye veya delege tamsayısının üçte biri",
@@ -120,7 +120,7 @@
     },
     {
       "id": "b8e0j0j0-0123-3d4e-7l8m-0j1k2l3m4n5o",
-      "topic_id": "6356_sayili_kanun_üyelik_yasi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__üyelik_yasi",
       "topic_name": "Sendika Üyeliği",
       "question_text": "6356 sayılı Kanun'un 17. maddesi uyarınca, işçi sendikalarına üye olabilmek için en az kaç yaşını doldurmuş olmak gerekir?",
       "option_a": "15",
@@ -133,7 +133,7 @@
     },
     {
       "id": "c9f1k1k1-1234-4e5f-8m9n-1k2l3m4n5o6p",
-      "topic_id": "6356_sayili_kanun_üyelik_kazanimi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__üyelik_kazanimi",
       "topic_name": "Üyeliğin Kazanılması",
       "question_text": "6356 sayılı Kanun'un 17. maddesi uyarınca, sendika üyeliği başvurusu, sendika tarafından kaç gün içinde reddedilmezse kabul edilmiş sayılır?",
       "option_a": "15",
@@ -146,7 +146,7 @@
     },
     {
       "id": "d0a2l2l2-2345-5f6g-9n0o-2l3m4n5o6p7q",
-      "topic_id": "6356_sayili_kanun_üyelikten_cekilme",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__üyelikten_cekilme",
       "topic_name": "Üyelikten Çekilme",
       "question_text": "6356 sayılı Kanun'un 19. maddesi uyarınca, e-Devlet üzerinden yapılan üyelikten çekilme bildirimi, kaç ay sonra geçerlilik kazanır?",
       "option_a": "1 hafta",
@@ -159,7 +159,7 @@
     },
     {
       "id": "e1b3m3m3-3456-6g7h-0o1p-3m4n5o6p7q8r",
-      "topic_id": "6356_sayili_kanun_askerlik_durumu",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__askerlik_durumu",
       "topic_name": "Üyelik Askıya Alınma",
       "question_text": "6356 sayılı Kanun'un 19. maddesi uyarınca, askeri ödev nedeniyle silah altına alınan üyenin sendikal durumu nedir?",
       "option_a": "Üyelik sona erer",
@@ -172,7 +172,7 @@
     },
     {
       "id": "f2c4n4n4-4567-7h8i-1p2q-4n5o6p7q8r9s",
-      "topic_id": "6356_sayili_kanun_yonetici_guvencesi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__yonetici_guvencesi",
       "topic_name": "Yönetici Güvencesi",
       "question_text": "6356 sayılı Kanun'un 23. maddesi uyarınca, sendika yöneticiliği görevi sona eren işçi, eski işine dönmek için ne kadar süre içinde başvurmalıdır?",
       "option_a": "15 gün",
@@ -185,7 +185,7 @@
     },
     {
       "id": "a3d5o5o5-5678-8i9j-2q3r-5o6p7q8r9s0t",
-      "topic_id": "6356_sayili_kanun_temsilci_guvencesi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__temsilci_guvencesi",
       "topic_name": "Temsilci Güvencesi",
       "question_text": "6356 sayılı Kanun'un 24. maddesi uyarınca, işyeri sendika temsilcisinin işe iade davası sonuçlandığında, kararın kesinleşmesinden itibaren kaç iş günü içinde işe başvurmalıdır?",
       "option_a": "6",
@@ -198,7 +198,7 @@
     },
     {
       "id": "b4e6p6p6-6789-9j0k-3r4s-6p7q8r9s0t1u",
-      "topic_id": "6356_sayili_kanun_sendikal_tazminat",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__sendikal_tazminat",
       "topic_name": "Sendikal Tazminat",
       "question_text": "6356 sayılı Kanun'un 25. maddesi uyarınca, sendikal ayrımcılık durumunda hükmedilecek sendikal tazminat işçinin en az kaç yıllık ücreti tutarında olmalıdır?",
       "option_a": "Yarım",
@@ -211,7 +211,7 @@
     },
     {
       "id": "c5f7q7q7-7890-0k1l-4s5t-7q8r9s0t1u2v",
-      "topic_id": "6356_sayili_kanun_faaliyet_yasaklari",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__faaliyet_yasaklari",
       "topic_name": "Faaliyet Yasakları",
       "question_text": "6356 sayılı Kanun'un 26. maddesi uyarınca, sendikalar nakit mevcudunun en fazla yüzde kaçını sanayi ve ticaret kuruluşlarına yatırabilir?",
       "option_a": "10",
@@ -224,7 +224,7 @@
     },
     {
       "id": "d6a8r8r8-8901-1l2m-5t6u-8r9s0t1u2v3w",
-      "topic_id": "6356_sayili_kanun_temsilci_sayisi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__temsilci_sayisi",
       "topic_name": "Temsilci Atanması",
       "question_text": "6356 sayılı Kanun'un 27. maddesi uyarınca, işyerinde işçi sayısı 51 ile 100 arasında ise en çok kaç işyeri sendika temsilcisi atanabilir?",
       "option_a": "1",
@@ -237,7 +237,7 @@
     },
     {
       "id": "e7b9s9s9-9012-2m3n-6u7v-9s0t1u2v3w4x",
-      "topic_id": "6356_sayili_kanun_gelirler",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__gelirler",
       "topic_name": "Kuruluş Gelirleri",
       "question_text": "6356 sayılı Kanun'un 28. maddesi uyarınca, sendikalar yurt dışındaki kuruluşlardan Bakanlığa bildirmek kaydıyla yardım alabilir mi?",
       "option_a": "Hayır",
@@ -250,7 +250,7 @@
     },
     {
       "id": "f8c0t0t0-0123-3n4o-7v8w-0t1u2v3w4x5y",
-      "topic_id": "6356_sayili_kanun_mali_denetim",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__mali_denetim",
       "topic_name": "Mali Denetim",
       "question_text": "6356 sayılı Kanun'un 29. maddesi uyarınca, kuruluşların mali denetimleri en geç kaç yılda bir yeminli mali müşavirlerce yapılır?",
       "option_a": "1",
@@ -263,7 +263,7 @@
     },
     {
       "id": "a9d1u1u1-1234-4o5p-8w9x-1u2v3w4x5y6z",
-      "topic_id": "6356_sayili_kanun_mal_varligi_devri",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__mal_varligi_devri",
       "topic_name": "Tasfiye",
       "question_text": "6356 sayılı Kanun'un 32. maddesi uyarınca, tüzüğünde hüküm olmaması halinde, feshedilen bir sendikanın varlıkları nereye aktarılır?",
       "option_a": "Hazineye",
@@ -276,7 +276,7 @@
     },
     {
       "id": "b0e2v2v2-2345-5p6q-9x0y-2v3w4x5y6z7a",
-      "topic_id": "6356_sayili_kanun_tis_suresi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tis_suresi",
       "topic_name": "TİS Şekli ve Süresi",
       "question_text": "6356 sayılı Kanun'un 35. maddesi uyarınca, toplu iş sözleşmesi en çok kaç yıl süreli olarak yapılabilir?",
       "option_a": "1",
@@ -289,7 +289,7 @@
     },
     {
       "id": "c1f3w3w3-3456-6q7r-0y1z-3w4x5y6z7a8b",
-      "topic_id": "6356_sayili_kanun_tis_basvuru_suresi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tis_basvuru_suresi",
       "topic_name": "TİS Süreci",
       "question_text": "6356 sayılı Kanun'un 35. maddesi uyarınca, toplu iş sözleşmesi süresinin bitmesinden önceki kaç gün içinde yetki başvurusu yapılabilir?",
       "option_a": "30",
@@ -302,7 +302,7 @@
     },
     {
       "id": "d2a4x4x4-4567-7r8s-1z2a-4x5y6z7a8b9c",
-      "topic_id": "6356_sayili_kanun_dayanisma_aidati",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__dayanisma_aidati",
       "topic_name": "TİS'ten Yararlanma",
       "question_text": "6356 sayılı Kanun'un 39. maddesi uyarınca, taraf sendikaya üye olmayan işçilerin TİS'ten yararlanabilmesi için ödemeleri gereken aidat nedir?",
       "option_a": "Üyelik aidatı",
@@ -315,7 +315,7 @@
     },
     {
       "id": "e3b5y5y5-5678-8s9t-2a3b-5y6z7a8b9c0d",
-      "topic_id": "6356_sayili_kanun_tesmil",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tesmil",
       "topic_name": "Teşmil",
       "question_text": "6356 sayılı Kanun'un 40. maddesi uyarınca, teşmil kararını almaya yetkili makam kimdir?",
       "option_a": "Bakanlık",
@@ -328,7 +328,7 @@
     },
     {
       "id": "f4c6z6z6-6789-9t0u-3b4c-6z7a8b9c0d1e",
-      "topic_id": "6356_sayili_kanun_yetki_baraji",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__yetki_baraji",
       "topic_name": "Yetki Şartları",
       "question_text": "6356 sayılı Kanun'un 41. maddesi uyarınca, işçi sendikasının bir işyeri için yetkili olabilmesi için o işkolunda çalışan işçilerin en az yüzde kaçını üye yapmış olması gerekir?",
       "option_a": "1",
@@ -341,7 +341,7 @@
     },
     {
       "id": "a5d7a7a7-7890-0u1v-4c5d-7a8b9c0d1e2f",
-      "topic_id": "6356_sayili_kanun_yetki_itirazi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__yetki_itirazi",
       "topic_name": "Yetki İtirazı",
       "question_text": "6356 sayılı Kanun'un 43. maddesi uyarınca, yetki tespit yazısına karşı kaç iş günü içinde mahkemeye itiraz edilebilir?",
       "option_a": "3",
@@ -354,7 +354,7 @@
     },
     {
       "id": "b6e8b8b8-8901-1v2w-5d6e-8b9c0d1e2f3g",
-      "topic_id": "6356_sayili_kanun_toplu_gorusme",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__toplu_gorusme",
       "topic_name": "Toplu Görüşme",
       "question_text": "6356 sayılı Kanun'un 47. maddesi uyarınca, toplu görüşmenin süresi ilk toplantı tarihinden itibaren kaç gündür?",
       "option_a": "30",
@@ -367,7 +367,7 @@
     },
     {
       "id": "c7f9c9c9-9012-2w3x-6e7f-9c0d1e2f3g4h",
-      "topic_id": "6356_sayili_kanun_arabuluculuk",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__arabuluculuk",
       "topic_name": "Arabuluculuk",
       "question_text": "6356 sayılı Kanun'un 50. maddesi uyarınca, arabulucunun görevi kendisine yapılacak bildirimden itibaren kaç gün sürer?",
       "option_a": "6",
@@ -380,7 +380,7 @@
     },
     {
       "id": "d8a0d0d0-0123-3x4y-7f8g-0d1e2f3g4h5i",
-      "topic_id": "6356_sayili_kanun_yhk_kararlari",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__yhk_kararlari",
       "topic_name": "Yüksek Hakem Kurulu",
       "question_text": "6356 sayılı Kanun'un 51. maddesi uyarınca, Yüksek Hakem Kurulu kararları hakkında ne söylenebilir?",
       "option_a": "Tavsiye niteliğindedir",
@@ -393,7 +393,7 @@
     },
     {
       "id": "e9b1e1e1-1234-4y5z-8g9h-1e2f3g4h5i6j",
-      "topic_id": "6356_sayili_kanun_grev_tanimi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__grev_tanimi",
       "topic_name": "Grev",
       "question_text": "6356 sayılı Kanun'un 58. maddesi uyarınca, işçilerin ekonomik durumlarını korumak amacıyla Kanun'a uygun yaptıkları greve ne denir?",
       "option_a": "Genel grev",
@@ -406,7 +406,7 @@
     },
     {
       "id": "f0c2f2f2-2345-5z6a-9h0i-2f3g4h5i6j7k",
-      "topic_id": "6356_sayili_kanun_lokavt",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__lokavt",
       "topic_name": "Lokavt",
       "question_text": "6356 sayılı Kanun'un 59. maddesi uyarınca, işçilerin topluca işten uzaklaştırılmasına ne ad verilir?",
       "option_a": "İşten çıkarma",
@@ -419,7 +419,7 @@
     },
     {
       "id": "a1d3g3g3-3456-6a7b-0i1j-3g4h5i6j7k8l",
-      "topic_id": "6356_sayili_kanun_grev_karari_bildirimi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__grev_karari_bildirimi",
       "topic_name": "Grev ve Lokavt Kararı",
       "question_text": "6356 sayılı Kanun'un 60. maddesi uyarınca, grev kararı uygulamaya konulmadan kaç iş günü önce karşı tarafa bildirilmelidir?",
       "option_a": "3",
@@ -432,7 +432,7 @@
     },
     {
       "id": "b2e4h4h4-4567-7b8c-1j2k-4h5i6j7k8l9m",
-      "topic_id": "6356_sayili_kanun_grev_oylaması",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__grev_oylaması",
       "topic_name": "Grev Oylaması",
       "question_text": "6356 sayılı Kanun'un 61. maddesi uyarınca, grev oylaması talebi için işyerinde çalışan işçilerin en az kaçının başvurusu gerekir?",
       "option_a": "Yüzde 10",
@@ -445,7 +445,7 @@
     },
     {
       "id": "c3f5i5i5-5678-8c9d-2k3l-5i6j7k8l9m0n",
-      "topic_id": "6356_sayili_kanun_grev_yasaklari",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__grev_yasaklari",
       "topic_name": "Grev Yasakları",
       "question_text": "6356 sayılı Kanun'un 62. maddesi uyarınca, aşağıdakilerin hangisinde grev yapılamaz?",
       "option_a": "Tekstil fabrikası",
@@ -458,7 +458,7 @@
     },
     {
       "id": "d4a6j6j6-6789-9d0e-3l4m-6j7k8l9m0n1o",
-      "topic_id": "6356_sayili_kanun_erteleme",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__erteleme",
       "topic_name": "Grev Erteleme",
       "question_text": "6356 sayılı Kanun'un 63. maddesi uyarınca, Cumhurbaşkanı, milli güvenliği bozucu nitelikteki grevleri kaç gün süreyle erteleyebilir?",
       "option_a": "30",
@@ -471,7 +471,7 @@
     },
     {
       "id": "e5b7k7k7-7890-0e1f-4m5n-7k7l8m9n0n1o",
-      "topic_id": "6356_sayili_kanun_grev_gozculeri",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__grev_gozculeri",
       "topic_name": "Grev Gözcüleri",
       "question_text": "6356 sayılı Kanun'un 73. maddesi uyarınca, grev gözcüleri işyerinin giriş ve çıkış yerlerine en çok kaçar kişi olarak konulabilir?",
       "option_a": "2",
@@ -484,7 +484,7 @@
     },
     {
       "id": "f6c8l8l8-8901-1f2g-5n6o-8l8m9n0o1p2q",
-      "topic_id": "6356_sayili_kanun_ceza_seçim",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__ceza_seçim",
       "topic_name": "Ceza Hükümleri",
       "question_text": "6356 sayılı Kanun'un 78. maddesi uyarınca, seçim oylamalarına hile karıştıranlara ne kadar idari para cezası verilir?",
       "option_a": "700 TL",
@@ -497,7 +497,7 @@
     },
     {
       "id": "a7d9m9m9-9012-2g3h-6o7p-9m9n0o1p2q3r",
-      "topic_id": "6356_sayili_kanun_ceza_uyelik",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__ceza_uyelik",
       "topic_name": "Ceza Hükümleri",
       "question_text": "6356 sayılı Kanun'un 78. maddesi uyarınca, Kanun'a aykırı üye kaydedenlere her bir üyelik için ne kadar idari para cezası verilir?",
       "option_a": "100 TL",
@@ -510,7 +510,7 @@
     },
     {
       "id": "b8e0n0n0-0123-3h4i-7p8q-0n0o1p2q3r4s",
-      "topic_id": "6356_sayili_kanun_gorev_yasagi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__gorev_yasagi",
       "topic_name": "Hak Mahrumiyeti",
       "question_text": "6356 sayılı Kanun'un 78. maddesi uyarınca, kuruculuk şartlarına dair gerçeğe aykırı beyanda bulunanlar, kaç yıl süreyle sendika organlarında görev alamazlar?",
       "option_a": "1",
@@ -523,7 +523,7 @@
     },
     {
       "id": "c9f1o0o0-1234-4i5j-8q9r-1o0o1p2q3r4s",
-      "topic_id": "6356_sayili_kanun_tespit_davasi",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__tespit_davasi",
       "topic_name": "Tespit Davası",
       "question_text": "6356 sayılı Kanun'un 71. maddesi uyarınca, grev veya lokavtın kanun dışı olup olmadığının tespiti için açılan davada mahkeme kaç ay içinde karar vermelidir?",
       "option_a": "1",
@@ -536,7 +536,7 @@
     },
     {
       "id": "d0a2p1p1-2345-5j6k-9r0s-2p1p2q3r4s5t",
-      "topic_id": "6356_sayili_kanun_mulki_amir",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__mulki_amir",
       "topic_name": "Mülki Amir Yetkileri",
       "question_text": "6356 sayılı Kanun'un 74. maddesi uyarınca, grev ve lokavt sırasında kamu düzenine ilişkin tedbirleri almaya kim yetkilidir?",
       "option_a": "Belediye Başkanı",
@@ -549,7 +549,7 @@
     },
     {
       "id": "e1b3q2q2-3456-6k7l-0s1t-3q2q3r4s5t6u",
-      "topic_id": "6356_sayili_kanun_infisah",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__infisah",
       "topic_name": "Sona Erme Sonuçları",
       "question_text": "6356 sayılı Kanun'un 75. maddesi uyarınca, grevi uygulayan sendikanın feshedilmesi durumunda grevin hukuki durumu nedir?",
       "option_a": "Devam eder",
@@ -562,7 +562,7 @@
     },
     {
       "id": "f2c4r3r3-4567-7l8m-1t2u-4r3r4s5t6u7v",
-      "topic_id": "6356_sayili_kanun_idari_para_cezasi_yetki",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__idari_para_cezasi_yetki",
       "topic_name": "Ceza Yetkisi",
       "question_text": "6356 sayılı Kanun'un 78. maddesi uyarınca, bu Kanun'da öngörülen idari para cezalarını vermeye kim yetkilidir?",
       "option_a": "Vali",
@@ -575,7 +575,7 @@
     },
     {
       "id": "a3d5s4s4-5678-8m9n-2u3v-5s4s5t6u7v8w",
-      "topic_id": "6356_sayili_kanun_yururluk",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__yururluk",
       "topic_name": "Yürürlükten Kaldırılanlar",
       "question_text": "6356 sayılı Kanun'un 81. maddesi uyarınca, aşağıdaki kanunlardan hangisi bu Kanun ile yürürlükten kaldırılmıştır?",
       "option_a": "4857 sayılı İş Kanunu",
@@ -588,7 +588,7 @@
     },
     {
       "id": "b4e6t5t5-6789-9n0o-3v4w-6t5t6u7v8w9x",
-      "topic_id": "6356_sayili_kanun_defterler",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__defterler",
       "topic_name": "Defter ve Kayıtlar",
       "question_text": "6356 sayılı Kanun'un 30. maddesi uyarınca, sendikaların tutmak zorunda olduğu defterlerden hangisi demirbaş sınıfına giren eşyalar içindir?",
       "option_a": "Yevmiye defteri",
@@ -601,7 +601,7 @@
     },
     {
       "id": "c5f7u6u6-7890-0o1p-4w5x-7u6u7v8w9x0y",
-      "topic_id": "6356_sayili_kanun_isveren_vekili",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__isveren_vekili",
       "topic_name": "Tanımlar",
       "question_text": "6356 sayılı Kanun'un 2. maddesi uyarınca, işveren adına işletmenin bütününü yönetenlere ne ad verilir?",
       "option_a": "Yönetici",
@@ -614,7 +614,7 @@
     },
     {
       "id": "d6a8v7v7-8901-1p2q-5x6y-8v7v8w9x0y1z",
-      "topic_id": "6356_sayili_kanun_yasal_bildirim",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__yasal_bildirim",
       "topic_name": "Tebligat",
       "question_text": "6356 sayılı Kanun'un 80. maddesi uyarınca, tebligatlar hangi kanun hükümlerine göre yapılır?",
       "option_a": "İş Kanunu",
@@ -627,7 +627,7 @@
     },
     {
       "id": "e7b9w8w8-9012-2q3r-6y7z-9w8w9x0y1z2a",
-      "topic_id": "6356_sayili_kanun_cerceve_sozlesme",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__cerceve_sozlesme",
       "topic_name": "Çerçeve Sözleşme",
       "question_text": "6356 sayılı Kanun'un 33. maddesi uyarınca, çerçeve sözleşme en az kaç yıl için yapılır?",
       "option_a": "1",
@@ -640,7 +640,7 @@
     },
     {
       "id": "f8c0x9x9-0123-3r4s-7z8a-0x9x0y1z2a3b",
-      "topic_id": "6356_sayili_kanun_gorevli_makam",
+      "topic_id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu__gorevli_makam",
       "topic_name": "Tanımlar",
       "question_text": "6356 sayılı Kanun'un 2. maddesi uyarınca, işyeri toplu iş sözleşmesi için görevli makam hangisidir?",
       "option_a": "Bakanlık",
