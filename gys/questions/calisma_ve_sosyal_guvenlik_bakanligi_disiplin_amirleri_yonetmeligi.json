@@ -15,7 +15,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8a9b-0c1d2e3f4g5h",
+      "id": "32e9c66c-608a-4b54-b019-0b0aa0197087",
       "topic_id": "csgb_disiplin_amirleri_kapsam",
       "topic_name": "Başlangıç Hükümleri",
       "question_text": "Çalışma ve Sosyal Güvenlik Bakanlığı Disiplin Amirleri Yönetmeliği, hangi kanuna tabi personeli kapsar?",
@@ -28,7 +28,7 @@
       "difficulty": 1
     },
     {
-      "id": "b2c3d4e5-f6a7-4890-9b0c-1d2e3f4g5h6i",
+      "id": "f74d527d-825d-45b1-b8bb-83eee90c43eb",
       "topic_id": "csgb_disiplin_amirleri_dayanak",
       "topic_name": "Dayanak ve Mevzuat",
       "question_text": "Çalışma ve Sosyal Güvenlik Bakanlığı Disiplin Amirleri Yönetmeliği, 657 sayılı Devlet Memurları Kanunu'nun hangi maddesine dayanılarak hazırlanmıştır?",
@@ -41,7 +41,7 @@
       "difficulty": 2
     },
     {
-      "id": "c3d4e5f6-a7b8-4901-ac1d-2e3f4g5h6i7j",
+      "id": "34fc97bf-7361-4165-901e-2baeffbf0cfa",
       "topic_id": "csgb_disiplin_amirleri_ozel_kalem",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Yönetmelik ekindeki cetvele göre, Bakan Özel Kalem Müdürü'nün disiplin amiri kimdir?",
@@ -54,7 +54,7 @@
       "difficulty": 2
     },
     {
-      "id": "d4e5f6a7-b8c9-4012-bd2e-3f4g5h6i7j8k",
+      "id": "6b44bd10-1478-4b30-a2a7-70919706d22f",
       "topic_id": "csgb_disiplin_amirleri_yurutme",
       "topic_name": "Son Hükümler",
       "question_text": "Çalışma ve Sosyal Güvenlik Bakanlığı Disiplin Amirleri Yönetmeliği hükümlerini yürütmeye yetkili makam hangisidir?",
@@ -67,7 +67,7 @@
       "difficulty": 1
     },
     {
-      "id": "e5f6a7b8-c9d0-4123-ce3f-4g5h6i7j8k9l",
+      "id": "65a7facd-548b-4aea-991f-0229e45446d9",
       "topic_id": "csgb_disiplin_amirleri_strateji",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Strateji Geliştirme Başkanlığı'nda görev yapan bir Daire Başkanı'nın disiplin amiri aşağıdakilerden hangisidir?",
@@ -80,7 +80,7 @@
       "difficulty": 3
     },
     {
-      "id": "f6a7b8c9-d0e1-4234-df4g-5h6i7j8k9l0m",
+      "id": "aa5a02be-d051-43ca-acdf-955354be58b9",
       "topic_id": "csgb_disiplin_amirleri_hukuk",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Hukuk Hizmetleri Genel Müdürlüğü'nde görev yapan bir Avukatın disiplin amiri kimdir?",

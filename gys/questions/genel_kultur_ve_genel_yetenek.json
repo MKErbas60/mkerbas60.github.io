@@ -470,7 +470,7 @@
       "difficulty": 3
     },
     {
-      "id": "7a8b9c0d-1e2f-3456-7890-123456789012",
+      "id": "e840612c-efe4-4dfa-bbef-04c164846d8f",
       "topic_id": "genel_kultur_ve_genel_yetenek__vatandaslik",
       "topic_name": "Vatandaşlık",
       "question_text": "Anayasa'ya göre herkes, kişiliğine bağlı dokunulmaz, devredilemez, vazgeçilemez temel hak ve hürriyetlere sahiptir ifadesi hangi maddeyle ilgilidir?",
@@ -483,7 +483,7 @@
       "difficulty": 3
     },
     {
-      "id": "8b9c0d1e-2f3a-4567-8901-234567890123",
+      "id": "61269050-c886-4d40-a0e0-43afc272a1e9",
       "topic_id": "genel_kultur_ve_genel_yetenek__tarih",
       "topic_name": "Tarih",
       "question_text": "Atatürk hangi tarihte Samsun'a çıkmıştır?",
@@ -496,7 +496,7 @@
       "difficulty": 1
     },
     {
-      "id": "9c0d1e2f-3a4b-5678-9012-345678901234",
+      "id": "03ba45a8-d43a-48ba-9d36-299ffae5cebf",
       "topic_id": "genel_kultur_ve_genel_yetenek__cografya",
       "topic_name": "Coğrafya",
       "question_text": "Türkiye'nin en batı ucundaki ilimiz hangisidir?",
@@ -509,7 +509,7 @@
       "difficulty": 2
     },
     {
-      "id": "0d1e2f3a-4b5c-6789-0123-456789012345",
+      "id": "42819b25-ba13-461a-a048-160c28b08566",
       "topic_id": "genel_kultur_ve_genel_yetenek__sanat_ve_bilim",
       "topic_name": "Sanat ve Bilim",
       "question_text": "Güneş sistemindeki hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
@@ -522,7 +522,7 @@
       "difficulty": 1
     },
     {
-      "id": "1e2f3a4b-5c6d-7890-1234-567890123456",
+      "id": "96bd5cee-0c9d-472b-8b38-b45a4b29744b",
       "topic_id": "genel_kultur_ve_genel_yetenek__vatandaslik",
       "topic_name": "Vatandaşlık",
       "question_text": "Aşağıdakilerden hangisi temel hak ve özgürlüklerin kısıtlanamayacağı durumlardan biridir?",
@@ -535,7 +535,7 @@
       "difficulty": 3
     },
     {
-      "id": "2f3a4b5c-6d7e-8901-2345-678901234567",
+      "id": "f76248a2-feae-4c45-8e17-f0f61ec8553f",
       "topic_id": "genel_kultur_ve_genel_yetenek__tarih",
       "topic_name": "Tarih",
       "question_text": "TBMM'ye karşı çıkarılan ayaklanmaları bastırmak için çıkarılan kanun hangisidir?",
@@ -548,7 +548,7 @@
       "difficulty": 2
     },
     {
-      "id": "3a4b5c6d-7e8f-9012-3456-789012345678",
+      "id": "3050a473-0bd7-465b-91f8-6790f8b95b72",
       "topic_id": "genel_kultur_ve_genel_yetenek__cografya",
       "topic_name": "Coğrafya",
       "question_text": "Türkiye'de görülen 'Akdeniz İklimi'nin temel özelliği nedir?",
@@ -561,7 +561,7 @@
       "difficulty": 1
     },
     {
-      "id": "4b5c6d7e-8f9a-0123-4567-890123456789",
+      "id": "6fa9895c-a7e0-486c-a4f7-eb9bc8ce6b65",
       "topic_id": "genel_kultur_ve_genel_yetenek__sanat_ve_bilim",
       "topic_name": "Sanat ve Bilim",
       "question_text": "Aşağıdakilerden hangisi Türk edebiyatının 'Divan' dönemine ait eserlerden biridir?",
@@ -574,7 +574,7 @@
       "difficulty": 3
     },
     {
-      "id": "5c6d7e8f-9a0b-1234-5678-901234567890",
+      "id": "8d353c43-525d-48b9-b0ea-28c94d2dfcab",
       "topic_id": "genel_kultur_ve_genel_yetenek__vatandaslik",
       "topic_name": "Vatandaşlık",
       "question_text": "Türkiye'de 'Ombudsman' olarak bilinen kurumun resmî adı nedir?",
@@ -587,7 +587,7 @@
       "difficulty": 2
     },
     {
-      "id": "6d7e8f9a-0b1c-2345-6789-012345678901",
+      "id": "a7e74c77-b555-4709-b082-5a2881064d8d",
       "topic_id": "genel_kultur_ve_genel_yetenek__tarih",
       "topic_name": "Tarih",
       "question_text": "Aşağıdakilerden hangisi Atatürk'ün 'Siyasi' ilkelerinden biri değildir?",
@@ -600,7 +600,7 @@
       "difficulty": 3
     },
     {
-      "id": "7e8f9a0b-1c2d-3456-7890-123456789012",
+      "id": "f82ac661-609f-4414-8a4a-876949219293",
       "topic_id": "genel_kultur_ve_genel_yetenek__cografya",
       "topic_name": "Coğrafya",
       "question_text": "Türkiye'de sanayinin en gelişmiş olduğu bölge hangisidir?",
@@ -613,7 +613,7 @@
       "difficulty": 1
     },
     {
-      "id": "8f9a0b1c-2d3e-4567-8901-234567890123",
+      "id": "257082cd-73eb-4ce3-96c4-ac13f2019508",
       "topic_id": "genel_kultur_ve_genel_yetenek__sanat_ve_bilim",
       "topic_name": "Sanat ve Bilim",
       "question_text": "Karbondioksit formülü nedir?",
@@ -626,7 +626,7 @@
       "difficulty": 1
     },
     {
-      "id": "9a0b1c2d-3e4f-5678-9012-345678901234",
+      "id": "23dda0aa-d05d-4f3a-b5cc-44bcbc3917fd",
       "topic_id": "genel_kultur_ve_genel_yetenek__vatandaslik",
       "topic_name": "Vatandaşlık",
       "question_text": "Anayasa Mahkemesi üyelerinin görev süresi kaç yıldır?",
@@ -639,7 +639,7 @@
       "difficulty": 3
     },
     {
-      "id": "0b1c2d3e-4f5a-6789-0123-456789012345",
+      "id": "ce62565a-4803-46ee-9a5a-83024fd6f713",
       "topic_id": "genel_kultur_ve_genel_yetenek__tarih",
       "topic_name": "Tarih",
       "question_text": "Türkiye Cumhuriyeti'nin ilk Başbakanı kimdir?",

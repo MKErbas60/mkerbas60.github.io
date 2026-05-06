@@ -15,7 +15,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "id": "98353308-d7d8-4f2b-b6c1-5251a3a1e212",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__tanimlar",
       "topic_name": "Tanımlar ve Kısaltmalar",
       "question_text": "İş sağlığı ve güvenliği hizmetlerine ilişkin iş ve işlemlerin Genel Müdürlükçe kayıt, takip ve izlenmesi amacıyla kullanılan sistem/program aşağıdakilerden hangisidir?",
@@ -28,7 +28,7 @@
       "difficulty": 1
     },
     {
-      "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "id": "35be2ffb-8fc5-432a-9116-b2a65160bdf2",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__isveren_yukumlulukleri",
       "topic_name": "İşverenin Yükümlülükleri",
       "question_text": "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği'ne göre, on ve daha fazla çalışanı olan hangi tehlike sınıfındaki işyerlerinde 'diğer sağlık personeli' görevlendirilmesi yasal zorunluluktur?",
@@ -41,7 +41,7 @@
       "difficulty": 2
     },
     {
-      "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "id": "5318d37b-f445-43b7-81fb-9fa6c1103870",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__kayitlar",
       "topic_name": "Sağlık ve Güvenlik Kayıtları",
       "question_text": "İşveren, çalışanların kişisel sağlık dosyalarını, çalışanların işten ayrılma tarihinden itibaren en az kaç yıl süreyle saklamakla yükümlüdür?",
@@ -54,7 +54,7 @@
       "difficulty": 2
     },
     {
-      "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "id": "a626d852-2db6-4abc-9227-185385d5ab86",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__isgb",
       "topic_name": "İşyeri Sağlık ve Güvenlik Birimi (İSGB)",
       "question_text": "İşyerinde kurulması zorunlu olan İşyeri Sağlık ve Güvenlik Birimi (İSGB) bünyesindeki ilkyardım ve acil müdahale odası en az kaç metrekare büyüklüğünde olmalıdır?",
@@ -67,7 +67,7 @@
       "difficulty": 3
     },
     {
-      "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "id": "4423b800-f7a8-4463-a412-4b006357ab47",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__osgb_sartlar",
       "topic_name": "Ortak Sağlık ve Güvenlik Birimi (OSGB)",
       "question_text": "Bir Ortak Sağlık ve Güvenlik Birimi (OSGB) kurulabilmesi için asgari kaç tane tam süreli işyeri hekimi istihdam edilmesi zorunludur?",
@@ -80,7 +80,7 @@
       "difficulty": 2
     },
     {
-      "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "id": "ef6a52f4-d1be-4a97-93e8-b06b7b5fb4e5",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__onayli_defter",
       "topic_name": "Onaylı Defter",
       "question_text": "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği'ne göre, onaylı defterin imzalanması ve düzenli tutulmasından hukuken kim sorumludur?",
