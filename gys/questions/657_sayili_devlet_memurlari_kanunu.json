@@ -1107,7 +1107,7 @@
       "difficulty": 2
     },
     {
-      "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+      "id": "e0590f93-07e6-4d7d-94c6-8be67c3f4001",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__izinler",
       "topic_name": "Aylıksız İzin",
       "question_text": "Doğum yapan memura, analık izni bitiminden itibaren isteği üzerine kaç aya kadar aylıksız izin verilir?",
@@ -1120,7 +1120,7 @@
       "difficulty": 2
     },
     {
-      "id": "2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e",
+      "id": "25de0ddd-9d56-441a-a077-393dc2909730",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__izinler",
       "topic_name": "Aylıksız İzin",
       "question_text": "Hizmet yılı olarak kaç yılını tamamlamış olan memura, memuriyeti boyunca toplam bir yıla kadar aylıksız izin verilebilir?",
@@ -1133,7 +1133,7 @@
       "difficulty": 2
     },
     {
-      "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+      "id": "cd8d41ee-ceef-45d5-8d03-857547a435fc",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__basari_odulleri",
       "topic_name": "Başarı Ödülleri",
       "question_text": "Üstün başarı belgesi alanlara verilebilecek ödülün üst sınırı nedir?",
@@ -1146,7 +1146,7 @@
       "difficulty": 3
     },
     {
-      "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+      "id": "56bd2c3a-871c-4d0f-b56a-fe2acee333e4",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__memurlugun_sona_ermesi",
       "topic_name": "Memurluğun Sona Ermesi",
       "question_text": "Usulüne uygun olarak memuriyetten çekilenler (istifa edenler), kaç ay geçmeden tekrar Devlet memurluğuna atanamazlar?",
@@ -1159,7 +1159,7 @@
       "difficulty": 2
     },
     {
-      "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+      "id": "02618ebc-8a30-4eac-b7f4-5693213593bc",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__memurlugun_sona_ermesi",
       "topic_name": "Memurluğun Sona Ermesi",
       "question_text": "Yerine atanan kimsenin gelmesini beklemeden görevinden ayrılan (usulsüz çekilen) bir memur ne kadar süreyle tekrar atanamaz?",
@@ -1172,7 +1172,7 @@
       "difficulty": 2
     },
     {
-      "id": "6f7a8b9c-0d1e-2f3a-4b5c-6d7e8f9a0b1c",
+      "id": "ad12b8da-b98a-449a-be2b-6f1972334b01",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__memurlugun_sona_ermesi",
       "topic_name": "Memurluğun Sona Ermesi",
       "question_text": "Olağanüstü hal, seferberlik veya savaş hallerinde, yerine atanacak kişi gelmeden görevinden ayrılan bir memur için uygulanan yaptırım nedir?",
@@ -1185,7 +1185,7 @@
       "difficulty": 3
     },
     {
-      "id": "7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d",
+      "id": "9f9e015b-07c5-424c-86be-cea97a7d9ddf",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__memurlarin_odev_ve_sorumluluklari",
       "topic_name": "Memurların Ödev ve Sorumlulukları",
       "question_text": "Hizmet yerlerini temizleme, aydınlatma ve ısıtma işlerinde çalışanlar hangi hizmet sınıfı kapsamındadır?",
@@ -1198,7 +1198,7 @@
       "difficulty": 1
     },
     {
-      "id": "8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e",
+      "id": "aca33f5c-befb-4834-a22e-0a7331173469",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__genel_hukumler_ve_temel_kavramlar",
       "topic_name": "Genel Hükümler ve Temel Kavramlar",
       "question_text": "657 sayılı Kanun'a göre yönetim, icra, büro ve benzeri hizmetleri görenler hangi hizmet sınıfı kapsamındadır?",
@@ -1211,7 +1211,7 @@
       "difficulty": 1
     },
     {
-      "id": "9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f",
+      "id": "938b3381-8410-4dcf-b9e9-4e113dfeb151",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__memurlarin_haklari",
       "topic_name": "Memurların Hakları",
       "question_text": "Devlet memurlarının sendika üyeliği ve grev hakkı ile ilgili aşağıdakilerden hangisi doğrudur?",
@@ -1224,7 +1224,7 @@
       "difficulty": 1
     },
     {
-      "id": "0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a",
+      "id": "ae962cd2-3fc3-4813-9f5a-73e594114ede",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__memurlarin_haklari",
       "topic_name": "Memurların Hakları",
       "question_text": "Ölüm yardımı ödeneği ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
@@ -1237,7 +1237,7 @@
       "difficulty": 2
     },
     {
-      "id": "1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b",
+      "id": "d67dc9d5-ad55-4bad-a5fa-cc67165b9abe",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__aday_memurluk",
       "topic_name": "Aday Memurluk",
       "question_text": "Aday memurların kadro ve görevleri için gerekli bilgi ve becerileri kazandırmaya yönelik olarak verilen eğitim hangisidir?",
@@ -1250,7 +1250,7 @@
       "difficulty": 2
     },
     {
-      "id": "2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c",
+      "id": "48c288b0-e4fb-4caf-a630-7eb9a5cbfeda",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__memurlarin_odev_ve_sorumluluklari",
       "topic_name": "Memurların Ödev ve Sorumlulukları",
       "question_text": "Sayıştay'a hesap vermekle yükümlü olan saymanların devir süresi kaç gündür?",
@@ -1263,7 +1263,7 @@
       "difficulty": 3
     },
     {
-      "id": "3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d",
+      "id": "ffa3a149-6288-469a-b8ce-8ab015029306",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__memurlarin_odev_ve_sorumluluklari",
       "topic_name": "Memurların Ödev ve Sorumlulukları",
       "question_text": "Sayman mutemetleri için görev devir süresi ne kadardır?",
@@ -1276,7 +1276,7 @@
       "difficulty": 3
     },
     {
-      "id": "4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e",
+      "id": "46453d8b-adcd-452f-81b4-418c1d4dd6f8",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__aday_memurluk",
       "topic_name": "Aday Memurluk",
       "question_text": "İlkokulu bitirenlerin memuriyete giriş ve yükselebilecekleri son derece/kademe hangisidir?",
@@ -1289,7 +1289,7 @@
       "difficulty": 3
     },
     {
-      "id": "5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f",
+      "id": "8153e635-242b-4b99-83b1-229bb4277445",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__aday_memurluk",
       "topic_name": "Aday Memurluk",
       "question_text": "4 yıl süreli yüksek öğrenimi bitirenlerin memuriyete giriş derece/kademesi hangisidir?",
@@ -1302,7 +1302,7 @@
       "difficulty": 2
     },
     {
-      "id": "6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a",
+      "id": "31f43ea0-97b5-4cdc-b413-769920d1fb69",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__disiplin",
       "topic_name": "Disiplin Cezaları",
       "question_text": "Disiplin Kurulu cezayı reddederse, atamaya yetkili amirler kaç gün içinde başka bir disiplin cezası vermekte serbesttirler?",
@@ -1315,7 +1315,7 @@
       "difficulty": 3
     },
     {
-      "id": "7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b",
+      "id": "b7ab4c39-d3db-492d-8c1c-0f1ab9d7109c",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__disiplin",
       "topic_name": "Zamanaşımı",
       "question_text": "Devlet memurluğundan çıkarma cezasında, fiilin öğrenildiği tarihten itibaren kaç ay içinde soruşturmaya başlanmalıdır?",
@@ -1328,7 +1328,7 @@
       "difficulty": 3
     },
     {
-      "id": "8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c",
+      "id": "85a390a1-5da3-44c8-8163-3f476d7411fb",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__disiplin",
       "topic_name": "Disiplin Cezaları",
       "question_text": "Aylıktan kesme cezası ne zaman uygulanır?",
@@ -1341,7 +1341,7 @@
       "difficulty": 2
     },
     {
-      "id": "9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d",
+      "id": "8994a22f-4b9c-4655-b634-a744a3f3c872",
       "topic_id": "657_sayili_devlet_memurlari_kanunu__memurlugun_sona_ermesi",
       "topic_name": "Memurluğun Sona Ermesi",
       "question_text": "Aşağıdakilerden hangisi memurluğu sona erdiren hallerden biri değildir?",
