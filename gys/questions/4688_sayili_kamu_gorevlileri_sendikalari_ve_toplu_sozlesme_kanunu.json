@@ -1,5 +1,5 @@
 {
-  "total": 49,
+  "total": 46,
   "questions": [
     {
       "id": "e428c94e-6e27-4a7b-9f93-5e92160d5b54",
@@ -379,19 +379,6 @@
       "difficulty": 2
     },
     {
-      "id": "66a7b8c9-d0e1-4234-9150-6b7c8d9e0f1a",
-      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
-      "topic_name": "Yasaklar ve Güvenceler",
-      "question_text": "4688 sayılı Kanun'un 18. maddesi uyarınca, sendika temsilcilerinin görev yerini değiştirme yetkisi kime aittir?",
-      "option_a": "Kamu işvereni (sebebini kesin belirtmek zorundadır)",
-      "option_b": "Sendika başkanı",
-      "option_c": "Vali",
-      "option_d": "Sendika şube başkanı",
-      "correct_option": "A",
-      "explanation": "Madde 18'e göre kamu işvereni, sendika temsilcisinin işyerini haklı bir sebep belirtmedikçe değiştiremez.",
-      "difficulty": 2
-    },
-    {
       "id": "d4e5f6a7-b8c9-4012-9d3e-4f5a6b7c8d9e",
       "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_usul_ve_esaslari",
       "topic_name": "Toplu Sözleşme Usul ve Esasları",
@@ -610,32 +597,6 @@
       "option_d": "Saat başı ücretle",
       "correct_option": "B",
       "explanation": "Madde 34'te bu ödemenin, gösterge rakamının memur aylık katsayısı ile çarpımı suretiyle hesaplanacağı hükme bağlanmıştır.",
-      "difficulty": 3
-    },
-    {
-      "id": "617c2565-aca3-4c9b-9eff-dc1a44d1273b",
-      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar_ve_guvenceler",
-      "topic_name": "Yasaklar ve Güvenceler",
-      "question_text": "4688 sayılı Kanun'un 23. maddesi uyarınca, sendika temsilcileri temsilcilik görevlerini nerede yerine getirirler?",
-      "option_a": "Sendika merkezinde",
-      "option_b": "İşyerinde",
-      "option_c": "Valilikte",
-      "option_d": "Kendi evlerinde",
-      "correct_option": "B",
-      "explanation": "Madde 23'e göre sendika temsilcileri, temsilcilik görevlerini görevli oldukları işyerinde yerine getirirler.",
-      "difficulty": 1
-    },
-    {
-      "id": "1ec96142-3792-4430-8a65-5372ad27831c",
-      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar_ve_sendika_kurma_hakki",
-      "topic_name": "Tanımlar ve Sendika Kurma Hakkı",
-      "question_text": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'nun yayımlandığı Düstur cildi kaçtır?",
-      "option_a": "39",
-      "option_b": "40",
-      "option_c": "41",
-      "option_d": "42",
-      "correct_option": "B",
-      "explanation": "4688 sayılı Kanun, Düstur'un 40. cildinde yayımlanmıştır.",
       "difficulty": 3
     }
   ]

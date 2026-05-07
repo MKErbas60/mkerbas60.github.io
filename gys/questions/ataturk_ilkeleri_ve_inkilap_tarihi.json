@@ -1,5 +1,5 @@
 {
-  "total": 378,
+  "total": 345,
   "questions": [
     {
       "id": "952a97c3-beee-43e5-931f-1826952be716",
@@ -665,19 +665,6 @@
       "difficulty": 1
     },
     {
-      "id": "98b1d283-3e1a-4d9f-a429-c5c2a1e8e2b2",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
-      "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
-      "question_text": "Amasya Genelgesi'nin önemi nedir?",
-      "option_a": "Kurtuluş Savaşı'nın gerekçesi, amacı ve yöntemini belirtmesi",
-      "option_b": "Saltanatın kaldırılması",
-      "option_c": "İlk meclisin açılması",
-      "option_d": "Harf inkılabının yapılması",
-      "correct_option": "A",
-      "explanation": "Amasya Genelgesi ile Kurtuluş Savaşı'nın amacı, gerekçesi ve yöntemi ilk kez belirlenmiştir.",
-      "difficulty": 1
-    },
-    {
       "id": "a7c2e394-4b5a-4c6d-9e0f-1a2b3c4d5e6f",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
@@ -808,19 +795,6 @@
       "difficulty": 3
     },
     {
-      "id": "4e2a3b4d-4f5e-4a6b-2c0c-1e2f3a4b5c6d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
-      "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
-      "question_text": "Mustafa Kemal'in askerlik görevinden istifa ettiği yer neresidir?",
-      "option_a": "Sivas",
-      "option_b": "Erzurum",
-      "option_c": "Amasya",
-      "option_d": "Ankara",
-      "correct_option": "B",
-      "explanation": "Mustafa Kemal, Erzurum Kongresi öncesinde askerlik görevinden istifa etmiştir.",
-      "difficulty": 2
-    },
-    {
       "id": "5f3b4c5e-5a6f-4b7c-3d1d-2f3a4b5c6d7e",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
       "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
@@ -912,45 +886,6 @@
       "difficulty": 3
     },
     {
-      "id": "2a0c1d2f-2b3a-4c4d-0e8e-9a0b1c2d3e4f",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
-      "topic_name": "Kurtuluş Savaşı Cepheler",
-      "question_text": "Kurtuluş Savaşı'nda Batı Cephesi'nde Yunanlılara karşı kazanılan ilk zafer hangisidir?",
-      "option_a": "I. İnönü Savaşı",
-      "option_b": "II. İnönü Savaşı",
-      "option_c": "Sakarya Meydan Muharebesi",
-      "option_d": "Büyük Taarruz",
-      "correct_option": "A",
-      "explanation": "I. İnönü Savaşı Batı Cephesi'nde Yunanlılara karşı kazanılan ilk askeri başarıdır.",
-      "difficulty": 1
-    },
-    {
-      "id": "3b1d2e3a-3c4b-4d5e-1f9f-0b1c2d3e4f5a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
-      "topic_name": "Kurtuluş Savaşı Cepheler",
-      "question_text": "Doğu Cephesi'nde hangi devletle savaşılmıştır?",
-      "option_a": "Yunanistan",
-      "option_b": "Ermenistan",
-      "option_c": "Fransa",
-      "option_d": "İtalya",
-      "correct_option": "B",
-      "explanation": "Doğu Cephesi'nde Ermenilere karşı mücadele edilmiştir.",
-      "difficulty": 1
-    },
-    {
-      "id": "4c2e3f4b-4d5c-4e6a-2a0a-1c2d3e4f5a6b",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
-      "topic_name": "Kurtuluş Savaşı Cepheler",
-      "question_text": "Güney Cephesi'nde hangi devletle mücadele edilmiştir?",
-      "option_a": "İngiltere",
-      "option_b": "Fransa",
-      "option_c": "Yunanistan",
-      "option_d": "Rusya",
-      "correct_option": "B",
-      "explanation": "Güney Cephesi'nde Fransızlara karşı Kuvayı Milliye birlikleri mücadele etmiştir.",
-      "difficulty": 1
-    },
-    {
       "id": "5d3f4a5c-5e6d-4f7b-3b1b-2d3e4f5a6b7c",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",
@@ -961,58 +896,6 @@
       "option_d": "Fransızlarla barış yapılması",
       "correct_option": "B",
       "explanation": "Sakarya Millî Mücadele'nin son savunma savaşıdır; bu zaferden sonra Türk ordusu taarruza geçmiştir.",
-      "difficulty": 2
-    },
-    {
-      "id": "6e4a5b6d-6f7e-4a8c-4c2c-3e4f5a6b7c8d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
-      "topic_name": "Kurtuluş Savaşı Cepheler",
-      "question_text": "Kurtuluş Savaşı'nda Batı Cephesi'nde son savaş hangisidir?",
-      "option_a": "Büyük Taarruz",
-      "option_b": "I. İnönü",
-      "option_c": "Sakarya",
-      "option_d": "II. İnönü",
-      "correct_option": "A",
-      "explanation": "Büyük Taarruz Kurtuluş Savaşı'nın askeri safhasını bitiren son savaştır.",
-      "difficulty": 2
-    },
-    {
-      "id": "7f5b6c7e-7a8f-4b9d-5d3d-4f5a6b7c8d9e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
-      "topic_name": "Kurtuluş Savaşı Cepheler",
-      "question_text": "Kurtuluş Savaşı hangi antlaşma ile askeri safhası sona ermiştir?",
-      "option_a": "Lozan",
-      "option_b": "Mudanya",
-      "option_c": "Sevr",
-      "option_d": "Moskova",
-      "correct_option": "B",
-      "explanation": "Kurtuluş Savaşı'nın askeri safhası Mudanya Ateşkes Antlaşması ile sona ermiştir.",
-      "difficulty": 3
-    },
-    {
-      "id": "8a6c7d8f-8b9a-4c0e-6e4e-5a6b7c8d9e0f",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
-      "topic_name": "Kurtuluş Savaşı Cepheler",
-      "question_text": "Kurtuluş Savaşı'nda hangi antlaşma ile Ermenilerle savaş sona ermiştir?",
-      "option_a": "Gümrü",
-      "option_b": "Moskova",
-      "option_c": "Kars",
-      "option_d": "Lozan",
-      "correct_option": "A",
-      "explanation": "Gümrü Antlaşması ile Ermenilerle savaş sona ermiş ve Doğu Cephesi kapanmıştır.",
-      "difficulty": 2
-    },
-    {
-      "id": "9b7d8e9a-9c0b-4d1f-7f5f-6b7c8d9e0f1a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
-      "topic_name": "Kurtuluş Savaşı Cepheler",
-      "question_text": "Büyük Taarruz hangi tarihte başlamıştır?",
-      "option_a": "26 Ağustos 1922",
-      "option_b": "30 Ağustos 1922",
-      "option_c": "9 Eylül 1922",
-      "option_d": "23 Nisan 1920",
-      "correct_option": "A",
-      "explanation": "Büyük Taarruz 26 Ağustos 1922 sabahı başlamıştır.",
       "difficulty": 2
     },
     {
@@ -1185,71 +1068,6 @@
       "difficulty": 1
     },
     {
-      "id": "3d1f2a3c-3e4b-4f5b-1b9b-0d1e2f3a4b5c",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
-      "topic_name": "Atatürk İlkeleri",
-      "question_text": "Laiklik ilkesinin en temel amacı nedir?",
-      "option_a": "Dini kurumların kapatılması",
-      "option_b": "Din ve devlet işlerinin birbirinden ayrılması",
-      "option_c": "Sadece hukuk kurallarının değiştirilmesi",
-      "option_d": "Dinin tamamen yasaklanması",
-      "correct_option": "B",
-      "explanation": "Laiklik, devlet düzeninin din kurallarından bağımsız olmasıdır.",
-      "difficulty": 1
-    },
-    {
-      "id": "4e2a3b4d-4f5c-4a6c-2c0c-1e2f3a4b5c6d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
-      "topic_name": "Atatürk İlkeleri",
-      "question_text": "Devletçilik ilkesi temel olarak hangi alandaki eksikliği gidermek için uygulanmıştır?",
-      "option_a": "Siyasi",
-      "option_b": "Hukuki",
-      "option_c": "Ekonomik",
-      "option_d": "Eğitim",
-      "correct_option": "C",
-      "explanation": "Devletçilik, özel sektörün sermaye yetersizliği nedeniyle ekonomik kalkınmanın devlet eliyle yapılmasıdır.",
-      "difficulty": 2
-    },
-    {
-      "id": "5f3b4c5e-5a6d-4b7d-3d1d-2f3a4b5c6d7e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
-      "topic_name": "Atatürk İlkeleri",
-      "question_text": "Halkçılık ilkesinin en temel amacı nedir?",
-      "option_a": "Sınıf ayrımını reddederek toplumsal eşitliği sağlamak",
-      "option_b": "Ekonomiyi devlet eliyle yönetmek",
-      "option_c": "Dini kuralları devlet işlerinden ayırmak",
-      "option_d": "Milliyetçi duyguları geliştirmek",
-      "correct_option": "A",
-      "explanation": "Halkçılık, toplumdaki sınıf ayrılıklarını reddeder ve sosyal eşitliği hedefler.",
-      "difficulty": 2
-    },
-    {
-      "id": "6a4c5d6f-6b7e-4c8e-4e2e-3a4b5c6d7e8f",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
-      "topic_name": "Atatürk İlkeleri",
-      "question_text": "İnkılapçılık ilkesinin en temel amacı nedir?",
-      "option_a": "Geçmişi reddetmek",
-      "option_b": "Çağın ihtiyaçlarına göre sistemi sürekli yenilemek",
-      "option_c": "Devletçiliği uygulamak",
-      "option_d": "Sadece kıyafetleri değiştirmek",
-      "correct_option": "B",
-      "explanation": "İnkılapçılık, değişen çağın şartlarına uyum sağlamayı hedefler.",
-      "difficulty": 1
-    },
-    {
-      "id": "7b5d6e7a-7c8f-4d9f-5f3f-4b5c6d7e8f9a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
-      "topic_name": "Atatürk İlkeleri",
-      "question_text": "Milliyetçilik ilkesinin temelinde ne vardır?",
-      "option_a": "Irkçılık",
-      "option_b": "Milli birlik ve beraberlik",
-      "option_c": "Devletçilik",
-      "option_d": "Sadece Türk soyundan gelme",
-      "correct_option": "B",
-      "explanation": "Atatürk milliyetçiliği birleştirici ve bütünleştiricidir; ırkçılığa dayanmaz.",
-      "difficulty": 2
-    },
-    {
       "id": "8c6e7f8b-8d9a-4e0a-6a4a-5c6d7e8f9a0b",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
@@ -1302,19 +1120,6 @@
       "difficulty": 1
     },
     {
-      "id": "2a0c1d2f-2b3e-4c4e-0e8e-9a0b1c2d3e4f",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
-      "topic_name": "Atatürk İlkeleri",
-      "question_text": "Atatürk ilkelerinden hangisi yenilikçi ve değişime açık olmayı savunur?",
-      "option_a": "Laiklik",
-      "option_b": "İnkılapçılık",
-      "option_c": "Halkçılık",
-      "option_d": "Milliyetçilik",
-      "correct_option": "B",
-      "explanation": "İnkılapçılık ilkesi sürekli gelişmeyi ve yeniliği savunur.",
-      "difficulty": 1
-    },
-    {
       "id": "3b1d2e3a-3c4f-4d5f-1f9f-0b1c2d3e4f5a",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
       "topic_name": "Atatürk İlkeleri",
@@ -1352,19 +1157,6 @@
       "correct_option": "C",
       "explanation": "Laiklik ilkesi 1937 yılında yapılan değişiklikle anayasaya girmiştir.",
       "difficulty": 3
-    },
-    {
-      "id": "6e4a5b6d-6f7c-4a8c-4c2c-3e4f5a6b7c8d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
-      "topic_name": "Atatürk İlkeleri",
-      "question_text": "Atatürk'ün milliyetçilik ilkesinin temel özelliği nedir?",
-      "option_a": "Dışlayıcı",
-      "option_b": "Birleştirici",
-      "option_c": "Irkçı",
-      "option_d": "Sadece din birliğine dayalı",
-      "correct_option": "B",
-      "explanation": "Atatürk'ün milliyetçiliği birleştirici ve kapsayıcıdır.",
-      "difficulty": 2
     },
     {
       "id": "7f5b6c7e-7a8d-4b9d-5d3d-4f5a6b7c8d9e",
@@ -1432,84 +1224,6 @@
       "difficulty": 2
     },
     {
-      "id": "2e0a1b2d-2f3c-4a4c-0c8c-9e0f1a2b3c4d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Saltanat hangi tarihte kaldırılmıştır?",
-      "option_a": "29 Ekim 1923",
-      "option_b": "1 Kasım 1922",
-      "option_c": "3 Mart 1924",
-      "option_d": "23 Nisan 1920",
-      "correct_option": "B",
-      "explanation": "Saltanat 1 Kasım 1922 tarihinde kaldırılmıştır.",
-      "difficulty": 1
-    },
-    {
-      "id": "3f1b2c3e-3a4d-4b5d-1d9d-0f1a2b3c4d5e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Halifelik ne zaman kaldırılmıştır?",
-      "option_a": "1922",
-      "option_b": "1923",
-      "option_c": "1924",
-      "option_d": "1926",
-      "correct_option": "C",
-      "explanation": "Halifelik 3 Mart 1924 tarihinde kaldırılmıştır.",
-      "difficulty": 1
-    },
-    {
-      "id": "4a2c3d4f-4b5e-4c6e-2e0e-1a2b3c4d5e6f",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Yeni Türk Harfleri ne zaman kabul edilmiştir?",
-      "option_a": "1923",
-      "option_b": "1928",
-      "option_c": "1930",
-      "option_d": "1932",
-      "correct_option": "B",
-      "explanation": "Yeni Türk Harfleri 1 Kasım 1928 tarihinde kabul edilmiştir.",
-      "difficulty": 2
-    },
-    {
-      "id": "5b3d4e5a-5c6f-4d7f-3f1f-2b3c4d5e6f7a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Soyadı Kanunu hangi yıl kabul edilmiştir?",
-      "option_a": "1930",
-      "option_b": "1932",
-      "option_c": "1934",
-      "option_d": "1935",
-      "correct_option": "C",
-      "explanation": "Soyadı Kanunu 1934 yılında kabul edilmiştir.",
-      "difficulty": 2
-    },
-    {
-      "id": "6c4e5f6b-6d7d-4e8a-4a2a-3c4d5e6f7a8b",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Türk kadınına seçme ve seçilme hakkı hangi yıl tam olarak tanınmıştır?",
-      "option_a": "1926",
-      "option_b": "1930",
-      "option_c": "1934",
-      "option_d": "1923",
-      "correct_option": "C",
-      "explanation": "Türk kadınına milletvekili seçme ve seçilme hakkı 1934 yılında tanınmıştır.",
-      "difficulty": 2
-    },
-    {
-      "id": "7d5f6a7c-7e8e-4f9b-5b3b-4d5e6f7a8b9c",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Medeni Kanun hangi ülkeden örnek alınarak hazırlanmıştır?",
-      "option_a": "Fransa",
-      "option_b": "İsviçre",
-      "option_c": "İtalya",
-      "option_d": "Almanya",
-      "correct_option": "B",
-      "explanation": "Medeni Kanun İsviçre Medeni Kanunu'ndan örnek alınmıştır.",
-      "difficulty": 2
-    },
-    {
       "id": "8e6a7b8d-8f9f-4a0c-6c4c-5e6f7a8b9c0d",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
@@ -1520,84 +1234,6 @@
       "option_d": "1930",
       "correct_option": "B",
       "explanation": "Şapka Kanunu 1925 yılında çıkarılmıştır.",
-      "difficulty": 2
-    },
-    {
-      "id": "9f7b8c9e-9a0a-4b1d-7d5d-6f7a8b9c0d1e",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Türk Dil Kurumu ne zaman kurulmuştur?",
-      "option_a": "1928",
-      "option_b": "1930",
-      "option_c": "1932",
-      "option_d": "1934",
-      "correct_option": "C",
-      "explanation": "Türk Dil Kurumu 1932 yılında kurulmuştur.",
-      "difficulty": 2
-    },
-    {
-      "id": "0a8c9d0f-0b1b-4c2e-8e6e-7a8b9c0d1e2f",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Türk Tarih Kurumu ne zaman kurulmuştur?",
-      "option_a": "1928",
-      "option_b": "1930",
-      "option_c": "1931",
-      "option_d": "1933",
-      "correct_option": "C",
-      "explanation": "Türk Tarih Kurumu 1931 yılında kurulmuştur.",
-      "difficulty": 3
-    },
-    {
-      "id": "1b9d0e1a-1c2c-4d3f-9f7f-8b9c0d1e2f3a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Miladi takvimin kabulü hangi yıl olmuştur?",
-      "option_a": "1924",
-      "option_b": "1925",
-      "option_c": "1926",
-      "option_d": "1928",
-      "correct_option": "C",
-      "explanation": "Miladi takvim 1926 yılında kabul edilmiştir.",
-      "difficulty": 3
-    },
-    {
-      "id": "2c0e1f2b-2d3d-4e4a-0a8a-9c0d1e2f3a4b",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Aşar vergisinin kaldırılması hangi ilke ile ilgilidir?",
-      "option_a": "Cumhuriyetçilik",
-      "option_b": "Halkçılık",
-      "option_c": "Laiklik",
-      "option_d": "Milliyetçilik",
-      "correct_option": "B",
-      "explanation": "Aşar vergisinin kaldırılması çiftçiyi rahatlatmak amacıyla yapıldığından Halkçılık ilkesiyle ilgilidir.",
-      "difficulty": 3
-    },
-    {
-      "id": "3d1f2a3c-3e4e-4f5b-1b9b-0d1e2f3a4b5c",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Kabotaj Kanunu hangi ilke ile ilgilidir?",
-      "option_a": "Milliyetçilik",
-      "option_b": "Cumhuriyetçilik",
-      "option_c": "Laiklik",
-      "option_d": "Devletçilik",
-      "correct_option": "A",
-      "explanation": "Kabotaj Kanunu Türk denizlerinde işletme hakkını Türk vatandaşlarına verdiğinden milliyetçilik ilkesiyle ilgilidir.",
-      "difficulty": 3
-    },
-    {
-      "id": "4e2a3b4d-4f5f-4a6c-2c0c-1e2f3a4b5c6d",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Aşağıdakilerden hangisi 3 Mart 1924'te gerçekleştirilen inkılaplardan biri değildir?",
-      "option_a": "Tevhid-i Tedrisat Kanunu'nun kabulü",
-      "option_b": "Halifeliğin kaldırılması",
-      "option_c": "Şeriye ve Evkaf Vekâleti'nin kaldırılması",
-      "option_d": "Medeni Kanun'un kabulü",
-      "correct_option": "D",
-      "explanation": "Medeni Kanun 1926 yılında kabul edilmiştir; 3 Mart 1924'te değil.",
       "difficulty": 2
     },
     {
@@ -2797,19 +2433,6 @@
       "difficulty": 2
     },
     {
-      "id": "n9p7r6q4-8m3n-9o2p-4r1q-0s9r8q7p6o5n",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Saltanat hangi tarihte kaldırılmıştır?",
-      "option_a": "29 Ekim 1923",
-      "option_b": "1 Kasım 1922",
-      "option_c": "3 Mart 1924",
-      "option_d": "23 Nisan 1920",
-      "correct_option": "B",
-      "explanation": "Saltanat 1 Kasım 1922'de kaldırılmıştır.",
-      "difficulty": 1
-    },
-    {
       "id": "o0q8s7r5-9n4o-0p3q-5s2r-1t0s9r8q7p6o",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
@@ -3926,19 +3549,6 @@
       "difficulty": 2
     },
     {
-      "id": "w6y4a3z1-5v0w-6x9y-1a8z-7b6a3z2y1x0w",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
-      "topic_name": "Kurtuluş Savaşı Cepheler",
-      "question_text": "TBMM'yi tanıyan ilk İtilaf devleti hangisidir?",
-      "option_a": "İngiltere",
-      "option_b": "Fransa",
-      "option_c": "İtalya",
-      "option_d": "Yunanistan",
-      "correct_option": "B",
-      "explanation": "TBMM'yi tanıyan ilk İtilaf devleti Fransa'dır.",
-      "difficulty": 2
-    },
-    {
       "id": "x7z5b4a2-6w1x-7y0z-2b9a-8c7b4a3z2y1x",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
       "topic_name": "Atatürk İnkılapları",
@@ -4587,45 +4197,6 @@
       "correct_option": "B",
       "explanation": "Nutuk 1927 yılında CHP kurultayında okunmuştur.",
       "difficulty": 2
-    },
-    {
-      "id": "83c2fbc7-f392-4142-9d9c-dd98966676c8",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_hazirlik_donemi",
-      "topic_name": "Kurtuluş Savaşı Hazırlık Dönemi",
-      "question_text": "Amasya Genelgesi hangi tarihtedir?",
-      "option_a": "22 Haziran 1919",
-      "option_b": "4 Eylül 1919",
-      "option_c": "23 Temmuz 1919",
-      "option_d": "28 Mayıs 1919",
-      "correct_option": "A",
-      "explanation": "Amasya Genelgesi 22 Haziran 1919'dadır.",
-      "difficulty": 2
-    },
-    {
-      "id": "5371b87c-31f5-4856-be28-696a2329f38a",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Tevhid-i Tedrisat Kanunu hangi amaçla çıkarılmıştır?",
-      "option_a": "Harf devrimini yapmak",
-      "option_b": "Öğretim birliğini sağlamak",
-      "option_c": "Yeni üniversiteler açmak",
-      "option_d": "Dil birliğini sağlamak",
-      "correct_option": "B",
-      "explanation": "Tevhid-i Tedrisat Kanunu öğretim birliğinin sağlanması amacıyla çıkarılmıştır.",
-      "difficulty": 2
-    },
-    {
-      "id": "bb88f302-86e8-4ace-aeed-c3f17d2b61fa",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
-      "topic_name": "Atatürk İlkeleri",
-      "question_text": "I. Beş Yıllık Kalkınma Planı hangi ülkeden esinlenerek hazırlanmıştır?",
-      "option_a": "Almanya",
-      "option_b": "Sovyetler Birliği",
-      "option_c": "Fransa",
-      "option_d": "İngiltere",
-      "correct_option": "B",
-      "explanation": "I. Beş Yıllık Kalkınma Planı, Sovyetler Birliği'nden esinlenilerek hazırlanmıştır.",
-      "difficulty": 3
     },
     {
       "id": "4b7a0fb4-ef74-4ab1-8b3a-066b9ba71b2c",
