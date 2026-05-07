@@ -1,0 +1,31 @@
+JSON Dosyaları Soru Sayıları Listesi
+=====================================
+
+1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi.json → 50 soru
+3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun.json → 50 soru
+4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun.json → 46 soru
+4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu.json → 46 soru
+4734_sayili_kamu_ihale_kanunu.json → 50 soru
+4857_sayili_is_kanunu.json → 50 soru
+4982_sayili_bilgi_edinme_hakki_kanunu.json → 43 soru
+4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi.json → 50 soru
+5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu.json → 47 soru
+6331_sayili_is_sagligi_ve_guvenligi_kanunu.json → 50 soru
+6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu.json → 50 soru
+657_sayili_devlet_memurlari_kanunu.json → 54 soru
+6698_sayili_kisisel_verilerin_korunmasi_kanunu.json → 50 soru
+6735_sayili_uluslararasi_isgucu_kanunu.json → 50 soru
+7201_sayili_tebligat_kanunu.json → 50 soru
+7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu.json → 50 soru
+ataturk_ilkeleri_ve_inkilap_tarihi.json → 345 soru
+calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi.json → 50 soru
+calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi.json → 50 soru
+devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik.json → 50 soru
+genel_kultur_ve_genel_yetenek.json → 208 soru
+is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi.json → 50 soru
+kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik.json → 50 soru
+mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik.json → 50 soru
+resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik.json → 50 soru
+turkce_ve_dil_bilgisi.json → 200 soru
+turkiye_cumhuriyeti_anayasasi.json → 50 soru
+uluslararasi_isgucu_kanunu_uygulama_yonetmeligi.json → 50 soru
