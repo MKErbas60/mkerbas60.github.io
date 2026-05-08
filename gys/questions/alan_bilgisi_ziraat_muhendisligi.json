@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "a9f8b7c6-d5e4-4a3b-b2c1-0f9e8d7c6b5a",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Bir veri setindeki en büyük değer ile en küçük değer arasındaki farka ne ad verilir?",
       "option_a": "Standart Sapma",
@@ -16,7 +16,7 @@
     },
     {
       "id": "b1a2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__diferansiyel_denklemler",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
       "topic_name": "Diferansiyel Denklemler",
       "question_text": "Bir diferansiyel denklemde bağımlı değişkenin en yüksek mertebeden türevinin üssüne ne ad verilir?",
       "option_a": "Denklemin Mertebesi",
@@ -29,7 +29,7 @@
     },
     {
       "id": "c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__muhendislik_ekonomisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Bir yatırımın ekonomik ömrü sonunda sahip olacağı tahmini satış değerine ne ad verilir?",
       "option_a": "Amortisman",
@@ -42,7 +42,7 @@
     },
     {
       "id": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__biyoloji",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Bitki hücrelerinde fotosentez olayının gerçekleştiği organel aşağıdakilerden hangisidir?",
       "option_a": "Mitokondri",
@@ -55,7 +55,7 @@
     },
     {
       "id": "e4f5a6b7-c8d9-4e0f-1a2b-3c4d5e6f7a8b",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__ziraat_muhendisligine_giris",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__ziraat_muhendisligine_giris",
       "topic_name": "Ziraat Mühendisliğine Giriş",
       "question_text": "Birim alandan elde edilen ürün miktarını artırmaya yönelik tarımsal üretim sistemine ne ad verilir?",
       "option_a": "Ekstansif Tarım",
@@ -68,7 +68,7 @@
     },
     {
       "id": "f5a6b7c8-d9e0-4f1a-2b3c-4d5e6f7a8b9c",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Toprağın ana materyalinin fiziksel ve kimyasal yollarla parçalanarak ufalanmasına ne ad verilir?",
       "option_a": "Toprak Horizonu",
@@ -81,7 +81,7 @@
     },
     {
       "id": "a6b7c8d9-e0f1-4a2b-3c4d-5e6f7a8b9c0d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Bir zar atıldığında üst yüze gelen sayının çift olma olasılığı nedir?",
       "option_a": "1/2",
@@ -94,7 +94,7 @@
     },
     {
       "id": "b7c8d9e0-f1a2-4b3c-4d5e-6f7a8b9c0d1e",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__biyoloji",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Bitkilerde su ve minerallerin kökten yapraklara taşınmasını sağlayan doku hangisidir?",
       "option_a": "Floem (Soymuk Borusu)",
@@ -107,7 +107,7 @@
     },
     {
       "id": "c8d9e0f1-a2b3-4c4d-5e6f-7a8b9c0d1e2f",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Toprağın asitlik veya alkalinlik derecesini gösteren ölçüt aşağıdakilerden hangisidir?",
       "option_a": "Kireç İçeriği",
@@ -120,7 +120,7 @@
     },
     {
       "id": "d9e0f1a2-b3c4-4d5e-6f7a-8b9c0d1e2f3a",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__muhendislik_ekonomisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Paranın zaman değerini hesaplarken kullanılan, gelecekteki bir tutarın bugünkü karşılığını bulma işlemine ne ad verilir?",
       "option_a": "Bileşik Faiz",
@@ -133,7 +133,7 @@
     },
     {
       "id": "e0f1a2b3-c4d5-4e6f-7a8b-9c0d1e2f3a4b",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__diferansiyel_denklemler",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
       "topic_name": "Diferansiyel Denklemler",
       "question_text": "$y'' + 4y = 0$ denkleminin karakteristik denklemi aşağıdakilerden hangisidir?",
       "option_a": "$r^2 + 4r = 0$",
@@ -146,7 +146,7 @@
     },
     {
       "id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Bir veri grubunda en sık tekrar eden değere ne ad verilir?",
       "option_a": "Aritmetik Ortalama",
@@ -159,7 +159,7 @@
     },
     {
       "id": "a2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__ziraat_muhendisligine_giris",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__ziraat_muhendisligine_giris",
       "topic_name": "Ziraat Mühendisliğine Giriş",
       "question_text": "Bitki yetiştirme ile uğraşan bilim dalına ne ad verilir?",
       "option_a": "Zootekni",
@@ -172,7 +172,7 @@
     },
     {
       "id": "b3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Toprağın kum, silt ve kil miktarlarının oranına ne ad verilir?",
       "option_a": "Toprak Strüktürü (Yapı)",
@@ -185,7 +185,7 @@
     },
     {
       "id": "c4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__biyoloji",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Hücrede protein sentezinin yapıldığı organel hangisidir?",
       "option_a": "Lizozom",
@@ -198,7 +198,7 @@
     },
     {
       "id": "d5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Korelasyon katsayısı (r) hangi değer aralığında bulunur?",
       "option_a": "0 ile 1 arası",
@@ -211,7 +211,7 @@
     },
     {
       "id": "e6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Normal dağılım eğrisi (Gaus eğrisi) hakkında hangisi doğrudur?",
       "option_a": "Asimetrik bir yapıdadır",
@@ -224,7 +224,7 @@
     },
     {
       "id": "f7a8b9c0-d1e2-4f3a-4b5c-6d7e8f9a0b1c",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__diferansiyel_denklemler",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
       "topic_name": "Diferansiyel Denklemler",
       "question_text": "$\frac{dy}{dx} = f(x)g(y)$ formundaki denklemlere ne ad verilir?",
       "option_a": "Homojen Denklem",
@@ -237,7 +237,7 @@
     },
     {
       "id": "a8b9c0d1-e2f3-4a4b-5c6d-7e8f9a0b1c2d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__muhendislik_ekonomisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Gelirlerin giderlere eşit olduğu, kâr veya zararın sıfır olduğu noktaya ne ad verilir?",
       "option_a": "Kritik Nokta",
@@ -250,7 +250,7 @@
     },
     {
       "id": "b9c0d1e2-f3a4-4b5c-6d7e-8f9a0b1c2d3e",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__biyoloji",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "DNA eşlenmesine (replikasyonuna) hücre döngüsünün hangi evresinde rastlanır?",
       "option_a": "Profaz",
@@ -263,7 +263,7 @@
     },
     {
       "id": "c0d1e2f3-a4b5-4c6d-7e8f-9a0b1c2d3e4f",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Bitki tarafından alınabilir suyun üst sınırı aşağıdakilerden hangisidir?",
       "option_a": "Solma Noktası",
@@ -276,7 +276,7 @@
     },
     {
       "id": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__ziraat_muhendisligine_giris",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__ziraat_muhendisligine_giris",
       "topic_name": "Ziraat Mühendisliğine Giriş",
       "question_text": "Toprağı işlemeden, ekim mibzeri ile doğrudan ekim yapılmasına ne ad verilir?",
       "option_a": "Geleneksel Ekim",
@@ -289,7 +289,7 @@
     },
     {
       "id": "e2f3a4b5-c6d7-4e8f-9a0b-1c2d3e4f5a6b",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Varyansın karekökü aşağıdakilerden hangisini verir?",
       "option_a": "Ortalama Mutlak Sapma",
@@ -302,7 +302,7 @@
     },
     {
       "id": "f3a4b5c6-d7e8-4f9a-0b1c-2d3e4f5a6b7c",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__muhendislik_ekonomisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Bir yatırımın kârlı kabul edilebilmesi için Net Bugünkü Değerin (NBD) kaçtan büyük olması gerekir?",
       "option_a": "-1",
@@ -315,7 +315,7 @@
     },
     {
       "id": "a4b5c6d7-e8f9-4a0b-1c2d-3e4f5a6b7c8d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__biyoloji",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Mendel kanunlarına göre, baskın bir genle çekinik bir gen yan yana geldiğinde hangi genin özelliği fenotipte görülür?",
       "option_a": "Çekinik Gen",
@@ -328,7 +328,7 @@
     },
     {
       "id": "b5c6d7e8-f9a0-4b1c-2d3e-4f5a6b7c8d9e",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Toprağın suyla doygun olduğu durumda tüm gözeneklerin suyla dolu olması haline ne ad verilir?",
       "option_a": "Hava Kapasitesi",
@@ -341,7 +341,7 @@
     },
     {
       "id": "c6d7e8f9-a0b1-4c2d-3e4f-5a6b7c8d9e0f",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__diferansiyel_denklemler",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
       "topic_name": "Diferansiyel Denklemler",
       "question_text": "$y' + P(x)y = Q(x)$ formundaki bir denklem ne tür bir denklemdir?",
       "option_a": "Ayırılabilir Denklem",
@@ -354,7 +354,7 @@
     },
     {
       "id": "d7e8f9a0-b1c2-4d3e-4f4a-5b6c7d8e9f0a",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "H0 hipotezinin (sıfır hipotezi) doğru olduğu halde reddedilmesine ne ad verilir?",
       "option_a": "Tip II Hata",
@@ -367,7 +367,7 @@
     },
     {
       "id": "e8f9a0b1-c2d3-4e4f-5a6b-7c8d9e0f1a2b",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__muhendislik_ekonomisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Belirli bir süre boyunca yapılan eşit ödemeler dizisine ne ad verilir?",
       "option_a": "Anüite",
@@ -380,7 +380,7 @@
     },
     {
       "id": "f9a0b1c2-d2e3-4f4a-5b6c-7d8e9f0a1b2c",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__biyoloji",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Canlıların sınıflandırılmasında 'Cins' (Genus) basamağından sonra gelen daha kapsayıcı üst basamak hangisidir?",
       "option_a": "Tür",
@@ -393,7 +393,7 @@
     },
     {
       "id": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Toprakta bitki besin maddelerini tutan ve toprağa koyu renk veren organik maddeye ne ad verilir?",
       "option_a": "Kireç",
@@ -406,7 +406,7 @@
     },
     {
       "id": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4e",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__ziraat_muhendisligine_giris",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__ziraat_muhendisligine_giris",
       "topic_name": "Ziraat Mühendisliğine Giriş",
       "question_text": "Kendi besinini kendi üreten (fotosentez yapan) canlılara ne ad verilir?",
       "option_a": "Heterotrof",
@@ -419,7 +419,7 @@
     },
     {
       "id": "c1d2e3f4-a5b6-4c7d-8e9f-0a1b2c3d4e5f",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Gruplandırılmış verilerde merkeze en yakın olan ve veriyi iki eşit parçaya bölen değer hangisidir?",
       "option_a": "Aritmetik Ortalama",
@@ -432,7 +432,7 @@
     },
     {
       "id": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6a",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__diferansiyel_denklemler",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
       "topic_name": "Diferansiyel Denklemler",
       "question_text": "$y' + y^2 = 0$ denklemi hangi türden bir diferansiyel denklemdir?",
       "option_a": "Lineer",
@@ -445,7 +445,7 @@
     },
     {
       "id": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7b",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__muhendislik_ekonomisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Bir makinenin satın alma maliyeti 100.000 TL, hurda değeri 20.000 TL ve ömrü 10 yıl ise yıllık doğrusal amortisman tutarı ne kadardır?",
       "option_a": "12.000 TL",
@@ -458,7 +458,7 @@
     },
     {
       "id": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8c",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__biyoloji",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Bitki hücre duvarının (çeperinin) ana bileşeni hangisidir?",
       "option_a": "Glikojen",
@@ -471,7 +471,7 @@
     },
     {
       "id": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__ziraat_muhendisligine_giris",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__ziraat_muhendisligine_giris",
       "topic_name": "Ziraat Mühendisliğine Giriş",
       "question_text": "Toprağın işlenmeden bırakılmasına (dinlendirilmesine) ne ad verilir?",
       "option_a": "Anız",
@@ -484,7 +484,7 @@
     },
     {
       "id": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0e",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Toprak taneciklerinin (kum, silt, kil) agregatlar oluşturacak şekilde dizilimine ne ad verilir?",
       "option_a": "Toprak Bünyesi",
@@ -497,7 +497,7 @@
     },
     {
       "id": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1f",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Varyans analizinde (ANOVA) gruplar arası farklılığın anlamlı olup olmadığını test etmek için kullanılan istatistik hangisidir?",
       "option_a": "t testi",
@@ -510,7 +510,7 @@
     },
     {
       "id": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2a",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Hangi grafik türü bir bütünün parçalarını göstermek için en uygundur?",
       "option_a": "Histogram",
@@ -523,7 +523,7 @@
     },
     {
       "id": "e9f0a1b2-c3d4-4e5f-6a7b-8c9d-0e1f2a3b4c5d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__diferansiyel_denklemler",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
       "topic_name": "Diferansiyel Denklemler",
       "question_text": "Bir diferansiyel denklemde bağımsız değişken olarak sadece tek bir değişken varsa bu denkleme ne ad verilir?",
       "option_a": "Kısmi Diferansiyel Denklem",
@@ -536,7 +536,7 @@
     },
     {
       "id": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__muhendislik_ekonomisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Maliyet-Fayda analizinde bir projenin kabul edilebilir olması için B/C oranı kaç olmalıdır?",
       "option_a": "< 1",
@@ -549,7 +549,7 @@
     },
     {
       "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__biyoloji",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Bitki büyümesini teşvik eden, 'boyuna büyümeyi' sağlayan temel hormon hangisidir?",
       "option_a": "Absisik Asit",
@@ -562,7 +562,7 @@
     },
     {
       "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Toprağın su sızdırma kapasitesine ne ad verilir?",
       "option_a": "Porozite",
@@ -575,7 +575,7 @@
     },
     {
       "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Ortalaması 10, standart sapması 2 olan bir veri grubunun varyasyon (değişim) katsayısı yüzde kaçtır?",
       "option_a": "%5",
@@ -588,7 +588,7 @@
     },
     {
       "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__ziraat_muhendisligine_giris",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__ziraat_muhendisligine_giris",
       "topic_name": "Ziraat Mühendisliğine Giriş",
       "question_text": "Aşağıdakilerden hangisi bir bitki besin elementi olan 'azotun' (N) bitkideki temel görevlerinden biridir?",
       "option_a": "Kök gelişimini artırmak",
@@ -601,7 +601,7 @@
     },
     {
       "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Aşağıdaki toprak horizonlarından hangisi 'yıkanma katı' olarak bilinir?",
       "option_a": "O Horizonu",
@@ -614,7 +614,7 @@
     },
     {
       "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__diferansiyel_denklemler",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
       "topic_name": "Diferansiyel Denklemler",
       "question_text": "$y' + y = x$ denklemi hangi yöntemle çözülebilir?",
       "option_a": "Sadece Değişkenlerine Ayırma",
@@ -627,7 +627,7 @@
     },
     {
       "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Standart normal dağılımda (Z dağılımı) ortalama ve varyans değerleri sırasıyla kaçtır?",
       "option_a": "1 ve 0",
@@ -640,7 +640,7 @@
     },
     {
       "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
-      "topic_id": "ziraat_muhendisligi_alan_bilgisi__muhendislik_ekonomisi",
+      "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Gelecekteki bir tarihte yapılacak bir ödemenin bugün yapılması durumunda yapılan indirime ne ad verilir?",
       "option_a": "Kâr Marjı",

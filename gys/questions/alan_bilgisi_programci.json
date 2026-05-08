@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "7f8b2c4a-1e3d-4b5c-9a2e-1f3a4b5c6d7e",
-      "topic_id": "programci_alan_bilgisi__temel_ofis_uygulamalari",
+      "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Microsoft Excel'de bir hücre aralığındaki sayıların ortalamasını alan fonksiyon aşağıdakilerden hangisidir?",
       "option_a": "=SUM()",
@@ -16,7 +16,7 @@
     },
     {
       "id": "1a2b3c4d-5e6f-4a8b-9c0d-1e2f3a4b5c6d",
-      "topic_id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Bir algoritmanın karmaşıklığını ifade etmek için kullanılan 'Big O' gösteriminde, O(1) neyi ifade eder?",
       "option_a": "Lineer zaman",
@@ -29,7 +29,7 @@
     },
     {
       "id": "88ec7b15-439f-4c7a-8432-a8716393c1d2",
-      "topic_id": "programci_alan_bilgisi__windows_isletim_sistemi_temel_bilgisayar",
+      "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "Windows'ta çalışan tüm uygulamaları ve sistem kaynaklarını izlemeye yarayan araç hangisidir?",
       "option_a": "Denetim Masası",
@@ -42,7 +42,7 @@
     },
     {
       "id": "3c4d5e6f-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
-      "topic_id": "programci_alan_bilgisi__web_programlama",
+      "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "HTML belgelerinde bir web sayfasının başlığını (sekme adı) belirlemek için hangi etiket kullanılır?",
       "option_a": "<body>",
@@ -55,7 +55,7 @@
     },
     {
       "id": "4d5e6f7a-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
-      "topic_id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de mevcut bir kaydı güncellemek için hangi komut kullanılır?",
       "option_a": "INSERT",
@@ -68,7 +68,7 @@
     },
     {
       "id": "96faa9cd-d1ae-4bf4-9b77-eeff9ab0c672",
-      "topic_id": "programci_alan_bilgisi__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta bir sınıftan (class) yeni bir nesne üretmek için kullanılan anahtar kelime hangisidir?",
       "option_a": "static",
@@ -81,7 +81,7 @@
     },
     {
       "id": "6f7a8b9c-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
-      "topic_id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "LIFO (Last In First Out - Son Giren İlk Çıkar) prensibiyle çalışan veri yapısı hangisidir?",
       "option_a": "Queue (Kuyruk)",
@@ -94,7 +94,7 @@
     },
     {
       "id": "7a8b9c0d-1e2f-4a3b-4c5d-6e7f8a9b0c1d",
-      "topic_id": "programci_alan_bilgisi__web_programlama",
+      "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "Bir web sayfasının stilini ve tasarımını belirlemek için kullanılan dil hangisidir?",
       "option_a": "PHP",
@@ -107,7 +107,7 @@
     },
     {
       "id": "ebee2b10-02ce-48a0-85c6-d5dba8acaff9",
-      "topic_id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de verileri alfabetik veya sayısal olarak sıralamak için kullanılan ifade hangisidir?",
       "option_a": "GROUP BY",
@@ -120,7 +120,7 @@
     },
     {
       "id": "9c0d1e2f-3a4b-4c5d-6e7f-8a9b0c1d2e3f",
-      "topic_id": "programci_alan_bilgisi__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta bir metodun değer döndürmediğini belirtmek için hangi anahtar kelime kullanılır?",
       "option_a": "int",
@@ -133,7 +133,7 @@
     },
     {
       "id": "7b819a57-ed43-4845-abdf-742b438c84e1",
-      "topic_id": "programci_alan_bilgisi__temel_ofis_uygulamalari",
+      "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Microsoft Word'de tüm metni seçmek için kullanılan kısayol tuşu hangisidir?",
       "option_a": "Ctrl + S",
@@ -146,7 +146,7 @@
     },
     {
       "id": "45730669-1162-4fae-81d1-c67791fa68a8",
-      "topic_id": "programci_alan_bilgisi__windows_isletim_sistemi_temel_bilgisayar",
+      "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "Windows'ta sistem dosyalarını onarmak ve kontrol etmek için kullanılan komut hangisidir?",
       "option_a": "ipconfig",
@@ -159,7 +159,7 @@
     },
     {
       "id": "374f03d7-30e4-428c-828e-31130822e9e3",
-      "topic_id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Verilerin küçükten büyüğe sıralanmasında, yan yana olan elemanları karşılaştırıp yer değiştiren en basit sıralama algoritması hangisidir?",
       "option_a": "Quick Sort",
@@ -172,7 +172,7 @@
     },
     {
       "id": "7fd39fd7-dd5f-4016-a179-85cc60d9046c",
-      "topic_id": "programci_alan_bilgisi__web_programlama",
+      "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "JavaScript'te bir değişken tanımlamak için kullanılan modern anahtar kelime hangisidir?",
       "option_a": "int",
@@ -185,7 +185,7 @@
     },
     {
       "id": "1c16f938-fa48-4da7-b532-055d7eb4febb",
-      "topic_id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de bir tablodaki toplam kayıt sayısını bulmak için hangi fonksiyon kullanılır?",
       "option_a": "SUM()",
@@ -198,7 +198,7 @@
     },
     {
       "id": "11186e8e-44f8-4e3b-8905-8baaf2a9f2c6",
-      "topic_id": "programci_alan_bilgisi__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "Nesne Yönelimli Programlamada, bir sınıfın başka bir sınıfın özelliklerini ve metodlarını almasına ne ad verilir?",
       "option_a": "Encapsulation (Kapsülleme)",
@@ -211,7 +211,7 @@
     },
     {
       "id": "daa42ee3-4a35-4ca9-a400-5270ff849471",
-      "topic_id": "programci_alan_bilgisi__temel_ofis_uygulamalari",
+      "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Microsoft PowerPoint'te sunuyu başlatmak için kullanılan fonksiyon tuşu hangisidir?",
       "option_a": "F1",
@@ -224,7 +224,7 @@
     },
     {
       "id": "de25d867-767a-4359-9460-2678d125a60b",
-      "topic_id": "programci_alan_bilgisi__windows_isletim_sistemi_temel_bilgisayar",
+      "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "Windows'ta ağ bağlantılarını test etmek ve bir sunucunun aktif olup olmadığını kontrol etmek için kullanılan komut hangisidir?",
       "option_a": "dir",
@@ -237,7 +237,7 @@
     },
     {
       "id": "116819c6-4c6c-4cd1-823d-b931190c631a",
-      "topic_id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Sıralı bir dizide bir elemanı bulmak için her adımda arama alanını ikiye bölen algoritma hangisidir?",
       "option_a": "Linear Search",
@@ -250,7 +250,7 @@
     },
     {
       "id": "7fe1d38f-4d5f-465a-92e5-7d4d8cab1aff",
-      "topic_id": "programci_alan_bilgisi__web_programlama",
+      "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "HTTP 404 hata kodu neyi ifade eder?",
       "option_a": "Sunucu hatası",
@@ -263,7 +263,7 @@
     },
     {
       "id": "393dbc2b-782b-4a96-97fd-83366fe9e494",
-      "topic_id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Bir tabloda her satırı benzersiz bir şekilde tanımlayan kolona ne ad verilir?",
       "option_a": "Foreign Key",
@@ -276,7 +276,7 @@
     },
     {
       "id": "279f30af-6779-4ad5-8310-4d7d276d4965",
-      "topic_id": "programci_alan_bilgisi__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta hata yönetimi (exception handling) için kullanılan blok yapısı hangisidir?",
       "option_a": "if - else",
@@ -289,7 +289,7 @@
     },
     {
       "id": "5d551076-f478-45f5-a57a-0b21d42a0ed1",
-      "topic_id": "programci_alan_bilgisi__temel_ofis_uygulamalari",
+      "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Excel'de bir hücreye veri girerken '$' işareti ne amaçla kullanılır?",
       "option_a": "Para birimi formatı için",
@@ -302,7 +302,7 @@
     },
     {
       "id": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7d",
-      "topic_id": "programci_alan_bilgisi__windows_isletim_sistemi_temel_bilgisayar",
+      "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "Bilgisayarın açılışında donanım kontrollerini yapan ve işletim sistemini başlatan yazılım hangisidir?",
       "option_a": "Kernel",
@@ -315,7 +315,7 @@
     },
     {
       "id": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8e",
-      "topic_id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Bir algoritmanın adım adım şematik olarak gösterilmesine ne ad verilir?",
       "option_a": "Sözde Kod (Pseudocode)",
@@ -328,7 +328,7 @@
     },
     {
       "id": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9f",
-      "topic_id": "programci_alan_bilgisi__web_programlama",
+      "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "HTML'de tıklanabilir bir köprü (link) oluşturmak için kullanılan etiket hangisidir?",
       "option_a": "<link>",
@@ -341,7 +341,7 @@
     },
     {
       "id": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0a",
-      "topic_id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de benzer karakter kalıplarını aramak için 'WHERE' ifadesiyle birlikte hangi operatör kullanılır?",
       "option_a": "EQUAL",
@@ -354,7 +354,7 @@
     },
     {
       "id": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1b",
-      "topic_id": "programci_alan_bilgisi__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta bir sınıftan nesne üretildiğinde çalışan özel metoda ne ad verilir?",
       "option_a": "Destructor",
@@ -367,7 +367,7 @@
     },
     {
       "id": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2c",
-      "topic_id": "programci_alan_bilgisi__temel_ofis_uygulamalari",
+      "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Word'de bir metni kalın (bold) yapmak için kullanılan kısayol hangisidir?",
       "option_a": "Ctrl + K",
@@ -380,7 +380,7 @@
     },
     {
       "id": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3d",
-      "topic_id": "programci_alan_bilgisi__windows_isletim_sistemi_temel_bilgisayar",
+      "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "İşletim sisteminde donanım ile yazılım arasındaki iletişimi sağlayan küçük yazılımlara ne ad verilir?",
       "option_a": "Application",
@@ -393,7 +393,7 @@
     },
     {
       "id": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4e",
-      "topic_id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Özyinelemeli (Recursive) bir fonksiyonun temel özelliği nedir?",
       "option_a": "Sadece bir kez çalışması",
@@ -406,7 +406,7 @@
     },
     {
       "id": "82f440de-2cbe-44fb-840a-f895c7b79214",
-      "topic_id": "programci_alan_bilgisi__web_programlama",
+      "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "CSS'de 'id' seçicisi için hangi karakter kullanılır?",
       "option_a": ".",
@@ -419,7 +419,7 @@
     },
     {
       "id": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6a",
-      "topic_id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Birden fazla tablodaki verileri belirli bir ilişkiye göre birleştirmek için kullanılan SQL komutu hangisidir?",
       "option_a": "UNION",
@@ -432,7 +432,7 @@
     },
     {
       "id": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7b",
-      "topic_id": "programci_alan_bilgisi__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta tüm sınıfların türediği en temel sınıf hangisidir?",
       "option_a": "System.Base",
@@ -445,7 +445,7 @@
     },
     {
       "id": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8c",
-      "topic_id": "programci_alan_bilgisi__temel_ofis_uygulamalari",
+      "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Excel'de '=EĞER(A1>50; \"Geçti\"; \"Kaldı\")' formülünde A1 hücresi 50 ise sonuç ne olur?",
       "option_a": "Geçti",
@@ -458,7 +458,7 @@
     },
     {
       "id": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9d",
-      "topic_id": "programci_alan_bilgisi__windows_isletim_sistemi_temel_bilgisayar",
+      "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "Windows'ta 'Registry Editor' (Kayıt Defteri) açmak için çalıştır satırına ne yazılır?",
       "option_a": "cmd",
@@ -471,7 +471,7 @@
     },
     {
       "id": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0e",
-      "topic_id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "FIFO (First In First Out - İlk Giren İlk Çıkar) prensibiyle çalışan veri yapısı hangisidir?",
       "option_a": "Stack",
@@ -484,7 +484,7 @@
     },
     {
       "id": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1f",
-      "topic_id": "programci_alan_bilgisi__web_programlama",
+      "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "HTML'de bir form oluştururken verilerin URL adresinde görünmeden gönderilmesini sağlayan yöntem hangisidir?",
       "option_a": "GET",
@@ -497,7 +497,7 @@
     },
     {
       "id": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2a",
-      "topic_id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de bir tablodan kayıt silmek için hangi komut kullanılır?",
       "option_a": "REMOVE",
@@ -510,7 +510,7 @@
     },
     {
       "id": "7964f656-8301-4974-9394-2739ea3722b7",
-      "topic_id": "programci_alan_bilgisi__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta bir değişkenin değerinin değiştirilemez olmasını sağlayan anahtar kelime hangisidir?",
       "option_a": "static",
@@ -523,7 +523,7 @@
     },
     {
       "id": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c",
-      "topic_id": "programci_alan_bilgisi__temel_ofis_uygulamalari",
+      "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Bir PDF dosyasını düzenlemek veya metin kopyalamak için kullanılan standart uygulama hangisidir?",
       "option_a": "Outlook",
@@ -536,7 +536,7 @@
     },
     {
       "id": "0a286350-f3b9-4b08-b014-6e43b1a7f845",
-      "topic_id": "programci_alan_bilgisi__windows_isletim_sistemi_temel_bilgisayar",
+      "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "İşlemci (CPU) hızını ifade eden birim hangisidir?",
       "option_a": "GB",
@@ -549,7 +549,7 @@
     },
     {
       "id": "b116c6fc-e89b-4617-a16a-242aa2482469",
-      "topic_id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Hangi veri yapısı hiyerarşik verileri temsil etmek için en uygundur?",
       "option_a": "Array",
@@ -562,7 +562,7 @@
     },
     {
       "id": "6525f05b-1de8-4f4d-9419-b5eb9281dcbc",
-      "topic_id": "programci_alan_bilgisi__web_programlama",
+      "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "Web tarayıcılarında çalışan betik (scripting) dili hangisidir?",
       "option_a": "Python",
@@ -575,7 +575,7 @@
     },
     {
       "id": "5b641abe-d12d-4832-9965-d9adc8596584",
-      "topic_id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de mükerrer (tekrar eden) kayıtları sonuç kümesinden çıkarmak için hangi ifade kullanılır?",
       "option_a": "UNIQUE",
@@ -588,7 +588,7 @@
     },
     {
       "id": "e6798d6b-ec01-4f9b-bf52-a87b91c59b3f",
-      "topic_id": "programci_alan_bilgisi__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "Sadece aynı sınıf içinden erişilebilen üyelere hangi erişim belirleyicisi (access modifier) atanır?",
       "option_a": "public",
@@ -601,7 +601,7 @@
     },
     {
       "id": "8aad5e3b-61e7-42b9-8096-6375b4d809fa",
-      "topic_id": "programci_alan_bilgisi__temel_ofis_uygulamalari",
+      "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Outlook uygulamasının temel işlevi nedir?",
       "option_a": "Veri tabanı yönetimi",
@@ -614,7 +614,7 @@
     },
     {
       "id": "75de9775-f026-4990-8839-f848cf79c903",
-      "topic_id": "programci_alan_bilgisi__windows_isletim_sistemi_temel_bilgisayar",
+      "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "Bir bilgisayar ağında IP adreslerini otomatik olarak dağıtan protokol hangisidir?",
       "option_a": "DNS",
@@ -627,7 +627,7 @@
     },
     {
       "id": "a91544cb-da82-4f1a-aefe-7a5eaa33553c",
-      "topic_id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Algoritma tasarımında 'Parçala ve Yönet' (Divide and Conquer) tekniğini kullanan sıralama algoritması hangisidir?",
       "option_a": "Insertion Sort",
@@ -640,7 +640,7 @@
     },
     {
       "id": "473124fe-0d9f-46ed-b78b-f589d448f62f",
-      "topic_id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de bir kolonun boş (verisiz) olup olmadığını kontrol etmek için hangi ifade kullanılır?",
       "option_a": "= NULL",
