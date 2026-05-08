@@ -2856,7 +2856,41 @@
       "regulation_id": "genel_kultur_ve_genel_yetenek",
       "name": "Savunma Sanayi"
     },	
-
+	{
+	  "id": "genel_kultur_ve_genel_yetenek__sosyoloji",
+	  "regulation_id": "genel_kultur_ve_genel_yetenek",
+	  "name": "Sosyoloji"
+	},
+	{
+	  "id": "genel_kultur_ve_genel_yetenek__turk_kultur_tarihi",
+	  "regulation_id": "genel_kultur_ve_genel_yetenek",
+	  "name": "Türk Kültür Tarihi"
+	},
+	{
+	  "id": "genel_kultur_ve_genel_yetenek__yazilim_ve_teknoloji",
+	  "regulation_id": "genel_kultur_ve_genel_yetenek",
+	  "name": "Yazılım ve Teknoloji"
+	},
+{
+    "id": "genel_kultur_ve_genel_yetenek__turkiye_ve_dunya_gundemi",
+    "regulation_id": "genel_kultur_ve_genel_yetenek",
+    "name": "Türkiye ve Dünya Gündemi"
+  },
+  {
+    "id": "genel_kultur_ve_genel_yetenek__uluslararasi_organizasyonlar",
+    "regulation_id": "genel_kultur_ve_genel_yetenek",
+    "name": "Uluslararası Organizasyonlar"
+  },
+  {
+    "id": "genel_kultur_ve_genel_yetenek__kulturel_ve_bilimsel_gelismeler",
+    "regulation_id": "genel_kultur_ve_genel_yetenek",
+    "name": "Kültürel ve Bilimsel Gelişmeler"
+  },
+  {
+    "id": "genel_kultur_ve_genel_yetenek__onemli_devlet_olaylari",
+    "regulation_id": "genel_kultur_ve_genel_yetenek",
+    "name": "Önemli Devlet Olayları"
+  },	
     {
       "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__bakanligin_gorevi",
       "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
@@ -3011,6 +3045,66 @@
       "id": "turkce_ve_dil_bilgisi__sozlu_anlatim_ve_konusma_kurallari",
       "regulation_id": "turkce_ve_dil_bilgisi",
       "name": "Sözlü Anlatım ve Konuşma Kuralları"
-    }
+    },
+{
+      "id": "programci_alan_bilgisi__temel_ofis_uygulamalari",
+      "regulation_id": "programci_alan_bilgisi",
+      "name": "Temel Ofis Uygulamaları"
+    },
+    {
+      "id": "programci_alan_bilgisi__algoritma_analizi_ve_tasarimi",
+      "regulation_id": "programci_alan_bilgisi",
+      "name": "Algoritma Analizi ve Tasarımı"
+    },
+    {
+      "id": "programci_alan_bilgisi__windows_isletim_sistemi_temel_bilgisayar",
+      "regulation_id": "programci_alan_bilgisi",
+      "name": "Windows İşletim Sistemi-Temel Bilgisayar"
+    },
+    {
+      "id": "programci_alan_bilgisi__web_programlama",
+      "regulation_id": "programci_alan_bilgisi",
+      "name": "Web Programlama"
+    },
+    {
+      "id": "programci_alan_bilgisi__veri_tabani_yonetim_sistemleri_sql",
+      "regulation_id": "programci_alan_bilgisi",
+      "name": "Veri Tabanı Yönetim Sistemleri, SQL"
+    },
+    {
+      "id": "programci_alan_bilgisi__nesne_yonelimli_programlama_csharp",
+      "regulation_id": "programci_alan_bilgisi",
+      "name": "Nesne Yönelimli Programlama (C#)"
+    },
+{
+      "id": "ziraat_muhendisligi_alan_bilgisi__istatistik_ve_olasilik",
+      "regulation_id": "ziraat_muhendisligi_alan_bilgisi",
+      "name": "İstatistik ve Olasılık"
+    },
+    {
+      "id": "ziraat_muhendisligi_alan_bilgisi__diferansiyel_denklemler",
+      "regulation_id": "ziraat_muhendisligi_alan_bilgisi",
+      "name": "Diferansiyel Denklemler"
+    },
+    {
+      "id": "ziraat_muhendisligi_alan_bilgisi__muhendislik_ekonomisi",
+      "regulation_id": "ziraat_muhendisligi_alan_bilgisi",
+      "name": "Mühendislik Ekonomisi"
+    },
+    {
+      "id": "ziraat_muhendisligi_alan_bilgisi__biyoloji",
+      "regulation_id": "ziraat_muhendisligi_alan_bilgisi",
+      "name": "Biyoloji"
+    },
+    {
+      "id": "ziraat_muhendisligi_alan_bilgisi__ziraat_muhendisligine_giris",
+      "regulation_id": "ziraat_muhendisligi_alan_bilgisi",
+      "name": "Ziraat Mühendisliğine Giriş"
+    },
+    {
+      "id": "ziraat_muhendisligi_alan_bilgisi__toprak_bilgisi",
+      "regulation_id": "ziraat_muhendisligi_alan_bilgisi",
+      "name": "Toprak Bilgisi"
+    }	
   ]
 }
