@@ -4108,19 +4108,6 @@
       "difficulty": 3
     },
     {
-      "id": "368372a1-b807-4d53-822e-71f97d53e906",
-      "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
-      "topic_name": "Atatürk İnkılapları",
-      "question_text": "Medeni Kanun ile neyin yerini almıştır?",
-      "option_a": "Mecelle",
-      "option_b": "Kanun-i Esasi",
-      "option_c": "Şeriye Mahkemeleri",
-      "option_d": "Evkaf",
-      "correct_option": "A",
-      "explanation": "Medeni kanun ile osmanlıdan kalan Mecelle yürürlükten kaldırılmıştır.",
-      "difficulty": 2
-    },
-    {
       "id": "9213d4ed-8726-47d6-aa7a-87fc822ce200",
       "topic_id": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi_cepheler",
       "topic_name": "Kurtuluş Savaşı Cepheler",

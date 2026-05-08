@@ -132,7 +132,7 @@
       "difficulty": 3
     },
     {
-      "id": "3c4d5e6f-7a8b-4c9d-0e1f-2a3b4c5d6e7f",
+      "id": "412e030b-80dc-4c10-b5af-b99a0ae62766",
       "topic_id": "etik_yonetmelik_hediye_bildirim",
       "topic_name": "Hediye Bildirimi",
       "question_text": "Yönetmeliğe göre, en az genel müdür düzeyindeki görevlilerin aldıkları hediyelerin listesini bildirme zamanı nedir?",
@@ -145,7 +145,7 @@
       "difficulty": 2
     },
     {
-      "id": "4d5e6f7a-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
+      "id": "6899f499-71a3-4e52-9185-d1f12e6267ad",
       "topic_id": "etik_yonetmelik_kamu_mallari",
       "topic_name": "Kamu Mallarının Kullanımı",
       "question_text": "Kamu görevlilerinin kamu taşıtlarını kullanırken uymaları gereken temel kural nedir?",
@@ -171,7 +171,7 @@
       "difficulty": 1
     },
     {
-      "id": "6f7a8b9c-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
+      "id": "4af0fede-7f91-46f2-85fd-f8f67c6b0fac",
       "topic_id": "etik_yonetmelik_beyanat",
       "topic_name": "Bağlayıcı Açıklamalar",
       "question_text": "Yönetmeliğin 18. maddesine göre kamu görevlileri açıklama yaparken hangisinden kaçınmalıdır?",

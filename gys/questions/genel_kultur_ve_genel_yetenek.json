@@ -2738,20 +2738,6 @@
       "difficulty": 2
     },
     {
-      "id": "2b3c4d5e-6f7a-8901-b2c3-d4e5f6789018",
-      "topic_id": "genel_kultur_ve_genel_yetenek__onemli_devlet_olaylari",
-      "topic_name": "Önemli Devlet Olayları",
-      "regulation_id": "genel_kultur_ve_genel_yetenek",
-      "question_text": "Harf İnkılabı hangi yıl yürürlüğe girmiştir?",
-      "option_a": "1923",
-      "option_b": "1926",
-      "option_c": "1928",
-      "option_d": "1930",
-      "correct_option": "C",
-      "explanation": "Yeni Türk Alfabesi 1 Kasım 1928 tarihinde kabul edilerek yürürlüğe girmiştir.",
-      "difficulty": 2
-    },
-    {
       "id": "3c4d5e6f-7a8b-9012-c3d4-e5f678901240",
       "topic_id": "genel_kultur_ve_genel_yetenek__turkiye_ve_dunya_gundemi",
       "topic_name": "Türkiye ve Dünya Gündemi",
