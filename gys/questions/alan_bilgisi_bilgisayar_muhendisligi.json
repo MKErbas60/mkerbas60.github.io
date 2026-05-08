@@ -1,0 +1,44 @@
+{
+  "topics": [
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_aglari",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Bilgisayar Ağları"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Veri Tabanı Yönetim Sistemleri, SQL"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__web_programlama",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Web Programlama"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__programlama_dilleri",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Programlama Dilleri"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Algoritma Analizi ve Tasarımı"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__veri_yapilari",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Veri Yapıları"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Nesne Yönelimli Programlama (C#, Java)"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Bilgisayar Mimarisi ve Donanım"
+    }
+  ]
+}
