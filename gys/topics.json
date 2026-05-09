@@ -3105,6 +3105,136 @@
       "id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "regulation_id": "alan_bilgisi_ziraat_muhendisligi",
       "name": "Toprak Bilgisi"
+    },
+	{
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_aglari",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Bilgisayar Ağları"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Veri Tabanı Yönetim Sistemleri, SQL"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__web_programlama",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Web Programlama"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__programlama_dilleri",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Programlama Dilleri"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Algoritma Analizi ve Tasarımı"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__veri_yapilari",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Veri Yapıları"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Nesne Yönelimli Programlama (C#, Java)"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Bilgisayar Mimarisi ve Donanım"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__olasilik_muhendislik_istatistigi",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Olasılık/Mühendislik İstatistiği"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__rassal_surecler",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Rassal Süreçler"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__yoneylem_arastirma",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Yöneylem Araştırma"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__muhendislik_ekonomisi",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Mühendislik Ekonomisi"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_envanter_kontrolu",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Üretim Planlama ve Envanter Kontrolü"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__karar_teorisi",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Karar Teorisi"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__kalite_ve_guvenilirlik",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Kalite ve Güvenilirlik"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__yonetim_bilgi_sistemleri",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Yönetim Bilgi Sistemleri"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__cizelgeleme",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Çizelgeleme"
+    },
+    {
+      "id": "alan_bilgisi_endustri_muhendisligi__tesis_ici_yerlesim",
+      "regulation_id": "alan_bilgisi_endustri_muhendisligi",
+      "name": "Tesis İçi Yerleşim"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi__diferansiyel_denklemler",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Diferansiyel Denklemler"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi__olasilik_ve_istatistik",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Olasılık ve İstatistik"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi__termodinamik",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Termodinamik"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi__kimya_muhendisligi_temel_islemleri",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Kimya Mühendisliği Temel İşlemleri"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi__akiskanlar_mekanigi",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Akışkanlar Mekaniği"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi__kimyasal_reaksiyon_muhendisligi",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Kimyasal Reaksiyon Mühendisliği"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi__isi_ve_kutle_transferi",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Isı ve Kütle Transferi"
+    },
+    {
+      "id": "alan_bilgisi_kimya_muhendisligi__yoneylem_arastirmasi",
+      "regulation_id": "alan_bilgisi_kimya_muhendisligi",
+      "name": "Yöneylem Araştırması"
     }	
   ]
 }
