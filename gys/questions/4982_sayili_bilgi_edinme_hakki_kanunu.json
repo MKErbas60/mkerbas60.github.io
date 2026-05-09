@@ -15,7 +15,7 @@
       "difficulty": 1
     },
     {
-      "id": "f5a2b3c4-0d9e-4b2f-c6g7-8b9c0d1e2f3a",
+      "id": "e234a8df-350c-42a6-8cb3-d3dad587b29d",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__kapsam",
       "topic_name": "Kapsam",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun 2. maddesi uyarınca, bu Kanun hangi kurum ve kuruluşların faaliyetlerinde uygulanır?",
@@ -28,7 +28,7 @@
       "difficulty": 1
     },
     {
-      "id": "a6b3c4d5-1e0f-4c3g-d7h8-9c0d1e2f3a4b",
+      "id": "ffe8240d-7fad-4b4a-8647-76d86bdebd4c",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu",
       "topic_name": "Başvuru Usulü",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun 6. maddesi uyarınca, bilgi edinme başvurusunda bulunan kişinin dilekçesinde belirtmesi zorunlu olmayan bilgi aşağıdakilerden hangisidir?",
@@ -41,7 +41,7 @@
       "difficulty": 1
     },
     {
-      "id": "b7c4d5e6-2f1g-4d4h-e8i9-0d1e2f3a4b5c",
+      "id": "23ce7ba1-76d7-4262-96ab-472ab76eaee7",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__cevaplama_sureleri",
       "topic_name": "Cevaplama Süreleri",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun 11. maddesi uyarınca, kurum ve kuruluşlar bilgi edinme başvurularını en geç kaç iş günü içinde cevaplandırmalıdır?",
@@ -54,7 +54,7 @@
       "difficulty": 2
     },
     {
-      "id": "c8d5e6f7-3g2h-4e5i-f9j0-1e2f3a4b5c6d",
+      "id": "c64fbec3-d99f-4b59-9dad-d171b3446514",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__cevaplama_sureleri",
       "topic_name": "Cevaplama Süreleri",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu'na göre, başvurunun birden fazla birimi ilgilendirmesi durumunda cevap verme süresi en fazla ne kadar uzatılabilir?",
@@ -67,7 +67,7 @@
       "difficulty": 2
     },
     {
-      "id": "d9e6f7a8-4h3i-4f6j-g0k1-2f3a4b5c6d7e",
+      "id": "6d5e95bd-3336-45f4-bae1-12e87765cd64",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun 16. maddesi uyarınca, aşağıdakilerden hangisi bilgi edinme hakkının istisnalarından biridir?",
@@ -80,7 +80,7 @@
       "difficulty": 2
     },
     {
-      "id": "e0f7a8b9-5i4j-4g7k-h1l2-3a4b5c6d7e8f",
+      "id": "465ca2e2-634b-486a-b336-bba2690b2afd",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun 23. maddesi uyarınca, ticari sır niteliğindeki bilgilerle ilgili uygulama nedir?",
@@ -93,7 +93,7 @@
       "difficulty": 2
     },
     {
-      "id": "f1a8b9c0-6j5k-4h8l-i2m3-4b5c6d7e8f9a",
+      "id": "9a91bf2f-3bce-4e02-b347-fac2144ff196",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__itiraz_yolu",
       "topic_name": "İtiraz Yolu",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun 13. maddesi uyarınca, bilgi edinme başvurusu reddedilen kişi nereye itiraz edebilir?",
@@ -106,7 +106,7 @@
       "difficulty": 2
     },
     {
-      "id": "a2b9c0d1-7k6l-4i9m-j3n4-5c6d7e8f9a0b",
+      "id": "9ef19a38-82ba-4475-97e0-d2aeeeff4f23",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__itiraz_yolu",
       "topic_name": "İtiraz Yolu",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun 14. maddesine göre, Bilgi Edinme Değerlendirme Kurulu kaç üyeden oluşur?",
@@ -119,7 +119,7 @@
       "difficulty": 3
     },
     {
-      "id": "b3c0d1e2-8l7m-4j0n-k4o5-6d7e8f9a0b1c",
+      "id": "86e18326-99f1-4475-971d-042671918063",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__itiraz_yolu",
       "topic_name": "İtiraz Yolu",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu'nun 14. maddesi uyarınca, Bilgi Edinme Değerlendirme Kurulu itiraz başvurularını en geç kaç iş günü içinde karara bağlar?",
@@ -132,7 +132,7 @@
       "difficulty": 3
     },
     {
-      "id": "c4d1e2f3-9m8n-4k1o-l5p6-7e8f9a0b1c2d",
+      "id": "cbbf7d8e-92c0-4709-8ef3-de4c33ea1619",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__genel_hukumler",
       "topic_name": "Genel Hükümler",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu hangi tarihte Resmî Gazete'de yayımlanmıştır?",
@@ -145,7 +145,7 @@
       "difficulty": 2
     },
     {
-      "id": "d5e2f3a4-0n9o-4l2p-m6q7-8f9a0b1c2d3e",
+      "id": "e51bcc15-6beb-4ad3-8636-91e1415f96e4",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu",
       "topic_name": "Başvuru Usulü",
       "question_text": "4982 sayılı Kanun uyarınca, bilgi edinme başvuruları posta yoluyla yapılabilir mi?",
@@ -158,7 +158,7 @@
       "difficulty": 1
     },
     {
-      "id": "e6f3a4b5-1o0p-4m3q-n7r8-9a0b1c2d3e4f",
+      "id": "cefa5286-b6fe-4b60-8cf1-4807bebc4f9a",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 18. maddesi uyarınca, yargı denetimi dışında kalan işlemler hakkında bilgi edinme hakkı geçerli midir?",
@@ -171,7 +171,7 @@
       "difficulty": 3
     },
     {
-      "id": "f7a4b5c6-2p1q-4n4r-o8s9-0b1c2d3e4f5a",
+      "id": "b1d3cd30-800c-493c-9d47-f9b0198ddf7d",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 21. maddesi uyarınca, 'özel hayatın gizliliği' kapsamındaki bilgiler bilgi edinme hakkı kapsamında verilebilir mi?",
@@ -184,7 +184,7 @@
       "difficulty": 1
     },
     {
-      "id": "a8b5c6d7-3q2r-4o5s-p9t0-1c2d3e4f5a6b",
+      "id": "0365436d-4c6d-495d-8ae6-1e4f97408f97",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 22. maddesi uyarınca, fikri mülkiyet haklarına ilişkin bilgiler bilgi edinme hakkının istisnası mıdır?",
@@ -197,7 +197,7 @@
       "difficulty": 2
     },
     {
-      "id": "b9c6d7e8-4r3s-4p6t-q0u1-2d3e4f5a6b7c",
+      "id": "d994c890-1a3c-40a2-b2c6-0f712f41e6fd",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu",
       "topic_name": "Başvuru Usulü",
       "question_text": "4982 sayılı Kanun'un 9. maddesi uyarınca, kamu kurum ve kuruluşları bilgi edinme başvurularını karşılamak için bir birim kurmakla yükümlü müdür?",
@@ -210,7 +210,7 @@
       "difficulty": 2
     },
     {
-      "id": "c0d7e8f9-5s4t-4q7u-r1v2-3e4f5a6b7c8d",
+      "id": "6c4de823-8c30-4a40-80ba-e606237f7a65",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__cevaplama_sureleri",
       "topic_name": "Cevaplama Süreleri",
       "question_text": "4982 sayılı Kanun'un 11. maddesine göre, idarenin başvuruya süresi içinde cevap vermemesi ne anlama gelir?",
@@ -223,7 +223,7 @@
       "difficulty": 2
     },
     {
-      "id": "d1e8f9a0-6t5u-4r8v-s2w3-4f5a6b7c8d9e",
+      "id": "030b324d-2fe3-4dae-b456-a235e739ac61",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__itiraz_yolu",
       "topic_name": "İtiraz Yolu",
       "question_text": "4982 sayılı Kanun'un 14. maddesi uyarınca, Bilgi Edinme Değerlendirme Kurulu'nun verdiği kararlara karşı yargı yolu açık mıdır?",
@@ -236,7 +236,7 @@
       "difficulty": 2
     },
     {
-      "id": "e2f9a0b1-7u6v-4s9w-t3x4-5a6b7c8d9e0f",
+      "id": "a13789aa-ba9d-4677-9392-f31864abb769",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 20. maddesi uyarınca, haber alma ve iletişim özgürlüğünü kısıtlayacak bilgiler bilgi edinme hakkı kapsamında verilebilir mi?",
@@ -249,7 +249,7 @@
       "difficulty": 2
     },
     {
-      "id": "f3a0b1c2-8v7w-4t0x-u4y5-6b7c8d9e0f1a",
+      "id": "b644b050-f201-4a27-be57-4302dfcd5e36",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__genel_hukumler",
       "topic_name": "Genel Hükümler",
       "question_text": "4982 sayılı Kanun'un 5. maddesi uyarınca, Türkiye'de ikamet eden yabancılar bilgi edinme hakkından yararlanabilir mi?",
@@ -262,7 +262,7 @@
       "difficulty": 2
     },
     {
-      "id": "a4b1c2d3-9w8x-4u1y-v5z6-7c8d9e0f1a2b",
+      "id": "08f19645-f6f1-40e8-90e7-2aa71da0e45c",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu",
       "topic_name": "Başvuru Usulü",
       "question_text": "4982 sayılı Kanun uyarınca, bilgi edinme başvuruları hangi dilde yapılmalıdır?",
@@ -275,7 +275,7 @@
       "difficulty": 1
     },
     {
-      "id": "b5c2d3e4-0x9y-4v2z-w6a7-8d9e0f1a2b3c",
+      "id": "dfc4876f-8631-416c-a368-4be4891271ce",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__cevaplama_sureleri",
       "topic_name": "Cevaplama Süreleri",
       "question_text": "4982 sayılı Kanun'un 11. maddesi uyarınca, kurumların 15 iş günlük süreyi uzatma yetkisi ne kadardır?",
@@ -288,7 +288,7 @@
       "difficulty": 2
     },
     {
-      "id": "c6d3e4f5-1y0z-4w3a-x7b8-9e0f1a2b3c4d",
+      "id": "b529ab38-3285-4c13-a9c9-b40ededb7d42",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__itiraz_yolu",
       "topic_name": "İtiraz Yolu",
       "question_text": "4982 sayılı Kanun'un 14. maddesi uyarınca, Bilgi Edinme Değerlendirme Kurulu'nun kararları taraflara bildirilir mi?",
@@ -301,7 +301,7 @@
       "difficulty": 1
     },
     {
-      "id": "d7e4f5a6-2z1a-4x4b-y8c9-0f1a2b3c4d5e",
+      "id": "18921d37-bebf-4da1-90ee-bef586709d8c",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu",
       "topic_name": "Başvuru Usulü",
       "question_text": "4982 sayılı Kanun'un 7. maddesi uyarınca, başvuru sahibi istediği bilginin kendisine hangi formatta/biçimde verilmesini talep edebilir mi?",
@@ -314,7 +314,7 @@
       "difficulty": 2
     },
     {
-      "id": "e8f5a6b7-3a2b-4y5c-z9d0-1a2b3c4d5e6f",
+      "id": "eacc2379-e672-4784-9097-2bbe456f91d9",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 17. maddesi uyarınca, yargısal soruşturma ve kovuşturmaya ilişkin gizli bilgiler bilgi edinme hakkı kapsamında verilebilir mi?",
@@ -327,7 +327,7 @@
       "difficulty": 2
     },
     {
-      "id": "f9a6b7c8-4b3c-4z6d-a0e1-2b3c4d5e6f7a",
+      "id": "c34e3642-cb40-45e1-b834-efadf0a971ce",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__ucretler",
       "topic_name": "Ücretler",
       "question_text": "4982 sayılı Kanun'un 10. maddesi uyarınca, bilgi edinme başvurusunda işlem ücreti alınır mı?",
@@ -353,7 +353,7 @@
       "difficulty": 3
     },
     {
-      "id": "b1c8d9e0-6d5e-4b8f-c2g3-4d5e6f7a8b9c",
+      "id": "fa242207-5b20-41fb-b284-ba609dadc194",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 21. maddesi uyarınca, özel hayatın gizliliği konusu bilgi edinme hakkı için bir sınır mıdır?",
@@ -366,7 +366,7 @@
       "difficulty": 1
     },
     {
-      "id": "c2d9e0f1-7e6f-4c9g-d3h4-5e6f7a8b9c0d",
+      "id": "26da9788-582c-4de2-9cc8-97e06b5ee541",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__yayinlama",
       "topic_name": "Yayınlama",
       "question_text": "4982 sayılı Kanun'un 31. maddesi uyarınca, kurumlar bilgi edinme haklarına ilişkin yıllık raporlarını ne sıklıkla hazırlarlar?",
@@ -379,7 +379,7 @@
       "difficulty": 2
     },
     {
-      "id": "d3e0f1a2-8f7g-4d0h-e4i5-6f7a8b9c0d1e",
+      "id": "5efe23d1-7c14-4fa1-86d5-1eec6eec2c44",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu",
       "topic_name": "Başvuru Usulü",
       "question_text": "4982 sayılı Kanun'un 9. maddesi uyarınca, bilgi edinme talebinin başka bir kurumu ilgilendirdiği anlaşıldığında idare ne yapmalıdır?",
@@ -392,7 +392,7 @@
       "difficulty": 2
     },
     {
-      "id": "e4f1a2b3-9g8h-4e1i-f5j6-7a8b9c0d1e2f",
+      "id": "e94cb5f2-4bec-4981-9e7b-e134adfe8103",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 17. maddesi uyarınca, idari soruşturmaya ilişkin gizli bilgiler bilgi edinme hakkı kapsamında verilebilir mi?",
@@ -405,7 +405,7 @@
       "difficulty": 2
     },
     {
-      "id": "f5a2b3c4-0h9i-4f2j-g6k7-8b9c0d1e2f3a",
+      "id": "b6836418-15e0-42ac-98d8-b2cdf3724f5a",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__yayinlama",
       "topic_name": "Yayınlama",
       "question_text": "4982 sayılı Kanun'un 31. maddesi uyarınca, kurumlar hazırladıkları yıllık bilgi edinme raporlarını hangi mercie sunarlar?",
@@ -418,7 +418,7 @@
       "difficulty": 3
     },
     {
-      "id": "a6b3c4d5-1i0j-4g3k-h7l8-9c0d1e2f3a4b",
+      "id": "b100d465-569d-4251-b1b9-b01efaa78e29",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__cevaplama_sureleri",
       "topic_name": "Cevaplama Süreleri",
       "question_text": "4982 sayılı Kanun'un 11. maddesi uyarınca, 15 iş günlük başvuru süresi ne zaman başlar?",
@@ -431,7 +431,7 @@
       "difficulty": 1
     },
     {
-      "id": "b7c4d5e6-2j1k-4h4l-i8m9-0d1e2f3a4b5c",
+      "id": "51c26920-f722-497c-95c8-485a8384bc41",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__itiraz_yolu",
       "topic_name": "İtiraz Yolu",
       "question_text": "4982 sayılı Kanun'un 14. maddesi uyarınca, Bilgi Edinme Değerlendirme Kurulu üyeleri kaç yıl süreyle görev yaparlar?",
@@ -444,7 +444,7 @@
       "difficulty": 3
     },
     {
-      "id": "c8d5e6f7-3k2l-4i5m-j9n0-1e2f3a4b5c6d",
+      "id": "ed20984f-7a93-462f-b6a1-4cb300bb31b8",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__genel_hukumler",
       "topic_name": "Genel Hükümler",
       "question_text": "4982 sayılı Bilgi Edinme Hakkı Kanunu çerçevesinde, bilgi edinme hakkının sınırlandırılması neye uygun olmalıdır?",
@@ -457,7 +457,7 @@
       "difficulty": 1
     },
     {
-      "id": "d9e6f7a8-4l3m-4j6n-k0o1-2f3a4b5c6d7e",
+      "id": "fa94063d-7a85-47e3-a23d-d3e50ca91117",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 21. maddesi uyarınca, kişisel verilerin korunması bilgi edinme hakkı için nasıl bir rol oynar?",
@@ -470,7 +470,7 @@
       "difficulty": 1
     },
     {
-      "id": "e0f7a8b9-5m4n-4k7o-l1p2-3a4b5c6d7e8f",
+      "id": "95f361eb-ca4f-4d64-ad16-e189b7844a45",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__cevaplama_sureleri",
       "topic_name": "Cevaplama Süreleri",
       "question_text": "4982 sayılı Kanun'un 12. maddesi uyarınca, bilgi edinme başvurusuna verilen ret kararı nasıl olmalıdır?",
@@ -483,7 +483,7 @@
       "difficulty": 1
     },
     {
-      "id": "f1a8b9c0-6n5o-4l8p-m2q3-4b5c6d7e8f9a",
+      "id": "54cbd948-fe41-4fdc-8175-0d70b91b921b",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__ucretler",
       "topic_name": "Ücretler",
       "question_text": "4982 sayılı Kanun'un 10. maddesi uyarınca, talep edilen bilgilerin elektronik ortamda verilmesi durumunda ücret ödenir mi?",
@@ -496,7 +496,7 @@
       "difficulty": 2
     },
     {
-      "id": "a2b9c0d1-7o6p-4m9q-n3r4-5c6d7e8f9a0b",
+      "id": "da743c40-51ff-452d-b3b4-8473f4522f82",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__yayinlama",
       "topic_name": "Yayınlama",
       "question_text": "4982 sayılı Kanun'un 31. maddesi uyarınca, kurumların yıllık bilgi edinme raporlarını TBMM'ye sunma süresi nedir?",
@@ -509,7 +509,7 @@
       "difficulty": 3
     },
     {
-      "id": "b3c0d1e2-8p7q-4n0r-o4s5-6d7e8f9a0b1c",
+      "id": "74cdc32b-b2e8-4cfe-8ba7-eb58ed5ee29e",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 17. maddesi uyarınca, istihbarata ilişkin bilgiler bilgi edinme hakkı kapsamına girer mi?",
@@ -522,7 +522,7 @@
       "difficulty": 2
     },
     {
-      "id": "c4d1e2f3-9q8r-4o1s-p5t6-7e8f9a0b1c2d",
+      "id": "47f4dfa8-1100-428c-ae5a-132ddf857596",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__basvuru_usulu",
       "topic_name": "Başvuru Usulü",
       "question_text": "4982 sayılı Kanun'un 6. maddesi uyarınca, bilgi edinme başvurusunda imza zorunlu mudur?",
@@ -535,7 +535,7 @@
       "difficulty": 1
     },
     {
-      "id": "d5e2f3a4-0r9s-4p2t-q6u7-8f9a0b1c2d3e",
+      "id": "7c032705-a4c1-47b1-a976-a081ba24eba9",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__istisnalar",
       "topic_name": "İstisnalar",
       "question_text": "4982 sayılı Kanun'un 19. maddesi uyarınca, ekonomik ve parasal konulara ilişkin istisnalar var mıdır?",
@@ -548,7 +548,7 @@
       "difficulty": 3
     },
     {
-      "id": "e6f3a4b5-1s0t-4q3u-r7v8-9a0b1c2d3e4f",
+      "id": "515d8873-fe11-4b2d-914a-5feaf7f0aec1",
       "topic_id": "4982_sayili_bilgi_edinme_hakki_kanunu__itiraz_yolu",
       "topic_name": "İtiraz Yolu",
       "question_text": "4982 sayılı Kanun'un 14. maddesi uyarınca, Bilgi Edinme Değerlendirme Kurulu'nun aldığı kararlar idare için bağlayıcı mıdır?",

@@ -93,7 +93,7 @@
       "difficulty": 3
     },
     {
-      "id": "0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4g5h",
+      "id": "a2975f73-a1f8-4ae4-b083-6bcdecefaff3",
       "topic_id": "csgb_disiplin_amirleri_denetim",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "İç Denetim Başkanlığı bünyesindeki İç Denetçilerin disiplin amiri kimdir?",
@@ -106,7 +106,7 @@
       "difficulty": 2
     },
     {
-      "id": "1a2b3c4d-5e6f-7890-a1b2-c3d4e5f6g7h8",
+      "id": "7bef6610-7307-45d4-9fdc-80c56586ba58",
       "topic_id": "csgb_disiplin_amirleri_rehberlik",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Rehberlik ve Teftiş Başkanlığı'ndaki Müfettiş Yardımcılarının disiplin amiri kimdir?",
@@ -119,7 +119,7 @@
       "difficulty": 2
     },
     {
-      "id": "2b3c4d5e-6f7a-8901-b2c3-d4e5f6g7h8i9",
+      "id": "21099c2c-d0a3-4155-aab9-6086cf056f1c",
       "topic_id": "csgb_disiplin_amirleri_bilgi_islem",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Bilgi Teknolojileri Genel Müdürlüğü'nde 'Diğer Personel' statüsünde çalışanların disiplin amiri kimdir?",
@@ -132,7 +132,7 @@
       "difficulty": 2
     },
     {
-      "id": "3c4d5e6f-7a8b-9012-c3d4-e5f6g7h8i9j0",
+      "id": "13069041-aebb-4165-a003-026731d673f9",
       "topic_id": "csgb_disiplin_amirleri_mevzuat",
       "topic_name": "Dayanak ve Mevzuat",
       "question_text": "Disipline ilişkin usul ve esaslar bakımından bu yönetmelikte özel hüküm bulunmayan hallerde uygulanacak mevzuat nedir?",
@@ -145,7 +145,7 @@
       "difficulty": 2
     },
     {
-      "id": "4d5e6f7a-8b9c-0123-d4e5-f6g7h8i9j0k1",
+      "id": "b1f141b3-d830-42eb-aa8a-53e6371f38a2",
       "topic_id": "csgb_disiplin_amirleri_dis_teskilat",
       "topic_name": "Kapsam",
       "question_text": "Çalışma ve Sosyal Güvenlik Bakanlığı Disiplin Amirleri Yönetmeliği, Bakanlığın hangi teşkilatlarını kapsar?",
@@ -158,7 +158,7 @@
       "difficulty": 1
     },
     {
-      "id": "5e6f7a8b-9c0d-1234-e5f6-g7h8i9j0k1l2",
+      "id": "656fcb7f-0c41-4699-a616-6713365dd9d9",
       "topic_id": "csgb_disiplin_amirleri_basin",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Basın ve Halkla İlişkiler Müşavirliği'nde görevli bir Şube Müdürü'nün disiplin amiri kimdir?",
@@ -171,7 +171,7 @@
       "difficulty": 3
     },
     {
-      "id": "6f7a8b9c-0d1e-2345-f6g7-h8i9j0k1l2m3",
+      "id": "7e58cc04-503d-4443-9257-68a066e6eaae",
       "topic_id": "csgb_disiplin_amirleri_dis_iliskiler",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Dış İlişkiler Genel Müdürlüğü'nde görev yapan bir Genel Müdür Yardımcısı'nın disiplin amiri kimdir?",
@@ -184,7 +184,7 @@
       "difficulty": 2
     },
     {
-      "id": "7a8b9c0d-1e2f-3456-g7h8-i9j0k1l2m3n4",
+      "id": "eab30878-b51a-4cb2-ade3-11458db885bb",
       "topic_id": "csgb_disiplin_amirleri_calisma",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Çalışma Genel Müdürlüğü'nde görevli bir Uzman Yardımcısı'nın disiplin amiri aşağıdakilerden hangisidir?",
@@ -197,7 +197,7 @@
       "difficulty": 3
     },
     {
-      "id": "8b9c0d1e-2f3a-4567-h8i9-j0k1l2m3n4o5",
+      "id": "ecda2be9-5f36-4ffc-b255-ae72f55f400a",
       "topic_id": "csgb_disiplin_amirleri_bakan_yardimcisi",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Bakan Yardımcısı'nın özel kaleminde görev yapan personelin disiplin amiri kimdir?",
@@ -210,7 +210,7 @@
       "difficulty": 2
     },
     {
-      "id": "9c0d1e2f-3a4b-5678-i9j0-k1l2m3n4o5p6",
+      "id": "b56208bd-448f-4ec9-ba4b-209dc3115d6f",
       "topic_id": "csgb_disiplin_amirleri_hukuk_musavir",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Hukuk Hizmetleri Genel Müdürlüğü bünyesindeki bir Hukuk Müşaviri'nin disiplin amiri kimdir?",
@@ -223,7 +223,7 @@
       "difficulty": 3
     },
     {
-      "id": "0d1e2f3a-4b5c-6789-j0k1-l2m3n4o5p6q7",
+      "id": "a79f92cd-ad75-443b-a8a5-e6a51f4cd832",
       "topic_id": "csgb_disiplin_amirleri_strateji_daire",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Strateji Geliştirme Başkanlığı'nda 'Araştırmacı' unvanıyla görev yapan personelin disiplin amiri kimdir?",
@@ -236,7 +236,7 @@
       "difficulty": 3
     },
     {
-      "id": "1e2f3a4b-5c6d-7890-k1l2-m3n4o5p6q7r8",
+      "id": "8526ff78-d2b0-409c-bada-3cfa37d62c3a",
       "topic_id": "csgb_disiplin_amirleri_rehberlik_personel",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Rehberlik ve Teftiş Başkanlığı'ndaki 'Diğer Personel'in disiplin amiri kimdir?",
@@ -249,7 +249,7 @@
       "difficulty": 2
     },
     {
-      "id": "2f3a4b5c-6d7e-8901-l2m3-n4o5p6q7r8s9",
+      "id": "327df790-dc6d-4eb4-baee-ffeaa026a2de",
       "topic_id": "csgb_disiplin_amirleri_bilgi_daire",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Bilgi Teknolojileri Genel Müdürlüğü'nde bir Daire Başkanı'nın disiplin amiri aşağıdakilerden hangisidir?",
@@ -262,7 +262,7 @@
       "difficulty": 2
     },
     {
-      "id": "3a4b5c6d-7e8f-9012-m3n4-o5p6q7r8s9t0",
+      "id": "1f708b1d-9e4f-4769-a1be-10b69beea1d5",
       "topic_id": "csgb_disiplin_amirleri_calisma_genel_mudur",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Çalışma ve Sosyal Güvenlik Bakanlığı Disiplin Amirleri Yönetmeliği eki cetvele göre, Çalışma Genel Müdürü'nün disiplin amiri aşağıdakilerden hangisidir?",
@@ -275,7 +275,7 @@
       "difficulty": 2
     },
     {
-      "id": "4b5c6d7e-8f9a-0123-n4o5-p6q7r8s9t0u1",
+      "id": "6f317dd4-0061-4d92-8d4f-199568cbad4b",
       "topic_id": "csgb_disiplin_amirleri_yururluk",
       "topic_name": "Son Hükümler",
       "question_text": "Çalışma ve Sosyal Güvenlik Bakanlığı Disiplin Amirleri Yönetmeliği'nin yürürlük tarihi nedir?",
@@ -288,7 +288,7 @@
       "difficulty": 1
     },
     {
-      "id": "5c6d7e8f-9a0b-1234-o5p6-q7r8s9t0u1v2",
+      "id": "06b0aa2d-56e0-4f80-aa12-a6408180160f",
       "topic_id": "csgb_disiplin_amirleri_mali_hizmetler",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Strateji Geliştirme Başkanlığı bünyesinde görevli Mali Hizmetler Uzman Yardımcısı'nın disiplin amiri aşağıdakilerden hangisidir?",
@@ -301,7 +301,7 @@
       "difficulty": 3
     },
     {
-      "id": "6d7e8f9a-0b1c-2345-p6q7-r8s9t0u1v2w3",
+      "id": "246311e4-c7da-4edc-9699-251cf0f5fed8",
       "topic_id": "csgb_disiplin_amirleri_bakanlik_musaviri",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Bakanlık Müşavirlerinin disiplin amiri aşağıdakilerden hangisidir?",
@@ -314,7 +314,7 @@
       "difficulty": 2
     },
     {
-      "id": "7e8f9a0b-1c2d-3456-q7r8-s9t0u1v2w3x4",
+      "id": "71b963b2-4c96-4992-946b-fbe6b6d6d141",
       "topic_id": "csgb_disiplin_amirleri_bakan_yard_ube",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Bakan Yardımcısı Özel Kalem Müdürlüğü bünyesinde çalışan bir Şube Müdürü'nün disiplin amiri kimdir?",
@@ -327,7 +327,7 @@
       "difficulty": 3
     },
     {
-      "id": "8f9a0b1c-2d3e-4567-r8s9-t0u1v2w3x4y5",
+      "id": "5d977f7a-895a-459a-92db-60fe77a89cf7",
       "topic_id": "csgb_disiplin_amirleri_doner_sermaye",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Çalışma Genel Müdürlüğü bünyesinde görevli Döner Sermaye İşletme Müdürü'nün disiplin amiri kimdir?",
@@ -340,7 +340,7 @@
       "difficulty": 3
     },
     {
-      "id": "9a0b1c2d-3e4f-5678-s9t0-u1v2w3x4y5z6",
+      "id": "5b5beac9-c6ce-483c-9a58-5f183755b43a",
       "topic_id": "csgb_disiplin_amirleri_mudur_yardimcisi",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Bakanlıktaki Genel Müdürlük teşkilat yapısında, Genel Müdür Yardımcılarının disiplin amiri aşağıdakilerden hangisidir?",
@@ -353,7 +353,7 @@
       "difficulty": 2
     },
     {
-      "id": "0b1c2d3e-4f5g-6789-t0u1-v2w3x4y5z6a7",
+      "id": "7eb6ec82-6ce3-416e-a59f-d29fef8528e7",
       "topic_id": "csgb_disiplin_amirleri_hukuk_personel",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Hukuk Hizmetleri Genel Müdürlüğü bünyesinde görev yapan 'Diğer Personel'in disiplin amiri kimdir?",
@@ -366,7 +366,7 @@
       "difficulty": 2
     },
     {
-      "id": "1c2d3e4f-5g6h-7890-u1v2-w3x4y5z6a7b8",
+      "id": "fdb702e9-a0cd-4412-9984-e2d118e9eaaa",
       "topic_id": "csgb_disiplin_amirleri_calisma_uzman",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Çalışma Genel Müdürlüğü'nde görev yapan 'Uzman' kadrosundaki personelin disiplin amiri kimdir?",
@@ -379,7 +379,7 @@
       "difficulty": 3
     },
     {
-      "id": "2d3e4f5g-6h7i-8901-v1v2-w3x4y5z6a7b8",
+      "id": "10f20886-17e4-4cfc-b2ec-9fcfd7af0e2b",
       "topic_id": "csgb_disiplin_amirleri_dis_iliskiler_personel",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Dış İlişkiler Genel Müdürlüğü bünyesindeki bir Şube Müdürü'nün disiplin amiri aşağıdakilerden hangisidir?",
@@ -392,7 +392,7 @@
       "difficulty": 2
     },
     {
-      "id": "3e4f5g6h-7i8j-9012-w3x4-y5z6a7b8c9d0",
+      "id": "b36a779d-551e-4650-8f9a-e474f05079f3",
       "topic_id": "csgb_disiplin_amirleri_strateji_baskan",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Strateji Geliştirme Başkanı'nın disiplin amiri aşağıdakilerden hangisidir?",
@@ -405,7 +405,7 @@
       "difficulty": 2
     },
     {
-      "id": "4f5g6h7i-8j9k-0123-x4y5-z6a7b8c9d0e1",
+      "id": "bc7735eb-23db-483e-bbb0-830fa47d35a1",
       "topic_id": "csgb_disiplin_amirleri_bilgi_uzman",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Bilgi Teknolojileri Genel Müdürlüğü'nde görevli bir Uzman'ın disiplin amiri aşağıdakilerden hangisidir?",
@@ -418,7 +418,7 @@
       "difficulty": 3
     },
     {
-      "id": "5g6h7i8j-9k0l-1234-y5z6-a7b8c9d0e1f2",
+      "id": "00433003-3ed9-4aa0-9313-865059f1dff1",
       "topic_id": "csgb_disiplin_amirleri_teftis_sube",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Rehberlik ve Teftiş Başkanlığı'ndaki bir Şube Müdürü'nün disiplin amiri aşağıdakilerden hangisidir?",
@@ -431,7 +431,7 @@
       "difficulty": 3
     },
     {
-      "id": "6h7i8j9k-0l1m-2345-z6a7-b8c9d0e1f2g3",
+      "id": "cf6b6c37-5b96-401a-a30d-fcc94083df3e",
       "topic_id": "csgb_disiplin_amirleri_basin_personel",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Basın ve Halkla İlişkiler Müşavirliği'ndeki 'Diğer Personel' statüsündekilerin disiplin amiri kimdir?",
@@ -444,7 +444,7 @@
       "difficulty": 2
     },
     {
-      "id": "7i8j9k0l-1m2n-3456-a7b8-c9d0e1f2g3h4",
+      "id": "72b7986a-002b-4f67-80d6-7fac73814f71",
       "topic_id": "csgb_disiplin_amirleri_bakanlik_amir_belirleme",
       "topic_name": "Disiplin Amirleri",
       "question_text": "Çalışma ve Sosyal Güvenlik Bakanlığı personeli için belirlenen disiplin amirleri nerede listelenmiştir?",
@@ -457,7 +457,7 @@
       "difficulty": 1
     },
     {
-      "id": "8j9k0l1m-2n3o-4567-b8c9-d0e1f2g3h4i5",
+      "id": "70df8b89-83e6-4ef0-8799-79b62833642c",
       "topic_id": "csgb_disiplin_amirleri_dis_teskilat_amir",
       "topic_name": "Disiplin Amirleri",
       "question_text": "Bakanlığın yurt dışı teşkilatında görev yapan memurların disiplin amirleri nasıl belirlenir?",
@@ -470,7 +470,7 @@
       "difficulty": 2
     },
     {
-      "id": "9k0l1m2n-3o4p-5678-c9d0-e1f2g3h4i5j6",
+      "id": "9b0b0366-027f-41a0-a332-9e38b5c5425c",
       "topic_id": "csgb_disiplin_amirleri_mudur_daire",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Hukuk Hizmetleri Genel Müdürlüğü bünyesindeki bir Şube Müdürü'nün disiplin amiri kimdir?",
@@ -483,7 +483,7 @@
       "difficulty": 2
     },
     {
-      "id": "0l1m2n3o-4p5q-6789-d0e1-f2g3h4i5j6k7",
+      "id": "0bf75dd5-1603-4d8e-9382-f1302c88ce15",
       "topic_id": "csgb_disiplin_amirleri_mulga",
       "topic_name": "Yürürlükten Kaldırılan Mevzuat",
       "question_text": "Bu yönetmelik ile hangi tarihli eski Disiplin Amirleri Yönetmeliği yürürlükten kaldırılmıştır?",
@@ -496,7 +496,7 @@
       "difficulty": 3
     },
     {
-      "id": "1m2n3o4p-5q6r-7890-e1f2-g3h4i5j6k7l8",
+      "id": "d0aaf8d8-bca7-42fe-a95b-e5fb5db0d961",
       "topic_id": "csgb_disiplin_amirleri_calisma_daire",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Çalışma Genel Müdürlüğü bünyesindeki bir Daire Başkanı'nın disiplin amiri kimdir?",
@@ -509,7 +509,7 @@
       "difficulty": 2
     },
     {
-      "id": "2n3o4p5q-6r7s-8901-f2g3-h4i5j6k7l8m9",
+      "id": "4dca53dc-f562-4629-8376-662af28e0fc0",
       "topic_id": "csgb_disiplin_amirleri_dis_genel_mudur",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Dış İlişkiler Genel Müdürü'nün disiplin amiri kimdir?",
@@ -522,7 +522,7 @@
       "difficulty": 1
     },
     {
-      "id": "3o4p5q6r-7s8t-9012-g3h4-i5j6k7l8m9n0",
+      "id": "6af70612-29a9-4960-b736-5e5b1487de22",
       "topic_id": "csgb_disiplin_amirleri_strateji_yard",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Strateji Geliştirme Başkanlığı bünyesindeki bir Uzman Yardımcısı'nın disiplin amiri kimdir?",
@@ -535,7 +535,7 @@
       "difficulty": 3
     },
     {
-      "id": "4p5q6r7s-8t9u-0123-h4i5-j6k7l8m9n0o1",
+      "id": "a90c7271-f7c5-4e4c-ac51-1dd4f2e820bb",
       "topic_id": "csgb_disiplin_amirleri_hukuk_genel_mudur",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Hukuk Hizmetleri Genel Müdürü'nün disiplin amiri kimdir?",
@@ -548,7 +548,7 @@
       "difficulty": 2
     },
     {
-      "id": "5q6r7s8t-9u0v-1234-i5j6-k7l8m9n0o1p2",
+      "id": "9fd06d86-0fe5-4dd3-acf4-6337875b9e57",
       "topic_id": "csgb_disiplin_amirleri_rehberlik_baskan",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Rehberlik ve Teftiş Başkanı'nın disiplin amiri kimdir?",
@@ -561,7 +561,7 @@
       "difficulty": 2
     },
     {
-      "id": "6r7s8t9u-0v1w-2345-j6k7-l8m9n0o1p2q3",
+      "id": "13a49322-85be-4e87-85af-4adf194d3fe2",
       "topic_id": "csgb_disiplin_amirleri_bilgi_teknolojileri_genel_mudur",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Bilgi Teknolojileri Genel Müdürü'nün disiplin amiri aşağıdakilerden hangisidir?",
@@ -574,7 +574,7 @@
       "difficulty": 2
     },
     {
-      "id": "7s8t9u0v-1w2x-3456-k7l8-m9n0o1p2q3r4",
+      "id": "b46755f6-e826-4c74-b483-576574fade12",
       "topic_id": "csgb_disiplin_amirleri_ozel_kalem_personel",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Bakan Özel Kalem Müdürlüğü'nde görev yapan 'Diğer Personel'in disiplin amiri kimdir?",
@@ -587,7 +587,7 @@
       "difficulty": 3
     },
     {
-      "id": "8t9u0v1w-2x3y-4456-l8m9-n0o1p2q3r4s5",
+      "id": "d16b8cf4-5f52-4487-9653-77e2390faba2",
       "topic_id": "csgb_disiplin_amirleri_daire_baskani_amir",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Aşağıdaki unvanlardan hangisi, bir Daire Başkanının 'disiplin amiri' olamaz?",
@@ -600,7 +600,7 @@
       "difficulty": 2
     },
     {
-      "id": "9u0v1w2x-3y4z-5567-m9n0-o1p2q3r4s5t6",
+      "id": "7133a9f8-ae0a-4b4b-88d0-58fd26f5bac8",
       "topic_id": "csgb_disiplin_amirleri_dis_iliskiler_daire",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Dış İlişkiler Genel Müdürlüğü'ndeki bir Daire Başkanı'nın disiplin amiri kimdir?",
@@ -613,7 +613,7 @@
       "difficulty": 2
     },
     {
-      "id": "0v1w2x3y-4z5a-6678-n0o1-p2q3r4s5t6u7",
+      "id": "5d8ab81a-87ed-4133-8471-bd5180e50a93",
       "topic_id": "csgb_disiplin_amirleri_hukuk_avukat_amir",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Hukuk Hizmetleri Genel Müdürlüğü bünyesindeki bir Uzman'ın disiplin amiri kimdir?",
@@ -626,7 +626,7 @@
       "difficulty": 3
     },
     {
-      "id": "1w2x3y4z-5a6b-7789-o1p2-q3r4s5t6u7v8",
+      "id": "46c4fe38-c041-4e6b-a5b4-bc04fa44939c",
       "topic_id": "csgb_disiplin_amirleri_strateji_ma_amir",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Strateji Geliştirme Başkanlığı'nda 'Uzman' kadrosundaki personelin disiplin amiri aşağıdakilerden hangisidir?",
@@ -639,7 +639,7 @@
       "difficulty": 3
     },
     {
-      "id": "2x3y4z5a-6b7c-8890-p2q3-r4s5t6u7v8w9",
+      "id": "ef5bb165-b3f4-48e6-b87c-847033eef820",
       "topic_id": "csgb_disiplin_amirleri_rehberlik_yardimci_amir",
       "topic_name": "Disiplin Amirleri Cetveli",
       "question_text": "Rehberlik ve Teftiş Başkanlığı'ndaki Müfettişlerin doğrudan disiplin amiri aşağıdakilerden hangisidir?",

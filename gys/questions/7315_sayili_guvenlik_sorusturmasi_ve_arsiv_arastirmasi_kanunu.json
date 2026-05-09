@@ -28,7 +28,7 @@
       "difficulty": 1
     },
     {
-      "id": "b2c3d4e5-f6a7-4890-9b0c-1d2e3f4g5h6i",
+      "id": "b6eca62e-5891-42b3-8fee-6edbf4edfb3e",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_sorusturmasi_kapsami",
       "topic_name": "Güvenlik Soruşturması ve Arşiv Araştırması",
       "question_text": "7315 sayılı Kanun uyarınca, aşağıdakilerden hangisi hakkında hem güvenlik soruşturması hem de arşiv araştırması birlikte yürütülür?",
@@ -41,7 +41,7 @@
       "difficulty": 2
     },
     {
-      "id": "c3d4e5f6-a7b8-4901-ac1d-2e3f4g5h6i7j",
+      "id": "8ac80882-acd1-4890-a420-1dba42e373e6",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__arsiv_arastirmasi_icerigi",
       "topic_name": "Arşiv Araştırması",
       "question_text": "7315 sayılı Kanun'un 4. maddesine göre, aşağıdakilerden hangisi 'Arşiv Araştırması' kapsamında tespit edilen hususlardan biri değildir?",
@@ -54,7 +54,7 @@
       "difficulty": 3
     },
     {
-      "id": "d4e5f6a7-b8c9-4012-bd2e-3f4g5h6i7j8k",
+      "id": "af1e6883-10cc-4c0b-9f13-8021cd3b41de",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_sorusturmasi_icerigi",
       "topic_name": "Güvenlik Soruşturması",
       "question_text": "Güvenlik soruşturmasında, arşiv araştırmasına ek olarak aşağıdakilerden hangisi araştırılır?",
@@ -67,7 +67,7 @@
       "difficulty": 2
     },
     {
-      "id": "e5f6a7b8-c9d0-4123-ce3f-4g5h6i7j8k9l",
+      "id": "4caea6c3-7272-498d-8d2c-c2491ac1a313",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__yetkili_birimler",
       "topic_name": "Soruşturma ve Araştırmayı Yapacak Birimler",
       "question_text": "7315 sayılı Kanun'a göre, güvenlik soruşturması ve arşiv araştırması yapmaya yetkili birimler arasında hangisi yer almaz?",
@@ -80,7 +80,7 @@
       "difficulty": 1
     },
     {
-      "id": "f6a7b8c9-d0e1-4234-df4g-5h6i7j8k9l0m",
+      "id": "2cc3a872-2a5e-4c05-b270-13b9f62b24aa",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Bakanlıklarda oluşturulan Değerlendirme Komisyonuna kim başkanlık eder?",
@@ -93,7 +93,7 @@
       "difficulty": 2
     },
     {
-      "id": "a7b8c9d0-e1f2-4345-eg5h-6i7j8k9l0m1n",
+      "id": "283c0fab-fead-4b0a-a7f0-571abddca852",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Değerlendirme Komisyonu en az kaç kişiden ve nasıl oluşturulmalıdır?",
@@ -106,7 +106,7 @@
       "difficulty": 2
     },
     {
-      "id": "b8c9d0e1-f2a3-4456-fh6i-7j8k9l0m1n2o",
+      "id": "99634609-9982-45ed-b60a-f16042db3686",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__verilerin_silinmesi",
       "topic_name": "Kişisel Verilerin Silinmesi ve Yok Edilmesi",
       "question_text": "Güvenlik soruşturması sonucunda elde edilen veriler, göreve atanma gerçekleşmezse en geç ne kadar süre sonunda silinir ve yok edilir?",
@@ -119,7 +119,7 @@
       "difficulty": 2
     },
     {
-      "id": "c9d0e1f2-a3b4-4567-gi7j-8k9l0m1n2o3p",
+      "id": "340d5726-c64d-4b2e-9789-46ef842cef3f",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__verilerin_silinmesi",
       "topic_name": "Kişisel Verilerin Silinmesi ve Yok Edilmesi",
       "question_text": "Güvenlik soruşturması işlemine karşı dava açılması durumunda verilerin silinme süreci nasıldır?",
@@ -132,7 +132,7 @@
       "difficulty": 3
     },
     {
-      "id": "d0e1f2a3-b4c5-4678-hj8k-9l0m1n2o3p4q",
+      "id": "f322aac6-e0ca-4727-bc1d-423b1d3939eb",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__cezai_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Güvenlik soruşturmasında görevli olanların kişisel verilerle ilgili suç işlemesi durumunda uygulanacak temel kanun hangisidir?",
@@ -145,7 +145,7 @@
       "difficulty": 3
     },
     {
-      "id": "e1f2a3b4-c5d6-4789-ik9l-0m1n2o3p4q5r",
+      "id": "9abe6c36-4e62-456f-8817-4c0750fbb623",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__yururlukten_kaldirilan",
       "topic_name": "Değiştirilen ve Yürürlükten Kaldırılan Hükümler",
       "question_text": "7315 sayılı Kanun ile yürürlükten kaldırılan mevzuat hangisidir?",
@@ -158,7 +158,7 @@
       "difficulty": 2
     },
     {
-      "id": "f2a3b4c5-d6e7-4890-jl0m-1n2o3p4q5r6s",
+      "id": "dcd6b26e-82b3-4a83-90a0-912fa4c0f2a9",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__yonetmelik",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "7315 sayılı Kanun'un uygulanmasına ilişkin yönetmeliği kim yürürlüğe koyar?",
@@ -171,7 +171,7 @@
       "difficulty": 1
     },
     {
-      "id": "a3b4c5d6-e7f8-4901-km1n-2o3p4q5r6s7t",
+      "id": "0fb4e007-47ba-402f-8398-077a31f0f738",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__gizlilik",
       "topic_name": "Kişisel Veri Güvenliği ve Gizlilik",
       "question_text": "Güvenlik soruşturması ve arşiv araştırması işlemlerinin gizliliği ile ilgili kural nedir?",
@@ -184,7 +184,7 @@
       "difficulty": 1
     },
     {
-      "id": "b4c5d6e7-f8a9-4012-ln2o-3p4q5r6s7t8u",
+      "id": "67c54902-a974-43bf-9726-2283942d31ae",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__tanimlar",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "Atanmasına ilişkin usul ve esasları Cumhurbaşkanlığı Kararnamesi ile belirlenen kamu görevlileri kanunda nasıl tanımlanmıştır?",
@@ -197,7 +197,7 @@
       "difficulty": 2
     },
     {
-      "id": "c5d6e7f8-a9b0-4123-mo3p-4q5r6s7t8u9v",
+      "id": "6d690327-071e-4f4d-8bf3-ca337e8f9528",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_sorusturmasi_kapsami",
       "topic_name": "Güvenlik Soruşturması ve Arşiv Araştırması",
       "question_text": "Aşağıdaki kurumlardan hangisinde çalışacak personel hakkında güvenlik soruşturması ve arşiv araştırması birlikte yürütülür?",
@@ -210,7 +210,7 @@
       "difficulty": 2
     },
     {
-      "id": "d6e7f8a9-b0c1-4234-np4q-5r6s7t8u9v0w",
+      "id": "2188e5b3-74d5-491e-aa9a-0802f21f7fd6",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__yetkili_birimler",
       "topic_name": "Soruşturma ve Araştırmayı Yapacak Birimler",
       "question_text": "Yetkili birimlerde çalışan personel, kişisel verilerle ilgili hangi eylemi gerçekleştiremez?",
@@ -223,7 +223,7 @@
       "difficulty": 2
     },
     {
-      "id": "e7f8a9b0-c1d2-4345-oq5r-6s7t8u9v0w1x",
+      "id": "771ace24-a9e0-428f-840a-9ab1518da538",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Üniversitelerde kurulan Değerlendirme Komisyonuna kim başkanlık eder?",
@@ -236,7 +236,7 @@
       "difficulty": 1
     },
     {
-      "id": "f8a9b0c1-d2e3-4456-pr6s-7t8u9v0w1x2y",
+      "id": "ddee2cea-a850-42f6-88ff-29c0b6159b72",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__kisisel_veriler",
       "topic_name": "Kişisel Verilerin Korunması",
       "question_text": "Hangi faaliyetler kapsamında elde edilen bilgiler, 7315 sayılı Kanun uyarınca ilgili kişiye verilemez?",
@@ -249,7 +249,7 @@
       "difficulty": 3
     },
     {
-      "id": "a9b0c1d2-e3f4-4567-qs7t-8u9v0w1x2y3z",
+      "id": "8e2ad1b1-4519-4059-b03a-890eb82ae240",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Değerlendirme Komisyonu, vardığı nesnel ve gerekçeli sonuçları kime sunar?",
@@ -262,7 +262,7 @@
       "difficulty": 2
     },
     {
-      "id": "b0c1d2e3-f4g5-4678-rt8u-9v0w1x2y3z4a",
+      "id": "768fe628-98ac-40c3-87cd-31b99d9375c0",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__yetkili_birimler",
       "topic_name": "Soruşturma ve Araştırmayı Yapacak Birimler",
       "question_text": "Güvenlik soruşturması yapmakla görevli birimler bilgi ve belgeleri kimlerden almaya yetkilidir?",
@@ -275,7 +275,7 @@
       "difficulty": 2
     },
     {
-      "id": "c1d2e3f4-g5h6-4789-su9v-0w1x2y3z4a5b",
+      "id": "bf3b7c3c-74e7-4a75-aac1-714c01b49473",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__arsiv_arastirmasi_icerigi",
       "topic_name": "Arşiv Araştırması",
       "question_text": "Arşiv araştırmasında, Ceza Muhakemesi Kanunu'nun hangi maddeleri kapsamındaki kararlar da dikkate alınır?",
@@ -288,7 +288,7 @@
       "difficulty": 3
     },
     {
-      "id": "d2e3f4g5-h6i7-4890-tv0w-1x2y3z4a5b6c",
+      "id": "51d0179f-ad65-43d1-80e0-38902040acb6",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "TBMM Başkanlığında kurulan Değerlendirme Komisyonuna kim başkanlık eder?",
@@ -301,7 +301,7 @@
       "difficulty": 2
     },
     {
-      "id": "e3f4g5h6-i7j8-4901-uw1x-2y3z4a5b6c7d",
+      "id": "f7b959d1-31c5-4af5-bea0-9b361f40f7b3",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Valiliklerde kurulan Değerlendirme Komisyonunun başkanı kimdir?",
@@ -314,7 +314,7 @@
       "difficulty": 1
     },
     {
-      "id": "f4g5h6i7-j8k9-4012-vx2y-3z4a5b6c7d8e",
+      "id": "7e721892-82f7-47d2-8fc8-1ec2955e834c",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__amac_ve_kapsam",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "7315 sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu hangi tarihte kabul edilmiştir?",
@@ -327,7 +327,7 @@
       "difficulty": 3
     },
     {
-      "id": "g5h6i7j8-k9l0-4123-wy3z-4a5b6c7d8e9f",
+      "id": "5367f59e-0a26-450b-9b6b-3932b0996dd7",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__kisisel_veriler",
       "topic_name": "Kişisel Verilerin Korunması",
       "question_text": "Güvenlik soruşturması verilerinin işlenmesinde aşağıdaki ilkelerden hangisi esastır?",
@@ -340,7 +340,7 @@
       "difficulty": 2
     },
     {
-      "id": "h6i7j8k9-l0m1-4234-xz4a-5b6c7d8e9f0g",
+      "id": "0f486f55-402a-4e9d-8a63-b0fa9017fb09",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__yururluk",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "7315 sayılı Kanun hükümlerini yürütmeye kim yetkilidir?",
@@ -353,7 +353,7 @@
       "difficulty": 1
     },
     {
-      "id": "i7j8k9l0-m1n2-4345-ya5b-6c7d8e9f0g1h",
+      "id": "90ded3bd-2a08-43b3-9957-ef9566e82cc8",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_sorusturmasi_icerigi",
       "topic_name": "Güvenlik Soruşturması",
       "question_text": "Güvenlik soruşturmasında kişinin yerinden araştırılması işlemi nasıl yapılır?",
@@ -366,7 +366,7 @@
       "difficulty": 3
     },
     {
-      "id": "j8k9l0m1-n2o3-4456-zb6c-7d8e9f0g1h2i",
+      "id": "2722795d-c3f8-490d-81b0-2206d30227c1",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Stratejik önemi haiz birimlerde çalışacak kişiler hakkındaki değerlendirme hangi komisyon tarafından yapılır?",
@@ -379,7 +379,7 @@
       "difficulty": 2
     },
     {
-      "id": "k9l0m1n2-o3p4-4567-ac7d-8e9f0g1h2i3j",
+      "id": "c3ba7df8-7480-4de9-b05a-11f1f0db67c6",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_sorusturmasi_kapsami",
       "topic_name": "Güvenlik Soruşturması ve Arşiv Araştırması",
       "question_text": "Aşağıdaki birimlerin hangilerinde çalışacak personel hakkında güvenlik soruşturması ve arşiv araştırması birlikte yapılır?",
@@ -392,7 +392,7 @@
       "difficulty": 1
     },
     {
-      "id": "l0m1n2o3-p4q5-4678-bd8e-9f0g1h2i3j4k",
+      "id": "d047d3be-bf89-4d55-9b4e-fe875611383b",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Cumhurbaşkanlığında kurulan Değerlendirme Komisyonuna kim başkanlık eder?",
@@ -405,7 +405,7 @@
       "difficulty": 2
     },
     {
-      "id": "m1n2o3p4-q5r6-4789-ce9f-0g1h2i3j4k5l",
+      "id": "372135f5-b2b5-42d3-abc5-c93052343649",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__verilerin_silinmesi",
       "topic_name": "Kişisel Verilerin Silinmesi ve Yok Edilmesi",
       "question_text": "Güvenlik soruşturmasına ilişkin elde edilen verilerin silme işlemini hangi birim gerçekleştirir?",
@@ -418,7 +418,7 @@
       "difficulty": 2
     },
     {
-      "id": "n2o3p4q5-r6s7-4890-df0g-1h2i3j4k5l6m",
+      "id": "2376c1ef-ab92-4a34-b525-9272332f0363",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__cezai_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Kişisel verilerle ilgili kabahat işlenmesi durumunda 6698 sayılı Kanun'un hangi maddesi uygulanır?",
@@ -431,7 +431,7 @@
       "difficulty": 3
     },
     {
-      "id": "o3p4q5r6-s7t8-4901-eg1h-2i3j4k5l6m7n",
+      "id": "7eaf8350-e13c-4fd5-8462-3e1fb6edb3dd",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Değerlendirme Komisyonu kararlarının gizliliği ile ilgili kural nedir?",
@@ -444,7 +444,7 @@
       "difficulty": 2
     },
     {
-      "id": "p4q5r6s7-t8u9-4012-fh2i-3j4k5l6m7n8o",
+      "id": "9549d783-bc16-4b03-82da-a10b7a9ed435",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__yetkili_birimler",
       "topic_name": "Soruşturma ve Araştırmayı Yapacak Birimler",
       "question_text": "Soruşturma ve araştırma yapmakla görevli birimlerin elde ettikleri bilgileri 'yayın yoluyla' duyurmaları nasıldır?",
@@ -457,7 +457,7 @@
       "difficulty": 1
     },
     {
-      "id": "q5r6s7t8-u9v0-4123-gi3j-4k5l6m7n8o9p",
+      "id": "7ae1e835-ad9a-4248-b297-e4d3175e16c1",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__amac_ve_kapsam",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "7315 sayılı Kanun hangi tarihte Resmi Gazete'de yayımlanmıştır?",
@@ -470,7 +470,7 @@
       "difficulty": 3
     },
     {
-      "id": "r6s7t8u9-v0w1-4234-hj4k-5l6m7n8o9p0q",
+      "id": "0590e065-e404-4bd5-8ff7-a5bd76734b69",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__kisisel_veriler",
       "topic_name": "Kişisel Verilerin Korunması",
       "question_text": "Güvenlik soruşturması kapsamında kişisel verilerin düzeltilmesi veya silinmesi talepleri için kurumlar ne yapmalıdır?",
@@ -483,7 +483,7 @@
       "difficulty": 2
     },
     {
-      "id": "s7t8u9v0-w1x2-4345-ik5l-6m7n8o9p0q1r",
+      "id": "73b03089-4068-40ca-b5ba-b706f2123237",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Değerlendirme Komisyonunda hukuk biriminden üye bulunması zorunlu mudur?",
@@ -496,7 +496,7 @@
       "difficulty": 2
     },
     {
-      "id": "t8u9v0w1-x2y3-4456-jl6m-7n8o9p0q1r2s",
+      "id": "316e76de-2e53-49ea-94f4-253c5669f735",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__amac_ve_kapsam",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "7315 sayılı Kanun'un yapısı hakkında aşağıdakilerden hangisi doğrudur?",
@@ -509,7 +509,7 @@
       "difficulty": 3
     },
     {
-      "id": "u9v0w1x2-y3z4-4567-km7n-8o9p0q1r2s3t",
+      "id": "52f15f3b-bdb8-4ba9-bd73-af6196721d37",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_sorusturmasi_icerigi",
       "topic_name": "Güvenlik Soruşturması",
       "question_text": "Örgütlerle irtibat ve iltisakın tespiti, mevcut veri kayıtları dışında hangi yolla yapılır?",
@@ -522,7 +522,7 @@
       "difficulty": 2
     },
     {
-      "id": "v0w1x2y3-z4a5-4678-ln8o-9p0q1r2s3t4u",
+      "id": "8dc12170-9d0d-436f-893d-a0daa4c13245",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__gizlilik",
       "topic_name": "Kişisel Veri Güvenliği ve Gizlilik",
       "question_text": "7315 sayılı Kanun kapsamında elde edilen verilerle ilgili hangi işlem yasaktır?",
@@ -535,7 +535,7 @@
       "difficulty": 1
     },
     {
-      "id": "w1x2y3z4-a5b6-4789-mo9p-0q1r2s3t4u5v",
+      "id": "f5148e79-b44e-4c48-b6a6-b321d358ed22",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__atiflar",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Yürürlükten kaldırılan 4045 sayılı Kanun'a yapılan atıfların hukuki durumu nedir?",
@@ -548,7 +548,7 @@
       "difficulty": 2
     },
     {
-      "id": "x2y3z4a5-b6c7-4890-np0q-1r2s3t4u5v6w",
+      "id": "3d1429ee-0615-4156-88af-9e9c2e06b474",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__amac_ve_kapsam",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "7315 sayılı Kanun hükümlerini yürütmekle görevli makam hangisidir?",
@@ -561,7 +561,7 @@
       "difficulty": 1
     },
     {
-      "id": "y3z4a5b6-c7d8-4901-oq1r-2s3t4u5v6w7x",
+      "id": "f1b070e8-05dc-485f-a76f-f0e5580e7212",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_sorusturmasi_kapsami",
       "topic_name": "Güvenlik Soruşturması ve Arşiv Araştırması",
       "question_text": "Milli güvenlik açısından stratejik öneme sahip projelerde görev alacak kişiler için hangi araştırma yöntemi uygulanır?",
@@ -574,7 +574,7 @@
       "difficulty": 2
     },
     {
-      "id": "z4a5b6c7-d8e9-4012-pr2s-3t4u5v6w7x8y",
+      "id": "cf9bfac3-8ef4-49e6-91c9-5799376dc972",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Değerlendirme Komisyonunun üye yapısı ile ilgili temel kural nedir?",
@@ -587,7 +587,7 @@
       "difficulty": 2
     },
     {
-      "id": "a5b6c7d8-e9f0-4123-qs3t-4u5v6w7x8y9z",
+      "id": "9990bc56-a117-4ded-beb9-65833a7dce1c",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__kisisel_veriler",
       "topic_name": "Kişisel Verilerin Korunması",
       "question_text": "Güvenlik soruşturması kapsamında elde edilen verilerle ilgili ilgili kişinin sahip olduğu haklar nelerdir?",
@@ -600,7 +600,7 @@
       "difficulty": 3
     },
     {
-      "id": "b6c7d8e9-f0a1-4234-rt4u-5v6w7x8y9z0a",
+      "id": "d311c739-a5d9-4223-beff-d05c38ad4b69",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__arsiv_arastirmasi_icerigi",
       "topic_name": "Arşiv Araştırması",
       "question_text": "Arşiv araştırmasında sorgulanan temel konulardan hangisi doğrudur?",
@@ -613,7 +613,7 @@
       "difficulty": 1
     },
     {
-      "id": "c7d8e9f0-a1b2-4345-su5v-6w7x8y9z0a1b",
+      "id": "d1d39739-b215-45d5-aa74-61ae2ad443bb",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "Yetkili birimler topladıkları verileri Değerlendirme Komisyonuna hangi formda iletmelidir?",
@@ -626,7 +626,7 @@
       "difficulty": 3
     },
     {
-      "id": "d8e9f0a1-b2c3-4456-tv6w-7x8y9z0a1b2c",
+      "id": "c2eb708c-a73f-46d0-89c7-b28cf1997476",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__tanimlar",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "7315 sayılı Kanun'daki 'Kurum ve Kuruluş' ifadesi neyi kapsamaktadır?",
@@ -639,7 +639,7 @@
       "difficulty": 2
     },
     {
-      "id": "e9f0a1b2-c3d4-4567-uw7x-8y9z0a1b2c3d",
+      "id": "e87e665f-7c39-45d4-839b-b61b79b8e329",
       "topic_id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__degerlendirme_komisyonu",
       "topic_name": "Değerlendirme Komisyonu",
       "question_text": "7315 sayılı Kanun'un 7. maddesinde yapılan değişiklik sonrasında, komisyonlarda başkanlık yapacak kişi unvanı nedir?",

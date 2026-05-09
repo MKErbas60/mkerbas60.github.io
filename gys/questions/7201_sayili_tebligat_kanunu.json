@@ -2,7 +2,7 @@
   "total": 50,
   "questions": [
     {
-      "id": "e4f8a1b2-c3d4-4e5f-a6b7-c8d9e0f1a2b3",
+      "id": "7d851912-2cbb-41a1-9dc0-8984b54e0d38",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Tebligatın Yapılması ve Vasıtaları",
       "question_text": "7201 sayılı Tebligat Kanunu'na göre, tebligat kural olarak hangi kurum veya vasıta aracılığıyla gerçekleştirilir?",
@@ -15,7 +15,7 @@
       "difficulty": 1
     },
     {
-      "id": "a1b2c3d4-e5f6-4789-8a9b-0c1d2e3f4g5h",
+      "id": "523b8dbf-d411-47bb-8f9a-c8ae443c31d9",
       "topic_id": "7201_sayili_tebligat_kanunu__elektronik_tebligat",
       "topic_name": "Elektronik Tebligat",
       "question_text": "7201 sayılı Kanun'a göre elektronik yolla yapılan tebligat, muhatabın elektronik adresine ulaştığı tarihi izleyen kaçıncı günün sonunda yapılmış sayılır?",
@@ -28,7 +28,7 @@
       "difficulty": 2
     },
     {
-      "id": "f5e4d3c2-b1a0-4987-bcde-fghij6543210",
+      "id": "23425f65-0763-4e6d-991d-9d8c7b682922",
       "topic_id": "7201_sayili_tebligat_kanunu__elektronik_tebligat",
       "topic_name": "Elektronik Tebligat Zorunluluğu",
       "question_text": "Aşağıdakilerden hangisine elektronik yolla tebligat yapılması 7201 sayılı Kanun kapsamında zorunlu değildir?",
@@ -41,7 +41,7 @@
       "difficulty": 3
     },
     {
-      "id": "98765432-abcd-ef01-2345-6789abcdef01",
+      "id": "8c00b97d-c3b6-407d-a5bf-5d95cccd8f8c",
       "topic_id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
       "topic_name": "Bilinen Adreste Tebligat",
       "question_text": "Bilinen en son adresin tebligata elverişli olmadığının anlaşılması durumunda tebligat öncelikli olarak nereye yapılır?",
@@ -54,7 +54,7 @@
       "difficulty": 2
     },
     {
-      "id": "f083bfd8-b5f0-474d-b40b-0533605a1b4b",
+      "id": "bc269f57-9710-4861-83f1-bb8e66764375",
       "topic_id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
       "topic_name": "Vekile Tebligat",
       "question_text": "Vekil vasıtasıyla takip edilen işlerde tebligat kime yapılmalıdır?",
@@ -67,7 +67,7 @@
       "difficulty": 1
     },
     {
-      "id": "bcde1234-5678-90ab-cdef-1234567890ab",
+      "id": "173806e2-9a0e-4d4c-830e-d55069523cf3",
       "topic_id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
       "topic_name": "Askeri Şahıslara Tebligat",
       "question_text": "7201 sayılı Kanun'a göre er ve erbaşlara yapılacak tebligatlar kime yapılır?",
@@ -80,7 +80,7 @@
       "difficulty": 2
     },
     {
-      "id": "deadbeef-1234-5678-90ab-cdefdeadbeef",
+      "id": "7d56c10a-e242-4750-b1d6-deae31cc1254",
       "topic_id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
       "topic_name": "Tebliğ İmkansızlığı",
       "question_text": "Muhatabın adreste bulunmaması halinde, tebliğ memuru evrakı 21. madde uyarınca kime teslim edebilir?",
@@ -93,7 +93,7 @@
       "difficulty": 2
     },
     {
-      "id": "a9b8c7d6-e5f4-3210-fedc-ba9876543210",
+      "id": "3e53d018-b6e4-4425-a8f0-e662c5571eef",
       "topic_id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
       "topic_name": "Yaş ve Ehliyet Şartı",
       "question_text": "Tebligatın kendisine yapılabileceği kişilerin (muhatap dışında) dış görünüşüne göre en az kaç yaşında olması gerekir?",
@@ -106,7 +106,7 @@
       "difficulty": 1
     },
     {
-      "id": "22334455-6677-8899-00aa-bbccddeeff11",
+      "id": "55495581-3a1c-445c-ac6a-fe9d4b1e4bb8",
       "topic_id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
       "topic_name": "İmza Bilmeme Durumu",
       "question_text": "Tebliğ yapılacak kişinin okuma yazma bilmemesi veya imza atamaması durumunda tebligat nasıl yapılır?",
@@ -119,7 +119,7 @@
       "difficulty": 2
     },
     {
-      "id": "ffeeddcc-bbaa-9988-7766-554433221100",
+      "id": "17132590-b039-41a1-8186-484e6b62b699",
       "topic_id": "7201_sayili_tebligat_kanunu__yabanci_memleket",
       "topic_name": "Yabancı Memlekette Tebligat",
       "question_text": "Yabancı ülkedeki Türk vatandaşına tebligatın, Türk Büyükelçiliği aracılığıyla yapılması durumunda, muhatap kaç gün içinde başvurmazsa tebliğ yapılmış sayılır?",
@@ -132,7 +132,7 @@
       "difficulty": 3
     },
     {
-      "id": "12b96b00-b6c4-4f5f-a064-52049484cae7",
+      "id": "2ec87115-8c81-4b34-bbaf-4abb146f2ff2",
       "topic_id": "7201_sayili_tebligat_kanunu__ilanen_tebligat",
       "topic_name": "İlanen Tebligat",
       "question_text": "İlanen tebligat, aksine bir karar yoksa, son ilan tarihinden itibaren kaç gün sonra yapılmış sayılır?",
@@ -145,7 +145,7 @@
       "difficulty": 2
     },
     {
-      "id": "abcdef12-3456-7890-abcd-ef1234567890",
+      "id": "fad0a123-da6d-4063-b9b1-7f296a1174e3",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Kazai Tebligat",
       "question_text": "Adresini değiştiren kimsenin yenisini bildirmemesi halinde, tebliğ evrakının eski adresin kapısına asıldığı tarihe ilişkin hukuki sonuç nedir?",
@@ -158,7 +158,7 @@
       "difficulty": 3
     },
     {
-      "id": "99887766-5544-3322-1100-abcdefabcdef",
+      "id": "d2883d06-a834-41a1-9794-1ac804f82d7d",
       "topic_id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
       "topic_name": "Yalan Beyan Suçu",
       "question_text": "7201 sayılı Kanun'a göre tebliğ memuruna yalan beyanda bulunan muhatap hakkında hangi cezai yaptırım uygulanır?",
@@ -171,7 +171,7 @@
       "difficulty": 2
     },
     {
-      "id": "10101010-2020-3030-4040-505050505050",
+      "id": "e3b6ae5a-53e7-488b-b27e-1eda39d7dbb7",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Tebligat Masrafları",
       "question_text": "Aksi bir hüküm bulunmadıkça, tebligat giderlerini kim ödemekle yükümlüdür?",
@@ -184,7 +184,7 @@
       "difficulty": 1
     },
     {
-      "id": "f0f0f0f0-e1e1-d2d2-c3c3-b4b4b4b4b4b4",
+      "id": "6d531a36-fab3-4b33-a463-d453c979deba",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Hükmi Şahıslara Tebligat",
       "question_text": "Hükmi şahıslara (tüzel kişilere) yapılacak tebligat kime yapılmalıdır?",
@@ -197,7 +197,7 @@
       "difficulty": 1
     },
     {
-      "id": "c7c7c7c7-b8b8-a9a9-0101-232323232323",
+      "id": "4343e328-bca7-4838-b444-13ce0cf02c59",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Aynı Konutta Oturanlara Tebliğ",
       "question_text": "7201 sayılı Kanun'a göre muhatabın adreste bulunmaması halinde tebligat yapılabilecek kişiler arasında aşağıdakilerden hangisi yer alır?",
@@ -210,7 +210,7 @@
       "difficulty": 1
     },
     {
-      "id": "d9d9d9d9-e0e0-f1f1-2222-333333333333",
+      "id": "e1cbb3d1-7a78-4955-9f68-e36bf73a09d2",
       "topic_id": "7201_sayili_tebligat_kanunu__ilanen_tebligat",
       "topic_name": "İlan Şekli",
       "question_text": "İlanen tebligatta, iki ilan arasındaki süre en az ne kadar olmalıdır?",
@@ -223,7 +223,7 @@
       "difficulty": 2
     },
     {
-      "id": "5a5a5a5a-6b6b-7c7c-8d8d-9e9e9e9e9e9e",
+      "id": "3386bdbb-3d91-4bae-9342-48c018870955",
       "topic_id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
       "topic_name": "Yanlış Adres Bildirmek",
       "question_text": "Tebligat sürecinde kendisine veya başkasına ait adresi bilerek yanlış bildiren kişiye uygulanacak ceza nedir?",
@@ -236,7 +236,7 @@
       "difficulty": 3
     },
     {
-      "id": "b1b1b1b1-a2a2-c3c3-d4d4-e5e5e5e5e5e5",
+      "id": "6f8c8a49-3065-4b42-9326-940d04392515",
       "topic_id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
       "topic_name": "Tebliğ Evrakını Tahrip",
       "question_text": "Asılan tebliğ evrakını yerinden koparan veya okunmaz hale getirenler hakkında uygulanacak yaptırım nedir?",
@@ -249,7 +249,7 @@
       "difficulty": 3
     },
     {
-      "id": "6c6c6c6c-7d7d-8e8e-9f9f-0a0a0a0a0a0a",
+      "id": "21e1bf75-1262-4b0a-a76c-c88a5a47bbfa",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Tebliğ Mazbatası",
       "question_text": "Tebliğin kime, nerede ve ne zaman yapıldığını belgeleyen resmi evraka ne ad verilir?",
@@ -262,7 +262,7 @@
       "difficulty": 1
     },
     {
-      "id": "3e3e3e3e-4f4f-5a5a-6b6b-7c7c7c7c7c7c",
+      "id": "47623a94-d17a-4b34-8b37-5a3981bcf553",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Mevkuf ve Mahkumlara Tebligat",
       "question_text": "Ceza infaz kurumundaki mevkuf (tutuklu) ve mahkumlara tebligat yapılmasını kim temin eder?",
@@ -275,7 +275,7 @@
       "difficulty": 2
     },
     {
-      "id": "2d2d2d2d-1a1a-3c3c-4b4b-5e5e5e5e5e5e",
+      "id": "9db6d677-6860-4b5d-9c22-812a4dc7eab6",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Resmi Tatil Günlerinde Tebligat",
       "question_text": "Resmi ve adli tatil günlerinde tebligat yapılması durumuyla ilgili aşağıdakilerden hangisi doğrudur?",
@@ -288,7 +288,7 @@
       "difficulty": 2
     },
     {
-      "id": "0a0a0a0a-1b1b-2c2c-3d3d-4e4e4e4e4e4e",
+      "id": "9c09a9b4-586e-42a6-b653-5ea96a525c99",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Avukat Katiplerine Tebligat",
       "question_text": "Dava celsesi (duruşması) esnasında avukat katibine yapılan bildirim kime yapılmış sayılır?",
@@ -301,7 +301,7 @@
       "difficulty": 2
     },
     {
-      "id": "9b9b9b9b-8a8a-7c7c-6d6d-5e5e5e5e5e5e",
+      "id": "b7361262-b51e-4fdd-8b64-6bc59768943c",
       "topic_id": "7201_sayili_tebligat_kanunu__idari_tebligat",
       "topic_name": "İdari Tebligat Tanımı",
       "question_text": "7201 sayılı Kanun uyarınca, kazai (yargısal) ve mali tebligatın dışında kalan tebligat türüne ne ad verilir?",
@@ -314,7 +314,7 @@
       "difficulty": 1
     },
     {
-      "id": "8c8c8c8c-7b7b-6a6a-5d5d-4e4e4e4e4e4e",
+      "id": "c8b666ec-c775-4501-b612-3ec8af9b4aa9",
       "topic_id": "7201_sayili_tebligat_kanunu__mali_tebligat",
       "topic_name": "Sayıştay Tebligatı",
       "question_text": "Sayıştay tarafından yapılacak tebligatlarda, merkez teşkilatı dışındakilere tebliğ kim vasıtasıyla yaptırılır?",
@@ -327,7 +327,7 @@
       "difficulty": 3
     },
     {
-      "id": "7d7d7d7d-6c6c-5b5b-4a4a-3e3e3e3e3e3e",
+      "id": "6fc97bcd-dc5f-4556-bf33-af3a303e7ab8",
       "topic_id": "7201_sayili_tebligat_kanunu__idari_tebligat",
       "topic_name": "Tapu İdarelerince Tebligat",
       "question_text": "Tapu idarelerinde hak sahiplerinin adres bildirmemesi halinde hangi adres tebligat için esas alınır?",
@@ -340,7 +340,7 @@
       "difficulty": 2
     },
     {
-      "id": "6e6e6e6e-5d5d-4c4c-3b3b-2a2a2a2a2a2a",
+      "id": "e02e865b-7800-4cd8-a6d8-cdb59709a735",
       "topic_id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
       "topic_name": "Tebliğ Memurlarının Statüsü",
       "question_text": "Tebligat Kanunu'nu uygulamakla görevli memurlar görevleri sırasında bir suç işlerse hangi statüde cezalandırılır?",
@@ -353,7 +353,7 @@
       "difficulty": 2
     },
     {
-      "id": "5f5f5f5f-4e4e-3d3d-2c2c-1b1b1b1b1b1b",
+      "id": "fe0f490c-045a-4676-82ca-6780bdd243ca",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Tebliğ Evrakının Zıyaı",
       "question_text": "Mücbir sebepler dışında tebliğ evrakının zıyaa uğraması (kaybolması) durumunda masraflar hangi kanun hükümlerine göre karşılanır?",
@@ -366,7 +366,7 @@
       "difficulty": 3
     },
     {
-      "id": "4a4a4a4a-3b3b-2c2c-1d1d-0e0e0e0e0e0e",
+      "id": "010fd7b1-fef5-4035-b1c0-962f16f90722",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Bağımsız Bölüm Sahiplerine Tebligat",
       "question_text": "Kat Mülkiyeti Kanunu'na tabi bir apartmanda adresini bildirmeyen mülk sahibine tebligat yapılamazsa, tebliğ kime yapılır?",
@@ -379,7 +379,7 @@
       "difficulty": 2
     },
     {
-      "id": "3b3b3b3b-2c2c-1d1d-0e0e-9f9f9f9f9f9f",
+      "id": "967afc27-ef70-4324-8363-581cdbcf1014",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Elektronik Tebligat Sistemi",
       "question_text": "Ulusal Elektronik Tebligat Sistemi (UETS) hangi kurum tarafından kurulmuş ve işletilmektedir?",
@@ -392,7 +392,7 @@
       "difficulty": 1
     },
     {
-      "id": "2c2c2c2c-1d1d-0e0e-9f9f-8a8a8a8a8a8a",
+      "id": "b7ea3217-47ff-4aa2-9be3-1af906f5eb40",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Vekillerin Birbirine Tebligatı",
       "question_text": "Vekil vasıtasıyla takip edilen davalarda, vekiller birbirlerine nasıl tebligat yapabilir?",
@@ -405,7 +405,7 @@
       "difficulty": 2
     },
     {
-      "id": "1d1d1d1d-0e0e-9f9f-8a8a-7b7b7b7b7b7b",
+      "id": "8536a1f7-1f5f-4eb3-a64b-52e8d770735c",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Hasım Olma Durumu",
       "question_text": "Muhatap adına tebellüğ etmeye yetkili kişi, o dosyada taraf (hasım) ise ne olur?",
@@ -418,7 +418,7 @@
       "difficulty": 2
     },
     {
-      "id": "0e0e0e0e-9f9f-8a8a-7b7b-6c6c6c6c6c6c",
+      "id": "0d5a2a2b-3735-4dd7-8af0-49a140d8094f",
       "topic_id": "7201_sayili_tebligat_kanunu__idari_tebligat",
       "topic_name": "Temsilciye Tebligat",
       "question_text": "Birden fazla kişiyi temsil eden bir kimseye, temsil ettiği şahıslar için nasıl tebligat yapılır?",
@@ -431,7 +431,7 @@
       "difficulty": 3
     },
     {
-      "id": "9f9f9f9f-8a8a-7b7b-6c6c-5d5d5d5d5d5d",
+      "id": "0d220e3f-90c7-480e-8924-dbffa7faeef8",
       "topic_id": "7201_sayili_tebligat_kanunu__cezai_hukumler",
       "topic_name": "Tebliğ Evrakını Vermeme",
       "question_text": "Muhatap adına tebligatı teslim alan kişi, bu evrakı muhataba vermez ve gecikmeye yol açarsa ne kadar hapis cezası alır?",
@@ -444,7 +444,7 @@
       "difficulty": 2
     },
     {
-      "id": "8a8a8a8a-7b7b-6c6c-5d5d-4e4e4e4e4e4e",
+      "id": "cff57279-ebee-4f2b-9057-72b7b498ffc1",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Cumhuriyet Başsavcılığına Tebligat",
       "question_text": "Cumhuriyet Başsavcılığına yapılacak tebligatın usulü nasıldır?",
@@ -457,7 +457,7 @@
       "difficulty": 2
     },
     {
-      "id": "7b7b7b7b-6c6c-5d5d-4e4e-3f3f3f3f3f3f",
+      "id": "2e740e51-3e61-4826-b9b1-16560a14eb87",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Tebligatın Vakti",
       "question_text": "Gece vakti tebligat yapılması konusunda yasal düzenleme nasıldır?",
@@ -470,7 +470,7 @@
       "difficulty": 3
     },
     {
-      "id": "6a6a6a6a-5b5b-4c4c-3d3d-2e2e2e2e2e2e",
+      "id": "8fbf3982-6ba0-45ee-bbdd-c606bb95a571",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Usulüne Aykırı Tebligat",
       "question_text": "Tebliğ usulüne aykırı yapılmış olsa bile hangi durumda geçerli (muteber) sayılır?",
@@ -483,7 +483,7 @@
       "difficulty": 2
     },
     {
-      "id": "5d5d5d5d-4e4e-3f3f-2a2a-1b1b1b1b1b1b",
+      "id": "956926cb-1c69-43a0-8e62-0b4707eb7800",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Tebliğ Evrakının Nüshaları",
       "question_text": "Tebliğ olunacak evrak, işlem gereği kaç nüshadan oluşur?",
@@ -496,7 +496,7 @@
       "difficulty": 1
     },
     {
-      "id": "4e4e4e4e-3f3f-2a2a-1b1b-0c0c0c0c0c0c",
+      "id": "3e6660f6-f8b6-49d0-9d02-1258a9b14c95",
       "topic_id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
       "topic_name": "Meslek ve Sanat İcrası",
       "question_text": "Mesleğini evinde icra eden birine (ev adresinde) ulaşılamazsa tebligat kime yapılır?",
@@ -509,7 +509,7 @@
       "difficulty": 2
     },
     {
-      "id": "3f3f3f3f-2a2a-1b1b-0c0c-9d9d9d9d9d9d",
+      "id": "4ad056ae-e3b3-4e28-adde-5d198533c314",
       "topic_id": "7201_sayili_tebligat_kanunu__yabanci_memleket",
       "topic_name": "Yabancı Memlekette Türk Memurları",
       "question_text": "Yabancı bir ülkede resmi görevle bulunan Türk memurlarına tebligat hangi bakanlık vasıtasıyla yapılır?",
@@ -522,7 +522,7 @@
       "difficulty": 2
     },
     {
-      "id": "2a2a2a2a-1b1b-0c0c-9d9d-8e8e8e8e8e8e",
+      "id": "320b318b-dc38-46ef-a099-91a56a2aae64",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Yönetmelik Hazırlama",
       "question_text": "Tebligat Kanunu'nun uygulanmasına ilişkin yönetmelik hangi bakanlık tarafından hazırlanır?",
@@ -535,7 +535,7 @@
       "difficulty": 2
     },
     {
-      "id": "1b1b1b1b-0c0c-9d9d-8e8e-7f7f7f7f7f7f",
+      "id": "9db93257-1dfd-41a4-bced-4bd0f2a6e691",
       "topic_id": "7201_sayili_tebligat_kanunu__tebligat_esaslari",
       "topic_name": "KKTC'deki Askeri Birlikler",
       "question_text": "KKTC'de konuşlu askeri birliklerden Türkiye'ye yapılacak tebligatlar kim vasıtasıyla yapılır?",
@@ -548,7 +548,7 @@
       "difficulty": 3
     },
     {
-      "id": "0c0c0c0c-9d9d-8e8e-7f7f-6a6a6a6a6a6a",
+      "id": "ca69487b-2a73-452b-b057-d258a60934b0",
       "topic_id": "7201_sayili_tebligat_kanunu__ilanen_tebligat",
       "topic_name": "İlan Portalı",
       "question_text": "İlanen tebligatın gazete ve internet haber sitesinde yayınlanması dışında, ayrıca nerede yayınlanması zorunludur?",
@@ -561,7 +561,7 @@
       "difficulty": 2
     },
     {
-      "id": "9d9d9d9d-8e8e-7f7f-6a6a-5b5b5b5b5b5b",
+      "id": "aee74387-9105-4b9c-9259-453514e35c46",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Tebliğ Mazbatalı Zarf",
       "question_text": "Tebliğ evrakı kural olarak nasıl bir zarf içinde gönderilmelidir?",
@@ -574,7 +574,7 @@
       "difficulty": 1
     },
     {
-      "id": "8e8e8e8e-7f7f-6a6a-5b5b-4c4c4c4c4c4c",
+      "id": "f9ebe648-af43-4812-a317-66fa74ee07e8",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Kalemde Tebligat",
       "question_text": "Dava evrakının mahkeme kaleminde tarafa imza karşılığı verilmesi hangi hukuki sonucu doğurur?",
@@ -587,7 +587,7 @@
       "difficulty": 2
     },
     {
-      "id": "7f7f7f7f-6a6a-5b5b-4c4c-3d3d3d3d3d3d",
+      "id": "d97fdf17-7ff3-46ff-9173-e3ce5e07cdcb",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Tebligatın Memur Eliyle Yapılması",
       "question_text": "Tehirinde (gecikmesinde) zarar umulan işlerde tebligat kim vasıtasıyla yaptırılabilir?",
@@ -613,7 +613,7 @@
       "difficulty": 3
     },
     {
-      "id": "5b5b5b5b-4c4c-3d3d-2e2e-1f1f1f1f1f1f",
+      "id": "bbc61fd9-31c2-42db-a89e-18ecc66cfba4",
       "topic_id": "7201_sayili_tebligat_kanunu__genel_hukumler",
       "topic_name": "Tebliğ Evrakının Kaybı",
       "question_text": "Telgraf servisinde yaşanabilecek zıya (kayıp) veya gecikme durumunda hangi kanun hükümleri uygulanır?",
@@ -626,7 +626,7 @@
       "difficulty": 3
     },
     {
-      "id": "4c4c4c4c-3d3d-2e2e-1f1f-0a0a0a0a0a0a",
+      "id": "d64de771-52e2-44e4-8374-b980e80deba3",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Mali Tebligat",
       "question_text": "Kendi kanunlarında hüküm bulunmayan mali tebliğler hangi usule göre yapılır?",
@@ -639,7 +639,7 @@
       "difficulty": 2
     },
     {
-      "id": "3d3d3d3d-2e2e-1f1f-0a0a-9b9b9b9b9b9b",
+      "id": "4493a06e-feee-449f-b28e-25ad3501b888",
       "topic_id": "7201_sayili_tebligat_kanunu__hususi_hukumler",
       "topic_name": "Vekillerin İlk Tebliği",
       "question_text": "Birden fazla vekile tebligat yapılmışsa, yasal sürelerin başlangıcı için hangi tebliğ tarihi esas alınır?",

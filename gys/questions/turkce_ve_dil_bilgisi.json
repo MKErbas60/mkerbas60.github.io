@@ -1,8 +1,8 @@
 {
-  "total": 200,
+  "total": 199,
   "questions": [
     {
-      "id": "tdb-0001",
+      "id": "2190eb27-fc2c-429d-98eb-02752402d9db",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede kalın sıradan ince sıraya geçişi engelleyen ses uyumu kuralı aşağıdakilerden hangisidir?",
@@ -15,7 +15,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0002",
+      "id": "8b09a930-75d7-45c1-b9b7-b9837accba2e",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisi ünsüz benzeşmesine (sertleşmesine) örnek gösterilemez?",
@@ -28,7 +28,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0003",
+      "id": "e674fccd-47bf-4829-be5d-b0dc2a10bfa2",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede ünlü düşmesinin gerçekleştiği kelime aşağıdakilerden hangisidir?",
@@ -41,7 +41,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0004",
+      "id": "0050ade6-eb8f-4ee7-89ae-1b0c05deac04",
       "topic_id": "turkce_ve_dil_bilgisi__hece_bilgisi",
       "topic_name": "Hece Bilgisi",
       "question_text": "'Anlatmak' kelimesi kaç heceden oluşur?",
@@ -54,7 +54,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0005",
+      "id": "3bbe2f24-15c3-417c-9c35-404a6509bc86",
       "topic_id": "turkce_ve_dil_bilgisi__hece_bilgisi",
       "topic_name": "Hece Bilgisi",
       "question_text": "Aşağıdaki kelimelerden hangisi açık hece ile bitmektedir?",
@@ -67,7 +67,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0006",
+      "id": "f803c145-9c90-4f71-b55c-04af836e7b43",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki seçeneklerin hangisinde yazım yanlışı vardır?",
@@ -80,7 +80,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0007",
+      "id": "a5c545a1-e049-4f18-bf88-b538a5f29a0a",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki cümlelerin hangisinde birleşik kelime yanlış yazılmıştır?",
@@ -93,7 +93,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0008",
+      "id": "ec0c683f-74a9-45ef-9a5d-2e4a4c3a3714",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki seçeneklerin hangisinde kesme işareti doğru kullanılmıştır?",
@@ -106,7 +106,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0009",
+      "id": "a7e80a9d-073d-4ff8-a223-dd0cc5564a66",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdakilerden hangisinde virgül yanlış kullanılmıştır?",
@@ -119,7 +119,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0010",
+      "id": "9c43bb1d-7fc3-4e57-b0d0-366cb1cbfe8b",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde noktalı virgül doğru kullanılmıştır?",
@@ -132,7 +132,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0011",
+      "id": "5c0617ec-be58-43c0-95ab-02453dd7e490",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki kelimelerden hangisi hem isim hem de fiil olarak kullanılabilir?",
@@ -145,7 +145,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0012",
+      "id": "b7509dec-06a2-43c1-a5fe-42519369153b",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'bağlaç' kullanılmıştır?",
@@ -158,7 +158,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0013",
+      "id": "88c254b4-82c8-469a-9097-3b11cd34d72d",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdaki cümlelerden hangisinde dönüşlülük zamiri kullanılmıştır?",
@@ -171,7 +171,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0014",
+      "id": "e22996c6-7c95-45cf-b7f9-6b0b76dfde0b",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdaki kelimelerden hangisi soyut isimdir?",
@@ -184,7 +184,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0015",
+      "id": "2994cb40-7fa6-4238-93c7-ca48d346fbcf",
       "topic_id": "turkce_ve_dil_bilgisi__sifat_ve_zarf",
       "topic_name": "Sıfat ve Zarf",
       "question_text": "Aşağıdaki cümlelerden hangisinde niteleme sıfatı kullanılmıştır?",
@@ -197,7 +197,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0016",
+      "id": "89256c75-075e-42cd-9ce2-609c461a8e59",
       "topic_id": "turkce_ve_dil_bilgisi__sifat_ve_zarf",
       "topic_name": "Sıfat ve Zarf",
       "question_text": "Aşağıdaki cümlelerin hangisinde zarf tümleci bulunmaktadır?",
@@ -210,7 +210,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0017",
+      "id": "6c329d50-ae94-44da-a832-9b04b1f8fec1",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki cümlelerin hangisinde fiil geniş zaman kipiyle çekimlenmiştir?",
@@ -223,7 +223,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0018",
+      "id": "992ad39a-176b-4c26-b28d-504a9bcfd15e",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki cümlelerden hangisinde şart kipi kullanılmıştır?",
@@ -236,7 +236,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0019",
+      "id": "49f5851f-b28c-431b-8bbb-e70456abc525",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki seçeneklerin hangisinde fiil olumsuz çekimlenmiştir?",
@@ -249,7 +249,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0020",
+      "id": "2374fa0c-194a-4ca8-9dd0-771d87310599",
       "topic_id": "turkce_ve_dil_bilgisi__ekler_ve_yapim_ekleri",
       "topic_name": "Ekler ve Yapım Ekleri",
       "question_text": "Aşağıdaki kelimelerden hangisi yapım eki almıştır?",
@@ -262,7 +262,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0021",
+      "id": "f662ed35-10e9-41a9-b718-825b30b7c56c",
       "topic_id": "turkce_ve_dil_bilgisi__ekler_ve_yapim_ekleri",
       "topic_name": "Ekler ve Yapım Ekleri",
       "question_text": "Aşağıdaki eklerden hangisi isimden isim yapım ekidir?",
@@ -275,7 +275,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0022",
+      "id": "8d37826d-9840-45d1-bc48-482f1085767e",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
       "topic_name": "Kelime Yapısı ve Türetme",
       "question_text": "Aşağıdaki kelimelerden hangisi birleşik kelimedir?",
@@ -288,7 +288,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0023",
+      "id": "6be1a735-2409-403f-809f-2e364826011a",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
       "topic_name": "Kelime Yapısı ve Türetme",
       "question_text": "Aşağıdaki kelimelerden hangisi basit yapılıdır?",
@@ -301,7 +301,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0024",
+      "id": "180aed5f-f1fc-4f4f-b446-0d2fbae92c77",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerin hangisinde özne yoktur?",
@@ -314,7 +314,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0025",
+      "id": "8e81c34b-a979-4a2c-8a3a-74eea5ba21a5",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerde altı çizili sözcüğün cümledeki görevi nedir? 'Ahmet __kitabı__ masaya koydu.'",
@@ -327,7 +327,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0026",
+      "id": "c989ebba-3939-4e51-b42f-67fd8e95a803",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_turleri",
       "topic_name": "Cümle Türleri",
       "question_text": "Aşağıdaki cümlelerden hangisi bileşik cümledir?",
@@ -340,7 +340,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0027",
+      "id": "d7233642-d978-45e1-aca4-ad165a8fe1d4",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_turleri",
       "topic_name": "Cümle Türleri",
       "question_text": "Aşağıdaki cümlelerden hangisi soru cümlesidir?",
@@ -353,7 +353,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0028",
+      "id": "74e31d58-bc47-46b2-84b3-9f0035e1fe97",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'yüz' kelimesi mecaz anlamda kullanılmıştır?",
@@ -366,7 +366,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0029",
+      "id": "6e600203-ba04-4de4-a4f9-5b9bd172b51d",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki kelime çiftlerinden hangisi eş anlamlıdır (anlamdaş)?",
@@ -379,7 +379,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0030",
+      "id": "9afafebb-1656-468f-90cc-bd5627243ea3",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerden hangisinde 'terim' anlamı söz konusudur?",
@@ -392,7 +392,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0031",
+      "id": "d9dfa12e-7db7-4e6c-a2bc-fc6c1e61c94d",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "Aşağıdakilerden hangisi deyimdir?",
@@ -405,7 +405,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0032",
+      "id": "4903263b-0b9e-43eb-bff0-2ee4099e9482",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "'Sabreden derviş muradına ermiş.' atasözü hangi anlama gelmektedir?",
@@ -418,7 +418,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0033",
+      "id": "02cf44c7-33a3-4842-9199-55ae8af585f7",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "'Kulağına küpe olmak' deyiminin anlamı aşağıdakilerden hangisidir?",
@@ -431,7 +431,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0034",
+      "id": "95a3e507-56e6-4802-91e1-3269b030e4a4",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdakilerden hangisi öğretici metin türüne örnek gösterilemez?",
@@ -444,7 +444,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0035",
+      "id": "e7a6fa75-66a2-4b03-b518-bd6d7d0ebdca",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Yazar 'ben'inin ön plana çıktığı, kişisel görüş ve değerlendirmelerin serbestçe dile getirildiği yazı türü aşağıdakilerden hangisidir?",
@@ -457,7 +457,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0036",
+      "id": "6cac7c48-7b73-4d7b-a6a7-1b0be8bbf6f7",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Bir paragrafta ana düşünce (ana fikir) için aşağıdakilerden hangisi doğrudur?",
@@ -470,7 +470,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0037",
+      "id": "b35fa23c-8970-4cc7-b580-c64394399e30",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Paragrafta yardımcı düşüncenin işlevi nedir?",
@@ -483,7 +483,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0038",
+      "id": "e989ea69-e2ba-498f-95a7-beb32d3211f6",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?",
@@ -496,7 +496,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0039",
+      "id": "36071196-a0e5-431d-a546-f4827a657f7e",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan anlatım bozukluğu vardır?",
@@ -509,7 +509,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0040",
+      "id": "b42ff0f2-33ce-4b1d-9f22-69c1c0db9c95",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyumsuzluğu vardır?",
@@ -522,7 +522,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0041",
+      "id": "f6a1075e-936f-41d7-bab0-875410d34e8d",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisinde küçük ünlü uyumu bozulmuştur?",
@@ -535,7 +535,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0042",
+      "id": "77951629-2cd7-45d0-925c-dd3043af95ab",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinin yazımı doğrudur?",
@@ -548,7 +548,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0043",
+      "id": "a966bd9a-8ccd-41e3-a9d5-29716327b262",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde ünlem kullanılmıştır?",
@@ -561,7 +561,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0044",
+      "id": "4d333b36-25a8-4a12-869c-164cba377bdc",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerden hangisinde zarf tümleci yer (yön) anlamı taşımaktadır?",
@@ -574,7 +574,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0045",
+      "id": "70d0860b-bfaf-4598-86ad-8318fa91e189",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde sözcük yan anlamıyla kullanılmıştır?",
@@ -587,7 +587,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0046",
+      "id": "c591a940-a506-4758-8ce1-ca63938368cc",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Aşağıdakilerden hangisi paragraf türlerinden biri değildir?",
@@ -600,7 +600,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0047",
+      "id": "8fba2568-d208-4a01-87e9-c94218599760",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdaki anlatım biçimlerinden hangisi bir olayı oluş sırasına göre aktarmayı esas alır?",
@@ -613,7 +613,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0048",
+      "id": "1b8fadf4-dffd-4449-8779-cfb4e4404aa4",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki cümlelerin hangisinde istek kipi kullanılmıştır?",
@@ -626,7 +626,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0049",
+      "id": "9077212e-0a85-476a-823c-b424362419cd",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde ünlem işaretinin kullanımı doğrudur?",
@@ -639,7 +639,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0050",
+      "id": "5632d716-cace-4127-a1d9-c92a85999097",
       "topic_id": "turkce_ve_dil_bilgisi__sozlu_anlatim_ve_konusma_kurallari",
       "topic_name": "Sözlü Anlatım ve Konuşma Kuralları",
       "question_text": "Sözlü anlatımda etkili iletişim için aşağıdakilerden hangisi doğrudur?",
@@ -652,7 +652,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0051",
+      "id": "e278e761-5ec8-48a9-9eaa-e24e4baf4725",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisinde ünsüz yumuşaması (b, c, ç, d → p, ç, t, k) gerçekleşmiştir?",
@@ -665,7 +665,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0052",
+      "id": "ac1bcf1f-5268-4d55-bc9f-cde1f3ede6be",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede ünlü türemesine örnek olan kelime aşağıdakilerden hangisidir?",
@@ -678,7 +678,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0053",
+      "id": "8a781dc7-0455-4f4a-b40a-8d2aa9413def",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisinde büyük ünlü uyumu vardır?",
@@ -691,7 +691,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0054",
+      "id": "6fc2a50a-48e8-45d5-9662-9310d7b2156a",
       "topic_id": "turkce_ve_dil_bilgisi__hece_bilgisi",
       "topic_name": "Hece Bilgisi",
       "question_text": "Türkçede bir hecede en fazla kaç ünsüz bir arada bulunabilir?",
@@ -704,7 +704,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0055",
+      "id": "5da6c605-3510-41f5-8de1-3297fae44a80",
       "topic_id": "turkce_ve_dil_bilgisi__hece_bilgisi",
       "topic_name": "Hece Bilgisi",
       "question_text": "'Öğretmen' kelimesinin hece yapısı aşağıdakilerden hangisidir?",
@@ -717,7 +717,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0056",
+      "id": "042b9c72-ebb7-4ac1-aabe-ddbccad7d1c3",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki sayıların yazımından hangisi doğrudur?",
@@ -730,7 +730,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0057",
+      "id": "283e72a9-f5b9-4ec7-b781-da89c0a8964f",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinin yazımı yanlıştır?",
@@ -743,7 +743,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0058",
+      "id": "a1828722-fd94-4bb9-89d6-8d842fa865ac",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki birleşik fiillerden hangisi doğru yazılmıştır?",
@@ -756,7 +756,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0059",
+      "id": "60a26873-8dd3-45fd-8c7e-5d3514808fb4",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde iki nokta üst üste (:) doğru kullanılmıştır?",
@@ -769,7 +769,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0060",
+      "id": "0da92f8f-5f30-49bd-9fc3-0cf6a4e4d86b",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde tire (-) doğru kullanılmıştır?",
@@ -782,7 +782,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0061",
+      "id": "7a3aa893-3335-4043-ad98-383f5dcde6cc",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde ilgeç (edat/postposition) kullanılmıştır?",
@@ -795,7 +795,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0062",
+      "id": "0c7de889-b68d-4749-841f-f574f5d39df3",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki sözcüklerden hangisi daima çoğul kullanılan isimdir?",
@@ -808,7 +808,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0063",
+      "id": "90a918e9-509e-4dae-8f90-8ef8f8224902",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdaki cümlelerin hangisinde belirsizlik zamiri kullanılmıştır?",
@@ -821,7 +821,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0064",
+      "id": "7c949c28-7894-4b7b-b731-cac9fd2b068e",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdaki cümlelerin hangisinde isim hâl eklerinden ayrılma hâli kullanılmıştır?",
@@ -834,7 +834,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0065",
+      "id": "ff881d25-d291-4345-98a3-6e14ba8e6459",
       "topic_id": "turkce_ve_dil_bilgisi__sifat_ve_zarf",
       "topic_name": "Sıfat ve Zarf",
       "question_text": "Aşağıdaki cümlelerin hangisinde işaret sıfatı kullanılmıştır?",
@@ -847,7 +847,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0066",
+      "id": "220a7aae-48a4-476e-bad2-eb300fa5179a",
       "topic_id": "turkce_ve_dil_bilgisi__sifat_ve_zarf",
       "topic_name": "Sıfat ve Zarf",
       "question_text": "Aşağıdaki cümlelerin hangisinde zaman zarfı kullanılmıştır?",
@@ -860,7 +860,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0067",
+      "id": "e62a14a5-8544-4a94-9eb4-a2055f7207c8",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki cümlelerden hangisinde gereklilik kipi kullanılmıştır?",
@@ -873,7 +873,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0068",
+      "id": "3e3e555a-c206-4c48-bacb-642d17afcb14",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki cümlelerden hangisinde dilek-koşul kipi (şart) kullanılmıştır?",
@@ -886,7 +886,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0069",
+      "id": "6632f98f-fca7-4c6b-970e-f579870d4a3a",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki kelimelerden hangisi fiilimsi (eylemsi) değildir?",
@@ -899,7 +899,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0070",
+      "id": "15239d35-442b-4614-8393-cffd0e0231a4",
       "topic_id": "turkce_ve_dil_bilgisi__ekler_ve_yapim_ekleri",
       "topic_name": "Ekler ve Yapım Ekleri",
       "question_text": "Aşağıdaki eklerden hangisi fiilden isim yapım ekidir?",
@@ -912,7 +912,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0071",
+      "id": "bae69587-9414-40e0-9fda-5866d96e762e",
       "topic_id": "turkce_ve_dil_bilgisi__ekler_ve_yapim_ekleri",
       "topic_name": "Ekler ve Yapım Ekleri",
       "question_text": "Aşağıdakilerden hangisinde çekim eki kullanılmıştır?",
@@ -925,7 +925,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0072",
+      "id": "a7489fdc-a726-480b-843e-268e0922dce5",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
       "topic_name": "Kelime Yapısı ve Türetme",
       "question_text": "Aşağıdaki kelimelerden hangisi türemiş kelimedir?",
@@ -938,7 +938,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0073",
+      "id": "3d06906b-5350-4189-bb90-fbd8ab4b9d17",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
       "topic_name": "Kelime Yapısı ve Türetme",
       "question_text": "Aşağıdaki kelimelerden hangisi kalıplaşmış (deyimleşmiş) birleşik kelimedir?",
@@ -951,7 +951,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0074",
+      "id": "49dc183f-1aaf-4230-baaa-b164b0bdce41",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerde yüklem hangi seçenekte doğru olarak belirlenmiştir?",
@@ -964,7 +964,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0075",
+      "id": "d9befbec-305c-4f59-bc7d-ad394bf768b4",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerden hangisinde isim yüklemi (ad yüklemi) kullanılmıştır?",
@@ -977,7 +977,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0076",
+      "id": "c3b4675f-dd16-4e01-9c44-545eabf8a230",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_turleri",
       "topic_name": "Cümle Türleri",
       "question_text": "Aşağıdaki cümlelerden hangisi devrik cümledir?",
@@ -990,7 +990,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0077",
+      "id": "906be61c-ef01-4b69-b83e-2512cabc1894",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_turleri",
       "topic_name": "Cümle Türleri",
       "question_text": "Aşağıdaki cümlelerden hangisi olumsuz soru cümlesidir?",
@@ -1003,7 +1003,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0078",
+      "id": "710b0b71-a76f-40d4-b837-85c308194b1a",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde sözcük temel (gerçek) anlamıyla kullanılmıştır?",
@@ -1016,7 +1016,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0079",
+      "id": "8bd24eeb-709d-4d67-9b2a-cdaf16056917",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Birden fazla anlamı olan sözcüklere ne ad verilir?",
@@ -1029,7 +1029,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0080",
+      "id": "d99ae750-29f8-4a71-934b-8015f5830697",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki sözcük çiftlerinden hangisi zıt (karşıt) anlamlıdır?",
@@ -1042,7 +1042,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0081",
+      "id": "fd962fd8-5d9e-48d4-91a9-bb33bf2446aa",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "'Baş başa vermek' deyiminin anlamı aşağıdakilerden hangisidir?",
@@ -1055,7 +1055,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0082",
+      "id": "ea172419-1cd7-43c9-8112-dbb1445ae1df",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "Aşağıdaki atasözlerinden hangisi 'yapılacak işi ertelememek gerekir' anlamını taşır?",
@@ -1068,7 +1068,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0083",
+      "id": "47028c2e-ddad-476c-b7d2-de96b59ccd7c",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "'Eli açık' deyimi hangi anlamda kullanılır?",
@@ -1081,7 +1081,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0084",
+      "id": "98c3c491-23f8-41d6-baf7-7983feb10dbf",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdakilerden hangisi betimleyici anlatımın özelliği değildir?",
@@ -1094,7 +1094,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0085",
+      "id": "be354450-ac94-4fd2-be13-1f0b9f1b6b48",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdaki metin türlerinden hangisi bir görüşü kanıtlamayı ve okuyucuyu ikna etmeyi amaçlar?",
@@ -1107,7 +1107,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0086",
+      "id": "686b1a41-a3cd-4dad-bfd4-c2936e577952",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Aşağıdakilerden hangisi paragrafta geçiş (bağlantı) sözcüklerinin işlevidir?",
@@ -1120,7 +1120,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0087",
+      "id": "4b62f16a-1aa4-4ea8-b19e-d6a8f8a41884",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Bir paragrafın giriş cümlesinin temel işlevi nedir?",
@@ -1133,7 +1133,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0088",
+      "id": "df65cec9-a567-4cc6-a9b6-5199586d7b1d",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerin hangisinde eksik öge (yanlış fiil seçimi) kaynaklı anlatım bozukluğu vardır?",
@@ -1146,7 +1146,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0089",
+      "id": "fff54196-6b85-408f-b546-72a170a8c824",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerin hangisinde tamlama yanlışlığından kaynaklanan anlatım bozukluğu yoktur?",
@@ -1159,7 +1159,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0090",
+      "id": "40eaaa91-de43-444d-b534-43a67ce2bc1e",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerden hangisinde noktalama yanlışı nedeniyle anlam bozulmuştur?",
@@ -1172,7 +1172,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0091",
+      "id": "f3ff5e7b-45b0-4841-9b0e-92b5d2420fe0",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "'Sütçü' kelimesinde aşağıdaki ses olaylarından hangisi gerçekleşmiştir?",
@@ -1185,7 +1185,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0092",
+      "id": "135471a4-6c2d-4b85-a6ea-f4e392e029f6",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "'Öğretmen sınıfa girdi.' cümlesinin ögelerini doğru veren seçenek hangisidir?",
@@ -1198,7 +1198,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0093",
+      "id": "57d23e2b-e7a1-4a95-bd1d-e409838b4a24",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
       "topic_name": "Kelime Yapısı ve Türetme",
       "question_text": "Aşağıdaki kelimelerden hangisi yansıma (ses taklidi) kökenlidir?",
@@ -1211,7 +1211,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0094",
+      "id": "d1ec2742-0f09-4b87-b1e1-55fcbc290b5e",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdaki cümlelerin hangisinde iyelik zamiri kullanılmıştır?",
@@ -1224,7 +1224,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0095",
+      "id": "7ca53b46-1b59-40f4-8938-12c32a56160f",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdakilerden hangisi gazete haberinin temel özelliği değildir?",
@@ -1237,7 +1237,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0096",
+      "id": "8378e33b-6bef-4504-a14d-2b6812eb0165",
       "topic_id": "turkce_ve_dil_bilgisi__sozlu_anlatim_ve_konusma_kurallari",
       "topic_name": "Sözlü Anlatım ve Konuşma Kuralları",
       "question_text": "Panel ile sempozyum arasındaki temel fark nedir?",
@@ -1250,7 +1250,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0097",
+      "id": "77171090-12cf-4d68-a2a0-07ef67bf2e9c",
       "topic_id": "turkce_ve_dil_bilgisi__sozlu_anlatim_ve_konusma_kurallari",
       "topic_name": "Sözlü Anlatım ve Konuşma Kuralları",
       "question_text": "Aşağıdakilerden hangisi etkili bir sözlü anlatımın özelliklerinden biri değildir?",
@@ -1263,7 +1263,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0098",
+      "id": "e898ecf7-d70f-4a78-9844-408a92764ad0",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde dolaylama (çevrinti) sanatı kullanılmıştır?",
@@ -1276,7 +1276,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0099",
+      "id": "9073689f-ab13-4d28-b04d-d23c987f387a",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Aşağıdakilerden hangisi bir paragrafın sahip olması gereken temel özelliklerden biri değildir?",
@@ -1289,7 +1289,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0100",
+      "id": "2ab0e745-12c3-4811-acc4-0ba237233866",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki seçeneklerin hangisinde kısaltmanın yazımı doğrudur?",
@@ -1302,7 +1302,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0101",
+      "id": "6e791766-8276-4197-bb25-57769b81f5d9",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisinde 'kaynaşma (ulama)' ses olayı gerçekleşmektedir?",
@@ -1315,7 +1315,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0102",
+      "id": "8464b3b1-450f-40d2-a6a0-5906336a61dc",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede sözcük başında bulunmayan ünsüz hangisidir?",
@@ -1328,7 +1328,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0103",
+      "id": "7bacb7b1-5336-420c-9465-9b202ba5475f",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki sözcüklerden hangisinde hem büyük ünlü uyumu hem de küçük ünlü uyumu vardır?",
@@ -1341,7 +1341,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0104",
+      "id": "06e55aa4-2f17-43f5-8037-e24ebff15ff9",
       "topic_id": "turkce_ve_dil_bilgisi__hece_bilgisi",
       "topic_name": "Hece Bilgisi",
       "question_text": "Aşağıdaki sözcüklerin hangisinde son hece kapalıdır?",
@@ -1354,7 +1354,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0105",
+      "id": "2708de7c-e4ee-40ba-896b-e7a864a0aca8",
       "topic_id": "turkce_ve_dil_bilgisi__hece_bilgisi",
       "topic_name": "Hece Bilgisi",
       "question_text": "'Cumhurbaşkanlığı' sözcüğü kaç heceden oluşur?",
@@ -1367,7 +1367,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0106",
+      "id": "d6f28927-ebd8-4839-9f97-5381817ebfe9",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki sözcüklerden hangisi yanlış yazılmıştır?",
@@ -1380,7 +1380,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0107",
+      "id": "f6c256ed-44a5-4aaf-bb8c-d31ce6894755",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinde unvan büyük harfle başlatılarak doğru yazılmıştır?",
@@ -1393,7 +1393,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0108",
+      "id": "a2d5b192-ad23-4720-9325-2e0ad14cae50",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinde '-de/-da' eki doğru yazılmıştır?",
@@ -1406,7 +1406,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0109",
+      "id": "98423045-a7a3-4e86-a555-e7cd7d1d69df",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde parantez doğru kullanılmıştır?",
@@ -1419,7 +1419,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0110",
+      "id": "cfcc768b-cd12-4111-ae2c-462cdc3c0e20",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde üç nokta (...) doğru kullanılmıştır?",
@@ -1432,7 +1432,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0111",
+      "id": "0dc01bab-d388-4cbc-a621-25d328c11165",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki sözcüklerden hangisi soru zamiri olarak kullanılmıştır?",
@@ -1445,7 +1445,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0112",
+      "id": "fb6fa553-a522-4c9d-a495-ac0c1ad8b84b",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde pekiştirme zarfı kullanılmıştır?",
@@ -1458,7 +1458,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0113",
+      "id": "6b2a7652-b4f1-4747-8044-65391586975c",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdakilerin hangisinde topluluk ismi kullanılmıştır?",
@@ -1471,7 +1471,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0114",
+      "id": "0419b0ef-6186-41bd-a98d-77ef15a58194",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdaki cümlelerin hangisinde ad tamlaması kullanılmıştır?",
@@ -1484,7 +1484,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0115",
+      "id": "501e6a19-b85e-440c-8901-68398033daf3",
       "topic_id": "turkce_ve_dil_bilgisi__sifat_ve_zarf",
       "topic_name": "Sıfat ve Zarf",
       "question_text": "Aşağıdaki cümlelerin hangisinde sayı sıfatı kullanılmıştır?",
@@ -1497,7 +1497,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0116",
+      "id": "7c2b6169-2139-445d-8439-5e18e5b24b97",
       "topic_id": "turkce_ve_dil_bilgisi__sifat_ve_zarf",
       "topic_name": "Sıfat ve Zarf",
       "question_text": "Aşağıdaki cümlelerin hangisinde miktar zarfı kullanılmıştır?",
@@ -1510,7 +1510,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0117",
+      "id": "80a726c3-6f0b-4074-b1e6-74e9506de30a",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki sözcüklerden hangisi sıfat-fiildir (ortaç)?",
@@ -1523,7 +1523,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0118",
+      "id": "82a348c7-23b3-4c2a-8731-aa1878ec2d9d",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki cümlelerin hangisinde rivayet (söylentiye dayalı geçmiş) zaman kullanılmıştır?",
@@ -1536,7 +1536,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0119",
+      "id": "6b061845-3486-4705-968e-4e0b9d78d902",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki sözcüklerden hangisi zarf-fiildir (ulaç)?",
@@ -1549,7 +1549,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0120",
+      "id": "ea36a5e2-0f4d-40fa-85fa-d02e0a46e6fc",
       "topic_id": "turkce_ve_dil_bilgisi__ekler_ve_yapim_ekleri",
       "topic_name": "Ekler ve Yapım Ekleri",
       "question_text": "Aşağıdaki sözcüklerden hangisinde isimden fiil yapım eki kullanılmıştır?",
@@ -1562,7 +1562,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0121",
+      "id": "e531c00f-7e16-4141-8505-090f7ae422c8",
       "topic_id": "turkce_ve_dil_bilgisi__ekler_ve_yapim_ekleri",
       "topic_name": "Ekler ve Yapım Ekleri",
       "question_text": "Aşağıdaki sözcüklerden hangisinde fiilden fiil yapım eki kullanılmıştır?",
@@ -1575,7 +1575,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0122",
+      "id": "37f10666-9816-4906-880a-14b962e92280",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
       "topic_name": "Kelime Yapısı ve Türetme",
       "question_text": "Aşağıdaki sözcüklerden hangisi gövdedir?",
@@ -1588,7 +1588,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0123",
+      "id": "79c6cea2-e2ac-4446-9a24-af604561b491",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
       "topic_name": "Kelime Yapısı ve Türetme",
       "question_text": "Aşağıdaki sözcüklerden hangisi özel isimden türetilmiştir?",
@@ -1601,7 +1601,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0124",
+      "id": "10a8656f-a6de-4524-bda2-5799a50bf0e1",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerin hangisinde belirtisiz nesne kullanılmıştır?",
@@ -1614,7 +1614,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0125",
+      "id": "ec38ca18-cb76-40c8-a8bf-d08495dcd922",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerin hangisinde edat tümleci (ilgeç tümleci) vardır?",
@@ -1627,7 +1627,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0126",
+      "id": "35a6c93c-20d6-4485-aa1d-dd71bcdada97",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_turleri",
       "topic_name": "Cümle Türleri",
       "question_text": "Aşağıdaki cümlelerin hangisi girişik bileşik cümledir?",
@@ -1640,7 +1640,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0127",
+      "id": "32657493-fa95-41c9-9ba1-5e8f57907004",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_turleri",
       "topic_name": "Cümle Türleri",
       "question_text": "Aşağıdaki cümlelerden hangisi bağlı cümledir?",
@@ -1653,7 +1653,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0128",
+      "id": "127537f2-0ffa-4f76-bb2a-754181fb7128",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerden hangisinde 'ad aktarması (mecazımürsel/düzdeğişmece)' sanatı yapılmıştır?",
@@ -1666,7 +1666,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0129",
+      "id": "eae51c59-bc85-44ed-8273-2bb565e1b600",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki sözcüklerden hangisi sesteş (eş sesli) bir çifttir?",
@@ -1679,7 +1679,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0130",
+      "id": "e91e12f3-7d95-4dee-8a30-5016e800aab1",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde benzetme (teşbih) sanatı yapılmıştır?",
@@ -1692,7 +1692,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0131",
+      "id": "7eb04f17-f02f-4e42-9422-e61e61c54279",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "'Gözden düşmek' deyiminin anlamı aşağıdakilerden hangisidir?",
@@ -1705,7 +1705,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0132",
+      "id": "f9ed8445-d086-470e-9191-e1893db834d6",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "'Ne ekersen onu biçersin.' atasözü hangi anlama gelmektedir?",
@@ -1718,7 +1718,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0133",
+      "id": "ae557e00-b597-40e8-9a9f-605756c072e2",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "Aşağıdaki deyimlerden hangisi 'işin zor bir duruma gelmesi' anlamını taşır?",
@@ -1731,7 +1731,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0134",
+      "id": "7c2bc265-267f-4d7a-8462-5fd62b5cb512",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdakilerden hangisi 'tartışmacı anlatım'ın temel özelliğidir?",
@@ -1744,7 +1744,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0135",
+      "id": "f0629c95-7c64-4e85-9e12-3d6c9ac420b9",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdaki edebi türlerin hangisi 'anı (hatırat)' yazısının özelliğini doğru açıklamaktadır?",
@@ -1757,7 +1757,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0136",
+      "id": "54e8064c-cef3-44ad-a44b-8dff838d46ef",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Aşağıdaki ifadelerden hangisi bir paragrafta 'sonuç cümlesi'nin özelliğini doğru açıklar?",
@@ -1770,7 +1770,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0137",
+      "id": "9a550073-5f3a-4c16-8f9b-48384ff28da3",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Bir paragrafın açıklama paragrafı olduğunu gösteren temel özellik aşağıdakilerden hangisidir?",
@@ -1783,7 +1783,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0138",
+      "id": "452dccf9-6ab2-4881-ac61-e96599c8fcf0",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerin hangisinde mantık yanlışı (anlam çelişkisi) vardır?",
@@ -1796,7 +1796,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0139",
+      "id": "56a59d71-e791-4791-8301-826ecfa707fd",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerin hangisinde sözcük yanlış anlamda kullanılmıştır?",
@@ -1809,7 +1809,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0140",
+      "id": "ba63be1f-5d5c-4298-a627-ab62d15c8e14",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerden hangisinde 'bağlaç yanlışlığı' yoktur?",
@@ -1822,7 +1822,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0141",
+      "id": "3fedd143-9c5a-41d4-803c-135914eb05a6",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki sözcüklerden hangisinde 'hece düşmesi' gerçekleşmiştir?",
@@ -1835,7 +1835,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0142",
+      "id": "2d6047ed-0d68-40ef-9df6-e46e7a10bdbd",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisi yabancı kökenli sözcüklerin Türkçe yazımına doğru örnektir?",
@@ -1848,7 +1848,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0143",
+      "id": "fb7080dc-d40b-4190-802b-195054b9203d",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde kesme işareti gereksiz yere kullanılmıştır?",
@@ -1861,7 +1861,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0144",
+      "id": "0b6cc44f-5e10-4a6c-a075-9e95c34c4a17",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki sözcüklerden hangisi her zaman zarf olarak kullanılır?",
@@ -1874,7 +1874,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0145",
+      "id": "6db64ccf-2b2f-468b-a3d8-1116dd109d97",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerin hangisinde eksiltili (kesik) cümle kullanılmıştır?",
@@ -1887,7 +1887,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0146",
+      "id": "21d67123-dfe9-4216-bd5c-a2acdf386c12",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Aşağıdakilerden hangisi paragrafta 'karşıtlık yoluyla geliştirme' tekniğine örnektir?",
@@ -1900,7 +1900,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0147",
+      "id": "061e8c61-dcb7-4b10-b855-f1e7b518eecc",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdakilerden hangisi 'günlük (günce)'nin temel özelliğidir?",
@@ -1913,7 +1913,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0148",
+      "id": "e0ad48dc-5c58-4efd-9bab-12802dd577c1",
       "topic_id": "turkce_ve_dil_bilgisi__sozlu_anlatim_ve_konusma_kurallari",
       "topic_name": "Sözlü Anlatım ve Konuşma Kuralları",
       "question_text": "Aşağıdakilerden hangisi 'konferans' ile 'panel'in temel farkını doğru açıklar?",
@@ -1926,7 +1926,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0149",
+      "id": "9ba79e97-cce4-49a4-b9cd-75244b73ae06",
       "topic_id": "turkce_ve_dil_bilgisi__sozlu_anlatim_ve_konusma_kurallari",
       "topic_name": "Sözlü Anlatım ve Konuşma Kuralları",
       "question_text": "Aşağıdakilerden hangisi 'forum'un temel özelliğidir?",
@@ -1939,7 +1939,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0150",
+      "id": "617a0ef8-3f3b-4833-881c-d7e5b8460942",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'kinaye' (üstü kapalı anlatım) söz konusudur?",
@@ -1952,7 +1952,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0151",
+      "id": "cff45b8d-3cca-4dbc-802a-6a87939dddc8",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki sözcüklerden hangisinde ünsüz ikizleşmesi (ünsüz türemesi) gerçekleşmiştir?",
@@ -1965,7 +1965,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0152",
+      "id": "856912f3-fc02-4731-8ab5-99d713fe469e",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede ünlüyle biten sözcüklere ünlüyle başlayan ek getirildiğinde araya giren ses aşağıdakilerden hangisidir?",
@@ -1978,7 +1978,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0153",
+      "id": "addbd756-5e9e-49fa-86bb-4513ae1b54ff",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki sözcüklerden hangisinde 'g → ğ' ünsüz yumuşaması gerçekleşmiştir?",
@@ -1991,7 +1991,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0154",
+      "id": "0683a496-391f-4bbd-83fc-bf0595825228",
       "topic_id": "turkce_ve_dil_bilgisi__hece_bilgisi",
       "topic_name": "Hece Bilgisi",
       "question_text": "Aşağıdaki sözcüklerin hangisinde vurgu son hecededir?",
@@ -2004,7 +2004,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0155",
+      "id": "c50621d6-0d53-408a-9ad2-2a7261472393",
       "topic_id": "turkce_ve_dil_bilgisi__hece_bilgisi",
       "topic_name": "Hece Bilgisi",
       "question_text": "Aşağıdaki sözcüklerden hangisi tek heceli değildir?",
@@ -2017,7 +2017,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0156",
+      "id": "ba9fd464-2871-4d87-9252-064279fdc31d",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinde zarf olarak kullanılan sözcük doğru yazılmıştır?",
@@ -2030,7 +2030,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0157",
+      "id": "20cf789f-e933-4946-8ed7-24a7640b40f8",
       "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki cümlelerin hangisinde büyük harf kullanım yanlışı yoktur?",
@@ -2043,20 +2043,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0158",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
-      "topic_name": "Yazım Kuralları (İmla)",
-      "question_text": "Aşağıdakilerden hangisi pekiştirmeli sıfatın doğru yazılışıdır?",
-      "option_a": "bembeyaz",
-      "option_b": "bem beyaz",
-      "option_c": "bem-beyaz",
-      "option_d": "bembeyaz",
-      "correct_option": "A",
-      "explanation": "Pekiştirmeli sıfatlar bitişik yazılır. 'Bembeyaz' sözcüğü 'beyaz' sıfatının pekiştirilmiş biçimi olup bitişik yazılır. A ve D seçenekleri aynı görünmektedir; doğru yazılış bitişik olan 'bembeyaz'dır.",
-      "difficulty": 2
-    },
-    {
-      "id": "tdb-0159",
+      "id": "e75034ed-6548-4926-b64b-dfa65e88e62c",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde tırnak işareti doğru kullanılmıştır?",
@@ -2069,7 +2056,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0160",
+      "id": "9d43be69-cd43-4f3e-b924-558c9b71cd59",
       "topic_id": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
       "topic_name": "Noktalama İşaretleri",
       "question_text": "Aşağıdaki seçeneklerin hangisinde eğik çizgi (/) doğru kullanılmıştır?",
@@ -2082,7 +2069,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0161",
+      "id": "e8ecbdce-0557-4e83-8f09-7587e1a96b23",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki sözcüklerden hangisi hem sıfat hem zarf olarak kullanılabilir?",
@@ -2095,7 +2082,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0162",
+      "id": "195c39f2-2f82-4e68-83ca-6fdcabb0067e",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki cümlelerin hangisinde sözcük ad olarak (isimleşerek) kullanılmıştır?",
@@ -2108,7 +2095,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0163",
+      "id": "ccbf09a4-117b-4a2d-bca8-d93f299b943b",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdaki cümlelerin hangisinde işaret zamiri kullanılmıştır?",
@@ -2121,7 +2108,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0164",
+      "id": "dd7746ed-2e24-4335-91f3-391805cf3c33",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdaki sözcük gruplarından hangisi sıfat tamlamasıdır?",
@@ -2134,7 +2121,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0165",
+      "id": "92f59904-47c7-4c0b-a53a-60ca139bed27",
       "topic_id": "turkce_ve_dil_bilgisi__sifat_ve_zarf",
       "topic_name": "Sıfat ve Zarf",
       "question_text": "Aşağıdaki cümlelerin hangisinde belgisiz (belirsizlik) sıfatı kullanılmıştır?",
@@ -2147,7 +2134,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0166",
+      "id": "493ca216-9151-4441-b622-b9a0bef2d766",
       "topic_id": "turkce_ve_dil_bilgisi__sifat_ve_zarf",
       "topic_name": "Sıfat ve Zarf",
       "question_text": "Aşağıdaki cümlelerin hangisinde yer zarfı kullanılmıştır?",
@@ -2160,7 +2147,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0167",
+      "id": "875ed19e-9cc6-4ea4-9582-6eb6845809b6",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki cümlelerin hangisinde ettirgen çatılı fiil kullanılmıştır?",
@@ -2173,7 +2160,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0168",
+      "id": "83f8339f-88ea-4b57-a8ef-4e0917dc5002",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki cümlelerin hangisinde dönüşlü çatılı fiil kullanılmıştır?",
@@ -2186,7 +2173,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0169",
+      "id": "aeb61fe9-d174-4a1c-844c-c17311237ed5",
       "topic_id": "turkce_ve_dil_bilgisi__fiil_ve_fiil_cekimi",
       "topic_name": "Fiil ve Fiil Çekimi",
       "question_text": "Aşağıdaki cümlelerin hangisinde işteş çatılı fiil kullanılmıştır?",
@@ -2199,7 +2186,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0170",
+      "id": "5edfd5d1-e077-4fc3-be49-f337b7dd4fad",
       "topic_id": "turkce_ve_dil_bilgisi__ekler_ve_yapim_ekleri",
       "topic_name": "Ekler ve Yapım Ekleri",
       "question_text": "'-den/-dan' ekinin aşağıdaki cümlelerin hangisinde yapım eki olarak kullanıldığı görülmektedir?",
@@ -2212,7 +2199,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0171",
+      "id": "3c91185a-481e-4902-ae2d-9ddb819008f2",
       "topic_id": "turkce_ve_dil_bilgisi__ekler_ve_yapim_ekleri",
       "topic_name": "Ekler ve Yapım Ekleri",
       "question_text": "Aşağıdaki sözcüklerden hangisine hem yapım hem çekim eki getirilmiştir?",
@@ -2225,7 +2212,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0172",
+      "id": "99ef12eb-f281-4ea6-a6fe-23a62f5f5c73",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
       "topic_name": "Kelime Yapısı ve Türetme",
       "question_text": "Aşağıdaki sözcüklerin hangisi 'kısaltma yoluyla oluşmuş' bir sözcüktür?",
@@ -2238,7 +2225,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0173",
+      "id": "1a957572-2ffc-42d5-8fed-7dce1c4f821e",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_yapisi_ve_turetme",
       "topic_name": "Kelime Yapısı ve Türetme",
       "question_text": "Aşağıdaki sözcük çiftlerinin hangisinde ikincisi birincisinden türetilmiştir?",
@@ -2251,7 +2238,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0174",
+      "id": "90028951-131d-45b4-82d5-0cace05fe24a",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerin hangisinde özne açıkça belirtilmemiş (gizli özne) ancak yüklemden anlaşılmaktadır?",
@@ -2264,7 +2251,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0175",
+      "id": "072ead0f-90f9-4e2a-9f92-48afa7932b6d",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerin hangisinde birden fazla yüklem bulunmaktadır?",
@@ -2277,7 +2264,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0176",
+      "id": "35f32eb0-bad9-4b16-90e6-c302c265cfd0",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_turleri",
       "topic_name": "Cümle Türleri",
       "question_text": "Aşağıdaki cümlelerin hangisi koşul anlamı taşıyan bileşik cümledir?",
@@ -2290,7 +2277,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0177",
+      "id": "6fcf3233-98ae-453e-b016-b1720bef543d",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_turleri",
       "topic_name": "Cümle Türleri",
       "question_text": "Aşağıdaki cümlelerin hangisi iç içe bileşik cümledir?",
@@ -2303,7 +2290,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0178",
+      "id": "44ac57af-0dbd-4349-8df5-773adc87add4",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'abartma (mübalağa/hiperbol)' sanatı yapılmıştır?",
@@ -2316,7 +2303,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0179",
+      "id": "a31d434a-4037-4194-87d5-82414972e0b1",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki sözcüklerin hangisi argo ifadedir?",
@@ -2329,7 +2316,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0180",
+      "id": "dbcd7f87-12cc-4a53-b7be-d141649fe3e4",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde sözcük soyut anlamda kullanılmıştır?",
@@ -2342,7 +2329,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0181",
+      "id": "7ea5fbc4-7fb9-418c-9686-017d83cf5648",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "'Ayağını yorganına göre uzat.' atasözünün anlamı aşağıdakilerden hangisidir?",
@@ -2355,7 +2342,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0182",
+      "id": "a65099af-4f30-447d-81e0-8149d8eb0696",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "'Dili tutulmak' deyiminin anlamı aşağıdakilerden hangisidir?",
@@ -2368,7 +2355,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0183",
+      "id": "de3c00a4-87ae-4f5e-bf2b-6835557da483",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "Aşağıdakilerden hangisi 'gereksiz konuşmak, boş söz söylemek' anlamındaki deyimdir?",
@@ -2381,7 +2368,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0184",
+      "id": "29c6fe1b-f8dc-4350-838e-b0333ffb88f8",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdakilerden hangisi 'biyografi (yaşam öyküsü)'nin temel özelliğidir?",
@@ -2394,7 +2381,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0185",
+      "id": "69342620-a255-414f-9115-fa7da4988501",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdaki metin türlerinden hangisi 'fıkra (köşe yazısı)'nın özelliğini doğru tanımlar?",
@@ -2407,7 +2394,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0186",
+      "id": "3c9570d0-ab44-46ad-aa77-1f44f7f192a0",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Aşağıdakilerden hangisi 'örnekleme yoluyla geliştirme' tekniğini doğru tanımlar?",
@@ -2420,7 +2407,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0187",
+      "id": "abdc7272-f4d3-4585-8def-ab5c59b77cc2",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Aşağıdaki ifadelerden hangisi 'tanımlama yoluyla geliştirme' tekniğini doğru açıklar?",
@@ -2433,7 +2420,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0188",
+      "id": "b030e305-58bf-474d-bfd9-f4cea4fc168f",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerden hangisinde fiil çatısı yanlış kullanılmıştır?",
@@ -2446,7 +2433,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0189",
+      "id": "0b2e9288-2b30-454a-b943-e9893954c2e6",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'tamlama yanlışlığı' yoktur?",
@@ -2459,7 +2446,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0190",
+      "id": "d05d98d5-5496-4c6e-aee1-c39c5808b0d1",
       "topic_id": "turkce_ve_dil_bilgisi__dil_ve_anlatim_yanlisliklari",
       "topic_name": "Dil ve Anlatım Yanlışlıkları",
       "question_text": "Aşağıdaki cümlelerin hangisinde yabancı kökenli sözcüğün yanlış kullanımından kaynaklanan anlatım bozukluğu vardır?",
@@ -2472,7 +2459,7 @@
       "difficulty": 3
     },
     {
-      "id": "tdb-0191",
+      "id": "0fcbadc9-650f-499a-8040-2b1574a44d99",
       "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçe kökenli sözcüklerde aşağıdaki ünlülerden hangisi sözcük başında bulunmaz?",
@@ -2485,7 +2472,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0192",
+      "id": "218f7113-b21d-4739-b1f8-00a965c5e0ec",
       "topic_id": "turkce_ve_dil_bilgisi__kelime_turleri",
       "topic_name": "Kelime Türleri",
       "question_text": "Aşağıdaki sözcüklerin hangisi 'küçümseme' anlamı katan bir ek almıştır?",
@@ -2498,7 +2485,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0193",
+      "id": "280611d3-c937-42fe-a28b-99e584e64594",
       "topic_id": "turkce_ve_dil_bilgisi__isim_ve_zamir",
       "topic_name": "İsim ve Zamir",
       "question_text": "Aşağıdaki cümlelerin hangisinde ilgi (tamlayan) hâli doğru kullanılmıştır?",
@@ -2511,7 +2498,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0194",
+      "id": "4536904a-ee9f-4ac3-a60d-8b437f5b540b",
       "topic_id": "turkce_ve_dil_bilgisi__cumle_bilgisi",
       "topic_name": "Cümle Bilgisi",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'zarf-fiil öbeği' zarf tümleci görevinde kullanılmıştır?",
@@ -2524,7 +2511,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0195",
+      "id": "8befbb7f-c5f4-45ec-92d8-41827fb1de91",
       "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'kişileştirme (teşhis)' sanatı yapılmıştır?",
@@ -2537,7 +2524,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0196",
+      "id": "603a93f7-0e7d-437a-824b-b6bc5f6165f5",
       "topic_id": "turkce_ve_dil_bilgisi__paragraf_ve_ana_dusunce",
       "topic_name": "Paragraf ve Ana Düşünce",
       "question_text": "Aşağıdakilerden hangisi bir paragrafta 'neden-sonuç ilişkisiyle geliştirme' tekniğine örnektir?",
@@ -2550,7 +2537,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0197",
+      "id": "7c58b210-48f0-4034-85d8-715fc374eed1",
       "topic_id": "turkce_ve_dil_bilgisi__anlatim_bicimleri_ve_metin_turleri",
       "topic_name": "Anlatım Biçimleri ve Metin Türleri",
       "question_text": "Aşağıdakilerden hangisi 'eleştiri (tenkit)' yazısının temel özelliğidir?",
@@ -2563,7 +2550,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0198",
+      "id": "dfec5f10-a1c7-469f-b3cb-733b7c18b94c",
       "topic_id": "turkce_ve_dil_bilgisi__sozlu_anlatim_ve_konusma_kurallari",
       "topic_name": "Sözlü Anlatım ve Konuşma Kuralları",
       "question_text": "Aşağıdakilerden hangisi 'münazara'nın temel özelliğini doğru açıklar?",
@@ -2576,7 +2563,7 @@
       "difficulty": 2
     },
     {
-      "id": "tdb-0199",
+      "id": "0f7362d7-05b8-40eb-a5aa-ebcd436386ec",
       "topic_id": "turkce_ve_dil_bilgisi__sozlu_anlatim_ve_konusma_kurallari",
       "topic_name": "Sözlü Anlatım ve Konuşma Kuralları",
       "question_text": "Aşağıdakilerden hangisi etkili bir dinleyicinin özelliği değildir?",
@@ -2589,7 +2576,7 @@
       "difficulty": 1
     },
     {
-      "id": "tdb-0200",
+      "id": "b62c2296-92dc-41b8-b790-15ae491dcfe6",
       "topic_id": "turkce_ve_dil_bilgisi__deyim_ve_atasozleri",
       "topic_name": "Deyim ve Atasözleri",
       "question_text": "'Ağaç yaşken eğilir.' atasözü hangi anlamı ifade eder?",

@@ -132,7 +132,7 @@
       "difficulty": 2
     },
     {
-      "id": "c4e1f2a3-b4c5-4d6e-8f9a-0b1c2d3e4f5g",
+      "id": "884438c7-8fca-4c35-ad72-7686906a29a3",
       "topic_id": "devlet_memurlari_sikayet_ceza_yasağı",
       "topic_name": "Şikayet",
       "question_text": "Yönetmelik uyarınca usulüne uygun şekilde şikayet hakkını kullanan bir memura, bu şikayeti nedeniyle hangi yaptırım uygulanabilir?",
@@ -145,7 +145,7 @@
       "difficulty": 1
     },
     {
-      "id": "d5f2a3b4-c5d6-4e7f-9a0b-1c2d3e4f5g6h",
+      "id": "bd6fef5c-f825-4703-a15e-298e914b87c2",
       "topic_id": "devlet_memurlari_muracaat_hakki",
       "topic_name": "Müracaat ve İhbar",
       "question_text": "Devlet memurlarının 'müracaat hakkı' hangi kapsamdaki işleri içerir?",
@@ -158,7 +158,7 @@
       "difficulty": 1
     },
     {
-      "id": "e6a3b4c5-d6e7-4f8g-0b1c-2d3e4f5g6h7i",
+      "id": "20411b98-645c-4dab-9647-ff6820db0d50",
       "topic_id": "devlet_memurlari_ihbar_yukumlulugu",
       "topic_name": "Müracaat ve İhbar",
       "question_text": "Görevi sırasında konusu suç teşkil eden bir durumdan haberdar olan memurun sorumluluğu nedir?",
@@ -171,7 +171,7 @@
       "difficulty": 2
     },
     {
-      "id": "f7b4c5d6-e7f8-4g9h-1c2d-3e4f5g6h7i8j",
+      "id": "99b2d4d9-39c0-4f00-b629-eed87d041329",
       "topic_id": "devlet_memurlari_muracaat_usulu",
       "topic_name": "Müracaat ve İhbar",
       "question_text": "Müracaatların yapılması ve sonuçlandırılması sürecinde hangi maddelerdeki usul ve esaslar uygulanır?",
@@ -184,7 +184,7 @@
       "difficulty": 3
     },
     {
-      "id": "a8c5d6e7-f8g9-4h0i-2d3e-4f5g6h7i8j9k",
+      "id": "f39bb31a-2aea-4015-b2c3-1ee5823f31b6",
       "topic_id": "devlet_memurlari_amirlerin_sorumlulugu",
       "topic_name": "Diğer Hükümler",
       "question_text": "Şikayet ve müracaat işlemleriyle ilgili görevlerini zamanında ve eksiksiz yerine getirmeyen amirlere ne uygulanır?",
@@ -197,7 +197,7 @@
       "difficulty": 2
     },
     {
-      "id": "b9d6e7f8-g9h0-4i1j-3e4f-5g6h7i8j9k0l",
+      "id": "f9a36684-8401-48c8-b0e3-0eebfcf0753f",
       "topic_id": "devlet_memurlari_ihbarci_korumasi",
       "topic_name": "Diğer Hükümler",
       "question_text": "İhbar yükümlülüğünü yerine getiren Devlet memuru için Yönetmelikte nasıl bir güvence öngörülmüştür?",
@@ -210,7 +210,7 @@
       "difficulty": 2
     },
     {
-      "id": "c0e7f8g9-h0i1-4j2k-4f5g-6h7i8j9k0l1m",
+      "id": "129e8f22-c72c-4777-b7a6-cc673942a4ea",
       "topic_id": "devlet_memurlari_sikayet_silsile_atlama",
       "topic_name": "Şikayet",
       "question_text": "Şikayetlerin silsile yolu ile yapılmasında hangi amirlerin atlanması zorunludur?",
@@ -223,7 +223,7 @@
       "difficulty": 2
     },
     {
-      "id": "d1f8g9h0-i1j2-4k3l-5g6h-7i8j9k0l1m2n",
+      "id": "c3417fb9-8369-4167-bf91-fb5ea1674299",
       "topic_id": "devlet_memurlari_yazili_sikayet_dilekce",
       "topic_name": "Şikayet",
       "question_text": "Yazılı şikayet dilekçesinde tespit edilen usulsüzlüklerin giderilmesi kimin sorumluluğundadır?",
@@ -236,7 +236,7 @@
       "difficulty": 3
     },
     {
-      "id": "e2g9h0i1-j2k3-4l4m-6h7i-8j9k0l1m2n3o",
+      "id": "402543f2-1ce3-4c08-ba90-6b8fa4ab6391",
       "topic_id": "devlet_memurlari_sikayet_karar_bildirimi",
       "topic_name": "Şikayet",
       "question_text": "Şikayet hakkında verilen kararların bildirim usulü nasıldır?",
@@ -249,7 +249,7 @@
       "difficulty": 2
     },
     {
-      "id": "f3h0i1j2-k3l4-4m5n-7i8j-9k0l1m2n3o4p",
+      "id": "5e1247ba-0f0a-44f4-b58d-e15e29458b9b",
       "topic_id": "devlet_memurlari_adli_tahkikatli_sikayet",
       "topic_name": "Şikayet",
       "question_text": "Adli veya idari tahkikata konu olacak nitelikteki şikayetler hakkında hangi işlem uygulanır?",
@@ -262,7 +262,7 @@
       "difficulty": 3
     },
     {
-      "id": "a4i1j2k3-l4m5-4n6o-8j9k-0l1m2n3o4p5q",
+      "id": "69504525-ca4b-4df4-9a1f-60ccabc88cdc",
       "topic_id": "devlet_memurlari_muracaat_karar_mercii",
       "topic_name": "Müracaat ve İhbar",
       "question_text": "Müracaatlar hakkında karar verme yetkisi kime aittir?",
@@ -275,7 +275,7 @@
       "difficulty": 2
     },
     {
-      "id": "b5j2k3l4-m5n6-4o7p-9k0l-1m2n3o4p5q6r",
+      "id": "c8d6df07-3ab4-4f16-9446-bc0e963df15f",
       "topic_id": "devlet_memurlari_sozlesmeli_personel",
       "topic_name": "Diğer Hükümler",
       "question_text": "Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik hükümleri, sözleşmeli ve geçici personel için geçerli midir?",
@@ -288,7 +288,7 @@
       "difficulty": 3
     },
     {
-      "id": "c6k3l4m5-n6o7-4p8q-0l1m-2n3o4p5q6r7s",
+      "id": "c2d2a606-47eb-4946-8fbe-44474fadebd9",
       "topic_id": "devlet_memurlari_yönetmelik_yurutme",
       "topic_name": "Son Hükümler",
       "question_text": "Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik hükümlerini yürütme yetkisi kime aittir?",
@@ -301,7 +301,7 @@
       "difficulty": 1
     },
     {
-      "id": "d7l4m5n6-o7p8-4q9r-1m2n-3o4p5q6r7s8t",
+      "id": "21dde935-cbea-4b0b-a944-bba1dbce5819",
       "topic_id": "devlet_memurlari_toplu_sikayet_durumu",
       "topic_name": "Şikayet",
       "question_text": "Yönetmeliğin geçmişte yer alan 'Toplu Şikayet Yasağı'na ilişkin madde günümüzde ne durumdadır?",
@@ -314,7 +314,7 @@
       "difficulty": 3
     },
     {
-      "id": "e8m5n6o7-p8q9-4r0s-2n3o-4p5q6r7s8t9u",
+      "id": "f03d41f8-eb26-4f0e-9127-15378478f1ea",
       "topic_id": "devlet_memurlari_yuksekogretim_istisnasi",
       "topic_name": "Genel Hükümler",
       "question_text": "2547 sayılı Yükseköğretim Kanunu'na tabi kurumlarda çalışan öğretim elemanları hakkında bu Yönetmelik hükümleri uygulanır mı?",
@@ -327,7 +327,7 @@
       "difficulty": 2
     },
     {
-      "id": "f9n6o7p8-q9r0-4s1t-3o4p-5q6r7s8t9u0v",
+      "id": "b2988e79-b30b-4c7b-8986-0ef783e7139e",
       "topic_id": "devlet_memurlari_sayistay_istisnasi",
       "topic_name": "Genel Hükümler",
       "question_text": "Sayıştay meslek mensupları ve Sayıştay Savcıları, bu Yönetmelik hükümlerine tabi midir?",
@@ -340,7 +340,7 @@
       "difficulty": 2
     },
     {
-      "id": "a0o7p8q9-r0s1-4t2u-4p5q-6r7s8t9u0v1w",
+      "id": "6c1788dc-3e14-4e87-8d36-2fa2c2a781ad",
       "topic_id": "devlet_memurlari_sikayet_dilekce_usulu",
       "topic_name": "Şikayet",
       "question_text": "Yazılı şikayet dilekçesinin hazırlanmasında esas alınması gereken kural nedir?",
@@ -353,7 +353,7 @@
       "difficulty": 1
     },
     {
-      "id": "b1p8q9r0-s1t2-4u3v-5q6r-7s8t9u0v1w2x",
+      "id": "8af3b93d-140f-484b-91c5-4650357c89d6",
       "topic_id": "devlet_memurlari_usulsuz_sikayet_sorumluluk",
       "topic_name": "Şikayet",
       "question_text": "Şikayet hakkını Yönetmelikte belirlenen usul ve esaslara aykırı kullanan memurun hukuki durumu nedir?",
@@ -366,7 +366,7 @@
       "difficulty": 3
     },
     {
-      "id": "c2q9r0s1-t2u3-4v4w-6r7s-8t9u0v1w2x3y",
+      "id": "b0d45bc8-45d5-43ea-bfe5-db9cb602ea4f",
       "topic_id": "devlet_memurlari_ihbar_ceza_yasağı",
       "topic_name": "Diğer Hükümler",
       "question_text": "İhbar yükümlülüğünü yerine getiren memura ilişkin, hizmet koşullarıyla ilgili olarak hangi güvence sağlanmıştır?",
@@ -379,7 +379,7 @@
       "difficulty": 2
     },
     {
-      "id": "d3r0s1t2-u3v4-4w5x-7s8t-9u0v1w2x3y4z",
+      "id": "b8303806-37f3-48d5-a374-dca289e7a872",
       "topic_id": "devlet_memurlari_sikayet_intikal_bilgi",
       "topic_name": "Şikayet",
       "question_text": "Karar verme yetkisi olmayan amir, şikayeti bir üst mercie iletirken şikayetçi memura karşı ne yapmalıdır?",
@@ -392,7 +392,7 @@
       "difficulty": 3
     },
     {
-      "id": "e4s1t2u3-v4w5-4x6y-8t9u-0v1w2x3y4z5a",
+      "id": "d65974e8-7392-4177-96d3-97cff08cecc3",
       "topic_id": "devlet_memurlari_muracaat_itiraz_usulu",
       "topic_name": "Müracaat ve İhbar",
       "question_text": "Müracaat sonuçlarına yapılacak itirazlarda hangi usul uygulanır?",
@@ -405,7 +405,7 @@
       "difficulty": 2
     },
     {
-      "id": "f5t2u3v4-w5x6-4y7z-9u0v-1w2x3y4z5a6b",
+      "id": "3f10bcab-2bbf-4b4a-9e17-43b623b62fe4",
       "topic_id": "devlet_memurlari_sikayet_tutanak_imza",
       "topic_name": "Şikayet",
       "question_text": "Sözlü şikayet sırasında tutulan tutanağı kimler imzalar?",
@@ -418,7 +418,7 @@
       "difficulty": 3
     },
     {
-      "id": "a6u3v4w5-x6y7-4z8a-0v1w-2x3y4z5a6b7c",
+      "id": "e94dd609-7f1c-4d9d-bea9-0043e4068fc6",
       "topic_id": "devlet_memurlari_hakim_savci_istisnasi",
       "topic_name": "Genel Hükümler",
       "question_text": "Hakimler ve Savcılar Kanunu'na tabi personel, Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik hükümlerine tabi midir?",
@@ -431,7 +431,7 @@
       "difficulty": 2
     },
     {
-      "id": "b7v4w5x6-y7z8-4a9b-1w2x-3y4z5a6b7c8d",
+      "id": "9127be51-5417-41f2-88ce-97ec9ad7ccb5",
       "topic_id": "devlet_memurlari_yönetmelik_yururluk_tarihi",
       "topic_name": "Son Hükümler",
       "question_text": "Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik hangi tarihte yürürlüğe girmiştir?",
@@ -444,7 +444,7 @@
       "difficulty": 1
     },
     {
-      "id": "c8w5x6y7-z8a9-4b0c-2x3y-4z5a6b7c8d9e",
+      "id": "0fd2b0d2-44cf-46ca-b5c8-3a5b2080c3d6",
       "topic_id": "devlet_memurlari_sikayet_dilekce_eksiklik",
       "topic_name": "Şikayet",
       "question_text": "Şikayet dilekçesinde, suç teşkil etmeyen usulsüzlüklerin giderilmesi konusunda sorumluluk kime aittir?",
@@ -457,7 +457,7 @@
       "difficulty": 3
     },
     {
-      "id": "d9x6y7z8-a9b0-4c1d-3y4z-5a6b7c8d9e0f",
+      "id": "b6a6b38a-ff08-4dcc-811a-d07a980d02ac",
       "topic_id": "devlet_memurlari_danistay_istisnasi",
       "topic_name": "Genel Hükümler",
       "question_text": "Danıştay meslek mensupları hakkında Yönetmelik hükümlerinin uygulanmama nedeni nedir?",
@@ -470,7 +470,7 @@
       "difficulty": 2
     },
     {
-      "id": "e0y7z8a9-b0c1-4d2e-4z5a-6b7c8d9e0f1g",
+      "id": "67b39327-dc99-4051-b297-67f07172b65d",
       "topic_id": "devlet_memurlari_sikayet_karar_yazililik",
       "topic_name": "Şikayet",
       "question_text": "Şikayet hakkında alınan kararlar, ilgililere hangi yöntemle bildirilmelidir?",
@@ -483,7 +483,7 @@
       "difficulty": 2
     },
     {
-      "id": "f1z8a9b0-c1d2-4e3f-5a6b-7c8d9e0f1g2h",
+      "id": "d12af96b-ae97-4621-a149-47be8a32d989",
       "topic_id": "devlet_memurlari_itiraz_mercii",
       "topic_name": "Şikayet",
       "question_text": "Şikayet kararına karşı yapılacak itiraz nereye sunulmalıdır?",
@@ -496,7 +496,7 @@
       "difficulty": 2
     },
     {
-      "id": "a2a9b0c1-d2e3-4f4g-6b7c-8d9e0f1g2h3i",
+      "id": "be961909-4e95-4d32-ac2b-3b456c007c4b",
       "topic_id": "devlet_memurlari_muracaat_cozum_yetkisi",
       "topic_name": "Müracaat ve İhbar",
       "question_text": "Müracaatı çözümleme yetkisi olmayan amir, bu durumu öğrendiğinde ne yapmalıdır?",
@@ -509,7 +509,7 @@
       "difficulty": 3
     },
     {
-      "id": "b3b0c1d2-e3f4-4g5h-7c8d-9e0f1g2h3i4j",
+      "id": "c3b23421-2bab-40c7-976f-86fe33427df5",
       "topic_id": "devlet_memurlari_sikayet_usul_aykirilik",
       "topic_name": "Şikayet",
       "question_text": "Şikayet hakkını kullanırken suç teşkil eden bir eylemde bulunan memurun hukuki durumu nedir?",
@@ -522,7 +522,7 @@
       "difficulty": 3
     },
     {
-      "id": "c4c1d2e3-f4g5-4h6i-8d9e-0f1g2h3i4j5k",
+      "id": "77389dfd-f26d-4f2c-adcb-206b99df4959",
       "topic_id": "devlet_memurlari_sikayet_tutanak_istemi",
       "topic_name": "Şikayet",
       "question_text": "Sözlü yapılan şikayetin tutanağa geçirilmesini kimler talep edebilir?",
@@ -535,7 +535,7 @@
       "difficulty": 3
     },
     {
-      "id": "d5d1e2f3-g4h5-4i7j-9e0f-1g2h3i4j5k6l",
+      "id": "5a1068f1-629d-4b50-82b7-e1bdea65fa65",
       "topic_id": "devlet_memurlari_muracaat_icerigi",
       "topic_name": "Müracaat ve İhbar",
       "question_text": "Müracaat hakkı hangi tür işleri kapsar?",
@@ -548,7 +548,7 @@
       "difficulty": 1
     },
     {
-      "id": "e6e1f2g3-h4i5-4j8k-0f1g-2h3i4j5k6l7m",
+      "id": "304ec2b1-37b9-46ca-8239-9a6c468a31e3",
       "topic_id": "devlet_memurlari_sikayet_en_yakin_amir",
       "topic_name": "Şikayet",
       "question_text": "Şikayet süreci hiyerarşik olarak hangi noktadan başlamalıdır?",
@@ -561,7 +561,7 @@
       "difficulty": 1
     },
     {
-      "id": "f7f1g2h3-i4j5-4k9l-1g2h-3i4j5k6l7m8n",
+      "id": "82a877b5-f834-4915-96ec-43b8afea7c73",
       "topic_id": "devlet_memurlari_sikayet_silsile_kurali",
       "topic_name": "Şikayet",
       "question_text": "Şikayetlerin 'silsile yolu' ile yapılması kuralı neyi ifade eder?",
@@ -574,7 +574,7 @@
       "difficulty": 2
     },
     {
-      "id": "a8g1h2i3-j4k5-4l0m-2h3i-4j5k6l7m8n9o",
+      "id": "1db67605-1bb5-4b0c-89f7-f468945d34b6",
       "topic_id": "devlet_memurlari_sikayet_dilekce_maksat",
       "topic_name": "Şikayet",
       "question_text": "Şikayet dilekçesi hazırlanırken uyulması gereken temel üslup nedir?",
@@ -587,7 +587,7 @@
       "difficulty": 1
     },
     {
-      "id": "b9h1i2j3-k4l5-4m1n-3i4j-5k6l7m8n9o0p",
+      "id": "ceafa737-e132-462e-855d-b7806db2ddda",
       "topic_id": "devlet_memurlari_sikayet_karar_kesinlesme",
       "topic_name": "Şikayet",
       "question_text": "İtiraz edilmeyen bir şikayet kararı ne zaman kesinleşir?",
@@ -600,7 +600,7 @@
       "difficulty": 3
     },
     {
-      "id": "c0i1j2k3-l4m5-4n2o-4j5k-6l7m8n9o0p1q",
+      "id": "30a9b4fa-79da-4ab8-8770-1414cb9d7404",
       "topic_id": "devlet_memurlari_muracaat_amir_ihmali",
       "topic_name": "Diğer Hükümler",
       "question_text": "Müracaatı zamanında işleme koymayan amire verilecek disiplin cezası hangi kanuna göre belirlenir?",
@@ -613,7 +613,7 @@
       "difficulty": 2
     },
     {
-      "id": "d1j1k2l3-m4n5-4o3p-5k6l-7m8n9o0p1q2r",
+      "id": "4ddfe38f-d41f-4c1e-831d-67331752e743",
       "topic_id": "devlet_memurlari_sikayet_itiraz_incelenmesi",
       "topic_name": "Şikayet",
       "question_text": "Şikayet kararlarına karşı yapılan itirazların incelenmesinde hangi usul ve esaslar uygulanır?",
@@ -626,7 +626,7 @@
       "difficulty": 2
     },
     {
-      "id": "e2k1l2m3-n4o5-4p4q-6l7m-8n9o0p1q2r3s",
+      "id": "664068b6-db2e-4da8-b38f-8c282d62a5c1",
       "topic_id": "devlet_memurlari_sikayet_kapsam_memur_olmayanlar",
       "topic_name": "Diğer Hükümler",
       "question_text": "Yönetmelik kapsamındaki memur olmayan personelin yaptığı usulsüz başvurularda ne yapılır?",
@@ -639,7 +639,7 @@
       "difficulty": 3
     },
     {
-      "id": "f3l1m2n3-o4p5-4q5r-7m8n-9o0p1q2r3s4t",
+      "id": "de5150c8-b2cb-4481-a817-513b3099a366",
       "topic_id": "devlet_memurlari_sikayet_anayasa_mahkemesi_istisna",
       "topic_name": "Genel Hükümler",
       "question_text": "Anayasa Mahkemesi Üyeleri hakkında bu Yönetmeliğin uygulanmama sebebi nedir?",
