@@ -3235,6 +3235,366 @@
       "id": "alan_bilgisi_kimya_muhendisligi__yoneylem_arastirmasi",
       "regulation_id": "alan_bilgisi_kimya_muhendisligi",
       "name": "Yöneylem Araştırması"
-    }	
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__bakanligin_gorevleri",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Bakanlığın Görevi ve Yetkileri (Madde 86)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__uluslararasi_isgucu",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Uluslararası İşgücü Genel Müdürlüğü (Madde 91)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__dis_iliskiler_ab",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Dış İlişkiler ve Avrupa Birliği Genel Müdürlüğü (Madde 92)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__rehberlik_teftis",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Rehberlik ve Teftiş Başkanlığı (Madde 95)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__calisma_meclisi",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Çalışma Meclisi (Madde 96/F)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__acil_durumlar",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı (Madde 96/Ç)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__calisma_uzmani",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Uzman İstihdamı (Madde 96/Ğ)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__destek_hizmetleri",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Destek Hizmetleri Dairesi Başkanlığı (Madde 96/C)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__bilgi_teknolojileri",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Bilgi Teknolojileri Genel Müdürlüğü (Madde 94)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__hukuk_hizmetleri",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Hukuk Hizmetleri Genel Müdürlüğü (Madde 93)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__strateji_gelistirme",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Strateji Geliştirme Başkanlığı (Madde 96)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__personel_daire",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Personel Dairesi Başkanlığı (Madde 96/B)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__basin_halkla_iliskiler",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Basın ve Halkla İlişkiler Müşavirliği (Madde 96/D)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ozel_kalem",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Özel Kalem Müdürlüğü (Madde 96/E)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__calisma_gruplari",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Çalışma Grupları (Madde 96/G)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__teskilat_yapisi",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Teşkilat (Madde 87)"
+    },
+    {
+      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__uzman_istihdami",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Uzman İstihdamı (Madde 96/Ğ)"
+    },
+    {
+      "id": "1_sayili_cbk_calisma_bakanligi_gorev",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Bakanlığın Görevi (Madde 86)"
+    },
+    {
+      "id": "1_sayili_cbk_calisma_bakanligi_teskilat",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Teşkilat (Madde 87)"
+    },
+    {
+      "id": "1_sayili_cbk_calisma_bakanligi_hizmet_birimleri",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Hizmet Birimleri (Madde 88)"
+    },
+    {
+      "id": "1_sayili_cbk_calisma_genel_mudurlugu",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Çalışma Genel Müdürlüğü (Madde 89)"
+    },
+    {
+      "id": "1_sayili_cbk_isg_genel_mudurlugu",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "İş Sağlığı ve Güvenliği Genel Müdürlüğü (Madde 90)"
+    },
+    {
+      "id": "1_sayili_cbk_uluslararasi_isgucu_gm",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Uluslararası İşgücü Genel Müdürlüğü (Madde 91)"
+    },
+    {
+      "id": "1_sayili_cbk_dis_iliskiler_ab_gm",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Dış İlişkiler ve Avrupa Birliği Genel Müdürlüğü (Madde 92)"
+    },
+    {
+      "id": "1_sayili_cbk_hukuk_hizmetleri_gm",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Hukuk Hizmetleri Genel Müdürlüğü (Madde 93)"
+    },
+    {
+      "id": "1_sayili_cbk_bilgi_teknolojileri_gm",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Bilgi Teknolojileri Genel Müdürlüğü (Madde 94)"
+    },
+    {
+      "id": "1_sayili_cbk_rehberlik_teftis_baskanligi",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Rehberlik ve Teftiş Başkanlığı (Madde 95)"
+    },
+    {
+      "id": "1_sayili_cbk_strateji_gelistirme_baskanligi",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Strateji Geliştirme Başkanlığı (Madde 96)"
+    },
+    {
+      "id": "1_sayili_cbk_personel_daire_baskanligi",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Personel Dairesi Başkanlığı (Madde 96/B)"
+    },
+    {
+      "id": "1_sayili_cbk_destek_hizmetleri_daire_baskanligi",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Destek Hizmetleri Dairesi Başkanlığı (Madde 96/C)"
+    },
+    {
+      "id": "1_sayili_cbk_ozel_kalem_mudurlugu",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Özel Kalem Müdürlüğü (Madde 96/E)"
+    },
+    {
+      "id": "1_sayili_cbk_calisma_meclisi",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Çalışma Meclisi (Madde 96/F)"
+    },
+    {
+      "id": "1_sayili_cbk_calisma_uzmani",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Uzman İstihdamı (Madde 96/Ğ)"
+    },
+    {
+      "id": "1_sayili_cbk_calisma_gruplari",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Çalışma Grupları (Madde 96/G)"
+    },
+    {
+      "id": "1_sayili_cbk_basin_halkla_iliskiler",
+      "regulation_id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Basın ve Halkla İlişkiler Müşavirliği (Madde 96/D)"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__genel_bilgiler",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Genel Bilgiler"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__komisyon_yetkileri_ve_degisiklikler",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Komisyon Yetkileri ve Mevzuat Değişiklikleri"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__madde_icerikleri",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Madde İçerikleri"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__sureler",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "TBMM İnceleme Süresi"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__komisyon_yetkileri",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "TBMM Dilekçe Komisyonu"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__mulga_hukumler",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Mülga Hükümler"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__gecici_hukumler",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Geçici Hükümler"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__yuruluk_ve_yurutme",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Yürürlük ve Yürütme"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__degisiklik_listesi",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Değişiklik Listesi"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__madde_detaylari",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Madde Detayları"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__inceleme_usulleri",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "İnceleme Usulleri"
+    },
+    {
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kanunun_kapsami",
+      "regulation_id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "Kapsam"
+    },
+    {
+      "id": "4688_sayili_kanun__genel_hukumler",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Genel Hükümler ve Tanımlar"
+    },
+    {
+      "id": "4688_sayili_kanun__kurulus_esaslari",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Kuruluş Esasları"
+    },
+    {
+      "id": "4688_sayili_kanun__organlar",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Organlar ve Seçimler"
+    },
+    {
+      "id": "4688_sayili_kanun__uyelik",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Üyelik ve Çekilme"
+    },
+    {
+      "id": "4688_sayili_kanun__guvenceler",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Sendikal Güvenceler"
+    },
+    {
+      "id": "4688_sayili_kanun__faaliyetler",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Faaliyetler ve Yasaklar"
+    },
+    {
+      "id": "4688_sayili_kanun__yonetime_katilma",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Yönetime Katılma"
+    },
+    {
+      "id": "4688_sayili_kanun__gelirler",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Gelir ve Giderler"
+    },
+    {
+      "id": "4688_sayili_kanun__toplu_sozlesme",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Toplu Sözleşme"
+    },
+    {
+      "id": "4688_sayili_kanun__uyusmazlik",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Uyuşmazlık ve Hakem Kurulu"
+    },
+    {
+      "id": "4688_sayili_kanun__cesitli_hukumler",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Çeşitli Hükümler"
+    },
+    {
+      "id": "4688_sayili_kanun__amac_kapsam_tanimlar",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Amaç, Kapsam ve Tanımlar"
+    },
+    {
+      "id": "4688_sayili_kanun__yasaklar",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Siyasi Faaliyet Yasakları"
+    },
+    {
+      "id": "4688_sayili_kanun__tanimlar",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Tanımlar"
+    },
+    {
+      "id": "4688_sayili_kanun__mali_hükümler",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Aidat Aktarımı"
+    },
+    {
+      "id": "4688_sayili_kanun__yürürlük",
+      "regulation_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "name": "Yürürlük"
+    },
+    {
+      "id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Yedinci Bölüm - ÇSGEM"
+    },
+    {
+      "id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Ondokuzuncu Bölüm - MYK"
+    },
+    {
+      "id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Otuzuncu Bölüm - SGK"
+    },
+    {
+      "id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "regulation_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "name": "Kırküçüncü Bölüm - İŞKUR"
+    },
+    {
+      "id": "657_sayili_devlet_memurlari_kanunu__yasaklar",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Hediye Alma Yetkisi"
+    },
+    {
+      "id": "657_sayili_devlet_memurlari_kanunu__mali_hukumler",
+      "regulation_id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "Tedavi Yardımı"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Veri Tabanı Yönetim Sistemleri, SQL"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Algoritma Analizi ve Tasarımı"
+    },
+    {
+      "id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_donanim",
+      "regulation_id": "alan_bilgisi_bilgisayar_muhendisligi",
+      "name": "Bilgisayar Mimarisi ve Donanım"
+    }
   ]
 }
