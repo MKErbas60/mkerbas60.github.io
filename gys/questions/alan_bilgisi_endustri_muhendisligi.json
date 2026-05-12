@@ -55,7 +55,7 @@
     },
     {
       "id": "893630a2-5da2-44c8-8162-3f476d7411fb",
-      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_envanter_kontrolu",
+      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_ve_envanter_kontrolu",
       "topic_name": "Üretim Planlama ve Envanter Kontrolü",
       "question_text": "Ekonomik Sipariş Miktarı (EOQ) modelinde, birim sipariş maliyeti arttığında sipariş miktarı nasıl değişir?",
       "option_a": "Artar",
@@ -159,7 +159,7 @@
     },
     {
       "id": "87a390a1-5da3-44c8-8163-3f476d7411fb",
-      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_envanter_kontrolu",
+      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_ve_envanter_kontrolu",
       "topic_name": "Üretim Planlama ve Envanter Kontrolü",
       "question_text": "Malzeme İhtiyaç Planlaması (MRP) sisteminin temel girdisi olmayan aşağıdakilerden hangisidir?",
       "option_a": "Ana Üretim Çizelgesi (MPS)",
@@ -250,7 +250,7 @@
     },
     {
       "id": "55a390a1-5da3-44c8-8163-3f476d7411fb",
-      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_envanter_kontrolu",
+      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_ve_envanter_kontrolu",
       "topic_name": "Üretim Planlama ve Envanter Kontrolü",
       "question_text": "A-B-C stok analizi hangi kritere göre yapılır?",
       "option_a": "Ürünlerin fiziksel boyutuna göre",
@@ -354,7 +354,7 @@
     },
     {
       "id": "cc3390a1-5da3-44c8-8163-3f476d7411fb",
-      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_envanter_kontrolu",
+      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_ve_envanter_kontrolu",
       "topic_name": "Üretim Planlama ve Envanter Kontrolü",
       "question_text": "Tam Zamanında Üretim (JIT) sisteminde kullanılan sinyal kartlarına ne ad verilir?",
       "option_a": "Poka-Yoke",
@@ -458,7 +458,7 @@
     },
     {
       "id": "451390a1-5da3-44c8-8163-3f476d7411fb",
-      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_envanter_kontrolu",
+      "topic_id": "alan_bilgisi_endustri_muhendisligi__uretim_planlama_ve_envanter_kontrolu",
       "topic_name": "Üretim Planlama ve Envanter Kontrolü",
       "question_text": "Üretim miktarının talebe göre tam olarak ayarlandığı, stok tutulmayan strateji hangisidir?",
       "option_a": "Düzeyli (Level) üretim",

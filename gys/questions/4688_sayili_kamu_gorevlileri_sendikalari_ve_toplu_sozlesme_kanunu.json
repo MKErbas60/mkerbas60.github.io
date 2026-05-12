@@ -1238,7 +1238,7 @@
     },
     {
       "id": "e4f8a1b2-c3d4-4e5f-a6b7-c8d9e0f1a2b3",
-      "topic_id": "4688_sayili_kanun__genel_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__genel_hukumler_ve_tanimlar",
       "topic_name": "Genel Hükümler ve Tanımlar",
       "question_text": "4688 sayılı Kanun'a göre 'Kamu İşveren Vekili' tanımı aşağıdakilerden hangisini kapsar?",
       "option_a": "Sadece kurumun en üst amirini",
@@ -1251,7 +1251,7 @@
     },
     {
       "id": "f35fd57b-7741-4eca-a632-b9cb5c4f6189",
-      "topic_id": "4688_sayili_kanun__genel_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__genel_hukumler_ve_tanimlar",
       "topic_name": "Genel Hükümler ve Tanımlar",
       "question_text": "Kanun uyarınca 'Kurum' tanımı aşağıdakilerden hangisini ifade eder?",
       "option_a": "Sadece genel bütçeli idareleri",
@@ -1264,7 +1264,7 @@
     },
     {
       "id": "d66e47f9-99a9-4d93-9676-1392904c9043",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Aşağıdakilerden hangisi 4688 sayılı Kanun'da sayılan hizmet kollarından biri değildir?",
       "option_a": "Diyanet ve vakıf hizmetleri",
@@ -1277,7 +1277,7 @@
     },
     {
       "id": "98765432-abcd-ef01-2345-6789abcdef01",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Valilik, kendisine verilen sendika tüzük ve belgelerinin bir örneğini kaç işgünü içinde Çalışma ve Sosyal Güvenlik Bakanlığına gönderir?",
       "option_a": "7",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "f083bfd8-b5f0-474d-b40b-0533605a1b4b",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Kuruluş belgelerinde kanuna aykırılık tespit edilen bir sendikanın kapatılmasına hangi merci karar verir?",
       "option_a": "Valilik",
@@ -1303,7 +1303,7 @@
     },
     {
       "id": "bcde1234-5678-90ab-cdef-1234567890ab",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Üye sayısı kaçı aşan sendikaların genel kurulları delegelerle yapılabilir?",
       "option_a": "500",
@@ -1316,7 +1316,7 @@
     },
     {
       "id": "deadbeef-1234-5678-90ab-cdefdeadbeef",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Genel kurul toplantı yeter sayısı aşağıdakilerden hangisidir?",
       "option_a": "Üye veya delege tamsayısının 1/3'ü",
@@ -1329,7 +1329,7 @@
     },
     {
       "id": "a9b8c7d6-e5f4-3210-fedc-ba9876543210",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "İki genel kurul toplantısı arasındaki faaliyet raporu üyelere toplantıdan en az kaç gün önce gönderilmelidir?",
       "option_a": "7",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": "22334455-6677-8899-00aa-bbccddeeff11",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Konfederasyon yönetim kurulları en çok kaç üyeden oluşur?",
       "option_a": "7",
@@ -1355,7 +1355,7 @@
     },
     {
       "id": "ffeeddcc-bbaa-9988-7766-554433221100",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "Sendika üyeliği kesinleşen kamu görevlisinin başvuru belgesinin bir örneği kaç gün içinde işverene gönderilir?",
       "option_a": "7",
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "12b96b00-b6c4-4f5f-a064-52049484cae7",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "Birden çok sendikaya üye olunması halinde hangi üyelik geçerli sayılır?",
       "option_a": "İlk üyelik",
@@ -1381,7 +1381,7 @@
     },
     {
       "id": "abcdef12-3456-7890-abcd-ef1234567890",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "Çekilme bildiriminin bir örneği kamu işvereni tarafından kaç gün içinde sendikaya gönderilir?",
       "option_a": "5",
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "99887766-5544-3322-1100-abcdefabcdef",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "Farklı bir hizmet koluna giren kuruma atanan memurun sendika üyeliği ve sendika organlarındaki görevi hakkında hangisi doğrudur?",
       "option_a": "Üyeliği devam eder",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": "10101010-2020-3030-4040-505050505050",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__sendikal_guvenceler",
       "topic_name": "Sendikal Güvenceler",
       "question_text": "Kamu işvereni, işyeri sendika temsilcilerinin işyerini hangi şartla değiştirebilir?",
       "option_a": "Amirin sözlü emriyle",
@@ -1420,7 +1420,7 @@
     },
     {
       "id": "f0f0f0f0-e1e1-d2d2-c3c3-b4b4b4b4b4b4",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__sendikal_guvenceler",
       "topic_name": "Sendikal Güvenceler",
       "question_text": "Sendika yönetim kuruluna seçilip aylıksız izne ayrılanların sağlık giderleri kim tarafından karşılanmaya devam edilir?",
       "option_a": "Sendika",
@@ -1433,7 +1433,7 @@
     },
     {
       "id": "c7c7c7c7-b8b8-a9a9-0101-232323232323",
-      "topic_id": "4688_sayili_kanun__faaliyetler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__faaliyetler_ve_yasaklar",
       "topic_name": "Faaliyetler ve Yasaklar",
       "question_text": "Sendikalar nakit mevcudunun yüzde kaçından fazla olmamak kaydıyla üyeleri için kurulan kooperatiflere kredi verebilir?",
       "option_a": "5",
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "d9d9d9d9-e0e0-f1f1-2222-333333333333",
-      "topic_id": "4688_sayili_kanun__faaliyetler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__faaliyetler_ve_yasaklar",
       "topic_name": "Faaliyetler ve Yasaklar",
       "question_text": "Sendikaların ticari faaliyet yasağı ile ilgili hangisi doğrudur?",
       "option_a": "Sadece konfederasyonlar ticaret yapabilir",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": "5a5a5a5a-6b6b-7c7c-8d8d-9e9e9e9e9e9e",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "Kamu Personeli Danışma Kurulu'na aşağıdakilerden hangisi başkanlık eder?",
       "option_a": "En çok üyeye sahip konfederasyon başkanı",
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "b1b1b1b1-a2a2-c3c3-d4d4-e5e5e5e5e5e5",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "Kurum idari kurullarında yetkili sendika hangisidir?",
       "option_a": "Hizmet kolunda genel yetkili sendika",
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "6c6c6c6c-7d7d-8e8e-9f9f-0a0a0a0a0a0a",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "İşyerindeki kamu görevlisi sayısı 601-1000 arasında ise kaç işyeri sendika temsilcisi seçilebilir?",
       "option_a": "2",
@@ -1498,7 +1498,7 @@
     },
     {
       "id": "3e3e3e3e-4f4f-5a5a-6b6b-7c7c7c7c7c7c",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelir_ve_giderler",
       "topic_name": "Gelir ve Giderler",
       "question_text": "Üyelik ödentisi kesilen kamu görevlilerinin listesi işyerinde ne zaman ilan edilir?",
       "option_a": "Haftalık olarak",
@@ -1511,7 +1511,7 @@
     },
     {
       "id": "2d2d2d2d-1a1a-3c3c-4b4b-5e5e5e5e5e5e",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelir_ve_giderler",
       "topic_name": "Gelir ve Giderler",
       "question_text": "Sendikaların bilançoları ait oldukları dönemi izleyen kaç ay içinde Çalışma ve Sosyal Güvenlik Bakanlığına gönderilir?",
       "option_a": "1",
@@ -1524,7 +1524,7 @@
     },
     {
       "id": "0a0a0a0a-1b1b-2c2c-3d3d-4e4e4e4e4e4e",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme ikramiyesi hariç olmak üzere sendika üyesi olan ve olmayanlar arasındaki ayrım yasağı hangi maddeyle düzenlenmiştir?",
       "option_a": "Madde 1",
@@ -1537,7 +1537,7 @@
     },
     {
       "id": "9b9b9b9b-8a8a-7c7c-6d6d-5e5e5e5e5e5e",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme görüşmelerinde Kamu İşveren Heyeti'ne kim başkanlık eder?",
       "option_a": "Cumhurbaşkanı",
@@ -1550,7 +1550,7 @@
     },
     {
       "id": "8c8c8c8c-7b7b-6a6a-5d5d-4e4e4e4e4e4e",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Heyet Başkanlığı sıfatını haiz konfederasyon temsilcisinin görüşmelere katılmaması halinde yetki kime geçer?",
       "option_a": "Herhangi bir sendika başkanına",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": "7d7d7d7d-6c6c-5b5b-4a4a-3e3e3e3e3e3e",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Kurumlarca yapılacak üye sayısı tespit toplantısı her yıl hangi tarihten sonra yapılır?",
       "option_a": "1 Mayıs",
@@ -1576,7 +1576,7 @@
     },
     {
       "id": "6e6e6e6e-5d5d-4c4c-3b3b-2a2a2a2a2a2a",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Bakanlıkça belirlenen üye sayılarına ilişkin itirazlar nereye yapılır?",
       "option_a": "Yüksek Hakem Kurulu",
@@ -1589,7 +1589,7 @@
     },
     {
       "id": "5f5f5f5f-4e4e-3d3d-2c2c-1b1b1b1b1b1b",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme teklifleri görüşmelerin başlamasından en az kaç gün önce Kamu İşveren Heyetine sunulmak üzere verilir?",
       "option_a": "3",
@@ -1602,7 +1602,7 @@
     },
     {
       "id": "4a4a4a4a-3b3b-2c2c-1d1d-0e0e0e0e0e0e",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Mahalli idarelerdeki sosyal denge tazminatı sözleşmesi süresi en fazla ne kadar olabilir?",
       "option_a": "1 yıl",
@@ -1615,7 +1615,7 @@
     },
     {
       "id": "3b3b3b3b-2c2c-1d1d-0e0e-9f9f9f9f9f9f",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Kamu Görevlileri Hakem Kurulu'nun başkanı kimler arasından seçilir?",
       "option_a": "Maliye Bakanı",
@@ -1628,7 +1628,7 @@
     },
     {
       "id": "2c2c2c2c-1d1d-0e0e-9f9f-8a8a8a8a8a8a",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Kamu Görevlileri Hakem Kurulu kararları ne zaman Resmi Gazetede yayımlanır?",
       "option_a": "Cumhurbaşkanı onayından sonra",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": "1d1d1d1d-0e0e-9f9f-8a8a-7b7b7b7b7b7b",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Hakem Kurulu toplantılarına mazereti nedeniyle katılamayacak üyelerin yerine kim çağrılır?",
       "option_a": "Sendika sekreteri",
@@ -1654,7 +1654,7 @@
     },
     {
       "id": "0e0e0e0e-9f9f-8a8a-7b7b-6c6c6c6c6c6c",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Birleşen sendikaların üyeleri hakkında hangisi doğrudur?",
       "option_a": "Yeniden üye formu doldururlar",
@@ -1667,7 +1667,7 @@
     },
     {
       "id": "9f9f9f9f-8a8a-7b7b-6c6c-5d5d5d5d5d5d",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Tasfiye sonucunda kalacak para ve mallar tüzükte hüküm yoksa nereye devredilir?",
       "option_a": "İlgili konfederasyona",
@@ -1680,7 +1680,7 @@
     },
     {
       "id": "8a8a8a8a-7b7b-6c6c-5d5d-4e4e4e4e4e4e",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "4688 sayılı Kanunda hüküm bulunmayan hallerde öncelikle hangi kanun uygulanır?",
       "option_a": "İş Kanunu",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": "7b7b7b7b-6c6c-5d5d-4e4e-3f3f3f3f3f3f",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Sendikalar ne zaman tüzel kişilik kazanır?",
       "option_a": "Resmi Gazetede ilan edilince",
@@ -1706,7 +1706,7 @@
     },
     {
       "id": "6a6a6a6a-5b5b-4c4c-3d3d-2e2e2e2e2e2e",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "İşyeri sendika temsilcisi seçmeye hangi sendika yetkilidir?",
       "option_a": "Her sendika bir tane seçer",
@@ -1719,7 +1719,7 @@
     },
     {
       "id": "5d5d5d5d-4e4e-3f3f-2a2a-1b1b1b1b1b1b",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme görüşmeleri hangi yıllarda yapılır?",
       "option_a": "Her yıl",
@@ -1732,7 +1732,7 @@
     },
     {
       "id": "4e4e4e4e-3f3f-2a2a-1b1b-0c0c0c0c0c0c",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Kamu Görevlileri Sendikaları Heyeti toplam kaç üyeden oluşur?",
       "option_a": "10",
@@ -1745,7 +1745,7 @@
     },
     {
       "id": "3f3f3f3f-2a2a-1b1b-0c0c-9d9d9d9d9d9d",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Kamu Görevlileri Hakem Kurulu kararlarının niteliği nedir?",
       "option_a": "Tavsiye niteliğindedir",
@@ -1758,7 +1758,7 @@
     },
     {
       "id": "2a2a2a2a-1b1b-0c0c-9d9d-8e8e8e8e8e8e",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "İmzalanan toplu sözleşme metinleri nerede yayımlanır?",
       "option_a": "Kurumların internet sitesinde",
@@ -1771,7 +1771,7 @@
     },
     {
       "id": "1b1b1b1b-0c0c-9d9d-8e8e-7f7f7f7f7f7f",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "Aşağıdaki kurumlardan hangisinin merkez teşkilatında çalışanların sendika üyesi olması yasaktır?",
       "option_a": "Milli Eğitim Bakanlığı",
@@ -1784,7 +1784,7 @@
     },
     {
       "id": "0c0c0c0c-9d9d-8e8e-7f7f-6a6a6a6a6a6a",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__sendikal_guvenceler",
       "topic_name": "Sendikal Güvenceler",
       "question_text": "Sendika yönetim kuruluna seçilenlerin durumlarını kurumlarına bildirme süresi nedir?",
       "option_a": "15 gün",
@@ -1797,7 +1797,7 @@
     },
     {
       "id": "9d9d9d9d-8e8e-7f7f-6a6a-5b5b5b5b5b5b",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelir_ve_giderler",
       "topic_name": "Gelir ve Giderler",
       "question_text": "Aylık üyelik ödenti tutarı en fazla ne kadar olabilir?",
       "option_a": "Maaşın %10'u",
@@ -1810,7 +1810,7 @@
     },
     {
       "id": "8e8e8e8e-7f7f-6a6a-5b5b-4c4c4c4c4c4c",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "İşyerindeki kamu görevlisi sayısı 2000'den fazla ise en çok kaç işyeri sendika temsilcisi seçilebilir?",
       "option_a": "3",
@@ -1823,7 +1823,7 @@
     },
     {
       "id": "7f7f7f7f-6a6a-5b5b-4c4c-3d3d3d3d3d3d",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme görüşmelerine ağustos ayının hangi günü başlanır?",
       "option_a": "İlk günü",
@@ -1836,7 +1836,7 @@
     },
     {
       "id": "dcccbf92-07c3-45b8-8f8b-4a8bd6113eea",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Uyuşmazlık halinde Hakem Kurulu'na başvurma süresi kaç işgünüdür?",
       "option_a": "1",
@@ -1849,7 +1849,7 @@
     },
     {
       "id": "890b759f-75e0-40c2-a525-b29fad02fb1b",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Kamu Görevlileri Hakem Kurulu toplantı yeter sayısı Başkan dahil en az kaçtır?",
       "option_a": "6",
@@ -1862,7 +1862,7 @@
     },
     {
       "id": "4e3d2c1b-0a9f-8e7d-6c5b-4a3b2c1d0e9f",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelir_ve_giderler",
       "topic_name": "Gelir ve Giderler",
       "question_text": "Sendikaların yıllık hesaplarını denetleyen bağımsız denetim raporları nereye sunulur?",
       "option_a": "Maliye Bakanlığına",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": "0a1bbbbd-f7fe-480e-ad3d-0fba6f4414cf",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "4688 sayılı Kanun hükümlerini yürütmeye hangi makam yetkilidir?",
       "option_a": "Cumhurbaşkanı (Bakanlar Kurulu)",
@@ -1888,7 +1888,7 @@
     },
     {
       "id": "e47b1f28-8d2a-4c91-9876-0f31728271a0",
-      "topic_id": "4688_sayili_kanun__amac_kapsam_tanimlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__amac_kapsam_ve_tanimlar",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "4688 sayılı Kanun'a göre 'Konfederasyon' tanımı için aşağıdakilerden hangisi doğrudur?",
       "option_a": "Aynı hizmet kolundaki en az üç sendikanın birleşmesidir.",
@@ -1901,7 +1901,7 @@
     },
     {
       "id": "5b35836c-fa86-45ae-90f9-b641acd6e631",
-      "topic_id": "4688_sayili_kanun__amac_kapsam_tanimlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__amac_kapsam_ve_tanimlar",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "4688 sayılı Kanun kapsamında yer alan 'Kamu Görevlisi' tanımı kimleri ifade eder?",
       "option_a": "Kamu kurumlarında çalışan işçiler dahil tüm personeli",
@@ -1914,7 +1914,7 @@
     },
     {
       "id": "e74b7b5b-e75c-45ec-8383-e84c9712aeaa",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Sendikalar hangi esasa göre kurulur?",
       "option_a": "İşyeri esasına göre",
@@ -1927,7 +1927,7 @@
     },
     {
       "id": "77b8a8bc-5972-4534-83a2-5e708c9add2a",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Aşağıdakilerden hangisi 4688 sayılı Kanun'da sayılan hizmet kollarından biri değildir?",
       "option_a": "Büro, bankacılık ve sigortacılık hizmetleri",
@@ -1940,7 +1940,7 @@
     },
     {
       "id": "10c25d68-e8f4-4b21-be2b-664294f6d991",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Sendika ve konfederasyonlar tüzel kişiliği ne zaman kazanırlar?",
       "option_a": "Valiliğe belgeler verildiği an",
@@ -1953,7 +1953,7 @@
     },
     {
       "id": "a3209688-c78a-4c5f-9b65-29bb6c5b7ba3",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Sendika kurucusu olabilmek için temel şart nedir?",
       "option_a": "En az 5 yıl kamu hizmeti yapmış olmak",
@@ -1966,7 +1966,7 @@
     },
     {
       "id": "9a2648c3-44fa-437b-9e53-5f6ab0bcab04",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__zorunlu_organlar",
       "topic_name": "Zorunlu Organlar",
       "question_text": "Aşağıdakilerden hangisi sendika ve konfederasyonların zorunlu organlarından biri değildir?",
       "option_a": "Genel Kurul",
@@ -1979,7 +1979,7 @@
     },
     {
       "id": "12efbe6f-425b-42b0-9ff9-c7deb2c01383",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__genel_kurul",
       "topic_name": "Genel Kurul",
       "question_text": "Sendika şubesi genel kurulları en az kaç delegeden oluşur?",
       "option_a": "50",
@@ -1992,7 +1992,7 @@
     },
     {
       "id": "93b65978-c9c6-4cfd-8d52-8f75e903783d",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__genel_kurul",
       "topic_name": "Genel Kurul",
       "question_text": "Olağan genel kurul toplantıları en geç kaç yılda bir yapılır?",
       "option_a": "2",
@@ -2005,7 +2005,7 @@
     },
     {
       "id": "60d5459a-c008-401b-beb6-f66dcac80baf",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__genel_kurul",
       "topic_name": "Genel Kurul",
       "question_text": "Genel kurul toplantı yeter sayısı kaçtır?",
       "option_a": "Üye veya delege tamsayısının 1/3'ü",
@@ -2018,7 +2018,7 @@
     },
     {
       "id": "c25c6594-774f-4aa7-b594-0d9c5189a3fb",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlarin_olusumu",
       "topic_name": "Organların Oluşumu",
       "question_text": "Sendika yönetim kurulları en çok kaç üyeden oluşur?",
       "option_a": "5",
@@ -2031,7 +2031,7 @@
     },
     {
       "id": "59806967-0f8c-4aec-add5-238b6da9873e",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik",
       "topic_name": "Üyelik",
       "question_text": "Sendika üyelik başvurusu, sendika tarafından en çok kaç gün içinde reddedilmediği takdirde kabul edilmiş sayılır?",
       "option_a": "15 gün",
@@ -2044,7 +2044,7 @@
     },
     {
       "id": "7977fe22-a6e6-4c39-ad75-9fe494e734dd",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_yasaklari",
       "topic_name": "Üyelik Yasakları",
       "question_text": "Aşağıdaki kamu görevlilerinden hangisinin sendika üyesi olması yasak değildir?",
       "option_a": "Bakanlar",
@@ -2057,7 +2057,7 @@
     },
     {
       "id": "0ee6ea7b-8529-4439-b107-323d4e006e1b",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelikten_cekilme",
       "topic_name": "Üyelikten Çekilme",
       "question_text": "Üyelikten çekilme bildirimi kuruma verildikten kaç gün sonra geçerli olur?",
       "option_a": "15 gün",
@@ -2070,7 +2070,7 @@
     },
     {
       "id": "3cf9ec22-65b5-42ca-88a2-46a9c0ab6bfd",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__guvenceler",
       "topic_name": "Güvenceler",
       "question_text": "Kamu işvereni, işyeri sendika temsilcisi veya sendika yöneticilerinin işyerini hangi durumda değiştirebilir?",
       "option_a": "Hizmet gereği her zaman değiştirebilir",
@@ -2083,7 +2083,7 @@
     },
     {
       "id": "0b0d1994-09aa-4948-b7b1-c6f23f1df646",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__ayliksiz_izin",
       "topic_name": "Aylıksız İzin",
       "question_text": "Sendika yöneticiliği nedeniyle aylıksız izne ayrılanların bu süreleri hangi şartla emeklilik hizmetine sayılır?",
       "option_a": "Kurumunca ödenirse",
@@ -2096,7 +2096,7 @@
     },
     {
       "id": "a0ce38cb-6b41-4fa2-92e1-05e9e1cd840e",
-      "topic_id": "4688_sayili_kanun__faaliyetler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__faaliyetler",
       "topic_name": "Faaliyetler",
       "question_text": "Sendika ve konfederasyonlar nakit mevcudunun yüzde kaçına kadar kooperatiflere kredi verebilir?",
       "option_a": "5",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": "c55eaabf-00bd-42ca-b0cf-31e803305323",
-      "topic_id": "4688_sayili_kanun__yasaklar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yasaklar",
       "topic_name": "Yasaklar",
       "question_text": "Aşağıdakilerden hangisi sendika ve konfederasyonlar için yasaklardan biri değildir?",
       "option_a": "Ticaretle uğraşmak",
@@ -2122,7 +2122,7 @@
     },
     {
       "id": "aea18cc3-8eac-445a-9364-d5bc7e78adeb",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kamu_personeli_danisma_kurulu",
       "topic_name": "Kamu Personeli Danışma Kurulu",
       "question_text": "Kamu Personeli Danışma Kurulu (KPDK) yılda hangi aylarda toplanır?",
       "option_a": "Ocak ve Temmuz",
@@ -2135,7 +2135,7 @@
     },
     {
       "id": "7ceeb0d3-5c81-46a8-8fbd-86a1254c1556",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurum_idari_kurullari",
       "topic_name": "Kurum İdari Kurulları",
       "question_text": "Kurum idari kurulları yılda kaç kez toplanır?",
       "option_a": "1",
@@ -2148,7 +2148,7 @@
     },
     {
       "id": "14c38472-f716-4aeb-a602-dd0c7a47723e",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__isyeri_temsilcileri",
       "topic_name": "İşyeri Temsilcileri",
       "question_text": "İşyerindeki kamu görevlisi sayısı 601-1000 arasında ise en çok kaç işyeri sendika temsilcisi seçilebilir?",
       "option_a": "2",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": "7a4d76c1-5fbd-410b-a62d-c7fe3e472bbc",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_odentisi",
       "topic_name": "Üyelik Ödentisi",
       "question_text": "Üyelik ödentisi kesilen kamu görevlilerinin listesi ne zaman ilan edilir?",
       "option_a": "Haftalık olarak",
@@ -2174,7 +2174,7 @@
     },
     {
       "id": "48288f4f-9a17-4a54-91fa-fd92949789af",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_kapsami",
       "topic_name": "Toplu Sözleşme Kapsamı",
       "question_text": "Toplu sözleşme hükümleri kural olarak ne kadar süreyle geçerlidir?",
       "option_a": "1 mali yıl",
@@ -2187,7 +2187,7 @@
     },
     {
       "id": "9d331ca0-487a-44ea-b74a-4caf90f78fc1",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_taraflari",
       "topic_name": "Toplu Sözleşme Tarafları",
       "question_text": "Kamu İşveren Heyeti'ne aşağıdakilerden hangisi başkanlık eder?",
       "option_a": "Cumhurbaşkanı",
@@ -2200,7 +2200,7 @@
     },
     {
       "id": "0f7c80ee-ac9b-41e3-b696-635a9709a017",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_heyeti",
       "topic_name": "Toplu Sözleşme Heyeti",
       "question_text": "Kamu Görevlileri Sendikaları Heyeti toplam kaç üyeden oluşur?",
       "option_a": "11",
@@ -2213,7 +2213,7 @@
     },
     {
       "id": "9d17c8f5-d47a-471a-b198-ef8a6e364784",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yetki_tespiti",
       "topic_name": "Yetki Tespiti",
       "question_text": "Üye sayılarının tespiti her yıl hangi tarih itibarıyla yapılır?",
       "option_a": "1 Ocak",
@@ -2226,7 +2226,7 @@
     },
     {
       "id": "386805ed-2b9e-4c03-bfbc-aa0686820090",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_sureci",
       "topic_name": "Toplu Sözleşme Süreci",
       "question_text": "Toplu sözleşme görüşmeleri hangi yıllarda yapılır?",
       "option_a": "Her yıl",
@@ -2239,7 +2239,7 @@
     },
     {
       "id": "fc19cf33-d64d-421d-9502-b3334563f0cd",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_sureci",
       "topic_name": "Toplu Sözleşme Süreci",
       "question_text": "Toplu sözleşme görüşmeleri ağustos ayının hangi günü başlar?",
       "option_a": "İlk günü",
@@ -2252,7 +2252,7 @@
     },
     {
       "id": "1cf39492-5d67-480a-8782-b8e73ada999e",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kamu_gorevlileri_hakem_kurulu",
       "topic_name": "Kamu Görevlileri Hakem Kurulu",
       "question_text": "Hakem Kurulu toplantı yeter sayısı kaçtır?",
       "option_a": "6",
@@ -2265,7 +2265,7 @@
     },
     {
       "id": "2a65b551-1803-4f3e-a567-d6ea57b273db",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kamu_gorevlileri_hakem_kurulu",
       "topic_name": "Kamu Görevlileri Hakem Kurulu",
       "question_text": "Hakem Kurulu, uyuşmazlık başvurusundan itibaren kaç gün içinde kararını verir?",
       "option_a": "3",
@@ -2278,7 +2278,7 @@
     },
     {
       "id": "a53beb6a-6add-4513-b440-b3c62ad11c79",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kamu_gorevlileri_hakem_kurulu",
       "topic_name": "Kamu Görevlileri Hakem Kurulu",
       "question_text": "Hakem Kurulu kararlarının niteliği nedir?",
       "option_a": "Tavsiye niteliğindedir",
@@ -2291,7 +2291,7 @@
     },
     {
       "id": "81c73a37-b66c-4a54-a153-358b8cdbbe5b",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kapatma_karari",
       "topic_name": "Kapatma Kararı",
       "question_text": "Anayasada belirtilen Cumhuriyetin niteliklerine aykırı faaliyetlerde bulunan sendikanın kapatılmasına hangi merci karar verir?",
       "option_a": "Valilik",
@@ -2304,7 +2304,7 @@
     },
     {
       "id": "7ebf0fdf-8366-4894-8521-e1c4c3a85ce6",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tasfiye",
       "topic_name": "Tasfiye",
       "question_text": "Kapatılan sendikanın mal varlığı tüzükte aksine hüküm yoksa nereye devredilir?",
       "option_a": "Bağlı olduğu konfederasyona",
@@ -2317,7 +2317,7 @@
     },
     {
       "id": "ae66eb99-2a49-4ff4-8de9-f346b060473b",
-      "topic_id": "4688_sayili_kanun__yasaklar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__siyasi_faaliyet_yasaklari",
       "topic_name": "Siyasi Faaliyet Yasakları",
       "question_text": "Sendika ve konfederasyonların siyasi partilerle ilişkisi hakkında hangisi yanlıştır?",
       "option_a": "Siyasi partilerden maddi yardım alamazlar",
@@ -2330,7 +2330,7 @@
     },
     {
       "id": "4fd1f548-cfaa-452f-ab43-b9692bd22f30",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__guvenceler",
       "topic_name": "Güvenceler",
       "question_text": "Sendika yöneticiliğinden ayrılanların kurumlarına başvuru süresi kaç gündür?",
       "option_a": "7",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": "408c82f5-af37-4852-85ff-a2c27f2a1a1d",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelir_kullanimi",
       "topic_name": "Gelir Kullanımı",
       "question_text": "Sendikalar gelirlerinin en az yüzde kaçını üyelerinin mesleki bilgi ve tecrübelerini artırmak için kullanmalıdır?",
       "option_a": "5",
@@ -2356,7 +2356,7 @@
     },
     {
       "id": "07352a05-3258-4e90-b21f-93050c04506a",
-      "topic_id": "4688_sayili_kanun__tanimlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "Kamu idaresini temsile ve bütününü sevk ve idareye yetkili olanlar ile yardımcılarına ne ad verilir?",
       "option_a": "Kamu İşvereni",
@@ -2369,7 +2369,7 @@
     },
     {
       "id": "d42f18e1-b00d-4aa4-b497-0588216e9e1c",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__hizmet_kollari",
       "topic_name": "Hizmet Kolları",
       "question_text": "Diyanet ve vakıf hizmetleri kaç numaralı hizmet kolu olarak belirlenmiştir?",
       "option_a": "1",
@@ -2382,7 +2382,7 @@
     },
     {
       "id": "22514bc9-4225-4750-9d56-286150be2f91",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__genel_kurul_delegeleri",
       "topic_name": "Genel Kurul Delegeleri",
       "question_text": "Konfederasyon genel kurullarında üye sendikaların kaç delegeyle temsil edileceği nerede belirtilir?",
       "option_a": "Bakanlık genelgesinde",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": "2a1dcce6-6c41-4a6d-bc20-c5161c82746b",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme_imzasi",
       "topic_name": "Toplu Sözleşme İmzası",
       "question_text": "Toplu sözleşmenin 'hizmet kollarına yönelik' bölümlerini imzalamaya kim yetkilidir?",
       "option_a": "Konfederasyon Başkanı",
@@ -2408,7 +2408,7 @@
     },
     {
       "id": "9e6628b8-11f3-4052-91cb-c2197a836e6c",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gundem_belirleme",
       "topic_name": "Gündem Belirleme",
       "question_text": "Toplu sözleşme görüşme gündemini kimler belirler?",
       "option_a": "Sadece Bakan",
@@ -2421,7 +2421,7 @@
     },
     {
       "id": "7325c517-dde7-4c78-8345-8fb5fc6c41d8",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__hakem_kurulu_karari",
       "topic_name": "Hakem Kurulu Kararı",
       "question_text": "Hakem Kurulu kararlarında oyların eşitliği halinde sonuç nasıl belirlenir?",
       "option_a": "Kura çekilir",
@@ -2434,7 +2434,7 @@
     },
     {
       "id": "c85eb24c-1c7f-4033-9c5b-f0c01ea60f38",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__resmi_gazete",
       "topic_name": "Resmi Gazete",
       "question_text": "İmzalanan toplu sözleşme metinleri nerede yayımlanır?",
       "option_a": "Kurum panolarında",
@@ -2447,7 +2447,7 @@
     },
     {
       "id": "194aa3c6-e6cb-4d12-a2ec-cd7fd68b0bd9",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__birlesme",
       "topic_name": "Birleşme",
       "question_text": "Birleşen sendikaların üyeleri hakkında hangisi doğrudur?",
       "option_a": "Yeniden üyelik formu doldururlar",
@@ -2460,7 +2460,7 @@
     },
     {
       "id": "1040affe-4838-4964-9134-b14a626e6198",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__dava_hakki",
       "topic_name": "Dava Hakkı",
       "question_text": "Üyeliği reddedilen kamu görevlisi tebliğden itibaren kaç gün içinde dava açabilir?",
       "option_a": "7",
@@ -2473,7 +2473,7 @@
     },
     {
       "id": "a3361f14-789a-4209-9553-afa3f0e5d609",
-      "topic_id": "4688_sayili_kanun__mali_hükümler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__aidat_aktarimi",
       "topic_name": "Aidat Aktarımı",
       "question_text": "Sendikaların konfederasyonlara ödeyeceği ödenti miktarı en az yüzde kaçtır?",
       "option_a": "3",
@@ -2486,7 +2486,7 @@
     },
     {
       "id": "a6a9311d-d0dc-49e3-b2bb-1c56b1a7b432",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__sozlesme_suresi",
       "topic_name": "Sözleşme Süresi",
       "question_text": "Toplu sözleşme görüşmeleri en geç hangi tarihe kadar tamamlanmalıdır?",
       "option_a": "15 Ağustos",
@@ -2499,7 +2499,7 @@
     },
     {
       "id": "cf11fcb5-8333-4de5-a75c-5f88aee02d0f",
-      "topic_id": "4688_sayili_kanun__yürürlük",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yururluk",
       "topic_name": "Yürürlük",
       "question_text": "4688 sayılı Kanun hükümlerini hangi merci yürütür?",
       "option_a": "TBMM Başkanı",
@@ -2512,7 +2512,7 @@
     },
     {
       "id": "cf72f34a-2b4c-4006-9fa8-5a9891d8afcf",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_tutanagi",
       "topic_name": "Uyuşmazlık Tutanağı",
       "question_text": "Toplu sözleşme görüşmeleri uzlaşmazlıkla sonuçlanırsa tespit tutanağını hangi kurum tutar?",
       "option_a": "Maliye Bakanlığı",
@@ -2525,7 +2525,7 @@
     },
     {
       "id": "e8a61be0-1ad1-4137-a15f-56c8eefadcab",
-      "topic_id": "4688_sayili_kanun__amac_kapsam_tanimlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__amac_kapsam_ve_tanimlar",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "4688 sayılı Kanun'a göre 'Kamu İşvereni' tanımı aşağıdakilerden hangisini ifade eder?",
       "option_a": "Sadece kurumun en üst amirini",
@@ -2538,7 +2538,7 @@
     },
     {
       "id": "50ed17fd-545f-47cf-9698-fa6ddae0488b",
-      "topic_id": "4688_sayili_kanun__amac_kapsam_tanimlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__amac_kapsam_ve_tanimlar",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "Toplu sözleşme görüşmeleri sonucunda mutabık kalınması durumunda taraflarca imzalanan belgeye ne ad verilir?",
       "option_a": "Mutabakat Metni",
@@ -2551,7 +2551,7 @@
     },
     {
       "id": "5dcc6898-2f3f-4d7e-840a-0c52e5935d97",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Sendikaların 'Türkiye çapında' faaliyette bulunmak amacıyla kurulması hangi madde ile düzenlenmiştir?",
       "option_a": "Madde 1",
@@ -2564,7 +2564,7 @@
     },
     {
       "id": "2ffb36e4-f98b-483a-a14e-ff2c18966bb9",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Valilik, kendisine verilen tüzük ve belgelerin bir örneğini kaç işgünü içinde Çalışma ve Sosyal Güvenlik Bakanlığına gönderir?",
       "option_a": "5 işgünü",
@@ -2577,7 +2577,7 @@
     },
     {
       "id": "906a09c8-7caf-4d92-8eb6-47dc3361e362",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Mahkeme, tüzükteki kanuna aykırılığın giderilmesi için sendikaya en fazla ne kadar süre verebilir?",
       "option_a": "30 gün",
@@ -2590,7 +2590,7 @@
     },
     {
       "id": "65eb9b0e-4e5a-4227-9b73-dc15a149d31a",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Genel kurullar tarafından seçilen üyelerin ad ve soyadları ile tüzük değişiklikleri kaç gün içinde ilgili mercilere bildirilir?",
       "option_a": "15 gün",
@@ -2603,7 +2603,7 @@
     },
     {
       "id": "d06f7f04-d3e6-449f-97c7-331f530f7e12",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Üye sayısı bini aşan sendikaların genel kurulları hangi şekilde yapılabilir?",
       "option_a": "Sadece üyelerle",
@@ -2616,7 +2616,7 @@
     },
     {
       "id": "e415c85b-c91e-4170-a099-2244447a8612",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Olağanüstü genel kurul talebi üzerine yönetim kurulu, kurulu en geç kaç gün içinde toplamak zorundadır?",
       "option_a": "30 gün",
@@ -2629,7 +2629,7 @@
     },
     {
       "id": "8f369507-c7e0-4ad0-9f6c-464b8447c6aa",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Genel kurul toplantı yeter sayısı sağlanamazsa, ikinci toplantı en çok kaç gün sonraya bırakılabilir?",
       "option_a": "7 gün",
@@ -2642,7 +2642,7 @@
     },
     {
       "id": "7775b3f3-3737-490f-a374-84147248dcf0",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Aşağıdakilerden hangisi genel kurulların görevlerinden biri değildir?",
       "option_a": "Organların seçimi",
@@ -2655,7 +2655,7 @@
     },
     {
       "id": "5f4c58dc-96db-4f63-a4c7-567a815ae797",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Disiplin kurulu en çok kaç üyeden oluşur?",
       "option_a": "3",
@@ -2668,7 +2668,7 @@
     },
     {
       "id": "a03c872c-dc22-4f38-9b71-f99eec1e69e9",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik",
       "topic_name": "Üyelik",
       "question_text": "Sendikaya üyelik kaç nüsha olarak doldurulan üye formu ile gerçekleştirilir?",
       "option_a": "1",
@@ -2681,7 +2681,7 @@
     },
     {
       "id": "0fe088a8-3c9e-411c-a883-81fe1c53cc4c",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik",
       "topic_name": "Üyelik",
       "question_text": "Aşağıdaki kurumlardan hangisinde çalışan kamu görevlilerinin sendika üyesi olması yasaktır?",
       "option_a": "Belediyeler",
@@ -2694,7 +2694,7 @@
     },
     {
       "id": "a5817677-71f8-4678-8f5f-619cc49945ec",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik",
       "topic_name": "Üyelik",
       "question_text": "Emniyet hizmetleri sınıfında çalışan kamu görevlileri için sendika üyeliği durumu nedir?",
       "option_a": "Sadece amirler üye olabilir",
@@ -2707,7 +2707,7 @@
     },
     {
       "id": "ec600e3e-00e0-47bd-bd6f-35c9221f4ea5",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik",
       "topic_name": "Üyelik",
       "question_text": "Üyelikten çekilme bildirimi yapıldıktan kaç gün sonra çekilme geçerli olur?",
       "option_a": "15 gün",
@@ -2720,7 +2720,7 @@
     },
     {
       "id": "9cc973e9-ec58-475a-ae71-0fb997dfc611",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik",
       "topic_name": "Üyelik",
       "question_text": "Sendikadan çıkarma kararına karşı kaç gün içinde iş mahkemesine itiraz edilebilir?",
       "option_a": "7 gün",
@@ -2733,7 +2733,7 @@
     },
     {
       "id": "38feb3a0-9244-4e2e-b795-a4cfd128b41b",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik",
       "topic_name": "Üyelik",
       "question_text": "Sendikalar en fazla kaç konfederasyona üye olabilirler?",
       "option_a": "1",
@@ -2746,7 +2746,7 @@
     },
     {
       "id": "8694d4ea-3df2-46da-945f-32461ead5d77",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__guvenceler",
       "topic_name": "Güvenceler",
       "question_text": "Yönetim kuruluna seçildiği için aylıksız izne ayrılanların sağlık giderleri kim tarafından karşılanır?",
       "option_a": "Sendika",
@@ -2759,7 +2759,7 @@
     },
     {
       "id": "e50ccfd0-beec-4a09-88b5-c6cec5c20834",
-      "topic_id": "4688_sayili_kanun__faaliyetler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__faaliyetler",
       "topic_name": "Faaliyetler",
       "question_text": "Sendikaların toplumsal cinsiyet eşitliğini gözeterek faaliyette bulunabileceği hangi madde ile eklenmiştir?",
       "option_a": "Madde 1",
@@ -2772,7 +2772,7 @@
     },
     {
       "id": "79147ef1-77ee-4bcf-a8d8-fdd25bd18e77",
-      "topic_id": "4688_sayili_kanun__faaliyetler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__faaliyetler",
       "topic_name": "Faaliyetler",
       "question_text": "Sendikalar üyelerinin yararlanması için aşağıdakilerden hangisini kuramaz?",
       "option_a": "Eğitim ve sağlık tesisleri",
@@ -2785,7 +2785,7 @@
     },
     {
       "id": "a2c85239-8264-4d2c-94a4-06a1929b84bf",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "Kamu Personeli Danışma Kurulu'nun başkanı kimdir?",
       "option_a": "En çok üyeye sahip konfederasyon başkanı",
@@ -2798,7 +2798,7 @@
     },
     {
       "id": "4c8d3bb4-548d-477f-abfa-3e44d78739df",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "İşyerinde kamu görevlisi sayısı 2001'den fazla ise en çok kaç işyeri sendika temsilcisi seçilebilir?",
       "option_a": "3",
@@ -2811,7 +2811,7 @@
     },
     {
       "id": "b4edc12b-d05e-42d2-8c32-2497cbcaa6c4",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelirler",
       "topic_name": "Gelirler",
       "question_text": "Aşağıdakilerden hangisi sendikaların gelirlerinden biri değildir?",
       "option_a": "Üyelik ödentileri",
@@ -2824,7 +2824,7 @@
     },
     {
       "id": "a0a04614-e9db-480c-9d85-04e0c125e022",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelirler",
       "topic_name": "Gelirler",
       "question_text": "Kamu işvereni, üyelik ödentisi kesilenlerin listesini her ayın hangi haftasında ilan eder?",
       "option_a": "İlk haftasında",
@@ -2837,7 +2837,7 @@
     },
     {
       "id": "7183b9d2-73a8-4268-995f-95de9eceec22",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelirler",
       "topic_name": "Gelirler",
       "question_text": "Konfederasyonlara ödenecek ödenti miktarı, sendika ödenti tutarının en az yüzde kaçı olmalıdır?",
       "option_a": "1",
@@ -2850,7 +2850,7 @@
     },
     {
       "id": "174f0637-b172-477a-be00-063de047ea34",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelirler",
       "topic_name": "Gelirler",
       "question_text": "Sendikalar gelirlerinin en az yüzde kaçını üyelerin mesleki bilgi ve tecrübelerini artırmak için kullanmalıdır?",
       "option_a": "5",
@@ -2863,7 +2863,7 @@
     },
     {
       "id": "60f9047b-6028-4a54-8b36-ca8d4e8f6224",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelirler",
       "topic_name": "Gelirler",
       "question_text": "Sendika ve konfederasyonların muhasebe kayıtları hangi esasa göre tutulur?",
       "option_a": "İşletme hesabı esası",
@@ -2876,7 +2876,7 @@
     },
     {
       "id": "f3b98d23-36a8-4687-a646-d3dc14889266",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme hükümleri kural olarak ne kadar süreyle geçerlidir?",
       "option_a": "1 yıl",
@@ -2889,7 +2889,7 @@
     },
     {
       "id": "d85908c4-6eb4-4e93-be37-f82a7f98a1a5",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Kamu Görevlileri Sendikaları Heyeti kaç üyeden oluşur?",
       "option_a": "11",
@@ -2902,7 +2902,7 @@
     },
     {
       "id": "36861c6b-bab0-4a61-a8de-f8fec80e883c",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Kurumlarda 15 Mayıs itibarıyla yapılan üye tespiti tutanakları hangi aya kadar Bakanlığa gönderilir?",
       "option_a": "Mayıs ayının son iş günü",
@@ -2915,7 +2915,7 @@
     },
     {
       "id": "a5c79a94-94bf-4db9-a072-ae52c0145841",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Bakanlıkça belirlenen toplam üye sayıları her yıl hangi ayın ilk haftasında Resmi Gazetede yayımlanır?",
       "option_a": "Mayıs",
@@ -2928,7 +2928,7 @@
     },
     {
       "id": "61e8bfcd-1adc-4918-ba02-5da02bc731f9",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme sürecinin en geç ne zaman tamamlanması gerekir?",
       "option_a": "Ağustos ayının 15'inde",
@@ -2941,7 +2941,7 @@
     },
     {
       "id": "5a9d6871-c55c-43ad-a215-cfdd3e2955ea",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Mahalli idarelerdeki sosyal denge tazminatı sözleşmesi süresi en fazla ne kadar olabilir?",
       "option_a": "1 yıl",
@@ -2954,7 +2954,7 @@
     },
     {
       "id": "1852aaeb-f116-4fe9-bc5d-6f518ee107ff",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazliklarin_cozumu",
       "topic_name": "Uyuşmazlıkların Çözümü",
       "question_text": "Toplu sözleşme imzalanamaması halinde uyuşmazlık tutanağından itibaren kaç işgünü içinde Hakem Kuruluna başvurulabilir?",
       "option_a": "1",
@@ -2967,7 +2967,7 @@
     },
     {
       "id": "96d626ee-3e9a-41d2-93c2-d5b0755c58b5",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazliklarin_cozumu",
       "topic_name": "Uyuşmazlıkların Çözümü",
       "question_text": "Hakem Kurulu toplantı yeter sayısı Başkan dahil en az kaçtır?",
       "option_a": "6",
@@ -2980,7 +2980,7 @@
     },
     {
       "id": "ed121dd1-b75e-4a41-9fe0-d119bdeb2ada",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazliklarin_cozumu",
       "topic_name": "Uyuşmazlıkların Çözümü",
       "question_text": "Kamu Görevlileri Hakem Kurulu, tarafların başvurusundan itibaren kaç gün içinde kararını verir?",
       "option_a": "3",
@@ -2993,7 +2993,7 @@
     },
     {
       "id": "4243492b-8b24-4526-a472-2da85deaa23d",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazliklarin_cozumu",
       "topic_name": "Uyuşmazlıkların Çözümü",
       "question_text": "Hakem Kurulu kararları hakkında aşağıdakilerden hangisi doğrudur?",
       "option_a": "Danıştay'a itiraz edilebilir",
@@ -3006,7 +3006,7 @@
     },
     {
       "id": "0bb477ee-b1e7-4d79-b528-82a666f25aff",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Birleşen sendikaların üyeleri hakkında ne tür bir işlem yapılır?",
       "option_a": "Yeniden üyelik başvurusu yaparlar",
@@ -3019,7 +3019,7 @@
     },
     {
       "id": "cb974a1f-b268-44ac-aa2f-4d64a340df13",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Anayasal ilkelere aykırı faaliyetlerde bulunan sendikanın kapatılmasına hangi merci karar verir?",
       "option_a": "Valilik",
@@ -3032,7 +3032,7 @@
     },
     {
       "id": "9c9bec92-ee8e-40ee-8ef0-c2ed81bb299a",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Sendika yasaklarına aykırı hareket edenlere verilecek hapis cezası süresi nedir?",
       "option_a": "3 aydan 6 aya",
@@ -3045,7 +3045,7 @@
     },
     {
       "id": "48de8f2e-17d2-48e0-9e9c-637d63ea0d71",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Kapatılan sendikanın mal varlığı tüzükte hüküm yoksa nereye devredilir?",
       "option_a": "İlgili konfederasyona",
@@ -3058,7 +3058,7 @@
     },
     {
       "id": "00ac2603-eb28-43de-a848-8f50b67c1726",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Kurumların girecekleri hizmet kollarını belirleyen yönetmelikler en az kaç ay içinde hazırlanmalıdır?",
       "option_a": "1",
@@ -3071,7 +3071,7 @@
     },
     {
       "id": "eb51c263-78fa-4c1c-a5b1-719d49465840",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Sendikaların kuruluşu ile ilgili sorunları gidermeye hangi Bakanlık yetkilidir?",
       "option_a": "Maliye Bakanlığı",
@@ -3084,7 +3084,7 @@
     },
     {
       "id": "2a69e3d5-30e5-4609-abe3-c8612a1d9d2b",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "4688 sayılı Kanun yayımından kaç gün sonra yürürlüğe girmiştir?",
       "option_a": "15",
@@ -3097,7 +3097,7 @@
     },
     {
       "id": "7ab392bf-579a-42a0-8255-2bd91478e979",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "4688 sayılı Kanun hükümlerini hangi merci yürütür?",
       "option_a": "TBMM Başkanı",
@@ -3110,7 +3110,7 @@
     },
     {
       "id": "50d7be97-bdb8-48ff-8084-977851e9f3b0",
-      "topic_id": "4688_sayili_kanun__amac_kapsam_tanimlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__amac_kapsam_ve_tanimlar",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "Kamu hizmetinin yürütüldüğü yerlere bu Kanun bakımından ne ad verilir?",
       "option_a": "Ofis",
@@ -3123,7 +3123,7 @@
     },
     {
       "id": "47056ba4-b4ea-485c-8427-25431a1eb08c",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "4688 sayılı Kanun'a göre, valilik kendisine verilen tüzük ve belgelerin birer örneğini kaç işgünü içinde Çalışma ve Sosyal Güvenlik Bakanlığına gönderir?",
       "option_a": "7 işgünü",
@@ -3136,7 +3136,7 @@
     },
     {
       "id": "ed4c27ac-7713-4aab-a84f-a27e28e099f2",
-      "topic_id": "4688_sayili_kanun__kurulus_esaslari",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__kurulus_esaslari",
       "topic_name": "Kuruluş Esasları",
       "question_text": "Tüzüğü kanuna aykırı görülen bir sendikanın bu eksikliği gidermemesi durumunda, faaliyetin durdurulması için iş mahkemesine başvurma yetkisi kime aittir?",
       "option_a": "İlgili Valilik",
@@ -3149,7 +3149,7 @@
     },
     {
       "id": "fa7b59bf-1c07-4e30-a03b-7f9b0a456225",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Açılan, kapatılan veya birleştirilen sendika şubelerinin ilgili valiliklere ve Bakanlığa bildirilme süresi kaç gündür?",
       "option_a": "15 gün",
@@ -3162,7 +3162,7 @@
     },
     {
       "id": "6973f915-9ed0-4036-9c6c-ebb09b1c4158",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Genel kurul toplantısından en az kaç gün önce faaliyet ve hesap raporları kurul üyelerine gönderilmelidir?",
       "option_a": "7 gün",
@@ -3175,7 +3175,7 @@
     },
     {
       "id": "e978b6ee-4806-4b8f-a8da-3403713b21b7",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Yönetim kuruluna mahkeme kararı ile işten el çektirilmesi durumunda, mahkeme yeni kurul seçilinceye kadar kaç kayyım tayin eder?",
       "option_a": "Sadece 1",
@@ -3188,7 +3188,7 @@
     },
     {
       "id": "3b8bd930-0c45-4806-a679-3780899736ff",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Aşağıdaki görevlerden hangisi münhasıran 'Şube Genel Kurulları' tarafından yerine getirilebilen sınırlı yetkilerden biridir?",
       "option_a": "Tüzük değişikliği",
@@ -3201,7 +3201,7 @@
     },
     {
       "id": "989d0c87-1682-4e55-9b4d-f3d66a4fe651",
-      "topic_id": "4688_sayili_kanun__organlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__organlar_ve_secimler",
       "topic_name": "Organlar ve Seçimler",
       "question_text": "Konfederasyon yönetim kurulları en az ve en çok kaç üyeden oluşur?",
       "option_a": "3 - 7",
@@ -3214,7 +3214,7 @@
     },
     {
       "id": "942cdf59-bfb1-4f5e-914b-ff22572a65ee",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "4688 sayılı Kanun'a göre, aynı tarihli birden fazla sendika üyeliği bildirimi durumunda nasıl bir işlem tesis edilir?",
       "option_a": "İlk bildirim geçerli sayılır",
@@ -3227,7 +3227,7 @@
     },
     {
       "id": "cf083010-8923-4df2-90eb-e3683f228d90",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "Cumhurbaşkanlığı bünyesindeki hangi kurumda çalışan kamu görevlileri sendika kurabilir ve üye olabilir?",
       "option_a": "Millî Güvenlik Kurulu Genel Sekreterliği",
@@ -3240,7 +3240,7 @@
     },
     {
       "id": "dcb74d42-baed-42d7-874a-97bb2cc5a49c",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "Sendikadan çekilme bildirimini alan kurum görevlisi, bildirimin bir suretini kime/nereye 'derhal' vermek zorundadır?",
       "option_a": "İlgili sendikaya",
@@ -3253,7 +3253,7 @@
     },
     {
       "id": "6d479a5d-b7b7-40e5-8788-ff486b1165dc",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "Farklı bir hizmet koluna giren kuruma atanan sendika üyesinin konfederasyon organlarındaki görevi ne olur?",
       "option_a": "Sona erer",
@@ -3266,7 +3266,7 @@
     },
     {
       "id": "690b422d-8dd6-49d3-a9c9-5b1e9d46ecdb",
-      "topic_id": "4688_sayili_kanun__uyelik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyelik_ve_cekilme",
       "topic_name": "Üyelik ve Çekilme",
       "question_text": "Sendika veya konfederasyonlar, uluslararası kuruluşlara üyelik işlemlerini kaç gün içinde Çalışma ve Sosyal Güvenlik Bakanlığına bildirir?",
       "option_a": "7 gün",
@@ -3279,7 +3279,7 @@
     },
     {
       "id": "b0c0123e-1c41-4726-9fe8-805e39f84732",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__sendikal_guvenceler",
       "topic_name": "Sendikal Güvenceler",
       "question_text": "Yönetim kurulu üyeliğine seçildiği için aylıksız izne ayrılmak isteyen yönetici, bu durumunu en geç kaç gün içinde kurumuna bildirmelidir?",
       "option_a": "15 gün",
@@ -3292,7 +3292,7 @@
     },
     {
       "id": "36e09f58-02c9-4446-8fb3-79dc9b63eb90",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__sendikal_guvenceler",
       "topic_name": "Sendikal Güvenceler",
       "question_text": "İlçedeki üye sayısı en az kaç olan sendikanın ilçe temsilcisi haftada dört saat izinli sayılır?",
       "option_a": "25",
@@ -3305,7 +3305,7 @@
     },
     {
       "id": "2692f608-cf29-4824-9b4f-00d5e59ece27",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__sendikal_guvenceler",
       "topic_name": "Sendikal Güvenceler",
       "question_text": "Aylıksız izinli yöneticilerden herhangi bir nedenle sendika organındaki görevi bitenler, ne kadar sürede başvurmazlarsa görevinden çekilmiş sayılırlar?",
       "option_a": "15 gün",
@@ -3318,7 +3318,7 @@
     },
     {
       "id": "c476f43b-2844-44bd-8ced-61f47bc47560",
-      "topic_id": "4688_sayili_kanun__faaliyetler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__faaliyetler_ve_yasaklar",
       "topic_name": "Faaliyetler ve Yasaklar",
       "question_text": "Sendikalar, tabii afet durumlarında nakit mevcutlarının en fazla yüzde kaçını aşmamak kaydıyla aynî ve nakdî yardımda bulunabilirler?",
       "option_a": "Yüzde 5",
@@ -3331,7 +3331,7 @@
     },
     {
       "id": "e432b9ec-6546-492a-9181-723bb238048b",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "Kamu Personeli Danışma Kurulu'nun (KPDK) sekretarya hizmetleri hangi kurum tarafından yürütülür?",
       "option_a": "Çalışma ve Sosyal Güvenlik Bakanlığı",
@@ -3344,7 +3344,7 @@
     },
     {
       "id": "49cfea3d-57fc-46f3-aab9-b6b4d504b831",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "İşyerindeki kamu görevlisi sayısı 201-600 arasında ise en çok kaç işyeri sendika temsilcisi seçilebilir?",
       "option_a": "1",
@@ -3357,7 +3357,7 @@
     },
     {
       "id": "59a5b865-ff96-4044-9f99-96609e3e1199",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelir_ve_giderler",
       "topic_name": "Gelir ve Giderler",
       "question_text": "Sendikaların nakdî gelirlerini hangi ortama yatırma zorunluluğu vardır?",
       "option_a": "Sendika kasasına",
@@ -3370,7 +3370,7 @@
     },
     {
       "id": "a90d1edc-bb5b-4c78-8298-269db3bba9f8",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelir_ve_giderler",
       "topic_name": "Gelir ve Giderler",
       "question_text": "Üyelik ödentisi tutarının alt sınırı, memurun damga vergisine tâbi brüt gelirleri toplamının yüzde/binde kaçıdır?",
       "option_a": "Binde bir",
@@ -3383,7 +3383,7 @@
     },
     {
       "id": "0130e71e-4acd-4199-9532-3190abfe945f",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelir_ve_giderler",
       "topic_name": "Gelir ve Giderler",
       "question_text": "Vergi Usul Kanununa göre demirbaş sayılan eşyalarla ilgili hangisi doğrudur?",
       "option_a": "Doğrudan gider yazılabilir",
@@ -3396,7 +3396,7 @@
     },
     {
       "id": "d8927a57-ab40-4903-83b6-141f2ce716df",
-      "topic_id": "4688_sayili_kanun__gelirler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__gelir_ve_giderler",
       "topic_name": "Gelir ve Giderler",
       "question_text": "Sendika ve konfederasyonların muhasebe kayıtları hangi esasa göre tutulur?",
       "option_a": "İşletme hesabı esası",
@@ -3409,7 +3409,7 @@
     },
     {
       "id": "867b312b-010e-4977-9878-460209588427",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme hükümlerinin uygulanmasında üye olan ve olmayanlar arasındaki ayrım yasağı hangi ödemeyi kapsamaz?",
       "option_a": "Aile yardımı",
@@ -3422,7 +3422,7 @@
     },
     {
       "id": "672a822e-f940-49c4-acbd-58d6c678d9d5",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşmenin 'hizmet kollarına yönelik' bölümlerini imzalamaya kim yetkilidir?",
       "option_a": "Konfederasyon Başkanı",
@@ -3435,7 +3435,7 @@
     },
     {
       "id": "ce0d3be8-9dae-4457-af80-d8f662a2683a",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme görüşmelerine katılmaya yetkili konfederasyon temsilcileri en geç ne zaman bildirilir?",
       "option_a": "Görüşmelerden 1 ay önce",
@@ -3448,7 +3448,7 @@
     },
     {
       "id": "b48f6f8d-da9c-48f4-99cf-67cd34a2ca0e",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Üye sayılarını belirlemek üzere kurum merkezinde yapılan tespitte hangi birim yetkilisi mutlaka bulunur?",
       "option_a": "Kurum tabibi",
@@ -3461,7 +3461,7 @@
     },
     {
       "id": "80b58ea1-e70b-4d3a-8634-c2cce3a3f695",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Kurumların taşra teşkilatları, hazırladıkları üye tespit tutanaklarını kaç iş günü içinde kurum merkezine göndermek zorundadır?",
       "option_a": "Derhal",
@@ -3474,7 +3474,7 @@
     },
     {
       "id": "f0ad49d8-4789-49c7-a2e5-43584e548f96",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Sendika ve konfederasyonların üye sayılarına ilişkin itirazlar hangi mahkemeye yapılır?",
       "option_a": "Anayasa Mahkemesi",
@@ -3487,7 +3487,7 @@
     },
     {
       "id": "f51dff4d-33f8-4fb3-81b6-dc51c8ec7a19",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme teklifleri, görüşmelerin başlamasından en az ne kadar süre önce Kamu İşveren Heyetine sunulmak üzere verilir?",
       "option_a": "3 gün",
@@ -3500,7 +3500,7 @@
     },
     {
       "id": "09b2416d-5da6-404c-b3bf-dff252165304",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme görüşmelerine ağustos ayının hangi gününde başlanır?",
       "option_a": "İlk günü",
@@ -3513,7 +3513,7 @@
     },
     {
       "id": "97c40a1b-24c6-42f1-bfba-95fbf06135e1",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Belediyelerde sosyal denge tazminatı ödenmesi kararını verme yetkisi kime aittir?",
       "option_a": "Belediye Başkanı",
@@ -3526,7 +3526,7 @@
     },
     {
       "id": "841db84f-c66f-485e-935c-96b9c7694d09",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Sosyal denge tazminatı sözleşmesi imzalandıktan sonra bütçe giderleri personel lehine yüzde kaçı aşarsa sözleşme hükümsüz kalır?",
       "option_a": "Yüzde 25",
@@ -3539,7 +3539,7 @@
     },
     {
       "id": "ab567b81-614c-442c-a71d-f2140275b951",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Toplu sözleşme uyuşmazlığı durumunda Hakem Kurulu'na başvuru süresi kaç işgünüdür?",
       "option_a": "1 işgünü",
@@ -3552,7 +3552,7 @@
     },
     {
       "id": "38c79e33-42af-4d77-babc-5ab62b9c2c57",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Kamu Görevlileri Hakem Kurulu Başkanı kimler arasından Cumhurbaşkanınca seçilir?",
       "option_a": "Eski Bakanlar",
@@ -3565,7 +3565,7 @@
     },
     {
       "id": "7097b1bf-975a-472c-b8d4-e4140824080b",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Hakem Kurulu'nda yer alan öğretim üyeleri en az hangi unvanı taşımak zorundadır?",
       "option_a": "Doktor Öğretim Üyesi",
@@ -3578,7 +3578,7 @@
     },
     {
       "id": "0da06fdf-cfc9-4045-adbe-15c067cd0ce9",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Hakem Kurulu kararları hakkında hangisi yanlıştır?",
       "option_a": "Kesindir",
@@ -3591,7 +3591,7 @@
     },
     {
       "id": "87889527-5814-4118-b27b-7ae317bb4d22",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Oyların eşitliği halinde Hakem Kurulu kararında kimin bulunduğu taraf çoğunluğu sağlamış sayılır?",
       "option_a": "En yaşlı üye",
@@ -3604,7 +3604,7 @@
     },
     {
       "id": "933a8593-efdb-41c3-88f6-93a3fff6c5d4",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Hakem Kurulu'nun sekretarya hizmetleri kim tarafından yürütülür?",
       "option_a": "Sayıştay",
@@ -3617,7 +3617,7 @@
     },
     {
       "id": "7461a548-4e51-4f3e-b6c4-7a4d8ec8536a",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Katılan veya birleşen sendikaların üyeleri hakkında hangisi doğrudur?",
       "option_a": "Yeni sendikaya üyelikleri askıya alınır",
@@ -3630,7 +3630,7 @@
     },
     {
       "id": "eaac2f0d-fd96-4f42-9761-43086d1498b2",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Sendika yasaklarına aykırı hareket edenlere verilecek adlî para cezası kaç günden az olamaz?",
       "option_a": "10 gün",
@@ -3643,7 +3643,7 @@
     },
     {
       "id": "35c1ca91-3ac6-4676-98bb-284d1289ee65",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Sendikaların ticari faaliyet yasağına aykırı davranılması halinde verilecek ceza nedir?",
       "option_a": "Adli para cezası",
@@ -3656,7 +3656,7 @@
     },
     {
       "id": "6be48eaf-208a-4078-9892-fc10ca2e2e9e",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Faaliyeti durdurulan bir sendikanın mallarının idaresi için tayin olunan kayyımlar hangi kanun hükümlerine göre belirlenir?",
       "option_a": "Sendikalar Kanunu",
@@ -3669,7 +3669,7 @@
     },
     {
       "id": "9b66cf75-d100-4175-9559-6acc627053b7",
-      "topic_id": "4688_sayili_kanun__cesitli_hukumler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Kapatılan bir sendikanın malları tüzükte hüküm yoksa nereye devredilir?",
       "option_a": "Kızılay'a",
@@ -3682,7 +3682,7 @@
     },
     {
       "id": "74a0d80c-cf13-4b81-bd35-40449fb6360f",
-      "topic_id": "4688_sayili_kanun__uyusmazlik",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__uyusmazlik_ve_hakem_kurulu",
       "topic_name": "Uyuşmazlık ve Hakem Kurulu",
       "question_text": "Toplu sözleşme görüşmelerine resmî tatil günlerine rastlayan günlerde nasıl bir işlem yapılır?",
       "option_a": "Mesai ücreti ödenerek devam edilir",
@@ -3695,7 +3695,7 @@
     },
     {
       "id": "a3ffc1ed-cd44-4251-8f9d-1c5bd55b499b",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "KPDK toplantı ayları aşağıdakilerden hangisinde doğru verilmiştir?",
       "option_a": "Ocak - Haziran",
@@ -3708,7 +3708,7 @@
     },
     {
       "id": "0b36ac8a-069b-4775-a637-bb69a18adc1d",
-      "topic_id": "4688_sayili_kanun__amac_kapsam_tanimlar",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__amac_kapsam_ve_tanimlar",
       "topic_name": "Amaç, Kapsam ve Tanımlar",
       "question_text": "Toplu sözleşme görüşmeleri sonucunda uzlaşılamayan konuların yer aldığı belgeye ne ad verilir?",
       "option_a": "Grev kararı",
@@ -3721,7 +3721,7 @@
     },
     {
       "id": "6aed1b9a-7275-4941-bce5-7ba0d89c722c",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme hükümlerine göre yapılan artışlar aşağıdakilerden hangisinin aylık hesaplamasında da esas alınır?",
       "option_a": "Sadece asil memurların",
@@ -3734,7 +3734,7 @@
     },
     {
       "id": "65785919-05a1-4be9-ba09-5ad5c92dd974",
-      "topic_id": "4688_sayili_kanun__guvenceler",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__sendikal_guvenceler",
       "topic_name": "Sendikal Güvenceler",
       "question_text": "Bir memurun, mahkemeye başvurduğu disiplin hallerinde sendikadaki görevinin durumu nedir?",
       "option_a": "Üyeliği dondurulur",
@@ -3747,7 +3747,7 @@
     },
     {
       "id": "ef0cc9ec-b36b-4a3a-a24c-2f4126437767",
-      "topic_id": "4688_sayili_kanun__toplu_sozlesme",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__toplu_sozlesme",
       "topic_name": "Toplu Sözleşme",
       "question_text": "Toplu sözleşme görüşmelerine iştirak edebilecek teknik heyetin sendika tarafındaki üye sayısı en fazla kaçtır?",
       "option_a": "5",
@@ -3760,7 +3760,7 @@
     },
     {
       "id": "b5d721c1-8c1c-4cb8-8cdf-bd179b2d34fd",
-      "topic_id": "4688_sayili_kanun__yonetime_katilma",
+      "topic_id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu__yonetime_katilma",
       "topic_name": "Yönetime Katılma",
       "question_text": "Aşağıdakilerden hangisi KPDK'nın zorunlu üyeleri arasında değildir?",
       "option_a": "En çok üyeye sahip üç konfederasyonun genel başkanı",

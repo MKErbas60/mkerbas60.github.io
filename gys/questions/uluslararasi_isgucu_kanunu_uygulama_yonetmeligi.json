@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "e9b27d42-4b7e-4b4e-9d2a-7f626c845a1c",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_tanimlar",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__tanimlar_ve_genel_hukumler",
       "topic_name": "Tanımlar ve Genel Hükümler",
       "question_text": "Uluslararası İşgücü Kanunu Uygulama Yönetmeliği hükümlerine göre, yabancıya Türkiye'de kendi adına ve hesabına çalışma yetkisi sağlayan izin türü aşağıdakilerden hangisidir?",
       "option_a": "Süresiz çalışma izni",
@@ -16,7 +16,7 @@
     },
     {
       "id": "a2f8c5d1-1234-4567-890a-bcdef1234567",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_basvuru",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_basvuru_usulu",
       "topic_name": "Çalışma İzni Başvuru Usulü",
       "question_text": "Yurt dışından gerçekleştirilecek çalışma izni başvuruları, aşağıdaki mercilerden hangisine yapılmalıdır?",
       "option_a": "İçişleri Bakanlığına",
@@ -29,7 +29,7 @@
     },
     {
       "id": "b3e9d6f2-5678-90ab-cdef-1234567890ab",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_sureler",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_sureleri",
       "topic_name": "Çalışma İzni Süreleri",
       "question_text": "Bir işverene bağlı olarak çalışacak yabancıya, ilk çalışma izni başvurusunda verilebilecek en uzun izin süresi ne kadardır?",
       "option_a": "6 ay",
@@ -42,7 +42,7 @@
     },
     {
       "id": "c4a8e7b3-9012-3456-7890-abcdefabcdef",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_muafiyet",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izni_muafiyeti",
       "topic_name": "Çalışma İzni Muafiyeti",
       "question_text": "Bilimsel, kültürel ve sanatsal faaliyetlerde bulunmak amacıyla Türkiye'ye gelecek yabancılar, çalışma izninden en fazla ne kadar süreyle muaftır?",
       "option_a": "15 gün",
@@ -55,7 +55,7 @@
     },
     {
       "id": "d5b9f8e4-3456-7890-abcd-ef0123456789",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_uzatma",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sure_uzatma_basvurulari",
       "topic_name": "Süre Uzatma Başvuruları",
       "question_text": "Çalışma izni süre uzatma başvurusu, mevcut çalışma izninin geçerlilik süresinin dolmasına en fazla kaç gün kala yapılabilir?",
       "option_a": "30 gün",
@@ -68,7 +68,7 @@
     },
     {
       "id": "e6c0a9f5-7890-abcd-ef01-234567890abc",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_iptal",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calisma_izninin_iptali",
       "topic_name": "Çalışma İzninin İptali",
       "question_text": "Çalışma izni onaylanan yabancının, iznin başlangıç tarihinden itibaren en geç kaç ay içinde Türkiye'ye giriş yapmaması halinde izni iptal edilir?",
       "option_a": "3 ay",
@@ -81,7 +81,7 @@
     },
     {
       "id": "f7d1b0a6-90ab-cdef-0123-4567890abcde",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_nitelikli",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__nitelikli_isgucu_ve_yatirimci",
       "topic_name": "Nitelikli İşgücü ve Yatırımcı",
       "question_text": "Nitelikli işgücü veya nitelikli yatırımcı olarak kabul edilen yabancılar için çalışma izinleri en fazla kaç yıla kadar düzenlenebilir?",
       "option_a": "3 yıl",
@@ -94,7 +94,7 @@
     },
     {
       "id": "08e2c1b7-abcd-ef01-2345-67890abcdef0",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_ogrenci",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__yabanci_ogrenciler",
       "topic_name": "Yabancı Öğrenciler",
       "question_text": "Ön lisans veya lisans düzeyindeki yabancı öğrenciler, öğrenimlerinin hangi aşamasından sonra çalışma izni başvurusu yapabilirler?",
       "option_a": "İlk dönem sonunda",
@@ -107,7 +107,7 @@
     },
     {
       "id": "19f3d2c8-bcde-f012-3456-7890abcdef01",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_bildirim",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__bildirim_yukumlulugu",
       "topic_name": "Bildirim Yükümlülüğü",
       "question_text": "Yabancının çalışma faaliyetinin sona ermesi durumunda, bu durumun Bakanlığa bildirilmesi için öngörülen azami süre nedir?",
       "option_a": "7 gün",
@@ -120,7 +120,7 @@
     },
     {
       "id": "20a4e3d9-cdef-0123-4567-890abcdef012",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_on_izin",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__on_izin",
       "topic_name": "Ön İzin",
       "question_text": "Sağlık hizmetleri sektöründe mesleki faaliyette bulunacak yabancılar için ön izin vermeye yetkili makam hangisidir?",
       "option_a": "Çalışma ve Sosyal Güvenlik Bakanlığı",
@@ -133,7 +133,7 @@
     },
     {
       "id": "31b5f4ea-def0-1234-5678-90abcdef0123",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_tanimlar",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "Türkiye'de süresiz çalışma ve ikamet hakkı sağlayan, aynı zamanda hamili olan yabancının eş ve çocuklarına ikamet hakkı veren belge türü hangisidir?",
       "option_a": "Mavi Kart",
@@ -146,7 +146,7 @@
     },
     {
       "id": "42c6a5fb-ef01-2345-6789-01234567890a",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_itiraz",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__idari_itiraz",
       "topic_name": "İdari İtiraz",
       "question_text": "Bakanlığın çalışma izni başvurularına dair kararlarına karşı, tebliğ tarihinden itibaren kaç gün içinde itiraz edilebilir?",
       "option_a": "15 gün",
@@ -159,7 +159,7 @@
     },
     {
       "id": "53d7b6fc-0123-4567-8901-234567890123",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_kkct",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__kktc_vatandaslari",
       "topic_name": "KKTC Vatandaşları",
       "question_text": "Kuzey Kıbrıs Türk Cumhuriyeti vatandaşları için düzenlenen çalışma izinleri en çok kaç yıla kadar verilebilir?",
       "option_a": "1 yıl",
@@ -172,7 +172,7 @@
     },
     {
       "id": "64e8c7ad-1234-5678-9012-345678901234",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_muafiyet_spor",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sporcu_muafiyetleri",
       "topic_name": "Sporcu Muafiyetleri",
       "question_text": "Sportif faaliyetler kapsamında çalışacak yabancılar, çalışma izninden ne kadar süreyle muaftır?",
       "option_a": "1 ay",
@@ -185,7 +185,7 @@
     },
     {
       "id": "75f9d8be-2345-6789-0123-456789012345",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_eksik_belge",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__belge_eksikligi",
       "topic_name": "Belge Eksikliği",
       "question_text": "Çalışma izni başvurusunda tespit edilen eksikliklerin tamamlanması için verilen azami süre (mücbir sebep halleri hariç) ne kadardır?",
       "option_a": "15 gün",
@@ -198,7 +198,7 @@
     },
     {
       "id": "86a0e9cf-3456-7890-1234-567890123456",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_mavi_kart",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__mavi_kart_sahipleri",
       "topic_name": "Mavi Kart Sahipleri",
       "question_text": "Mavi Kart sahiplerinin Türkiye'deki çalışma hakları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
       "option_a": "Çalışma izni almaları zorunludur.",
@@ -211,7 +211,7 @@
     },
     {
       "id": "97b1f0d0-4567-8901-2345-678901234567",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_basvuru_suresi",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__degerlendirme_suresi",
       "topic_name": "Değerlendirme Süresi",
       "question_text": "Eksiksiz olarak sunulan çalışma izni başvurularının Bakanlıkça değerlendirilme süresi kaç gündür?",
       "option_a": "15 gün",
@@ -224,7 +224,7 @@
     },
     {
       "id": "a8c2a1e1-5678-9012-3456-789012345678",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_muhendis",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__muhendis_ve_mimarlar",
       "topic_name": "Mühendis ve Mimarlar",
       "question_text": "Yabancı mühendis ve mimarların çalışma izni başvurularının değerlendirilmesinde görüşü alınan kurum hangisidir?",
       "option_a": "Yükseköğretim Kurulu",
@@ -237,7 +237,7 @@
     },
     {
       "id": "b9d3b2f2-6789-0123-4567-890123456789",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_iptal_nedenleri",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__iptal_sartlari",
       "topic_name": "İptal Şartları",
       "question_text": "Bir işverene bağlı çalışma izni alan yabancının, Türkiye dışında aralıksız kalması durumunda çalışma izninin iptaline yol açacak süre ne kadardır?",
       "option_a": "3 ay",
@@ -250,7 +250,7 @@
     },
     {
       "id": "cae4c3a3-7890-1234-5678-901234567890",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_harclar",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__harclar",
       "topic_name": "Harçlar",
       "question_text": "İdarenin kusuru nedeniyle hatalı düzenlenen çalışma izni belgesinin yenilenmesi durumunda harç ve değerli kâğıt bedeli ödenir mi?",
       "option_a": "Sadece harç alınır.",
@@ -263,7 +263,7 @@
     },
     {
       "id": "dbf5d4b4-8901-2345-6789-012345678901",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_sistem",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sistem_ve_dil",
       "topic_name": "Sistem ve Dil",
       "question_text": "Yabancı başvuru sistemi temel olarak hangi dilde hizmet vermek üzere tasarlanmıştır?",
       "option_a": "İngilizce",
@@ -276,7 +276,7 @@
     },
     {
       "id": "ec06e5c5-9012-3456-7890-123456789012",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_muafiyet_turizm",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__turizm_muafiyetleri",
       "topic_name": "Turizm Muafiyetleri",
       "question_text": "Tur operatörü temsilcisi olarak görev yapacak yabancılar, çalışma izninden ne kadar süreyle muaftır?",
       "option_a": "4 ay",
@@ -289,7 +289,7 @@
     },
     {
       "id": "fd17f6d6-0123-4567-8901-234567890123",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_suresiz",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__suresiz_calisma_izni",
       "topic_name": "Süresiz Çalışma İzni",
       "question_text": "Süresiz çalışma izni başvurusunda bulunabilmek için, Türkiye'de çalışma izniyle en az kaç yıl kesintisiz çalışmış olmak gereklidir?",
       "option_a": "3 yıl",
@@ -302,7 +302,7 @@
     },
     {
       "id": "0e28a7e7-1234-5678-9012-345678901234",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_tanimlar",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "Yabancının mesleki yeterliliğine ilişkin ilgili idari kurumun verdiği uygunluk görüşüne ne ad verilir?",
       "option_a": "Onay Belgesi",
@@ -315,7 +315,7 @@
     },
     {
       "id": "1f39b8f8-2345-6789-0123-456789012345",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_askiya_alma",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__iznin_askiya_alinmasi",
       "topic_name": "İznin Askıya Alınması",
       "question_text": "Ücretsiz izin kullanımı nedeniyle iş sözleşmesinin askıya alınması durumunda Bakanlığa bildirim, en geç ne kadar süre önce yapılmalıdır?",
       "option_a": "En az bir gün önceden",
@@ -328,7 +328,7 @@
     },
     {
       "id": "2a40c9a9-3456-7890-1234-567890123456",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_nitelikli_isgucu",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__nitelikli_isgucu_kriterleri",
       "topic_name": "Nitelikli İşgücü Kriterleri",
       "question_text": "Nitelikli işgücü statüsünün değerlendirilmesinde, yabancının yıllık toplam ücretinin en az ne kadar olması kriter olarak belirlenmiştir?",
       "option_a": "Asgari ücretin 5 katı",
@@ -341,7 +341,7 @@
     },
     {
       "id": "3b51d0b0-4567-8901-2345-678901234567",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_evlilik",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__evli_yabancilar",
       "topic_name": "Evli Yabancılar",
       "question_text": "Bir Türk vatandaşı ile evli olan yabancıların çalışma izinlerinin 3 yıla kadar düzenlenebilmesi için kaç yıl evlilik birliği içinde yaşamış olmaları gerekir?",
       "option_a": "1 yıl",
@@ -354,7 +354,7 @@
     },
     {
       "id": "4c62e1c1-5678-9012-3456-789012345678",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_iptal_bildirim",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__belge_iadesi",
       "topic_name": "Belge İadesi",
       "question_text": "İptal edilen çalışma izni belgesinin Bakanlığa iadesi için tanınan süre kaç gündür?",
       "option_a": "7 gün",
@@ -367,7 +367,7 @@
     },
     {
       "id": "5d73f2d2-6789-0123-4567-890123456789",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_sinirdisi",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sinir_disi",
       "topic_name": "Sınır Dışı",
       "question_text": "Çalışma izni olmaksızın çalıştığı tespit edilen yabancının konaklama ve sınır dışı edilme masraflarını karşılamakla yükümlü olan kimdir?",
       "option_a": "Bakanlık",
@@ -380,7 +380,7 @@
     },
     {
       "id": "6e84a3e3-7890-1234-5678-901234567890",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_basvuru_sart",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__ikamet_sarti",
       "topic_name": "İkamet Şartı",
       "question_text": "Yurt içinden yapılacak çalışma izni başvurularında, yabancının en az kaç ay süreli geçerli bir ikamet iznine sahip olması gerekmektedir?",
       "option_a": "3 ay",
@@ -393,7 +393,7 @@
     },
     {
       "id": "7f95b4f4-8901-2345-6789-012345678901",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_denetim",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__denetim",
       "topic_name": "Denetim",
       "question_text": "Uluslararası İşgücü Kanunu kapsamındaki yükümlülüklerin denetimi hangi görevliler tarafından yapılır?",
       "option_a": "Yalnızca Kolluk Kuvvetleri",
@@ -406,7 +406,7 @@
     },
     {
       "id": "8a06c5a5-9012-3456-7890-123456789012",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_muafiyet_gemici",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__gemiadami_muafiyeti",
       "topic_name": "Gemiadamı Muafiyeti",
       "question_text": "Türk Uluslararası Gemi Siciline kayıtlı gemilerde görev yapan yabancı gemiadamlarının muafiyet süresi ne kadardır?",
       "option_a": "6 ay",
@@ -419,7 +419,7 @@
     },
     {
       "id": "9b17d6b6-0123-4567-8901-234567890123",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_uzatma_suresi",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sure_uzatma",
       "topic_name": "Süre Uzatma",
       "question_text": "Aynı işverene bağlı olarak yapılan ilk süre uzatma başvurusu olumlu sonuçlanan yabancının izni en çok kaç yıl uzatılır?",
       "option_a": "1 yıl",
@@ -432,7 +432,7 @@
     },
     {
       "id": "0c28e7c7-1234-5678-9012-345678901234",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_tebligat",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__elektronik_tebligat",
       "topic_name": "Elektronik Tebligat",
       "question_text": "Bağımsız çalışma izni başvurusu gerçekleştiren yabancının, başvuru sürecinde hangisine sahip olması zorunludur?",
       "option_a": "Banka hesabı",
@@ -445,7 +445,7 @@
     },
     {
       "id": "1d39f8d8-2345-6789-0123-456789012345",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_uzatma_devam",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__calismaya_devam",
       "topic_name": "Çalışmaya Devam",
       "question_text": "Süre uzatma başvurusu yapan yabancı, başvurunun değerlendirilme sürecinde, her halükarda en fazla kaç günü geçmemek üzere çalışmaya devam edebilir?",
       "option_a": "30 gün",
@@ -458,7 +458,7 @@
     },
     {
       "id": "2e40a9e9-3456-7890-1234-567890123456",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_basvuru_onay",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__referans_numarasi",
       "topic_name": "Referans Numarası",
       "question_text": "Yurt dışından yapılan başvurularda işveren, sistem tarafından üretilen referans numarası ile başvuruyu kaç gün içinde onaylamalıdır?",
       "option_a": "10 gün",
@@ -471,7 +471,7 @@
     },
     {
       "id": "3f51b0f0-4567-8901-2345-678901234567",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_kayip",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__kayip_belgeler",
       "topic_name": "Kayıp Belgeler",
       "question_text": "Belgenin kaybolması nedeniyle yenilenmesi durumunda, harç bedelinin ne kadarı tahsil edilir?",
       "option_a": "Tamamı",
@@ -484,7 +484,7 @@
     },
     {
       "id": "4a62c1a1-5678-9012-3456-789012345678",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_gecerlilik",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__izin_ve_pasaport_iliskisi",
       "topic_name": "İzin ve Pasaport İlişkisi",
       "question_text": "Düzenlenen çalışma izni süresi, yabancının pasaport geçerlilik süresinden kaç gün daha kısa olacak şekilde planlanır?",
       "option_a": "30 gün",
@@ -497,7 +497,7 @@
     },
     {
       "id": "5b73d2b2-6789-0123-4567-890123456789",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_meslek_kisiti",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__is_ve_meslek_kisiti",
       "topic_name": "İş ve Meslek Kısıtı",
       "question_text": "Özel kanunlarla yalnızca Türk vatandaşlarının icra edebileceği belirlenen meslekler için yapılan çalışma izni başvuruları nasıl sonuçlandırılır?",
       "option_a": "Reddedilir",
@@ -510,7 +510,7 @@
     },
     {
       "id": "6c84e3c3-7890-1234-5678-901234567890",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_muafiyet_yenileme",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__yeni_basvuru_suresi",
       "topic_name": "Yeni Başvuru Süresi",
       "question_text": "Çalışma izni muafiyeti hakkı sona eren yabancıların, aynı kapsamda yeni bir başvuru yapabilmeleri için geçmesi gereken asgari süre nedir?",
       "option_a": "6 ay",
@@ -523,7 +523,7 @@
     },
     {
       "id": "7d95f4d4-8901-2345-6789-012345678901",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_sirket_ici",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sirket_ici_degisim",
       "topic_name": "Şirket İçi Değişim",
       "question_text": "Şirket içi çalışan değişimi kapsamında stajyer olarak görev alacak yabancılar için verilebilecek azami izin süresi ne kadardır?",
       "option_a": "6 ay",
@@ -536,7 +536,7 @@
     },
     {
       "id": "8e06a5e5-9012-3456-7890-123456789012",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_tanitim_ofisi",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__tanitim_ofisi",
       "topic_name": "Tanıtım Ofisi",
       "question_text": "Uluslararası işgücü politikalarının tanıtımı amacıyla faaliyet gösteren ofislere verilen isim nedir?",
       "option_a": "Kariyer Merkezi",
@@ -549,7 +549,7 @@
     },
     {
       "id": "9f17b6f6-0123-4567-8901-234567890123",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_yabanci_tanimi",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__genel_tanimlar",
       "topic_name": "Genel Tanımlar",
       "question_text": "İlgili Yönetmelik kapsamında 'Yabancı' ifadesi neyi tanımlamaktadır?",
       "option_a": "Sadece çalışma izni olmayan kişileri",
@@ -562,7 +562,7 @@
     },
     {
       "id": "0a28c7a7-1234-5678-9012-345678901234",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_itiraz_mercisi",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__itiraz_usulu",
       "topic_name": "İtiraz Usulü",
       "question_text": "Bakanlık kararlarına yönelik yapılacak itiraz başvuruları hangi yöntemle gerçekleştirilir?",
       "option_a": "Yazılı dilekçe ile posta yoluyla",
@@ -575,7 +575,7 @@
     },
     {
       "id": "1b39d8b8-2345-6789-0123-456789012345",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_bildirim_sgk",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sgk_bildirimi",
       "topic_name": "SGK Bildirimi",
       "question_text": "SGK'ya yapılan hangi bildirimler, ayrıca Bakanlığa bildirim yapılmasına gerek kalmaksızın geçerli kabul edilir?",
       "option_a": "Vergi dairesi kayıtları",
@@ -588,7 +588,7 @@
     },
     {
       "id": "2c40e9c9-3456-7890-1234-567890123456",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_muafiyet_staj",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__stajyer_muafiyeti",
       "topic_name": "Stajyer Muafiyeti",
       "question_text": "Öğrenci değişim programları kapsamında staj yapacak yabancıların çalışma izni muafiyet süresi ne kadardır?",
       "option_a": "1 ay",
@@ -601,7 +601,7 @@
     },
     {
       "id": "3d51f0d0-4567-8901-2345-678901234567",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_sube_degisikligi",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__sube_degisikligi",
       "topic_name": "Şube Değişikliği",
       "question_text": "Aynı işverenin başka ildeki şubesinde görevlendirilecek yabancı için izlenmesi gereken prosedür nedir?",
       "option_a": "Yeni bir izin başvurusu yapılır.",
@@ -614,7 +614,7 @@
     },
     {
       "id": "4e62a1e1-5678-9012-3456-789012345678",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_bilgi_paylasimi",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__bilgi_talebi",
       "topic_name": "Bilgi Talebi",
       "question_text": "Genel Müdürlüğün talep ettiği bilgi ve belgelerin ilgililer tarafından sunulması için verilen süre nedir?",
       "option_a": "7 gün",
@@ -627,7 +627,7 @@
     },
     {
       "id": "5f73b2f2-6789-0123-4567-890123456789",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_muehlet",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__yurda_giris_ve_baslama",
       "topic_name": "Yurda Giriş ve Başlama",
       "question_text": "Yurt dışından yapılan başvurularda yabancı, Türkiye'ye giriş yaptığı tarihten itibaren en geç ne kadar süre içerisinde çalışmaya başlamalıdır?",
       "option_a": "15 gün",
@@ -640,7 +640,7 @@
     },
     {
       "id": "6a84c3a3-7890-1234-5678-901234567890",
-      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi_on_izin_kurum",
+      "topic_id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi__egitim_on_izni",
       "topic_name": "Eğitim Ön İzni",
       "question_text": "Eğitim hizmetlerinde mesleki faaliyette bulunacak yabancılar için ön izin vermeye yetkili makam hangisidir?",
       "option_a": "İçişleri Bakanlığı",

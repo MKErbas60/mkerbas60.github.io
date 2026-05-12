@@ -28,7 +28,7 @@
       "difficulty": 2
     },
     {
-      "id": "c2d3e4f5-a6b7-4c8d-9e0f-1a2b3c4d5e6f",
+      "id": "21cc7807-3689-465d-ba95-464cb657d41b",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Bir yatırımın ekonomik ömrü sonunda sahip olacağı tahmini satış değerine ne ad verilir?",
@@ -41,7 +41,7 @@
       "difficulty": 2
     },
     {
-      "id": "d3e4f5a6-b7c8-4d9e-0f1a-2b3c4d5e6f7a",
+      "id": "29f24c72-6dde-42a7-9f24-6df6e5e541c0",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Bitki hücrelerinde fotosentez olayının gerçekleştiği organel aşağıdakilerden hangisidir?",
@@ -54,7 +54,7 @@
       "difficulty": 1
     },
     {
-      "id": "e4f5a6b7-c8d9-4e0f-1a2b-3c4d5e6f7a8b",
+      "id": "67e85848-cfac-4a8f-88df-0401ff5c1781",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__ziraat_muhendisligine_giris",
       "topic_name": "Ziraat Mühendisliğine Giriş",
       "question_text": "Birim alandan elde edilen ürün miktarını artırmaya yönelik tarımsal üretim sistemine ne ad verilir?",
@@ -145,7 +145,7 @@
       "difficulty": 3
     },
     {
-      "id": "f1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+      "id": "52c7f403-d357-4ce3-a66d-85f1c923ee3f",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Bir veri grubunda en sık tekrar eden değere ne ad verilir?",
@@ -158,7 +158,7 @@
       "difficulty": 1
     },
     {
-      "id": "a2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
+      "id": "5746b6c0-38f2-4f44-b161-8a86b9ddcb21",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__ziraat_muhendisligine_giris",
       "topic_name": "Ziraat Mühendisliğine Giriş",
       "question_text": "Bitki yetiştirme ile uğraşan bilim dalına ne ad verilir?",
@@ -171,7 +171,7 @@
       "difficulty": 1
     },
     {
-      "id": "b3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+      "id": "74518889-5771-4fb1-87ba-58409325adff",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Toprağın kum, silt ve kil miktarlarının oranına ne ad verilir?",
@@ -184,7 +184,7 @@
       "difficulty": 2
     },
     {
-      "id": "c4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+      "id": "a6308037-4044-4c08-9a47-253385acd70e",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Hücrede protein sentezinin yapıldığı organel hangisidir?",
@@ -197,7 +197,7 @@
       "difficulty": 1
     },
     {
-      "id": "d5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f9a",
+      "id": "a5629215-41b7-4367-8d35-01891f5e85e8",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Korelasyon katsayısı (r) hangi değer aralığında bulunur?",
@@ -210,7 +210,7 @@
       "difficulty": 2
     },
     {
-      "id": "e6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9a0b",
+      "id": "50510987-8095-4f07-9a7b-24eedc9b5d68",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Normal dağılım eğrisi (Gaus eğrisi) hakkında hangisi doğrudur?",
@@ -223,7 +223,7 @@
       "difficulty": 2
     },
     {
-      "id": "f7a8b9c0-d1e2-4f3a-4b5c-6d7e8f9a0b1c",
+      "id": "13288412-baf5-48d6-895f-d53985c373ed",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
       "topic_name": "Diferansiyel Denklemler",
       "question_text": "$\frac{dy}{dx} = f(x)g(y)$ formundaki denklemlere ne ad verilir?",
@@ -236,7 +236,7 @@
       "difficulty": 2
     },
     {
-      "id": "a8b9c0d1-e2f3-4a4b-5c6d-7e8f9a0b1c2d",
+      "id": "cf280eba-e1ac-4511-83f3-461247f2ffeb",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Gelirlerin giderlere eşit olduğu, kâr veya zararın sıfır olduğu noktaya ne ad verilir?",
@@ -249,7 +249,7 @@
       "difficulty": 2
     },
     {
-      "id": "b9c0d1e2-f3a4-4b5c-6d7e-8f9a0b1c2d3e",
+      "id": "b96d6f85-e27a-4d52-8b39-e75f53a2040b",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "DNA eşlenmesine (replikasyonuna) hücre döngüsünün hangi evresinde rastlanır?",
@@ -262,7 +262,7 @@
       "difficulty": 2
     },
     {
-      "id": "c0d1e2f3-a4b5-4c6d-7e8f-9a0b1c2d3e4f",
+      "id": "3b4bedab-d118-4655-bfd8-d44a0a996536",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Bitki tarafından alınabilir suyun üst sınırı aşağıdakilerden hangisidir?",
@@ -275,7 +275,7 @@
       "difficulty": 2
     },
     {
-      "id": "d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a",
+      "id": "e86093a4-ac55-41ba-bbc2-a76fad857c0c",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__ziraat_muhendisligine_giris",
       "topic_name": "Ziraat Mühendisliğine Giriş",
       "question_text": "Toprağı işlemeden, ekim mibzeri ile doğrudan ekim yapılmasına ne ad verilir?",
@@ -288,7 +288,7 @@
       "difficulty": 2
     },
     {
-      "id": "e2f3a4b5-c6d7-4e8f-9a0b-1c2d3e4f5a6b",
+      "id": "727e7bea-ac9d-407a-af5a-702a3f9cf1b1",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__istatistik_ve_olasilik",
       "topic_name": "İstatistik ve Olasılık",
       "question_text": "Varyansın karekökü aşağıdakilerden hangisini verir?",
@@ -301,7 +301,7 @@
       "difficulty": 1
     },
     {
-      "id": "f3a4b5c6-d7e8-4f9a-0b1c-2d3e4f5a6b7c",
+      "id": "db34806d-59bd-4a1d-a8d5-750c72ae3ece",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Bir yatırımın kârlı kabul edilebilmesi için Net Bugünkü Değerin (NBD) kaçtan büyük olması gerekir?",
@@ -314,7 +314,7 @@
       "difficulty": 2
     },
     {
-      "id": "a4b5c6d7-e8f9-4a0b-1c2d-3e4f5a6b7c8d",
+      "id": "663307e2-1763-41c5-b728-c843c1198048",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__biyoloji",
       "topic_name": "Biyoloji",
       "question_text": "Mendel kanunlarına göre, baskın bir genle çekinik bir gen yan yana geldiğinde hangi genin özelliği fenotipte görülür?",
@@ -327,7 +327,7 @@
       "difficulty": 1
     },
     {
-      "id": "b5c6d7e8-f9a0-4b1c-2d3e-4f5a6b7c8d9e",
+      "id": "8308c2d8-3560-4289-bf36-037bd5fa4ee1",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__toprak_bilgisi",
       "topic_name": "Toprak Bilgisi",
       "question_text": "Toprağın suyla doygun olduğu durumda tüm gözeneklerin suyla dolu olması haline ne ad verilir?",
@@ -340,7 +340,7 @@
       "difficulty": 1
     },
     {
-      "id": "c6d7e8f9-a0b1-4c2d-3e4f-5a6b7c8d9e0f",
+      "id": "054c2f08-6c08-4feb-ac44-cc58b282a8f7",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__diferansiyel_denklemler",
       "topic_name": "Diferansiyel Denklemler",
       "question_text": "$y' + P(x)y = Q(x)$ formundaki bir denklem ne tür bir denklemdir?",
@@ -366,7 +366,7 @@
       "difficulty": 3
     },
     {
-      "id": "e8f9a0b1-c2d3-4e4f-5a6b-7c8d9e0f1a2b",
+      "id": "c8cd666c-8ed0-4c14-91bb-1f1267ad0364",
       "topic_id": "alan_bilgisi_ziraat_muhendisligi__muhendislik_ekonomisi",
       "topic_name": "Mühendislik Ekonomisi",
       "question_text": "Belirli bir süre boyunca yapılan eşit ödemeler dizisine ne ad verilir?",

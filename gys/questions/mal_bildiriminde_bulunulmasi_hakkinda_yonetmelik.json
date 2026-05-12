@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "9677e6cb-5c68-459c-a3c6-6b01cd615973",
-      "topic_id": "mal_bildirimi_amac",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__genel_hukumler",
       "topic_name": "Genel Hükümler",
       "question_text": "Mal Bildiriminde Bulunulması Hakkında Yönetmelik'in yasal dayanağını oluşturan kanun aşağıdakilerden hangisidir?",
       "option_a": "657 sayılı Devlet Memurları Kanunu",
@@ -16,7 +16,7 @@
     },
     {
       "id": "373a46bb-215a-4610-ac03-98c476ad2501",
-      "topic_id": "haksiz_mal_edinme_tanimi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__genel_hukumler",
       "topic_name": "Genel Hükümler",
       "question_text": "Yönetmeliğe göre, ilgilinin sosyal yaşantısı ve harcamalarının, bilinen gelirleriyle uyumsuz olması durumunda ortaya çıkan mal varlığı artışına ne ad verilir?",
       "option_a": "Ek kazanç",
@@ -29,7 +29,7 @@
     },
     {
       "id": "f9325099-8a4f-43b3-b16a-16b01a97e076",
-      "topic_id": "mal_bildirimi_kapsam_istisna",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminde_bulunacaklar",
       "topic_name": "Mal Bildiriminde Bulunacaklar",
       "question_text": "Seçimle iş başına gelen aşağıdaki kamu görevlilerinden hangisi, Mal Bildiriminde Bulunulması Hakkında Yönetmelik kapsamı dışında tutulmuştur?",
       "option_a": "Belediye Başkanları",
@@ -42,7 +42,7 @@
     },
     {
       "id": "d4e5f6a7-8b9c-4d0e-1f2a-3b4c5d6e7f8a",
-      "topic_id": "noterler_bildirim",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminde_bulunacaklar",
       "topic_name": "Mal Bildiriminde Bulunacaklar",
       "question_text": "Noterler, mal bildirimlerini hangi kuruma sunmakla yükümlüdür?",
       "option_a": "Noterler Birliği",
@@ -55,7 +55,7 @@
     },
     {
       "id": "e5f6a7b8-9c0d-4e1f-2a3b-4c5d6e7f8a9b",
-      "topic_id": "eslerin_bildirimi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__eslerin_mal_bildirimi",
       "topic_name": "Eşlerin Mal Bildirimi",
       "question_text": "Her ikisi de mal bildirimi yükümlülüğü kapsamında olan eşlerin bildirimlerini yapma usulü nasıldır?",
       "option_a": "Sadece bir eş ortak bildirim verir",
@@ -68,7 +68,7 @@
     },
     {
       "id": "f6a7b8c9-0d1e-4f2a-3b4c-5d6e7f8a9b0c",
-      "topic_id": "vekaleten_gorev_bildirim",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__birden_fazla_mal_bildirimi",
       "topic_name": "Birden Fazla Mal Bildirimi",
       "question_text": "Asli görevi uhdesinde kalmak koşuluyla ikinci bir görevi de yürüten bir kamu görevlisi, mal bildirimini nasıl yapmalıdır?",
       "option_a": "Her iki görev için ayrı ayrı bildirim vermelidir",
@@ -81,7 +81,7 @@
     },
     {
       "id": "30dc8d14-fabe-4876-a5d1-ca2e1dc35715",
-      "topic_id": "siyasi_parti_bildirim",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilecegi_merciler",
       "topic_name": "Mal Bildiriminin Verileceği Merciler",
       "question_text": "Siyasi parti genel başkanları mal bildirimlerini hangi makama sunmakla yükümlüdür?",
       "option_a": "Anayasa Mahkemesi",
@@ -94,7 +94,7 @@
     },
     {
       "id": "267c0c83-1ea9-495e-859a-5bbb33ef0083",
-      "topic_id": "tasinmaz_mal_bildirimi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_konusu",
       "topic_name": "Mal Bildiriminin Konusu",
       "question_text": "Yönetmeliğe göre, değeri ne olursa olsun mutlaka mal bildirimine konu edilmesi gereken varlık grubu aşağıdakilerden hangisidir?",
       "option_a": "Ev eşyaları",
@@ -107,7 +107,7 @@
     },
     {
       "id": "1d844aa2-0617-43ff-8f6b-67a605ae7ceb",
-      "topic_id": "aylik_kat_siniri",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_konusu",
       "topic_name": "Mal Bildiriminin Konusu",
       "question_text": "Aylık ödenen kamu görevlileri için taşınır mal bildiriminde bulunma sınırı, net aylık tutarının kaç katıdır?",
       "option_a": "2 katı",
@@ -120,7 +120,7 @@
     },
     {
       "id": "35f82de4-ffec-4dbc-9656-5a4a6599ae72",
-      "topic_id": "goreve_atamada_sure",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilme_zamani",
       "topic_name": "Mal Bildiriminin Verilme Zamanı",
       "question_text": "Kamu görevlerine ilk defa atanan bir kişi, mal bildirimini ne zaman sunmalıdır?",
       "option_a": "Göreve başladıktan 15 gün sonra",
@@ -133,7 +133,7 @@
     },
     {
       "id": "505c28cf-1140-4810-a64c-c3a5ffb52d93",
-      "topic_id": "gorevi_sona_erme_sure",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilme_zamani",
       "topic_name": "Mal Bildiriminin Verilme Zamanı",
       "question_text": "Görevi sona eren bir kamu görevlisi, mal bildirimini hangi süre içinde vermelidir?",
       "option_a": "Görevin sona erdiği tarihi izleyen 15 gün içinde",
@@ -146,7 +146,7 @@
     },
     {
       "id": "0091de19-3458-482d-b98b-6d3737005498",
-      "topic_id": "ek_mal_bildirimi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__ek_mal_bildirimi",
       "topic_name": "Ek Mal Bildirimi",
       "question_text": "Mal varlığında önemli bir değişiklik meydana geldiğinde, ek mal bildirimi verilmesi için öngörülen yasal süre nedir?",
       "option_a": "15 gün",
@@ -159,7 +159,7 @@
     },
     {
       "id": "9d29225d-ea9f-4d5c-a587-a2e5f2186b54",
-      "topic_id": "bildirimin_yenilenmesi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_yenilenmesi",
       "topic_name": "Mal Bildiriminin Yenilenmesi",
       "question_text": "Mal bildirimleri hangi yıllarda ve hangi ayın sonuna kadar yenilenmelidir?",
       "option_a": "Sonu (0) ve (5) ile biten yılların Ocak ayı sonuna kadar",
@@ -172,7 +172,7 @@
     },
     {
       "id": "73528121-cfee-4966-ad24-fe916cf615f0",
-      "topic_id": "hediye_teslim_siniri",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__hediye_ve_hibeler",
       "topic_name": "Hediye ve Hibeler",
       "question_text": "Yabancı devletlerden veya kuruluşlardan alınan hediyelerin, değerinin kaç aylık net asgari ücreti aşması durumunda kuruma teslim edilmesi zorunludur?",
       "option_a": "5 aylık",
@@ -185,7 +185,7 @@
     },
     {
       "id": "0b84e0f3-5ea5-4d7c-b9ca-7e0f4b09d069",
-      "topic_id": "hediye_istisna",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__hediye_ve_hibeler",
       "topic_name": "Hediye ve Hibeler",
       "question_text": "Yönetmelik hükümlerine göre, aşağıdakilerden hangisi hediye alma yasağı ve teslim yükümlülüğü kapsamı dışındadır?",
       "option_a": "Yabancı devletten alınan altın takı",
@@ -198,7 +198,7 @@
     },
     {
       "id": "cb426c45-5f65-4790-a919-43be1844fdb2",
-      "topic_id": "deger_takdiri_komisyon",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__hediye_ve_hibeler",
       "topic_name": "Hediye ve Hibeler",
       "question_text": "Hediye edilen malların gerçek değerinin tespiti, hangi kanuna göre kurulan takdir komisyonunca yapılır?",
       "option_a": "Devlet İhale Kanunu",
@@ -211,7 +211,7 @@
     },
     {
       "id": "d7956621-0710-4320-9e70-1cd8af515388",
-      "topic_id": "bildirimlerin_gizliligi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Mal bildirimlerinin içeriği hakkında, kanunen yetkili merciler dışında kimlere bilgi verilebilir?",
       "option_a": "Basın kuruluşlarına",
@@ -224,7 +224,7 @@
     },
     {
       "id": "c94c6fef-92f8-4559-a6b7-643e2a5d6a1e",
-      "topic_id": "sure_ihtar_suç_duyurusu",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__suresinde_bildirimde_bulunmama",
       "topic_name": "Süresinde Bildirimde Bulunmama",
       "question_text": "Bildirimde bulunmayanlara yapılan ihtarın tebliğinden itibaren, ne kadar süre içinde bildirimde bulunulmazsa suç duyurusunda bulunulur?",
       "option_a": "7 gün",
@@ -237,7 +237,7 @@
     },
     {
       "id": "a61cb919-a28c-4e84-b20a-1fead35ba2cc",
-      "topic_id": "bildirimlerin_saklanmasi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Mal bildirimleri, personelin hangi dosyasında saklanmak zorundadır?",
       "option_a": "Özlük dosyasında",
@@ -250,7 +250,7 @@
     },
     {
       "id": "1aa4e804-7581-400f-b73b-0d1a2018ab4f",
-      "topic_id": "yurutme_yetkisi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__yurutme",
       "topic_name": "Yürütme",
       "question_text": "Mal Bildiriminde Bulunulması Hakkında Yönetmelik hükümlerini yürütme yetkisi kime aittir?",
       "option_a": "Cumhurbaşkanı",
@@ -263,7 +263,7 @@
     },
     {
       "id": "15054a90-ba83-4e71-acab-737e79f0edf2",
-      "topic_id": "kooperatif_hissesi_bildirim",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_konusu",
       "topic_name": "Mal Bildiriminin Konusu",
       "question_text": "Arsa ve yapı kooperatif hisselerinin mal bildirimindeki durumu nedir?",
       "option_a": "Sadece tapu alındığında bildirilir",
@@ -276,7 +276,7 @@
     },
     {
       "id": "f83d98ef-ed4f-48c2-87b6-74761bb11538",
-      "topic_id": "mustesarlarin_sorumlulugu",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__sorumluluk",
       "topic_name": "Sorumluluk",
       "question_text": "Müsteşarların personelin mal bildirimlerine ilişkin görev ve yetkileri arasında aşağıdakilerden hangisi yer almaz?",
       "option_a": "İnceleme ve karşılaştırma yapılmasını sağlamak",
@@ -289,7 +289,7 @@
     },
     {
       "id": "021fe198-3861-4d41-b440-4e1d2114207e",
-      "topic_id": "gayrimenkul_deger_esasi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_konusu",
       "topic_name": "Mal Bildiriminin Konusu",
       "question_text": "Beyan edilecek malların değerlemesinde hangi tarih esas alınır?",
       "option_a": "Satın alma tarihindeki değer",
@@ -302,7 +302,7 @@
     },
     {
       "id": "f547c20a-cd47-459a-8ad9-3f48bc74527b",
-      "topic_id": "yeminli_mali_musavir_merci",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilecegi_merciler",
       "topic_name": "Mal Bildiriminin Verileceği Merciler",
       "question_text": "Yeminli mali müşavirler, mal bildirimlerini hangi kuruma sunmakla yükümlüdür?",
       "option_a": "Noterler Birliği",
@@ -315,7 +315,7 @@
     },
     {
       "id": "6b504fce-160d-4285-881b-28e36e2e3f43",
-      "topic_id": "gazete_yazarlari_merci",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilecegi_merciler",
       "topic_name": "Mal Bildiriminin Verileceği Merciler",
       "question_text": "Gazete sahipleri, sorumlu müdürleri ve yazarları mal bildirimlerini kime sunmakla yükümlüdür?",
       "option_a": "Bulundukları yerdeki en büyük mülki amirliğe",
@@ -328,7 +328,7 @@
     },
     {
       "id": "c324807c-3eea-40cb-b66b-ea386ddc53b0",
-      "topic_id": "belediye_baskani_merci",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilecegi_merciler",
       "topic_name": "Mal Bildiriminin Verileceği Merciler",
       "question_text": "Belediye başkanları mal bildirimlerini hangi makama sunarlar?",
       "option_a": "İlgili Valilik",
@@ -341,7 +341,7 @@
     },
     {
       "id": "3d79e6fc-1787-4400-b0dc-bc04bd98e89d",
-      "topic_id": "bilgi_verme_zorunlulugu",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Özel ve kamu kuruluşları, 3628 sayılı Kanun uyarınca yetkili mercilerden talep edilen bilgileri vermekle yükümlü müdür?",
       "option_a": "Sadece kamu kuruluşları zorundadır",
@@ -354,7 +354,7 @@
     },
     {
       "id": "62496ce7-30bb-47f7-a1b4-06d9ac0b1478",
-      "topic_id": "karsilastirma_sonucu_islem",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Mal bildirimlerinin karşılaştırılması sonucunda gerçeğe aykırı bildirimde bulunduğu anlaşılanlar hakkında ne yapılır?",
       "option_a": "Sadece disiplin cezası verilir",
@@ -367,7 +367,7 @@
     },
     {
       "id": "5a0ebb81-e4fc-4a53-b663-46d26639b92e",
-      "topic_id": "bakanlar_kurulu_uye_sure",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilme_zamani",
       "topic_name": "Mal Bildiriminin Verilme Zamanı",
       "question_text": "Bakanlar Kurulu üyeleri, mal bildirimini hangi süre içinde sunmalıdır?",
       "option_a": "Seçimin kesinleşmesini izleyen bir ay",
@@ -380,7 +380,7 @@
     },
     {
       "id": "e08f7907-daa5-4ae7-a0e7-5ecb069c5f8c",
-      "topic_id": "sivil_toplum_bildirim",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminde_bulunacaklar",
       "topic_name": "Mal Bildiriminde Bulunacaklar",
       "question_text": "Aşağıdaki sivil toplum kuruluşu görevlilerinden hangisi mal bildirimi vermek zorundadır?",
       "option_a": "Tüm spor kulübü başkanları",
@@ -393,7 +393,7 @@
     },
     {
       "id": "2234e267-c632-4cd4-b361-3d77bb9fcf20",
-      "topic_id": "belge_form_doldurma",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__form_islemleri",
       "topic_name": "Form İşlemleri",
       "question_text": "Mal bildirimi formu kaç nüsha olarak doldurulmalıdır?",
       "option_a": "Tek nüsha",
@@ -406,7 +406,7 @@
     },
     {
       "id": "9c02f966-56ea-4bca-8a26-5c6756702995",
-      "topic_id": "velayet_alti_cocuklar",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_konusu",
       "topic_name": "Mal Bildiriminin Konusu",
       "question_text": "Kamu görevlisi, mal bildiriminde bulunurken kimlerin mal varlığını bildirmek zorundadır?",
       "option_a": "Sadece kendisinin",
@@ -419,7 +419,7 @@
     },
     {
       "id": "4af22a56-8211-4c11-b924-264b5cce3cbb",
-      "topic_id": "ayliksiz_gorevli_sinir",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_konusu",
       "topic_name": "Mal Bildiriminin Konusu",
       "question_text": "Aylık ödenmeyen kamu görevlileri için mal bildirimi sınırı, hangi unvanın maaşına göre belirlenir?",
       "option_a": "Genel Müdür",
@@ -432,7 +432,7 @@
     },
     {
       "id": "53d1c243-649a-4b76-b718-dbc7bae8174e",
-      "topic_id": "hediye_bildirim_suresi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__hediye_ve_hibeler",
       "topic_name": "Hediye ve Hibeler",
       "question_text": "On aylık net asgari ücreti aşan hediyelerin kuruma teslim süresi nedir?",
       "option_a": "15 gün",
@@ -445,7 +445,7 @@
     },
     {
       "id": "0e8ba835-f3d2-4058-a9f8-778f05d1c200",
-      "topic_id": "komisyon_baslama_sure",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilme_zamani",
       "topic_name": "Mal Bildiriminin Verilme Zamanı",
       "question_text": "Komisyon üyeliğine atananlar için bildirim verme süresi nedir?",
       "option_a": "Atamayı izleyen 15 gün",
@@ -458,7 +458,7 @@
     },
     {
       "id": "b5cd475d-7a80-4792-98b7-c3427978772f",
-      "topic_id": "ihmalli_davranis_suç",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__suresinde_bildirimde_bulunmama",
       "topic_name": "Süresinde Bildirimde Bulunmama",
       "question_text": "Müfettiş ve muhakkikler, mal bildirimi vermeyenler hakkında ne yapmakla yükümlüdür?",
       "option_a": "Sadece disiplin raporuna yazarlar",
@@ -471,7 +471,7 @@
     },
     {
       "id": "4ec577ad-bff2-47dd-9e5b-2b9501ee4c21",
-      "topic_id": "seçimle_gelenler_sure",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilme_zamani",
       "topic_name": "Mal Bildiriminin Verilme Zamanı",
       "question_text": "Seçimle gelinen görevlerde mal bildirimi ne zaman verilir?",
       "option_a": "Seçim gününden önce",
@@ -484,7 +484,7 @@
     },
     {
       "id": "f7ffa404-8a57-40d5-a6dd-509ffdae29b0",
-      "topic_id": "bilgisayarli_karsilastirma",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler",
       "topic_name": "Çeşitli Hükümler",
       "question_text": "Mal bildirimlerinin bilgisayar ortamında karşılaştırılmasına ilişkin esasları belirleme yetkisi kime aittir?",
       "option_a": "Bakanlar Kurulu",
@@ -497,7 +497,7 @@
     },
     {
       "id": "3c7b3b44-5ad5-4be3-83b7-0a12fca59a30",
-      "topic_id": "meslek_kurulusu_merci",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilecegi_merciler",
       "topic_name": "Mal Bildiriminin Verileceği Merciler",
       "question_text": "Kamu kurumu niteliğindeki meslek kuruluşlarının yönetim kurulu üyeleri bildirimlerini nereye verirler?",
       "option_a": "Kendi kurum başkanlığına",
@@ -510,7 +510,7 @@
     },
     {
       "id": "17ff4b0c-18a9-4307-8470-9e7166cbf623",
-      "topic_id": "mülki_amir_gorevi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilecegi_merciler",
       "topic_name": "Mal Bildiriminin Verileceği Merciler",
       "question_text": "Gazete sahipleri için mal bildirim mercii hangisidir?",
       "option_a": "İçişleri Bakanlığı",
@@ -523,7 +523,7 @@
     },
     {
       "id": "a541de76-3c97-4044-864f-4ce2a92e7f76",
-      "topic_id": "form_bolum_icerik",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__form_islemleri",
       "topic_name": "Form İşlemleri",
       "question_text": "Mal bildirimi formunun 2. bölümünde ne tür bilgiler yer almaktadır?",
       "option_a": "Kimlik bilgileri",
@@ -536,7 +536,7 @@
     },
     {
       "id": "bc5adaaf-b046-420f-b5e2-29ed9b2f7924",
-      "topic_id": "form_bolum_tasit",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__form_islemleri",
       "topic_name": "Form İşlemleri",
       "question_text": "Taşıt bilgileri, mal bildirimi formunun hangi bölümünde beyan edilir?",
       "option_a": "Bölüm 2",
@@ -549,7 +549,7 @@
     },
     {
       "id": "3a4b5c6d-7e8f-9a0b-1c2d-e3f4a5b6c7d8",
-      "topic_id": "asgari_ucret_kriteri",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__hediye_ve_hibeler",
       "topic_name": "Hediye ve Hibeler",
       "question_text": "Hediye takdirinde 'on aylık net asgari ücret' hesaplanırken hangi tarih esas alınır?",
       "option_a": "Yılın ilk günü",
@@ -562,7 +562,7 @@
     },
     {
       "id": "4b5c6d7e-8f9a-0b1c-2d3e-f4a5b6c7d8e9",
-      "topic_id": "kizilay_merci",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_verilecegi_merciler",
       "topic_name": "Mal Bildiriminin Verileceği Merciler",
       "question_text": "Türkiye Kızılay Derneği şube başkanları mal bildirimlerini nereye sunarlar?",
       "option_a": "Kızılay Genel Müdürlüğü",
@@ -575,7 +575,7 @@
     },
     {
       "id": "5c6d7e8f-9a0b-1c2d-3e4f-a5b6c7d8e9f0",
-      "topic_id": "ihbar_ve_resen",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__sorumluluk",
       "topic_name": "Sorumluluk",
       "question_text": "Yetkili merciler mal bildirimlerini ne zaman karşılaştırırlar?",
       "option_a": "Sadece ihbar olduğunda",
@@ -588,7 +588,7 @@
     },
     {
       "id": "6d7e8f9a-0b1c-2d3e-4f5a-b6c7d8e9f0a1",
-      "topic_id": "tazminat_haric_aylik",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminin_konusu",
       "topic_name": "Mal Bildiriminin Konusu",
       "question_text": "Net aylık tutarı hesaplanırken Maliye Bakanlığınca neye göre tespit ve ilan yapılır?",
       "option_a": "Katsayıların belirlenmesini müteakip",
@@ -601,7 +601,7 @@
     },
     {
       "id": "7e8f9a0b-1c2d-3e4f-5a6b-c7d8e9f0a1b2",
-      "topic_id": "kooperatif_bilgileri_form",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__form_islemleri",
       "topic_name": "Form İşlemleri",
       "question_text": "Kooperatif bilgileri, mal bildirimi formunun hangi bölümüne kaydedilir?",
       "option_a": "Bölüm 1",
@@ -614,7 +614,7 @@
     },
     {
       "id": "8f9a0b1c-2d3e-4f5a-6b7c-d8e9f0a1b2c3",
-      "topic_id": "vakif_organ_bildirim",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminde_bulunacaklar",
       "topic_name": "Mal Bildiriminde Bulunacaklar",
       "question_text": "Vakıfların idare organlarında görev alanlar bildirimlerini nereye sunarlar?",
       "option_a": "İçişleri Bakanlığı",
@@ -627,7 +627,7 @@
     },
     {
       "id": "9a0b1c2d-3e4f-5a6b-7c8d-e9f0a1b2c3d4",
-      "topic_id": "asli_gorev_ilkesi",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__birden_fazla_mal_bildirimi",
       "topic_name": "Birden Fazla Mal Bildirimi",
       "question_text": "Birden fazla mal bildirimi vermesi gereken kişiler kaç merciye bildirim sunar?",
       "option_a": "Hepsine ayrı ayrı",
@@ -640,7 +640,7 @@
     },
     {
       "id": "0b1c2d3e-4f5a-6b7c-8d9e-f0a1b2c3d4e5",
-      "topic_id": "idare_meclisi_bildirim",
+      "topic_id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildiriminde_bulunacaklar",
       "topic_name": "Mal Bildiriminde Bulunacaklar",
       "question_text": "Oda ve borsa meclis üyeleri mal bildirimi vermek zorunda mıdır?",
       "option_a": "Hayır, sadece yönetim kurulu zorundadır",

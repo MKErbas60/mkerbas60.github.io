@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "e2a1b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
-      "topic_id": "etik_yonetmelik_amac",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__amac_kapsam_ve_dayanak",
       "topic_name": "Amaç, Kapsam ve Dayanak",
       "question_text": "Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmeliği'nin 1. maddesinde belirtilen amaçlar arasında aşağıdakilerden hangisi yer almamaktadır?",
       "option_a": "Kamuda etik kültürünü yerleştirmek",
@@ -16,7 +16,7 @@
     },
     {
       "id": "f1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
-      "topic_id": "etik_yonetmelik_kapsam_disi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kapsam",
       "topic_name": "Kapsam",
       "question_text": "Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmeliği hükümlerinin uygulanmadığı (kapsam dışı tutulan) kurum veya kişiler arasında aşağıdakilerden hangisi yer almaktadır?",
       "option_a": "Kamu İktisadi Teşebbüsleri",
@@ -29,7 +29,7 @@
     },
     {
       "id": "a9b8c7d6-e5f4-4321-b1a2-c3d4e5f6a7b8",
-      "topic_id": "etik_yonetmelik_dayanak",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hukuki_dayanak",
       "topic_name": "Hukuki Dayanak",
       "question_text": "Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmeliği, hangi yasal düzenlemeye dayanılarak hazırlanmıştır?",
       "option_a": "657 sayılı Devlet Memurları Kanunu",
@@ -41,8 +41,8 @@
       "difficulty": 1
     },
     {
-      "id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
-      "topic_id": "etik_yonetmelik_hizmet_bilinci",
+      "id": "f4d22a88-4f33-49f4-a97b-1b3084bb6d0f",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_davranis_ilkeleri",
       "topic_name": "Etik Davranış İlkeleri",
       "question_text": "Yönetmeliğin 5. maddesinde tanımlanan kamu görevlilerinin hizmetin yerine getirilmesinde esas alması gereken ilkeler arasında aşağıdakilerden hangisi bulunmamaktadır?",
       "option_a": "Hesap verebilirlik",
@@ -55,7 +55,7 @@
     },
     {
       "id": "4cb3dd0c-ae43-42b9-a73c-bb81b41b7101",
-      "topic_id": "etik_yonetmelik_ayrimcilik_yasagi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__durustluk_ve_tarafsizlik",
       "topic_name": "Dürüstlük ve Tarafsızlık",
       "question_text": "Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmeliği'nin 9. maddesine göre kamu görevlileri aşağıdakilerden hangi gerekçeyle hizmette ayrımcılık yapabilirler?",
       "option_a": "Siyasi düşünce",
@@ -68,7 +68,7 @@
     },
     {
       "id": "2892f7f6-ec00-4f35-adce-5196291f3733",
-      "topic_id": "etik_yonetmelik_sayginlik_guven",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__sayginlik_ve_guven",
       "topic_name": "Saygınlık ve Güven",
       "question_text": "Yönetmeliğin 10. maddesi uyarınca yönetici konumundaki kamu görevlilerinin personeline karşı sergilemesi yasak olan tutum ve davranışlar arasında aşağıdakilerden hangisi yer almamaktadır?",
       "option_a": "Baskı ve hakaret etmek",
@@ -81,7 +81,7 @@
     },
     {
       "id": "bbd02728-b9e1-4346-93cc-33b9c19ce099",
-      "topic_id": "etik_yonetmelik_bildirim",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yetkili_makamlara_bildirim",
       "topic_name": "Yetkili Makamlara Bildirim",
       "question_text": "Etik ilkelere aykırı bir talep ile karşılaşan kamu görevlisi, Yönetmeliğin 12. maddesi gereği nasıl bir yol izlemelidir?",
       "option_a": "Talebi derhal yerine getirmelidir",
@@ -94,7 +94,7 @@
     },
     {
       "id": "c67617ad-de61-4aba-af86-877d74910d49",
-      "topic_id": "etik_yonetmelik_cikar_catismasi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__cikar_catismasi",
       "topic_name": "Çıkar Çatışması",
       "question_text": "Yönetmeliğin 13. maddesine göre 'çıkar çatışması' ifadesi nasıl tanımlanmıştır?",
       "option_a": "Sadece maddi kazanç elde etme durumu",
@@ -107,7 +107,7 @@
     },
     {
       "id": "8e6ed100-dd8f-4bfa-a28b-ef52c7ab6afb",
-      "topic_id": "etik_yonetmelik_kayirmacilik",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__menfaat_saglama_yasagi",
       "topic_name": "Menfaat Sağlama Yasağı",
       "question_text": "Kamu görevlilerinin 14. madde uyarınca eylemlerinde yasaklanan fiiller arasında aşağıdakilerden hangisi bulunmaktadır?",
       "option_a": "Kamu yararını gözetmek",
@@ -120,7 +120,7 @@
     },
     {
       "id": "0d81bf0c-e8b0-4905-a480-6ed1e3309aba",
-      "topic_id": "etik_yonetmelik_hediye_tanimi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hediye_alma_yasagi",
       "topic_name": "Hediye Alma Yasağı",
       "question_text": "Yönetmeliğin 15. maddesindeki düzenlemeler dikkate alındığında, hangisi hediye alma yasağı kapsamı dışındadır?",
       "option_a": "Ücretsiz konaklama",
@@ -133,7 +133,7 @@
     },
     {
       "id": "412e030b-80dc-4c10-b5af-b99a0ae62766",
-      "topic_id": "etik_yonetmelik_hediye_bildirim",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hediye_bildirimi",
       "topic_name": "Hediye Bildirimi",
       "question_text": "Yönetmeliğe göre, en az genel müdür düzeyindeki görevlilerin aldıkları hediyelerin listesini bildirme zamanı nedir?",
       "option_a": "Her ay sonu",
@@ -146,7 +146,7 @@
     },
     {
       "id": "6899f499-71a3-4e52-9185-d1f12e6267ad",
-      "topic_id": "etik_yonetmelik_kamu_mallari",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kamu_mallarinin_kullanimi",
       "topic_name": "Kamu Mallarının Kullanımı",
       "question_text": "Kamu görevlilerinin kamu taşıtlarını kullanırken uymaları gereken temel kural nedir?",
       "option_a": "Sadece özel işlerini halletmek için kullanabilirler",
@@ -159,7 +159,7 @@
     },
     {
       "id": "eb034057-4d10-4055-b27c-d585204b0007",
-      "topic_id": "etik_yonetmelik_savurganlik",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__savurganliktan_kacinma",
       "topic_name": "Savurganlıktan Kaçınma",
       "question_text": "Kamu görevlilerinin Yönetmeliğin 17. maddesine göre mesai saatlerini kullanırken benimsemeleri gereken tutum nedir?",
       "option_a": "Etkin, verimli ve tutumlu",
@@ -172,7 +172,7 @@
     },
     {
       "id": "4af0fede-7f91-46f2-85fd-f8f67c6b0fac",
-      "topic_id": "etik_yonetmelik_beyanat",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__baglayici_aciklamalar",
       "topic_name": "Bağlayıcı Açıklamalar",
       "question_text": "Yönetmeliğin 18. maddesine göre kamu görevlileri açıklama yaparken hangisinden kaçınmalıdır?",
       "option_a": "Doğru bilgi vermekten",
@@ -185,7 +185,7 @@
     },
     {
       "id": "5692a512-8a69-4971-bd42-5bbde797a0b7",
-      "topic_id": "etik_yonetmelik_bilgi_edinme",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__saydamlik",
       "topic_name": "Saydamlık",
       "question_text": "Kamu görevlileri bilgi veya belgeleri paylaşırken, 4982 sayılı Bilgi Edinme Hakkı Kanunu'ndaki istisnalar dışında nasıl hareket etmelidir?",
       "option_a": "Sadece üst makam onayıyla verebilirler",
@@ -198,7 +198,7 @@
     },
     {
       "id": "8b9c0d1e-2f3a-4b4c-d5e6-f7a8b9c0d1e2",
-      "topic_id": "etik_yonetmelik_yonetici_sorumluluk",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hesap_verme_sorumlulugu",
       "topic_name": "Hesap Verme Sorumluluğu",
       "question_text": "Yönetici konumundaki kamu görevlilerinin, personeline yönelik olarak 20. madde kapsamında bulunmayan sorumluluk nedir?",
       "option_a": "Etik eğitim programlarını sağlamak",
@@ -211,7 +211,7 @@
     },
     {
       "id": "9c0d1e2f-3a4b-4c5d-e6f7-a8b9c0d1e2f3",
-      "topic_id": "etik_yonetmelik_eski_memur",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__eski_kamu_gorevlileriyle_iliskiler",
       "topic_name": "Eski Kamu Görevlileriyle İlişkiler",
       "question_text": "Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmeliği'nin 21. maddesine göre eski kamu görevlilerine karşı tutum nasıl olmalıdır?",
       "option_a": "Hizmetlerden ayrıcalıklı yararlandırılabilirler",
@@ -224,7 +224,7 @@
     },
     {
       "id": "0d1e2f3a-4b5c-4d6e-f7a8-b9c0d1e2f3a4",
-      "topic_id": "etik_yonetmelik_mal_bildirimi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__mal_bildirimi",
       "topic_name": "Mal Bildirimi",
       "question_text": "Kamu görevlileri mal bildirimlerini hangi temel Kanun hükümlerine uyarınca yaparlar?",
       "option_a": "5176 sayılı Kanun",
@@ -237,7 +237,7 @@
     },
     {
       "id": "1e2f3a4b-5c6d-4e7f-a8b9-c0d1e2f3a4b5",
-      "topic_id": "etik_yonetmelik_sozlesme",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_sozlesme",
       "topic_name": "Etik Sözleşme",
       "question_text": "Kamu görevlileri göreve başladıktan sonra en geç ne kadar süre içinde 'Etik Sözleşme' imzalamakla yükümlüdür?",
       "option_a": "15 gün",
@@ -250,7 +250,7 @@
     },
     {
       "id": "2f3a4b5c-6d7e-4f8a-b9c0-d1e2f3a4b5c6",
-      "topic_id": "etik_yonetmelik_etik_komisyonu",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_komisyonu",
       "topic_name": "Etik Komisyonu",
       "question_text": "Kurum ve kuruluşlarda oluşturulan etik komisyonu asgari kaç kişiden oluşmaktadır?",
       "option_a": "2",
@@ -263,7 +263,7 @@
     },
     {
       "id": "3a4b5c6d-7e8f-4a9b-c0d1-e2f3a4b5c6d7",
-      "topic_id": "etik_yonetmelik_inceleme_suresi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__inceleme_ve_arastirma",
       "topic_name": "İnceleme ve Araştırma",
       "question_text": "Etik Kurulu, başvuruları inceleme ve araştırma sürecini en geç ne kadar sürede sonuçlandırmak zorundadır?",
       "option_a": "1 ay",
@@ -276,7 +276,7 @@
     },
     {
       "id": "4b5c6d7e-8f9a-4b0c-d1e2-f3a4b5c6d7e8",
-      "topic_id": "etik_yonetmelik_basvuru_hakkı",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_hakki",
       "topic_name": "Başvuru Hakkı",
       "question_text": "Etik Kurula başvuruda bulunabilmek için aşağıdakilerden hangisi şart değildir?",
       "option_a": "Medeni hakları kullanma ehliyetine sahip olmak",
@@ -289,7 +289,7 @@
     },
     {
       "id": "5c6d7e8f-9a0b-4c1d-e2f3-a4b5c6d7e8f9",
-      "topic_id": "etik_yonetmelik_basvuru_biçimi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_bicimleri",
       "topic_name": "Başvuru Biçimleri",
       "question_text": "Aşağıdakilerden hangisi Yönetmeliğin 32. maddesinde tanımlanan etik başvuru yollarından biri değildir?",
       "option_a": "Elektronik posta",
@@ -302,7 +302,7 @@
     },
     {
       "id": "6d7e8f9a-0b1c-4d2e-f3a4-b5c6d7e8f9a0",
-      "topic_id": "etik_yonetmelik_savunma_suresi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvurularin_incelenmesi",
       "topic_name": "Başvuruların İncelenmesi",
       "question_text": "Etik Kurul tarafından hakkında şikayet yapılan kamu görevlisine tanınan savunma süresi kaç gündür?",
       "option_a": "7 gün",
@@ -315,7 +315,7 @@
     },
     {
       "id": "7e8f9a0b-1c2d-4e3f-a4b5-c6d7e8f9a0b1",
-      "topic_id": "etik_yonetmelik_karar_yeter_sayisi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__toplanma_ve_karar",
       "topic_name": "Toplanma ve Karar",
       "question_text": "Etik Kurul, toplantılarını ve kararlarını hangi yeter sayı ile gerçekleştirir?",
       "option_a": "Üye tam sayısının salt çoğunluğu",
@@ -328,7 +328,7 @@
     },
     {
       "id": "8f9a0b1c-2d3e-4f4a-b5c6-d7e8f9a0b1c2",
-      "topic_id": "etik_yonetmelik_karar_duyurma",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kararlarin_duyurulmasi",
       "topic_name": "Kararların Duyurulması",
       "question_text": "Yönetmeliğin 39. maddesi uyarınca etik ilkeye aykırı davranışın tespiti halinde, verilen karar nasıl duyurulur?",
       "option_a": "Yerel gazetelerde ilan edilir",
@@ -341,7 +341,7 @@
     },
     {
       "id": "9a0b1c2d-3e4f-4a5b-c6d7-e8f9a0b1c2d3",
-      "topic_id": "etik_yonetmelik_zamanasimi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_suresi",
       "topic_name": "Başvuru Süresi",
       "question_text": "Yönetmeliğin 40. maddesine göre, etik aykırılık başvurusu fiilin oluş tarihinden itibaren en geç kaç yıl içinde yapılmalıdır?",
       "option_a": "1 yıl",
@@ -354,7 +354,7 @@
     },
     {
       "id": "0b1c2d3e-4f5a-4b6c-d7e8-f9a0b1c2d3e4",
-      "topic_id": "etik_yonetmelik_yurutme",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yurutme",
       "topic_name": "Yürütme",
       "question_text": "Yönetmeliğin yayım tarihindeki hükümlere göre, bu Yönetmelik hükümlerini yürütme yetkisi hangi makama aittir?",
       "option_a": "Cumhurbaşkanı",
@@ -367,7 +367,7 @@
     },
     {
       "id": "1c2d3e4f-5a6b-4c7d-e8f9-a0b1c2d3e4f5",
-      "topic_id": "etik_yonetmelik_hediye_istisna",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__hediye_yasagi_kapsami",
       "topic_name": "Hediye Yasağı Kapsamı",
       "question_text": "Yönetmeliğin 15. maddesi uyarınca aşağıdakilerden hangisi 'hediye alma yasağı' kapsamındadır?",
       "option_a": "Kitap ve dergiler",
@@ -380,7 +380,7 @@
     },
     {
       "id": "2d3e4f5a-6b7c-4d8e-f9a0-b1c2d3e4f5a6",
-      "topic_id": "etik_yonetmelik_etik_komisyonu_bildirim",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_komisyonu",
       "topic_name": "Etik Komisyonu",
       "question_text": "Etik komisyonu üyelerinin bilgileri, oluşturulduklarından itibaren en geç kaç ay içinde Etik Kurulu'na bildirilir?",
       "option_a": "1 ay",
@@ -393,7 +393,7 @@
     },
     {
       "id": "3e4f5a6b-7c8d-4e9f-a0b1-c2d3e4f5a6b7",
-      "topic_id": "etik_yonetmelik_basvuru_usulu",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_usulu",
       "topic_name": "Başvuru Usulü",
       "question_text": "Dilekçe ile yapılan etik başvurularda, Yönetmeliğin 33. maddesi gereği hangi zorunluluk bulunmamaktadır?",
       "option_a": "Ad ve soyad belirtilmesi",
@@ -406,7 +406,7 @@
     },
     {
       "id": "4f5a6b7c-8d9e-4f0a-b1c2-d3e4f5a6b7c8",
-      "topic_id": "etik_yonetmelik_yargı_yolu",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yargi_iliskisi",
       "topic_name": "Yargı İlişkisi",
       "question_text": "Etik Kurul tarafından yapılan inceleme sırasında, şikayet konusu ile ilgili yargı yoluna gidildiği anlaşılırsa ne yapılır?",
       "option_a": "İncelemeye devam edilir",
@@ -419,7 +419,7 @@
     },
     {
       "id": "5a6b7c8d-9e0f-4a1b-b2c3-d4e5f6a7b8c9",
-      "topic_id": "etik_yonetmelik_halka_hizmet",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__halka_hizmet_bilinci",
       "topic_name": "Halka Hizmet Bilinci",
       "question_text": "Yönetmeliğin 6. maddesine göre kamu görevlilerinin halka hizmetteki hedefleri arasında aşağıdakilerden hangisi yer almamaktadır?",
       "option_a": "Halkın günlük yaşamını kolaylaştırmak",
@@ -432,7 +432,7 @@
     },
     {
       "id": "6b7c8d9e-0f1a-4b2c-c3d4-e5f6a7b8c9d0",
-      "topic_id": "etik_yonetmelik_misyon_baglilik",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__amac_ve_misyon",
       "topic_name": "Amaç ve Misyon",
       "question_text": "Kamu görevlileri, görevlerini yerine getirirken aşağıdakilerden hangisine uygun davranmakla yükümlüdür?",
       "option_a": "Siyasi parti hedeflerine",
@@ -445,7 +445,7 @@
     },
     {
       "id": "7c8d9e0f-1a2b-4c3d-d4e5-f6a7b8c9d0e1",
-      "topic_id": "etik_yonetmelik_nezaket",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__nezaket_ve_saygi",
       "topic_name": "Nezaket ve Saygı",
       "question_text": "Yönetmeliğin 11. maddesine göre kamu görevlisi, kendisine başvuran bir kişinin talebi yetkisi dışındaysa nasıl hareket etmelidir?",
       "option_a": "Hizmeti doğrudan reddetmelidir",
@@ -458,7 +458,7 @@
     },
     {
       "id": "8d9e0f1a-2b3c-4d4e-e5f6-a7b8c9d0e1f2",
-      "topic_id": "etik_yonetmelik_ayricalik_yasagi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__tarafsizlik",
       "topic_name": "Tarafsızlık",
       "question_text": "Yönetmeliğin 9. maddesine göre kamu görevlileri hakkında aşağıdakilerden hangisi yanlıştır?",
       "option_a": "Belirli kişilere öncelikli muamele yapabilirler",
@@ -471,7 +471,7 @@
     },
     {
       "id": "9e0f1a2b-3c4d-4e5f-f6a7-b8c9d0e1f2a3",
-      "topic_id": "etik_yonetmelik_bilgi_belge_isteme",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__bilgi_ve_belge_isteme",
       "topic_name": "Bilgi ve Belge İsteme",
       "question_text": "Madde 27 uyarınca, kamu kurum ve kuruluşları Kamu Görevlileri Etik Kurulu'nun istediği bilgi ve belgeleri nasıl temin etmelidir?",
       "option_a": "Gizlilik gerekçesiyle reddedebilirler",
@@ -484,7 +484,7 @@
     },
     {
       "id": "0f1a2b3c-4d5e-4f6a-a7b8-c9d0e1f2a3b4",
-      "topic_id": "etik_yonetmelik_resen_inceleme",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__resen_inceleme",
       "topic_name": "Resen İnceleme",
       "question_text": "Etik Kurulun çeşitli yollarla öğrendiği etik aykırılıklar üzerine, herhangi bir başvuru beklemeden yaptığı işleme ne ad verilir?",
       "option_a": "İdari soruşturma",
@@ -497,7 +497,7 @@
     },
     {
       "id": "1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6",
-      "topic_id": "etik_yonetmelik_gizlilik",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__gizlilik_ilkesi",
       "topic_name": "Gizlilik İlkesi",
       "question_text": "Madde 35 uyarınca, Etik Kurul bünyesinde çalışan personelin gizlilik yükümlülüğü ne zaman sona erer?",
       "option_a": "Görevden ayrıldıkları gün sona erer",
@@ -510,7 +510,7 @@
     },
     {
       "id": "2b3c4d5e-6f7a-8b9c-0d1e-f2a3b4c5d6e7",
-      "topic_id": "etik_yonetmelik_unvan_listesi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yetki_alani",
       "topic_name": "Yetki Alanı",
       "question_text": "EK-2 listesi uyarınca aşağıdakilerden hangisi, Kamu Görevlileri Etik Kurulu'nun doğrudan yetki alanına giren üst düzey görevlilerden biridir?",
       "option_a": "Şef",
@@ -523,7 +523,7 @@
     },
     {
       "id": "3c4d5e6f-7a8b-9c0d-1e2f-a3b4c5d6e7f8",
-      "topic_id": "etik_yonetmelik_itiraz_yolu",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yargi_yolu",
       "topic_name": "Yargı Yolu",
       "question_text": "Yönetmeliğin 39. maddesi gereğince, Etik Kurul kararlarına karşı hangi yol açıktır?",
       "option_a": "Yargı yolu tamamen kapalıdır",
@@ -536,7 +536,7 @@
     },
     {
       "id": "4d5e6f7a-8b9c-0d1e-2f3a-b4c5d6e7f8a9",
-      "topic_id": "etik_yonetmelik_disiplin_kurulu",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__disiplin_kurullari",
       "topic_name": "Disiplin Kurulları",
       "question_text": "Etik Kurul'un doğrudan yetki alanı dışında kalan kamu görevlilerinin etik başvurularını hangi birim inceler?",
       "option_a": "Valilik",
@@ -549,7 +549,7 @@
     },
     {
       "id": "5e6f7a8b-9c0d-1e2f-3a4b-c5d6e7f8a9b0",
-      "topic_id": "etik_yonetmelik_mal_bildirimi_inceleme",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__mal_bildirimi",
       "topic_name": "Mal Bildirimi",
       "question_text": "Etik Kurul'un mal bildirimlerini inceleme yetkisi hakkında aşağıdakilerden hangisi doğrudur?",
       "option_a": "Hiçbir şekilde inceleyemez; sadece Sayıştay yetkilidir",
@@ -562,7 +562,7 @@
     },
     {
       "id": "6f7a8b9c-0d1e-2f3a-4b5c-d6e7f8a9b0c1",
-      "topic_id": "etik_yonetmelik_etik_egitimi",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__egitim",
       "topic_name": "Eğitim",
       "question_text": "Yönetmeliğin 25. maddesine göre etik davranış ilkelerinin kurum içi eğitim programlarında yer almasını sağlamak kimin görevidir?",
       "option_a": "Etik Kurulu",
@@ -575,7 +575,7 @@
     },
     {
       "id": "7a8b9c0d-1e2f-3a4b-5c6d-e7f8a9b0c1d2",
-      "topic_id": "etik_yonetmelik_kurumsal_etik",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kurumsal_ilkeler",
       "topic_name": "Kurumsal İlkeler",
       "question_text": "Kurumların kendi özel etik ilkelerini düzenleyerek onaylatmaları gereken makam aşağıdakilerden hangisidir?",
       "option_a": "Cumhurbaşkanlığı",
@@ -588,7 +588,7 @@
     },
     {
       "id": "8b9c0d1e-2f3a-4b5c-6d7e-f8a9b0c1d2e3",
-      "topic_id": "etik_yonetmelik_sicil_degerlendirme",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__sicil_ve_performans",
       "topic_name": "Sicil ve Performans",
       "question_text": "Yönetmeliğin 23. maddesi uyarınca personelin sicil ve performans değerlendirmesi yapılırken, etik davranış ilkelerine uygunluk ne şekilde dikkate alınır?",
       "option_a": "Dış görünüş kriteri olarak değerlendirilir",
@@ -601,7 +601,7 @@
     },
     {
       "id": "9c0d1e2f-3a4b-5c6d-7e8f-a9b0c1d2e3f4",
-      "topic_id": "etik_yonetmelik_valiler_yetki",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yetki_alani",
       "topic_name": "Yetki Alanı",
       "question_text": "EK-2 listesi gereğince, Valiler ve Kaymakamlar hakkında yapılacak etik başvurular nereye yapılır?",
       "option_a": "İçişleri Bakanlığı Disiplin Kurulu",
@@ -614,7 +614,7 @@
     },
     {
       "id": "0d1e2f3a-4b5c-6d7e-8f9a-b0c1d2e3f4a5",
-      "topic_id": "etik_yonetmelik_belediye_başkanları",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yetki_alani",
       "topic_name": "Yetki Alanı",
       "question_text": "EK-2 listesi (C) bölümüne göre Büyükşehir, il ve ilçe belediye başkanları için etik denetim yetkisi kime aittir?",
       "option_a": "Belediye Meclisi",
@@ -627,7 +627,7 @@
     },
     {
       "id": "1e2f3a4b-5c6d-7e8f-9a0b-c1d2e3f4a5b6",
-      "topic_id": "etik_yonetmelik_yanlis_birim",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvurularin_kabulu",
       "topic_name": "Başvuruların Kabulü",
       "question_text": "Yönetmeliğin 35. maddesi uyarınca, yanlışlıkla kurumun yetkisiz bir birimine ulaşan etik başvuru dilekçesi nasıl işlem görmelidir?",
       "option_a": "İmha edilmelidir",
@@ -640,7 +640,7 @@
     },
     {
       "id": "2f3a4b5c-6d7e-8f9a-0b1c-d2e3f4a5b6c7",
-      "topic_id": "etik_yonetmelik_ayni_konu",
+      "topic_id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__yeniden_basvuru",
       "topic_name": "Yeniden Başvuru",
       "question_text": "Yönetmeliğin 31. maddesine göre, daha önce Kurulca incelenmiş bir konuyla ilgili tekrar şikayet yapılabilir mi?",
       "option_a": "Her zaman yeniden başvurulabilir",

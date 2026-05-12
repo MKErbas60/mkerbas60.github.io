@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "2190eb27-fc2c-429d-98eb-02752402d9db",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede kalın sıradan ince sıraya geçişi engelleyen ses uyumu kuralı aşağıdakilerden hangisidir?",
       "option_a": "Ünsüz uyumu",
@@ -16,7 +16,7 @@
     },
     {
       "id": "8b09a930-75d7-45c1-b9b7-b9837accba2e",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisi ünsüz benzeşmesine (sertleşmesine) örnek gösterilemez?",
       "option_a": "sepetçi",
@@ -29,7 +29,7 @@
     },
     {
       "id": "e674fccd-47bf-4829-be5d-b0dc2a10bfa2",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede ünlü düşmesinin gerçekleştiği kelime aşağıdakilerden hangisidir?",
       "option_a": "boyun → boynu",
@@ -68,7 +68,7 @@
     },
     {
       "id": "f803c145-9c90-4f71-b55c-04af836e7b43",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki seçeneklerin hangisinde yazım yanlışı vardır?",
       "option_a": "Türk Dil Kurumu",
@@ -81,7 +81,7 @@
     },
     {
       "id": "a5c545a1-e049-4f18-bf88-b538a5f29a0a",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki cümlelerin hangisinde birleşik kelime yanlış yazılmıştır?",
       "option_a": "Geçen ay Karadeniz'e gittik.",
@@ -94,7 +94,7 @@
     },
     {
       "id": "ec0c683f-74a9-45ef-9a5d-2e4a4c3a3714",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki seçeneklerin hangisinde kesme işareti doğru kullanılmıştır?",
       "option_a": "Türkiye'nin başkenti Ankara'dır.",
@@ -354,7 +354,7 @@
     },
     {
       "id": "74e31d58-bc47-46b2-84b3-9f0035e1fe97",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'yüz' kelimesi mecaz anlamda kullanılmıştır?",
       "option_a": "Yüzünü yıkadı.",
@@ -367,7 +367,7 @@
     },
     {
       "id": "6e600203-ba04-4de4-a4f9-5b9bd172b51d",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki kelime çiftlerinden hangisi eş anlamlıdır (anlamdaş)?",
       "option_a": "soğuk – sıcak",
@@ -380,7 +380,7 @@
     },
     {
       "id": "9afafebb-1656-468f-90cc-bd5627243ea3",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerden hangisinde 'terim' anlamı söz konusudur?",
       "option_a": "Bu iş çok ağır.",
@@ -523,7 +523,7 @@
     },
     {
       "id": "f6a1075e-936f-41d7-bab0-875410d34e8d",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisinde küçük ünlü uyumu bozulmuştur?",
       "option_a": "güzellik",
@@ -536,7 +536,7 @@
     },
     {
       "id": "77951629-2cd7-45d0-925c-dd3043af95ab",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinin yazımı doğrudur?",
       "option_a": "herşey",
@@ -575,7 +575,7 @@
     },
     {
       "id": "70d0860b-bfaf-4598-86ad-8318fa91e189",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde sözcük yan anlamıyla kullanılmıştır?",
       "option_a": "Masa ahşaptan yapılmıştır.",
@@ -653,7 +653,7 @@
     },
     {
       "id": "e278e761-5ec8-48a9-9eaa-e24e4baf4725",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisinde ünsüz yumuşaması (b, c, ç, d → p, ç, t, k) gerçekleşmiştir?",
       "option_a": "kitap → kitabı",
@@ -666,7 +666,7 @@
     },
     {
       "id": "ac1bcf1f-5268-4d55-bc9f-cde1f3ede6be",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede ünlü türemesine örnek olan kelime aşağıdakilerden hangisidir?",
       "option_a": "fikir → fikri",
@@ -679,7 +679,7 @@
     },
     {
       "id": "8a781dc7-0455-4f4a-b40a-8d2aa9413def",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisinde büyük ünlü uyumu vardır?",
       "option_a": "elma",
@@ -718,7 +718,7 @@
     },
     {
       "id": "042b9c72-ebb7-4ac1-aabe-ddbccad7d1c3",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki sayıların yazımından hangisi doğrudur?",
       "option_a": "Toplantıya yirmi beş kişi katıldı.",
@@ -731,7 +731,7 @@
     },
     {
       "id": "283e72a9-f5b9-4ec7-b781-da89c0a8964f",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinin yazımı yanlıştır?",
       "option_a": "İstanbul'a gideceğiz.",
@@ -744,7 +744,7 @@
     },
     {
       "id": "a1828722-fd94-4bb9-89d6-8d842fa865ac",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki birleşik fiillerden hangisi doğru yazılmıştır?",
       "option_a": "reddetmek",
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "710b0b71-a76f-40d4-b837-85c308194b1a",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde sözcük temel (gerçek) anlamıyla kullanılmıştır?",
       "option_a": "Bu sözler beni çok sarstı.",
@@ -1017,7 +1017,7 @@
     },
     {
       "id": "8bd24eeb-709d-4d67-9b2a-cdaf16056917",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Birden fazla anlamı olan sözcüklere ne ad verilir?",
       "option_a": "Eş anlamlı sözcük",
@@ -1030,7 +1030,7 @@
     },
     {
       "id": "d99ae750-29f8-4a71-934b-8015f5830697",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki sözcük çiftlerinden hangisi zıt (karşıt) anlamlıdır?",
       "option_a": "mutlu – sevinçli",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": "f3ff5e7b-45b0-4841-9b0e-92b5d2420fe0",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "'Sütçü' kelimesinde aşağıdaki ses olaylarından hangisi gerçekleşmiştir?",
       "option_a": "Ünlü düşmesi",
@@ -1264,7 +1264,7 @@
     },
     {
       "id": "e898ecf7-d70f-4a78-9844-408a92764ad0",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde dolaylama (çevrinti) sanatı kullanılmıştır?",
       "option_a": "Gözlerini yumdu. (öldü anlamında)",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "2ab0e745-12c3-4811-acc4-0ba237233866",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki seçeneklerin hangisinde kısaltmanın yazımı doğrudur?",
       "option_a": "T.C. Millî Eğitim Bakanlığı",
@@ -1303,7 +1303,7 @@
     },
     {
       "id": "6e791766-8276-4197-bb25-57769b81f5d9",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki kelimelerden hangisinde 'kaynaşma (ulama)' ses olayı gerçekleşmektedir?",
       "option_a": "kitap – aldı",
@@ -1316,7 +1316,7 @@
     },
     {
       "id": "8464b3b1-450f-40d2-a6a0-5906336a61dc",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede sözcük başında bulunmayan ünsüz hangisidir?",
       "option_a": "k",
@@ -1329,7 +1329,7 @@
     },
     {
       "id": "7bacb7b1-5336-420c-9465-9b202ba5475f",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki sözcüklerden hangisinde hem büyük ünlü uyumu hem de küçük ünlü uyumu vardır?",
       "option_a": "elma",
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "d6f28927-ebd8-4839-9f97-5381817ebfe9",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki sözcüklerden hangisi yanlış yazılmıştır?",
       "option_a": "fotoğraf",
@@ -1381,7 +1381,7 @@
     },
     {
       "id": "f6c256ed-44a5-4aaf-bb8c-d31ce6894755",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinde unvan büyük harfle başlatılarak doğru yazılmıştır?",
       "option_a": "doktor Ahmet Bey",
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "a2d5b192-ad23-4720-9325-2e0ad14cae50",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinde '-de/-da' eki doğru yazılmıştır?",
       "option_a": "Bu iş zorda kaldı.",
@@ -1654,7 +1654,7 @@
     },
     {
       "id": "127537f2-0ffa-4f76-bb2a-754181fb7128",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerden hangisinde 'ad aktarması (mecazımürsel/düzdeğişmece)' sanatı yapılmıştır?",
       "option_a": "Aslan gibi savaştı.",
@@ -1667,7 +1667,7 @@
     },
     {
       "id": "eae51c59-bc85-44ed-8273-2bb565e1b600",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki sözcüklerden hangisi sesteş (eş sesli) bir çifttir?",
       "option_a": "hız – sürat",
@@ -1680,7 +1680,7 @@
     },
     {
       "id": "e91e12f3-7d95-4dee-8a30-5016e800aab1",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde benzetme (teşbih) sanatı yapılmıştır?",
       "option_a": "Çocuklar bahçede oynuyor.",
@@ -1823,7 +1823,7 @@
     },
     {
       "id": "3fedd143-9c5a-41d4-803c-135914eb05a6",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki sözcüklerden hangisinde 'hece düşmesi' gerçekleşmiştir?",
       "option_a": "sarı + lık = sarılık",
@@ -1836,7 +1836,7 @@
     },
     {
       "id": "2d6047ed-0d68-40ef-9df6-e46e7a10bdbd",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisi yabancı kökenli sözcüklerin Türkçe yazımına doğru örnektir?",
       "option_a": "taksi",
@@ -1940,7 +1940,7 @@
     },
     {
       "id": "617a0ef8-3f3b-4833-881c-d7e5b8460942",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'kinaye' (üstü kapalı anlatım) söz konusudur?",
       "option_a": "Bugün hava çok güzel.",
@@ -1953,7 +1953,7 @@
     },
     {
       "id": "cff45b8d-3cca-4dbc-802a-6a87939dddc8",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki sözcüklerden hangisinde ünsüz ikizleşmesi (ünsüz türemesi) gerçekleşmiştir?",
       "option_a": "his + iz = hissiz",
@@ -1966,7 +1966,7 @@
     },
     {
       "id": "856912f3-fc02-4731-8ab5-99d713fe469e",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçede ünlüyle biten sözcüklere ünlüyle başlayan ek getirildiğinde araya giren ses aşağıdakilerden hangisidir?",
       "option_a": "Kaynaştırma ünsüzü (n, s, y, ş)",
@@ -1979,7 +1979,7 @@
     },
     {
       "id": "addbd756-5e9e-49fa-86bb-4513ae1b54ff",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Aşağıdaki sözcüklerden hangisinde 'g → ğ' ünsüz yumuşaması gerçekleşmiştir?",
       "option_a": "kitap → kitabı",
@@ -2018,7 +2018,7 @@
     },
     {
       "id": "ba9fd464-2871-4d87-9252-064279fdc31d",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdakilerden hangisinde zarf olarak kullanılan sözcük doğru yazılmıştır?",
       "option_a": "birbirine",
@@ -2031,7 +2031,7 @@
     },
     {
       "id": "20cf789f-e933-4946-8ed7-24a7640b40f8",
-      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari",
+      "topic_id": "turkce_ve_dil_bilgisi__yazim_kurallari_imla",
       "topic_name": "Yazım Kuralları (İmla)",
       "question_text": "Aşağıdaki cümlelerin hangisinde büyük harf kullanım yanlışı yoktur?",
       "option_a": "atatürk 1881 yılında doğdu.",
@@ -2291,7 +2291,7 @@
     },
     {
       "id": "44ac57af-0dbd-4349-8df5-773adc87add4",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'abartma (mübalağa/hiperbol)' sanatı yapılmıştır?",
       "option_a": "Güneş battı.",
@@ -2304,7 +2304,7 @@
     },
     {
       "id": "a31d434a-4037-4194-87d5-82414972e0b1",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki sözcüklerin hangisi argo ifadedir?",
       "option_a": "çalışmak",
@@ -2317,7 +2317,7 @@
     },
     {
       "id": "dbcd7f87-12cc-4a53-b7be-d141649fe3e4",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde sözcük soyut anlamda kullanılmıştır?",
       "option_a": "Masanın yüzeyi çok pürüzlüydü.",
@@ -2460,7 +2460,7 @@
     },
     {
       "id": "0fcbadc9-650f-499a-8040-2b1574a44d99",
-      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__ses_bilgisi_fonoloji",
       "topic_name": "Ses Bilgisi (Fonoloji)",
       "question_text": "Türkçe kökenli sözcüklerde aşağıdaki ünlülerden hangisi sözcük başında bulunmaz?",
       "option_a": "a",
@@ -2512,7 +2512,7 @@
     },
     {
       "id": "8befbb7f-c5f4-45ec-92d8-41827fb1de91",
-      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi",
+      "topic_id": "turkce_ve_dil_bilgisi__anlam_bilgisi_semantik",
       "topic_name": "Anlam Bilgisi (Semantik)",
       "question_text": "Aşağıdaki cümlelerin hangisinde 'kişileştirme (teşhis)' sanatı yapılmıştır?",
       "option_a": "Güneş battı.",

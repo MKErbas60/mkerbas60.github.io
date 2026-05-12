@@ -1,9 +1,9 @@
 {
-  "total": 250,
+  "total": 244,
   "questions": [
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000001",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 82. maddesine göre, Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi (ÇSGEM) hangi bakanlığa bağlı olarak kurulmuştur?",
       "option_a": "Hazine ve Maliye Bakanlığı",
@@ -16,7 +16,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000002",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 85. maddesine göre, ÇSGEM'in organları aşağıdakilerden hangisidir?",
       "option_a": "Genel Kurul ve Yönetim Kurulu",
@@ -29,7 +29,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000003",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 87. maddesine göre, ÇSGEM Danışma Kurulu kimin başkanlığında toplanır?",
       "option_a": "Cumhurbaşkanının görevlendireceği bir yetkilinin",
@@ -42,7 +42,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000004",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 89. maddesine göre, ÇSGEM Danışma Kurulu'nun toplanma ve karar yeter sayısı nasıldır?",
       "option_a": "Üyelerin tamamının katılımı ve oy birliği",
@@ -55,7 +55,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000005",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 88. maddesine göre, ÇSGEM Danışma Kurulu'nun görevleri arasında aşağıdakilerden hangisi yer almaz?",
       "option_a": "Merkezin yıllık faaliyetlerini değerlendirmek",
@@ -68,7 +68,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000006",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 84. maddesine göre, aşağıdakilerden hangisi ÇSGEM'in görevleri arasındadır?",
       "option_a": "İş davalarına ilişkin yargılama yapmak",
@@ -81,7 +81,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000007",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 92. maddesine göre, ÇSGEM tarafından düzenlenen eğitim ve seminerlere katılanlardan başarılı olanlara ne verilir?",
       "option_a": "Diploma veya ruhsat",
@@ -94,7 +94,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000008",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 86. maddesine göre, ÇSGEM Başkanının görevleri arasında hangisi yer alır?",
       "option_a": "Yönetim Kurulu üyelerini seçmek",
@@ -107,7 +107,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000009",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 87. maddesine göre, ÇSGEM Danışma Kurulu'nda Sosyal Güvenlik Kurumundan kaç temsilci yer alır?",
       "option_a": "En az üç",
@@ -120,7 +120,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000010",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 87. maddesine göre, ÇSGEM Danışma Kurulu'nda üniversiteler adına yer alacak öğretim üyeleri kim tarafından görevlendirilir?",
       "option_a": "Cumhurbaşkanı",
@@ -133,7 +133,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000011",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 84. maddesine göre, ÇSGEM hangi konularda milletlerarası bölge seminerleri tertip edebilir?",
       "option_a": "İş güvenliği ve çevre",
@@ -146,7 +146,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a001-000000000012",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem_calisma_ve_sosyal_guvenlik_egitim_ve_arastirma_merkezi",
       "topic_name": "Yedinci Bölüm - ÇSGEM (Çalışma ve Sosyal Güvenlik Eğitim ve Araştırma Merkezi)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 87. maddesine göre, ÇSGEM Danışma Kurulu'nda Bakanlığın ilgili birimlerinden kaç temsilci yer alır?",
       "option_a": "En az iki",
@@ -159,7 +159,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000001",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 237. maddesine göre Mesleki Yeterlilik Kurumunun (MYK) temel amacı nedir?",
       "option_a": "İşçi ve işveren uyuşmazlıklarını çözmek",
@@ -172,7 +172,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000002",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 237. maddesine göre, aşağıdakilerden hangisi MYK'nın kapsamı dışındaki mesleklerden biridir?",
       "option_a": "Muhasebeci",
@@ -185,7 +185,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000003",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 239. maddesine göre MYK'nın hukuki statüsü nedir?",
       "option_a": "Genel bütçeli kamu kurumu",
@@ -198,7 +198,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000004",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 241. maddesine göre MYK hangi organlardan oluşur?",
       "option_a": "Genel Müdür, Yönetim Kurulu ve Denetim Kurulu",
@@ -211,7 +211,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000005",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 244. maddesine göre MYK Yönetim Kurulu üyeleri nasıl belirlenir?",
       "option_a": "Cumhurbaşkanı tarafından doğrudan atanır",
@@ -224,7 +224,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000006",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 246. maddesine göre, aşağıdakilerden hangisi MYK hizmet birimleri arasında yer almaz?",
       "option_a": "Meslek Standartları Dairesi Başkanlığı",
@@ -237,7 +237,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000007",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 253. maddesine göre MYK kapsamındaki sınav ve belgelendirme işlemleri kim tarafından yapılır?",
       "option_a": "Millî Eğitim Bakanlığı",
@@ -250,7 +250,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000008",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 249. maddesine göre MYK Başkanının temel görevi nedir?",
       "option_a": "Yönetim kurulu üyelerini atamak",
@@ -263,7 +263,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000009",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 243. maddesine göre MYK Genel Kurulu'nun yetkileri nelerdir?",
       "option_a": "Yönetim Kurulu üyelerini seçmek ve bütçeyi onaylamak",
@@ -276,7 +276,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000010",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 255. maddesine göre Türkiye Yeterlilikler Çerçevesinin yönetiminden sorumlu kurum hangisidir?",
       "option_a": "Millî Eğitim Bakanlığı",
@@ -289,7 +289,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000011",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 238. maddesine göre 'Ulusal meslek standartları' ifadesi neyi tanımlar?",
       "option_a": "Yabancı ülkelerin meslek standartlarını",
@@ -302,7 +302,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000012",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 258. maddesine göre MYK gelir kaynakları nasıldır?",
       "option_a": "Sadece genel bütçe ödenekleri",
@@ -315,7 +315,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a002-000000000013",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk_mesleki_yeterlilik_kurumu",
       "topic_name": "Ondokuzuncu Bölüm - MYK (Mesleki Yeterlilik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 242. maddesine göre MYK Genel Kurulu'nda Millî Eğitim Bakanlığı'nı temsil eden kaç üye bulunur?",
       "option_a": "Bir",
@@ -328,7 +328,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000001",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 403. maddesine göre Sosyal Güvenlik Kurumu (SGK) hangi bakanlığın ilgili kuruluşudur?",
       "option_a": "Hazine ve Maliye Bakanlığı",
@@ -341,7 +341,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000002",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 405. maddesine göre SGK'nın temel amacı nedir?",
       "option_a": "Devlet memurlarının maaş ödemelerini düzenlemek",
@@ -354,7 +354,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000003",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 406. maddesine göre SGK'nın organları nelerdir?",
       "option_a": "Genel Müdür, Yönetim Kurulu ve Denetim Kurulu",
@@ -367,7 +367,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000004",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 407. maddesine göre SGK Genel Kurulu kime karşı sorumludur ve kime başkanlık eder?",
       "option_a": "Bakan veya görevlendireceği yetkilinin başkanlığında toplanır",
@@ -380,7 +380,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000005",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 408. maddesine göre SGK Yönetim Kurulu'nun konumu nedir?",
       "option_a": "Sadece danışma organıdır",
@@ -393,7 +393,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000006",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 408. maddesine göre SGK Yönetim Kurulu üyeleri kimlerden oluşur?",
       "option_a": "Bakanlık temsilcileri",
@@ -406,7 +406,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000007",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 409. maddesine göre SGK Yönetim Kurulu'nun görevleri nelerdir?",
       "option_a": "Bütçe, bilanço ve gelir-gider tablolarını onaylamak",
@@ -419,7 +419,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000008",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 410. maddesine göre SGK'nın teşkilat yapısı nasıldır?",
       "option_a": "Yalnızca merkez teşkilatı",
@@ -432,7 +432,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000009",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 411. maddesine göre SGK Başkanı kime karşı sorumludur?",
       "option_a": "Cumhurbaşkanına",
@@ -445,7 +445,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000010",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 404. maddesine göre bu Bölümde 'Başkanlık' terimi neyi ifade eder?",
       "option_a": "Çalışma Bakanlığını",
@@ -458,7 +458,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000011",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 405. maddesine göre SGK'nın temel ilkeleri arasında hangisi yer almaz?",
       "option_a": "Aktüeryal sürdürülebilirlik",
@@ -471,7 +471,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a003-000000000012",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk_sosyal_guvenlik_kurumu",
       "topic_name": "Otuzuncu Bölüm - SGK (Sosyal Güvenlik Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 407. maddesine göre SGK Genel Kurulu'nda hangi kurumun temsilcisi de yer alır?",
       "option_a": "TBMM",
@@ -484,7 +484,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000001",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 615. maddesine göre İŞKUR hangi bakanlığın ilgili kuruluşudur?",
       "option_a": "Hazine ve Maliye Bakanlığı",
@@ -497,7 +497,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000002",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 617. maddesine göre İŞKUR'un temel görevlerinden biri nedir?",
       "option_a": "Yabancı çalışanlara oturma izni vermek",
@@ -510,7 +510,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000003",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 618. maddesine göre İŞKUR'un organları hangileridir?",
       "option_a": "Yönetim Kurulu, Başkan ve Denetim Kurulu",
@@ -523,7 +523,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000004",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 619. maddesine göre İŞKUR Genel Kurulu kime karşı sorumludur ve kime başkanlık eder?",
       "option_a": "Genel Müdür",
@@ -536,7 +536,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000005",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 620. maddesine göre İŞKUR Yönetim Kurulu üyeleri kimlerden oluşur?",
       "option_a": "Yalnızca Bakanlık temsilcileri",
@@ -549,7 +549,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000006",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 621. maddesine göre İŞKUR'un teşkilat yapısı nasıldır?",
       "option_a": "Sadece merkez teşkilatından oluşur",
@@ -562,7 +562,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000007",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 622. maddesine göre İŞKUR hizmet birimleri arasında aşağıdakilerden hangisi yer alır?",
       "option_a": "İş Sağlığı ve Güvenliği Dairesi Başkanlığı",
@@ -575,7 +575,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000008",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 624. maddesine göre İŞKUR'un taşra teşkilatı nasıl yapılandırılmıştır?",
       "option_a": "Her ilçede ayrı müdürlük",
@@ -588,7 +588,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000009",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 625. maddesine göre İl İstihdam Kurulu'nun temel görevi nedir?",
       "option_a": "İş davalarına bakmak",
@@ -601,7 +601,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000010",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 627. maddesine göre İŞKUR'un gelir kaynakları nelerdir?",
       "option_a": "Yalnızca bütçe ödenekleri",
@@ -614,7 +614,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000011",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 628. maddesine göre İŞKUR işlemlerini hangi ortamlarda yürütebilir?",
       "option_a": "Yalnızca elden teslim",
@@ -627,7 +627,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000012",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 616. maddesine göre, İŞKUR düzenlemelerinde geçen 'Fon' ifadesi neyi ifade eder?",
       "option_a": "Sosyal Yardımlaşma Fonunu",
@@ -640,7 +640,7 @@
     },
     {
       "id": "a1b2c3d4-0001-4000-a004-000000000013",
-      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur_turkiye_is_kurumu",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR (Türkiye İş Kurumu)",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 626. maddesine göre İŞKUR'da hangi uzman kadrosu istihdam edilir?",
       "option_a": "Sosyal güvenlik uzmanı",
@@ -653,7 +653,7 @@
     },
     {
       "id": "7c2a1b9c-4d5e-4a6b-8c7d-9e0f1a2b3c4d",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 84. maddesine göre, ÇSGEM'in görevleri arasında sayılan 'yayın ve dokümantasyon' faaliyetleri hangi dillerde yürütülebilir?",
       "option_a": "Sadece Türkçe",
@@ -666,7 +666,7 @@
     },
     {
       "id": "1b5cd519-09d9-4850-9292-7546978343a1",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 90. maddesine göre, ÇSGEM'de istihdam edilecek uzman yardımcılarının atanması hangi kanun hükümlerine tabidir?",
       "option_a": "4857 sayılı İş Kanunu",
@@ -679,7 +679,7 @@
     },
     {
       "id": "e1cc450c-3036-4a06-9760-d6f299bcf203",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM Danışma Kurulu'nda yer alan Yükseköğretim Kurulu (YÖK) temsilcisi öğretim üyelerinin uzmanlık alanları arasında aşağıdakilerden hangisi sayılmamıştır?",
       "option_a": "İş Hukuku",
@@ -692,7 +692,7 @@
     },
     {
       "id": "684774d8-720d-40f4-b243-9e5d87c1d5ca",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM Danışma Kurulu üyelerinin görevlendirilme usulü ile ilgili aşağıdakilerden hangisi yanlıştır?",
       "option_a": "Bakanlık temsilcileri Bakan tarafından belirlenir.",
@@ -705,7 +705,7 @@
     },
     {
       "id": "56c09630-6899-43d2-ba32-dedc5ae9c607",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre ÇSGEM bünyesinde 'yerli veya yabancı sözleşmeli personel' istihdamı hangi mevzuat çerçevesinde yapılır?",
       "option_a": "657 sayılı Kanun 4/B maddesi",
@@ -718,7 +718,7 @@
     },
     {
       "id": "a129a96b-35b3-4aa0-bcb8-8853f0cc18b2",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 240. maddesine göre, MYK'nın görevleri arasında aşağıdakilerden hangisi yer almaz?",
       "option_a": "Ulusal meslek standartlarını belirlemek",
@@ -731,7 +731,7 @@
     },
     {
       "id": "3df2a867-41db-448a-808c-910af9057270",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Genel Kurulu'nda 'Türkiye Odalar ve Borsalar Birliği' (TOBB) kaç üye ile temsil edilir?",
       "option_a": "1",
@@ -744,7 +744,7 @@
     },
     {
       "id": "424b26ae-8616-4720-9078-9ad8998eb925",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Genel Kurulu'nun olağan toplanma zamanı aşağıdakilerden hangisidir?",
       "option_a": "Her yıl Ocak ayı",
@@ -757,7 +757,7 @@
     },
     {
       "id": "2ee94e0d-865a-4083-8331-052261bd5e77",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Yönetim Kurulu toplantılarında oyların eşitliği halinde karar nasıl verilir?",
       "option_a": "Kura çekilir.",
@@ -770,7 +770,7 @@
     },
     {
       "id": "331b0777-57e2-4c2b-84fd-c16232b89b47",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "Aşağıdakilerden hangisi MYK'nın hizmet birimlerinden biridir?",
       "option_a": "Morg İhtisas Dairesi",
@@ -783,7 +783,7 @@
     },
     {
       "id": "9b884f14-4e46-45a5-9536-903b93420459",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK'yı temsil yetkisi kime aittir?",
       "option_a": "Genel Müdür",
@@ -796,7 +796,7 @@
     },
     {
       "id": "a37d01c1-a9be-49a2-b810-81f1aa2a72b6",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Yönetim Kurulu üyelerinden geçerli mazereti olmaksızın bir takvim yılında toplam kaç toplantıya katılmayanların üyeliği düşer?",
       "option_a": "2",
@@ -809,7 +809,7 @@
     },
     {
       "id": "bc92b29d-4747-4186-8d94-c98e44c2e168",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK tarafından yetkilendirilen 'Eğitim akreditasyon kurumları' neyi akredite etmekle görevlidir?",
       "option_a": "Sınav merkezlerini",
@@ -822,7 +822,7 @@
     },
     {
       "id": "43a025d7-46b6-4a38-bd9b-d516b47f0b77",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK gelirleri arasında sayılan 'işçi ve işveren konfederasyonlarının katkıları' hangi usulle belirlenir?",
       "option_a": "Bakanlık genelgesiyle",
@@ -835,7 +835,7 @@
     },
     {
       "id": "5ef12f4e-e58c-49a7-af92-065433d07bf8",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK'nın en yüksek karar, yetki ve sorumluluğunu taşıyan organı hangisidir?",
       "option_a": "Genel Kurul",
@@ -848,7 +848,7 @@
     },
     {
       "id": "a34523f1-f2c1-4dd7-b2a2-393569467e63",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "Aşağıdakilerden hangisi SGK'nın hizmet birimleri arasında yer alan ana hizmet birimlerinden biridir?",
       "option_a": "Emeklilik Hizmetleri Genel Müdürlüğü",
@@ -861,7 +861,7 @@
     },
     {
       "id": "aaf552c5-6ab8-4365-8e82-321f4548ffc4",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "Sosyal güvenlik sözleşmesi imzalanmamış ülkelerde iş üstlenen Türk işverenlerce götürülen Türk işçilerinin işlemlerini hangi genel müdürlük yürütür?",
       "option_a": "Emeklilik Hizmetleri Genel Müdürlüğü",
@@ -874,7 +874,7 @@
     },
     {
       "id": "172c7842-caaa-4c3b-85d3-88eb39fd863b",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesindeki 'Hizmet Sunumu Genel Müdürlüğü'nün temel görevi nedir?",
       "option_a": "Hastaneleri denetlemek",
@@ -887,7 +887,7 @@
     },
     {
       "id": "33e0b5e8-ba72-472f-bfc8-5724a68e6728",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK'nın bütçe teklifini hazırlamak hangi birimin görevidir?",
       "option_a": "Destek Hizmetleri Daire Başkanlığı",
@@ -900,7 +900,7 @@
     },
     {
       "id": "41f5c7d0-c730-4144-b4bf-354d35ed2eb5",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK personelinin atama, nakil ve özlük işlerini yürüten birim hangisidir?",
       "option_a": "Destek Hizmetleri Daire Başkanlığı",
@@ -913,7 +913,7 @@
     },
     {
       "id": "1c4b7410-2f2b-4613-807a-747424d647c8",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK tarafından reddedilen başvuruların kişilere bildirilmesinde hangi usul zorunludur?",
       "option_a": "Sadece şifahi bildirim",
@@ -926,7 +926,7 @@
     },
     {
       "id": "b8ded05d-85e0-4f29-b0a2-960d94c9a0bc",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK'nın taşınmazlarını yönetmek ve kiraya vermek hangi birimin görevidir?",
       "option_a": "İnşaat ve Emlak Daire Başkanlığı",
@@ -939,7 +939,7 @@
     },
     {
       "id": "a2888bdb-5417-4f1d-8209-d31ab3ce06bc",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu toplantılarına kim başkanlık eder?",
       "option_a": "İlgili Bakan",
@@ -952,7 +952,7 @@
     },
     {
       "id": "575a2318-a064-43d1-8c3b-586bf4c8584a",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK gelirleri arasında yer alan 'Devlet katkısı' hangi oranda yapılır?",
       "option_a": "Prim gelirlerinin yarısı kadar",
@@ -965,7 +965,7 @@
     },
     {
       "id": "2128681d-dd9b-4b50-89d7-b74af20d4655",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde sosyal güvenlik politikalarına yönelik 'aktüeryal hesaplamaları' yapan birim hangisidir?",
       "option_a": "Strateji Geliştirme Başkanlığı",
@@ -978,7 +978,7 @@
     },
     {
       "id": "50afe098-0d81-40ce-b218-eea3df2d271c",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Genel Kurulu üye sayısı ve oluşumu ile ilgili aşağıdakilerden hangisi yanlıştır?",
       "option_a": "Tüm bakanlıkların temsilcileri bulunur.",
@@ -991,7 +991,7 @@
     },
     {
       "id": "9ad0cb1b-e11b-49bf-883f-3cacbf7a46ee",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Yönetim Kurulu'nda en çok üyeye sahip 'işçi konfederasyonundan' kaç temsilci yer alır?",
       "option_a": "1",
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "1ea223f4-8851-4411-8f69-c0f6789d895d",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "4 sayılı CBK'nın 623. maddesine göre, İŞKUR Genel Müdürü görevini kime karşı sorumlu olarak yürütür?",
       "option_a": "Cumhurbaşkanına",
@@ -1017,7 +1017,7 @@
     },
     {
       "id": "38974b85-8e0f-4dc9-b01e-406801679baa",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR'un 'Fon Yönetimi ve Aktüerya Dairesi Başkanlığı' hangi fonun değerlendirilmesinden sorumludur?",
       "option_a": "Sosyal Yardımlaşma Fonu",
@@ -1030,7 +1030,7 @@
     },
     {
       "id": "918fedb0-c3dc-4685-849b-af2763c32633",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR bünyesinde 'iş kaybı tazminatı' işlemlerini yürüten birim hangisidir?",
       "option_a": "İşsizlik Sigortası Dairesi Başkanlığı",
@@ -1043,7 +1043,7 @@
     },
     {
       "id": "85390773-8f43-4d99-b075-c612b764f7b9",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR'da 'il istihdam uzman yardımcısı' kadroları hangi teşkilat yapısında istihdam edilebilir?",
       "option_a": "Merkez teşkilatı",
@@ -1056,7 +1056,7 @@
     },
     {
       "id": "c9e3dd18-1898-4ad8-99d6-95c21226ce4e",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR gelirleri arasında yer alan 'idarî para cezaları' hangi kanun uyarınca aktarılır?",
       "option_a": "657 sayılı Kanun",
@@ -1069,7 +1069,7 @@
     },
     {
       "id": "e0313161-e961-4204-aa66-5a472db0e480",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR tarafından yürütülen 'proje karşılığı aktarılan hibe' tutarları hakkında hangisi doğrudur?",
       "option_a": "Gelir kaydedilerek harcanır.",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "5494e891-c744-4002-8891-78b9848a4f49",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR İl İstihdam ve Mesleki Eğitim Kurulu'nda 'Türkiye Sakatlar Konfederasyonu'ndan' kaç temsilci bulunur?",
       "option_a": "1",
@@ -1095,7 +1095,7 @@
     },
     {
       "id": "402c95c3-1f34-4e13-8185-80eb8d1489e2",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR kayıtlarının ispat gücü ile ilgili hangisi doğrudur?",
       "option_a": "Mahkemelerde delil olarak kullanılamaz.",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "4800a4dc-a5d7-400a-8406-0f2479ad3d91",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK personelinin disiplin hükümleri ile ilgili hangi kanun 'kıyasen' uygulanır?",
       "option_a": "4857 sayılı İş Kanunu",
@@ -1121,7 +1121,7 @@
     },
     {
       "id": "9cb377a0-d835-40f7-b223-148261fd49e3",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK'nın taşra teşkilatı yapılanmasında yer alan birimler aşağıdakilerden hangisidir?",
       "option_a": "Bölge Müdürlükleri",
@@ -1133,21 +1133,8 @@
       "difficulty": 1
     },
     {
-      "id": "beab28f5-3542-4c57-9540-1a3cd166fa43",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
-      "topic_name": "Yedinci Bölüm - ÇSGEM",
-      "question_text": "ÇSGEM'in 'milli ve milletlerarası bölge seminerleri' tertip etme yetkisi hangi maddededir?",
-      "option_a": "Madde 82",
-      "option_b": "Madde 84",
-      "option_c": "Madde 86",
-      "option_d": "Madde 92",
-      "correct_option": "B",
-      "explanation": "Madde 84/1-c uyarınca Merkez çalışma meseleleri üzerine milli ve milletlerarası bölge seminerleri tertip eder[cite: 1815].",
-      "difficulty": 2
-    },
-    {
       "id": "45127dad-169d-4a2d-9334-48e2cff0aaf2",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu üyelerinin görev süreleri kaç yıldır?",
       "option_a": "2",
@@ -1160,7 +1147,7 @@
     },
     {
       "id": "cfc473b9-6706-4f88-b61c-deec3ba52552",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Genel Kurulu hangi periyotla toplanır?",
       "option_a": "Her yıl",
@@ -1173,7 +1160,7 @@
     },
     {
       "id": "043de6ce-a5ce-4b76-b856-c0f868be9b4c",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM tarafından hazırlanan eğitim programlarının içeriğinde aşağıdakilerden hangisi yer almaz?",
       "option_a": "Ergonomi",
@@ -1186,7 +1173,7 @@
     },
     {
       "id": "92f03e0f-9f81-48e2-a2d6-600e083b7d88",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK bünyesinde 'Ulusal meslek standartları' hazırlama sürecini hangi birim koordine eder?",
       "option_a": "Meslek Standartları Dairesi Başkanlığı",
@@ -1199,7 +1186,7 @@
     },
     {
       "id": "65718da3-5cda-44ec-b18f-414a29a67239",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK'nın yıllık bilançosunu onaylama yetkisi kime aittir?",
       "option_a": "Genel Kurul",
@@ -1212,7 +1199,7 @@
     },
     {
       "id": "d7d71510-d7d6-484e-b9c2-e4d35be6e714",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR'da 'istihdam uzman yardımcısı' olabilmek için girilen sınavdan sonra hazırlanan tezin süresi ne kadardır?",
       "option_a": "1 yıl",
@@ -1225,7 +1212,7 @@
     },
     {
       "id": "dfe98b5a-e687-4ec6-8a50-d9eb209dbb4c",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM Danışma Kurulu yılda en az kaç kez toplanır?",
       "option_a": "1",
@@ -1238,7 +1225,7 @@
     },
     {
       "id": "2fcb5214-a3ea-4893-88c1-050504fc7d9f",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK tarafından yetkilendirilen kuruluşların denetimi hangi birimce yürütülür?",
       "option_a": "İç Denetim Birimi",
@@ -1251,7 +1238,7 @@
     },
     {
       "id": "a7b776c4-4b2d-46db-9378-0af8aeaf1d0c",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Rehberlik ve Teftiş Başkanlığı' kime bağlı olarak çalışır?",
       "option_a": "Yönetim Kuruluna",
@@ -1264,7 +1251,7 @@
     },
     {
       "id": "a22f82f7-c989-4d83-b589-f2bc1b4f0d9e",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Dış İlişkiler Dairesi Başkanlığı'nın' görevleri arasında aşağıdakilerden hangisi yer alır?",
       "option_a": "Hizmet binalarını tamir etmek",
@@ -1277,7 +1264,7 @@
     },
     {
       "id": "4e5b49fd-0d6a-4086-a5a1-8259c23ac851",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK'nın mülga kurumlardan (SSK, Bağ-Kur vb.) devraldığı arşiv malzemelerini yöneten birim hangisidir?",
       "option_a": "Hizmet Sunumu Genel Müdürlüğü",
@@ -1290,7 +1277,7 @@
     },
     {
       "id": "009db25b-5556-44be-8f0d-6446b8b174d5",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK bünyesinde 'Avrupa Yeterlilikler Çerçevesi' ile ilgili çalışmaları yürüten birim hangisidir?",
       "option_a": "Uluslararası İlişkiler ve Avrupa Birliği Dairesi Başkanlığı",
@@ -1303,7 +1290,7 @@
     },
     {
       "id": "d8bdda52-52a3-4fbb-b963-c9c0aec4314a",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 84. maddesine göre, ÇSGEM'in 'çalışma mevzuları ve iş verimi' ile ilgili meseleleri inceleyerek istişare ve tavsiyelerde bulunması hangi şarta bağlıdır?",
       "option_a": "Bakanlık merkez birimlerinin talebine",
@@ -1316,7 +1303,7 @@
     },
     {
       "id": "3502c4f3-191d-4d1e-90a6-de7fd8d16de0",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre, ÇSGEM Danışma Kurulu'nda Sosyal Güvenlik Kurumu (SGK) kaç temsilci ile temsil edilir?",
       "option_a": "En az iki",
@@ -1329,7 +1316,7 @@
     },
     {
       "id": "4b14e6cb-f9fd-47ee-bd6b-cf5151b7964c",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre, ÇSGEM Danışma Kurulu'nun görevlendirmesi gereken iki öğretim üyesinin seçiminde hangi kurum yetkilidir?",
       "option_a": "Çalışma ve Sosyal Güvenlik Bakanlığı",
@@ -1342,7 +1329,7 @@
     },
     {
       "id": "d29bc1dc-922f-488b-96dc-4985b8b98fcd",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM Danışma Kurulu'nun karar süreciyle ilgili olarak, oyların eşitliği halinde sonuç nasıl belirlenir?",
       "option_a": "Toplantı ertelenir",
@@ -1355,7 +1342,7 @@
     },
     {
       "id": "4d23d75c-d218-4e72-9121-ec2c3cca8b09",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 91. maddesi uyarınca ÇSGEM'de istihdam edilebilecek 'yerli veya yabancı sözleşmeli personel' hangi mevzuata tabidir?",
       "option_a": "657 sayılı Kanun 4/B maddesi",
@@ -1368,7 +1355,7 @@
     },
     {
       "id": "e07d1d53-da91-4996-ae27-0f19a24dfb9d",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "Mesleki Yeterlilik Kurumu (MYK) kapsamında, 'Ulusal meslek standartları' arasındaki hiyerarşiyi ve kıyaslanabilirliği sağlayan referans çerçeveye ne ad verilir?",
       "option_a": "Sektör Şeması",
@@ -1381,7 +1368,7 @@
     },
     {
       "id": "65a47b06-4187-463a-97cf-37b53d2749b8",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "Aşağıdaki meslek gruplarından hangisi 4 sayılı Cumhurbaşkanlığı Kararnamesi'nin MYK ile ilgili bölümünün kapsamı dışındadır?",
       "option_a": "Turizm Rehberliği",
@@ -1394,7 +1381,7 @@
     },
     {
       "id": "73331175-6626-4d74-b823-752efdafd74f",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Genel Kurulu'nda Millî Eğitim Bakanlığı kaç üye ile temsil edilir?",
       "option_a": "1",
@@ -1407,7 +1394,7 @@
     },
     {
       "id": "b23363e7-8f26-43a7-b57d-6280b8d78b90",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Yönetim Kurulu üyelerinden kamu dışı kurumlardan seçilenlerin görev süresi ne kadardır?",
       "option_a": "2 yıl",
@@ -1420,7 +1407,7 @@
     },
     {
       "id": "da2f45aa-ca27-492f-bce0-db8c38e697b4",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK bünyesinde meslek standartlarını incelemek ve görüş bildirmek üzere kurulan yapılar aşağıdakilerden hangisidir?",
       "option_a": "Teknik Heyetler",
@@ -1433,7 +1420,7 @@
     },
     {
       "id": "301e83b9-adc9-4931-a872-b4d3781114dc",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK bünyesinde 'Türkiye Yeterlilikler Çerçevesi' (TYÇ) Kurulu'nun sekretarya hizmetlerini hangi birim yürütür?",
       "option_a": "Strateji Geliştirme Dairesi Başkanlığı",
@@ -1446,7 +1433,7 @@
     },
     {
       "id": "7faea0df-8a5b-4e1c-8f97-2a36928ab6f7",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Yönetim Kurulu toplantı yeter sayısı kaçtır?",
       "option_a": "Salt Çoğunluk",
@@ -1459,7 +1446,7 @@
     },
     {
       "id": "2920a6c2-d82c-4ddd-8515-3070581d1cc7",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu'nda 'Hazine ve Maliye Bakanlığı'nı' temsilen kaç üye bulunur?",
       "option_a": "1",
@@ -1472,7 +1459,7 @@
     },
     {
       "id": "4277c215-8684-43b4-8576-39ba4841f270",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'Sosyal güvenlik sözleşmelerine göre yapılacak her türlü yardım ve hizmetleri koordine etmek' hangi birimin görevidir?",
       "option_a": "Sigorta Primleri Genel Müdürlüğü",
@@ -1485,7 +1472,7 @@
     },
     {
       "id": "faa75b6f-5024-45c0-9b3b-420f810bdc27",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK'nın bilişim altyapısına ilişkin her türlü siber güvenlik politikasını belirlemek hangi birimin görevidir?",
       "option_a": "Hizmet Sunumu Genel Müdürlüğü",
@@ -1498,7 +1485,7 @@
     },
     {
       "id": "f59dbaed-6132-497e-abec-fa997cd2b0ab",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Aktüerya ve Fon Yönetimi Daire Başkanlığı' kime bağlı olarak faaliyet gösterir?",
       "option_a": "Yönetim Kuruluna",
@@ -1510,21 +1497,8 @@
       "difficulty": 2
     },
     {
-      "id": "4018eb55-e4f0-4ae4-a38b-3ea0707006b6",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
-      "topic_name": "Otuzuncu Bölüm - SGK",
-      "question_text": "SGK gelirleri arasında sayılan 'Faiz, kira ve sair gelirler' hangi madde kapsamında düzenlenmiştir?",
-      "option_a": "Madde 425",
-      "option_b": "Madde 431",
-      "option_c": "Madde 405",
-      "option_d": "Madde 413",
-      "correct_option": "B",
-      "explanation": "Madde 431/1-ğ uyarınca faiz ve kira gibi gelirler Kurumun gelirleri arasındadır[cite: 36, 37].",
-      "difficulty": 3
-    },
-    {
       "id": "8d2b0bf8-c0cb-4f3d-a8a5-b9ff1b9b4f38",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK tarafından yapılacak tebligatlar hakkında hangi kanun hükümleri uygulanır?",
       "option_a": "657 sayılı Kanun",
@@ -1537,7 +1511,7 @@
     },
     {
       "id": "698942b4-27e9-4d99-9550-05a4cab669d8",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK kayıtlarına itiraz edilmesi halinde, ispat mükellefiyeti kime aittir?",
       "option_a": "Kurumun kendisine",
@@ -1550,7 +1524,7 @@
     },
     {
       "id": "a370a2b2-edb4-4781-b8b1-b342b6d3e844",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre, İŞKUR Genel Kurulu hangi aralıklarla toplanır?",
       "option_a": "Her yıl",
@@ -1563,7 +1537,7 @@
     },
     {
       "id": "5a7cfeab-7974-42b5-b329-a5492bad8a3a",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Yönetim Kurulu toplantı yeter sayısı Başkan dâhil en az kaçtır?",
       "option_a": "Üç",
@@ -1576,7 +1550,7 @@
     },
     {
       "id": "4b442c88-0780-435c-b756-5e831123bc89",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR bünyesinde 'İşgücü piyasası verilerini toplamak, analiz etmek ve yayımlamak' hangi birimin görevidir?",
       "option_a": "İstihdam Hizmetleri Dairesi Başkanlığı",
@@ -1589,7 +1563,7 @@
     },
     {
       "id": "b6650ace-e8a3-4644-a005-8620c50b4c69",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'İl İstihdam ve Mesleki Eğitim Kurulu' yılda en az kaç kez toplanır?",
       "option_a": "2",
@@ -1602,7 +1576,7 @@
     },
     {
       "id": "b9ea93f6-8c34-43d0-99d9-63705dfe536d",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR'da 'il istihdam uzman yardımcısı' olarak atananların yeterlik sınavı için hangi ön şart gereklidir?",
       "option_a": "3 yıllık hizmet ve olumlu tez puanı",
@@ -1615,7 +1589,7 @@
     },
     {
       "id": "ceb25928-05a1-432b-8dd4-f8685bc4534f",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM'in görevleri arasında sayılan 'istatistik hazırlama' faaliyeti hangi dillerde yapılabilir?",
       "option_a": "Sadece Türkçe",
@@ -1628,7 +1602,7 @@
     },
     {
       "id": "cf1d9693-9a6f-4ec1-be1b-922b69e9bf37",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Rehberlik ve Teftiş Başkanlığı' kime bağlı olarak görev yapar?",
       "option_a": "Maliye Bakanlığına",
@@ -1641,7 +1615,7 @@
     },
     {
       "id": "2cbcd66b-6be9-4767-b689-611de39bc814",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK tarafından satın alınacak 'sağlık hizmetleri ve ilaçlar için fiyat belirleme' süreçlerini hangi birim yürütür?",
       "option_a": "Strateji Geliştirme Başkanlığı",
@@ -1654,7 +1628,7 @@
     },
     {
       "id": "4a828315-a26d-4f46-8e7b-ca2f112041c4",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK bünyesinde 'Avrupa Yeterlilikler Çerçevesi' (AYÇ) ile ilgili koordinasyonu hangi birim sağlar?",
       "option_a": "Uluslararası İlişkiler Dairesi Başkanlığı",
@@ -1667,7 +1641,7 @@
     },
     {
       "id": "a9683e2f-ec17-419f-a933-ebd94fde0e9c",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Denetim Dairesi Başkanlığı' aşağıdakilerden hangisini denetlemekle görevli değildir?",
       "option_a": "Yetkilendirilmiş kurumlar",
@@ -1680,7 +1654,7 @@
     },
     {
       "id": "7486a643-6922-42b0-978c-4a1115e5705e",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Strateji Geliştirme Başkanlığı' görevlerini hangi kanunun 15 inci maddesi çerçevesinde yürütür?",
       "option_a": "5018 sayılı Kanun",
@@ -1693,7 +1667,7 @@
     },
     {
       "id": "5a3da900-039e-4c8a-a2e5-8aa05e7b6e9c",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Hukuk Müşavirliği' görevlerini hangi mevzuat hükümlerine göre yerine getirir?",
       "option_a": "375 sayılı KHK",
@@ -1706,7 +1680,7 @@
     },
     {
       "id": "1c1a9b78-e27d-443f-8662-007035fb2b0f",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bütçesinden yapılacak 'sosyal sigorta ödemeleri' hangi gider kalemi altında toplanır?",
       "option_a": "Genel yönetim giderleri",
@@ -1719,7 +1693,7 @@
     },
     {
       "id": "43c76b38-4f42-4653-b6e9-052189f731a1",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Dış İlişkiler Dairesi Başkanlığı'nın' ana görevi aşağıdakilerden hangisidir?",
       "option_a": "İşyerlerini teftiş etmek",
@@ -1732,7 +1706,7 @@
     },
     {
       "id": "5eb1b17f-32c6-4945-9147-8e75eb77f39f",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Genel Müdürü'nün yardımcılığı görevine en fazla kaç kişi atanabilir?",
       "option_a": "1",
@@ -1744,21 +1718,8 @@
       "difficulty": 2
     },
     {
-      "id": "ec8f2e23-ab7b-4955-95d6-e426491a5201",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
-      "topic_name": "Yedinci Bölüm - ÇSGEM",
-      "question_text": "ÇSGEM tarafından tertip edilecek 'milli ve milletlerarası bölge seminerleri' hangi madde kapsamında düzenlenmiştir?",
-      "option_a": "Madde 82",
-      "option_b": "Madde 84",
-      "option_c": "Madde 88",
-      "option_d": "Madde 90",
-      "correct_option": "B",
-      "explanation": "Madde 84/1-c uyarınca Merkez çalışma meseleleri üzerine seminerler tertip eder[cite: 481].",
-      "difficulty": 3
-    },
-    {
       "id": "3cbd1455-b53e-49f3-ae88-bb34638282ee",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Hizmet Sunumu Genel Müdürlüğü'nün' veri paylaşımıyla ilgili temel kısıtı nedir?",
       "option_a": "Cumhurbaşkanı onayı",
@@ -1771,7 +1732,7 @@
     },
     {
       "id": "09901c23-6c9c-4016-adab-111b094867cb",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR tarafından yürütülen 'Aktif işgücü programları' ile ilgili iş ve işlemleri hangi daire başkanlığı yürütür?",
       "option_a": "İstihdam Hizmetleri Dairesi Başkanlığı",
@@ -1784,7 +1745,7 @@
     },
     {
       "id": "8b13d304-6b1d-472c-8a06-8d229d213c2d",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre ÇSGEM'in en üst amiri kimdir?",
       "option_a": "Bakan",
@@ -1796,21 +1757,8 @@
       "difficulty": 1
     },
     {
-      "id": "0753b62d-8876-4813-9a83-4406cd5c25d5",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
-      "topic_name": "Otuzuncu Bölüm - SGK",
-      "question_text": "SGK 'Destek Hizmetleri Daire Başkanlığı' sosyal tesis ve lojmanlarla ilgili işleri hangi fıkra uyarınca yürütür?",
-      "option_a": "Madde 422/1-b",
-      "option_b": "Madde 422/1-ç",
-      "option_c": "Madde 413/1-a",
-      "option_d": "Madde 423/1",
-      "correct_option": "B",
-      "explanation": "Madde 422/1-ç uyarınca sosyal tesis ve lojman hizmetlerini yürütmek Destek Hizmetleri'nin görevidir[cite: 2].",
-      "difficulty": 3
-    },
-    {
       "id": "2c0e955f-211d-4c0c-989c-c1a71d4169ff",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Genel Sekreterliği' hiyerarşik olarak kime bağlıdır?",
       "option_a": "Genel Kurula",
@@ -1823,7 +1771,7 @@
     },
     {
       "id": "0da3ae87-7eda-4748-b92c-438837982234",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR bütçesi hakkında aşağıdakilerden hangisi doğrudur?",
       "option_a": "Bakanlık bütçesi içindedir",
@@ -1836,7 +1784,7 @@
     },
     {
       "id": "3e6e96d0-a01e-4f16-8bbe-42468b7a7506",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu toplantıları kural olarak nerede yapılır?",
       "option_a": "Bakanlık merkezinde",
@@ -1849,7 +1797,7 @@
     },
     {
       "id": "e0d7b832-c8d8-40c2-b6a8-ba363d0128da",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Rehberlik ve Teftiş Başkanlığı' görevlerini hangi KHK hükümleri uyarınca yerine getirir?",
       "option_a": "657 sayılı KHK",
@@ -1862,7 +1810,7 @@
     },
     {
       "id": "e3742d73-4c55-46fc-a8da-d876d11e9d0c",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK tarafından hazırlanan 'Ulusal yeterliliklerin' onaylama yetkisi hangi organındır?",
       "option_a": "Genel Kurul",
@@ -1875,7 +1823,7 @@
     },
     {
       "id": "62adceae-6eb5-41c5-a6de-7c9fdc93923c",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Eğitim ve Tanıtım Dairesi Başkanlığı'nın' görevleri arasında aşağıdakilerden hangisi yoktur?",
       "option_a": "Sınav ve belgelendirme kriterlerini belirlemek",
@@ -1888,7 +1836,7 @@
     },
     {
       "id": "db1df6b8-664b-4587-8945-9129fe4be226",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM bütçesi hangi bakanlık bütçesi içinde yer alır?",
       "option_a": "Hazine ve Maliye Bakanlığı",
@@ -1901,7 +1849,7 @@
     },
     {
       "id": "977eb647-3fa7-4819-a8e4-b2f6728b6424",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK personeline yapılacak ödemelerde hangi kanun esas alınır?",
       "option_a": "4857 sayılı İş Kanunu",
@@ -1914,7 +1862,7 @@
     },
     {
       "id": "10d3a3ca-7e7f-42bd-8087-d36d08f6a154",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Fon Yönetimi ve Aktüerya Dairesi Başkanlığı' finansal piyasaları takip etmekle yükümlüdür. Bu takip hangi amaçla yapılır?",
       "option_a": "Hisse senedi almak",
@@ -1927,7 +1875,7 @@
     },
     {
       "id": "0f6659a8-96ce-4900-a989-b78ccdf85ef4",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Genel Kurulu'na' katılacak üniversite temsilcileri kim tarafından belirlenir?",
       "option_a": "Cumhurbaşkanı",
@@ -1940,7 +1888,7 @@
     },
     {
       "id": "15b242c8-2e99-4b12-a250-0d1585726b0e",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Basın ve Halkla İlişkiler Müşavirliği' başvuruları sonuçlandırmakla görevli olduğu 4982 sayılı kanun nedir?",
       "option_a": "İş Kanunu",
@@ -1952,8 +1900,8 @@
       "difficulty": 1
     },
     {
-      "id": "e428c94e-7b2a-4c91-9876-0f31728271b1",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "id": "cf918f93-d86b-40fa-9187-9d7c53ee70af",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 84. maddesine göre, ÇSGEM'in görevleri arasında sayılan 'milli ve milletlerarası bölge seminerleri' düzenleme yetkisi hangi konuyu kapsamaktadır?",
       "option_a": "Sadece iş sağlığı ve güvenliği",
@@ -1966,7 +1914,7 @@
     },
     {
       "id": "6554fe68-dde7-40fd-a3cb-760c45b89b82",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre, ÇSGEM Danışma Kurulu üyelerinin görev süresi kaç yıldır?",
       "option_a": "2 yıl",
@@ -1979,7 +1927,7 @@
     },
     {
       "id": "3c7014e0-6797-4498-90ac-093194f7bd64",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM Danışma Kurulu, Kurul Başkanının çağrısı üzerine yılda en az kaç kez olağan toplanır?",
       "option_a": "1",
@@ -1992,7 +1940,7 @@
     },
     {
       "id": "158ffdfb-34ba-4962-88e4-595ac766a99b",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'nin 92. maddesine göre, Merkezin (ÇSGEM) gelirleri arasında aşağıdakilerden hangisi sayılmamıştır?",
       "option_a": "Genel bütçeden yapılacak hazine yardımları",
@@ -2005,7 +1953,7 @@
     },
     {
       "id": "25d93d0b-eb80-40b1-9d68-a51b8216578f",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM'in teşkilat yapısı incelendiğinde, Başkanlığa yardımcı olmak üzere en fazla kaç Başkan Yardımcısı görevlendirilebilir?",
       "option_a": "1",
@@ -2018,7 +1966,7 @@
     },
     {
       "id": "0d5fe31b-4ff1-4048-b3c5-0e4ba3bb1a1b",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "Mesleki Yeterlilik Kurumu (MYK) bünyesinde kurulan Sektör Komiteleri'nin görev süresi kaç yıldır?",
       "option_a": "1 yıl",
@@ -2031,7 +1979,7 @@
     },
     {
       "id": "f0d4af3b-c144-4c6e-8058-f95baa017eed",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Genel Kurulu'na 'Yükseköğretim Kurulu' (YÖK) kaç temsilci ile katılır?",
       "option_a": "1",
@@ -2043,8 +1991,8 @@
       "difficulty": 3
     },
     {
-      "id": "8e0f1a2b-3c4d-4e5f-a6b7-c8d9e0f1a2b4",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "id": "b74eb2ff-4f7b-4338-b05b-7a245bb613d8",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "Aşağıdakilerden hangisi MYK Genel Kurulu'nda birer (1) üye ile temsil edilen kurumlardan biri değildir?",
       "option_a": "Hazine ve Maliye Bakanlığı",
@@ -2057,7 +2005,7 @@
     },
     {
       "id": "b3fc8058-72b2-4e7b-a348-509cf601fdf8",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK bünyesinde 'sınav ve belgelendirme sisteminin işletilmesi ve geliştirilmesini koordine etmek' hangi hizmet biriminin görevidir?",
       "option_a": "Meslek Standartları Dairesi Başkanlığı",
@@ -2070,7 +2018,7 @@
     },
     {
       "id": "d16102ed-08be-4c69-8273-d0014f536570",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Yönetim Kurulu, ilk toplantısında kendi üyeleri arasından kaç Başkan Vekili seçer?",
       "option_a": "1",
@@ -2083,7 +2031,7 @@
     },
     {
       "id": "378fa4f9-b835-4948-8a7e-353a43150402",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "Sosyal Güvenlik Kurumu (SGK) bünyesinde yer alan 'Genel Sağlık Sigortası Genel Müdürlüğü'nün görevleri arasında aşağıdakilerden hangisi yer almaz?",
       "option_a": "Sağlık hizmetlerinden yararlanma şartlarını belirlemek",
@@ -2096,7 +2044,7 @@
     },
     {
       "id": "5e1b5515-3044-42dc-88f6-4402358cd847",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Rehberlik ve Teftiş Başkanlığı'nda müfettiş yardımcısı olarak istihdam edilenlerden 'yeterlik sınavında' başarı gösterenlerin atanma şartı nedir?",
       "option_a": "En az 2 yıl çalışma",
@@ -2109,7 +2057,7 @@
     },
     {
       "id": "e4a51bd3-77dd-456c-a6e2-1691f879fbec",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu üyelerinden olan 'en fazla üyeye sahip işçi konfederasyonu temsilcisi' kim tarafından seçilir?",
       "option_a": "Cumhurbaşkanı",
@@ -2122,7 +2070,7 @@
     },
     {
       "id": "9cdb735f-fb8c-4b30-a622-91a1c287e12a",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'sigortalılık, tescil ve prim tahakkuk' işlemlerini yürütmek hangi genel müdürlüğün görevidir?",
       "option_a": "Emeklilik Hizmetleri Genel Müdürlüğü",
@@ -2135,7 +2083,7 @@
     },
     {
       "id": "61f5884e-b5d9-4cbc-af57-f206c18c81bd",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Strateji Geliştirme Başkanlığı' personeli arasında yer alan ve bütçe süreçlerini yürüten personelin tabi olduğu ek mevzuat hangisidir?",
       "option_a": "657 sayılı Kanun",
@@ -2148,7 +2096,7 @@
     },
     {
       "id": "4b55344b-52b3-45a6-bf04-7f416ef7b719",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK tarafından satın alınan sağlık hizmetlerine ilişkin 'fiyatlandırma komisyonları' hangi birim bünyesinde sekrete edilir?",
       "option_a": "Strateji Geliştirme Başkanlığı",
@@ -2161,7 +2109,7 @@
     },
     {
       "id": "4e8ffe14-2c97-4706-bc34-2b699459c62d",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Basın ve Halkla İlişkiler Müşavirliği' doğrudan kime bağlıdır?",
       "option_a": "Yönetim Kurulu Başkanı'na",
@@ -2174,7 +2122,7 @@
     },
     {
       "id": "835e8d50-063e-4237-908d-bc7d9c918f2b",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "Türkiye İş Kurumu (İŞKUR) Yönetim Kurulu'nda 'Milli Eğitim Bakanlığı'nı' temsilen kim bulunur?",
       "option_a": "Bakan",
@@ -2187,7 +2135,7 @@
     },
     {
       "id": "b95e8c25-4a3d-40d0-8032-4b2ad1ef67ac",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR bünyesinde 'özel istihdam büroları' ile ilgili işleri yürütmek hangi birimin görevidir?",
       "option_a": "İşsizlik Sigortası Dairesi Başkanlığı",
@@ -2200,7 +2148,7 @@
     },
     {
       "id": "5b555bdd-eec5-4dd7-b0f2-6b4aabf9f9da",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'İl İstihdam ve Mesleki Eğitim Kurulu'na' illerde kim başkanlık eder?",
       "option_a": "Belediye Başkanı",
@@ -2213,7 +2161,7 @@
     },
     {
       "id": "508f0935-72d4-49b3-8504-52f2072e88a4",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Yönetim Kurulu üyelerinden olan 'en çok üyeye sahip işveren konfederasyonu temsilcisi' kaç üyeden oluşur?",
       "option_a": "1",
@@ -2226,7 +2174,7 @@
     },
     {
       "id": "8a941247-f2cc-421f-a298-f690d1e696e2",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR gelirleri arasında yer alan 'kurs ve eğitim ücretleri' hangi madde uyarınca gelirdir?",
       "option_a": "Madde 620",
@@ -2239,7 +2187,7 @@
     },
     {
       "id": "2fc8efb2-68c5-4982-8f42-ef1348fc57a2",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM Başkanlığı'nın idari hizmetleri hangi birim tarafından yürütülür?",
       "option_a": "Personel Daire Başkanlığı",
@@ -2252,7 +2200,7 @@
     },
     {
       "id": "855cf497-dd1e-41db-ae9d-73d22ec1746c",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Uluslararası İlişkiler ve Avrupa Birliği Dairesi Başkanlığı'nın' temel görevleri arasında aşağıdakilerden hangisi yer alır?",
       "option_a": "Meslek sınavlarını yapmak",
@@ -2265,7 +2213,7 @@
     },
     {
       "id": "3c6335cf-72cc-4d87-a509-9f2faee74eb5",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu, üye tam sayısının en az kaçı ile toplanır?",
       "option_a": "Salt çoğunluk",
@@ -2278,7 +2226,7 @@
     },
     {
       "id": "20afc1b7-8ae1-4633-a56a-cd1c16b77e0d",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'Kurumun yıllık program ve yatırım programını hazırlamak' hangi birimin görevidir?",
       "option_a": "Yönetim Kurulu",
@@ -2290,21 +2238,8 @@
       "difficulty": 2
     },
     {
-      "id": "448c7ec3-0bd8-44f8-ae5d-8a8ff9a2c316",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
-      "topic_name": "Otuzuncu Bölüm - SGK",
-      "question_text": "SGK 'Destek Hizmetleri Daire Başkanlığı' tarafından yürütülen 'sivil savunma ve seferberlik' hizmetleri hangi madde kapsamındadır?",
-      "option_a": "Madde 413",
-      "option_b": "Madde 422",
-      "option_c": "Madde 423",
-      "option_d": "Madde 430",
-      "correct_option": "B",
-      "explanation": "Madde 422/1-d uyarınca sivil savunma ve seferberlik hizmetleri bu birimin görevidir.",
-      "difficulty": 3
-    },
-    {
       "id": "4844f287-781d-45e2-96e4-86613516f19d",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Genel Kurulu'na 'Türkiye İşveren Sendikaları Konfederasyonu' (TİSK) kaç temsilci ile katılır?",
       "option_a": "1",
@@ -2317,7 +2252,7 @@
     },
     {
       "id": "b827fabc-d77d-469c-bb12-e6f5afbadd92",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Bilgi İşlem Dairesi Başkanlığı'nın' görevleri arasında aşağıdakilerden hangisi yer almaz?",
       "option_a": "Kurum otomasyon sistemini kurmak",
@@ -2330,7 +2265,7 @@
     },
     {
       "id": "e3106d3b-ef87-41db-b2b7-b9e0bcbc6dcf",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Yönetim Kurulu üyelerinden olan 'Hazine ve Maliye Bakanlığı temsilcisi' kim tarafından seçilir/atanır?",
       "option_a": "Maliye Bakanı",
@@ -2343,7 +2278,7 @@
     },
     {
       "id": "2c8f9fbe-0a5d-4d76-ba7e-89303ac9118c",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu toplantılarında karar yeter sayısı en az kaçtır?",
       "option_a": "Üç",
@@ -2356,7 +2291,7 @@
     },
     {
       "id": "41cbff19-9c1d-41b2-8075-e2ebc86e68be",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'Sağlık geri ödeme politikalarını takip etmek ve analiz etmek' hangi birimin görevidir?",
       "option_a": "Genel Sağlık Sigortası Genel Müdürlüğü",
@@ -2369,7 +2304,7 @@
     },
     {
       "id": "cb5cbfcc-89fb-4aa0-bbd9-4e2946e9f12e",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK personelinin atanmasında hangi makam nihai yetkilidir?",
       "option_a": "Yönetim Kurulu Başkanı",
@@ -2382,7 +2317,7 @@
     },
     {
       "id": "d2064146-a63d-4aa3-95e2-05f9e0777b58",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM Danışma Kurulu'na 'Yönetim Kurulu Başkanı' olarak aşağıdakilerden hangisi başkanlık eder?",
       "option_a": "Cumhurbaşkanı",
@@ -2395,7 +2330,7 @@
     },
     {
       "id": "2d8e4f7e-361d-471c-b32e-ac0e6fe4a143",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Basın ve Halkla İlişkiler Müşavirliği'nin' bilgi edinme ile ilgili görevlerini düzenleyen 4982 sayılı kanun nedir?",
       "option_a": "Kişisel Verilerin Korunması Kanunu",
@@ -2407,21 +2342,8 @@
       "difficulty": 1
     },
     {
-      "id": "b5086be5-767a-4103-b7e0-3aa0404e6836",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
-      "topic_name": "Yedinci Bölüm - ÇSGEM",
-      "question_text": "ÇSGEM'in 'yerli ve yabancı' kuruluşlarla ortak projeler yürütme yetkisi hangi maddede düzenlenmiştir?",
-      "option_a": "Madde 82",
-      "option_b": "Madde 84",
-      "option_c": "Madde 88",
-      "option_d": "Madde 93",
-      "correct_option": "B",
-      "explanation": "Madde 84/1-b uyarınca Merkez yerli ve yabancı kuruluşlarla ortak projeler geliştirebilir.",
-      "difficulty": 2
-    },
-    {
       "id": "6ac00fd1-45eb-44af-ae17-0ca02628169c",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK personelinin 'hizmet içi eğitim' programlarını hazırlamak hangi birimin görevidir?",
       "option_a": "Strateji Geliştirme Başkanlığı",
@@ -2434,7 +2356,7 @@
     },
     {
       "id": "c7d58ede-532d-448b-b7b7-b666c7b5f398",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Yönetim Kurulu toplantılarına 'Genel Müdür' katılamadığında kim başkanlık eder?",
       "option_a": "Bakan",
@@ -2447,7 +2369,7 @@
     },
     {
       "id": "35e2ff75-7930-4fc5-8398-e5dac265a8e2",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'Kurum leh ve aleyhindeki her türlü davanın takibini yapmak' hangi birimin sorumluluğundadır?",
       "option_a": "Hukuk Müşavirliği",
@@ -2460,7 +2382,7 @@
     },
     {
       "id": "c0747e3e-a7fc-435f-9c81-4bd1bcd62fd1",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Strateji Geliştirme Dairesi Başkanlığı'nın' bütçe süreçlerini yürütme yetkisi hangi kanuna dayanır?",
       "option_a": "657 sayılı Kanun",
@@ -2473,7 +2395,7 @@
     },
     {
       "id": "db33416d-a1bf-4d9a-9a1f-9023bf150c7f",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'İnşaat ve Emlak Daire Başkanlığı' tarafından yürütülen inşaat işleri için hangi onay gereklidir?",
       "option_a": "Sadece Daire Başkanı onayı",
@@ -2486,7 +2408,7 @@
     },
     {
       "id": "1d230d37-d380-4ef2-b33c-470d6635f400",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Eğitim ve Tanıtım Dairesi Başkanlığı'nın' görevleri arasında aşağıdakilerden hangisi yer alır?",
       "option_a": "İşyerlerini teftiş etmek",
@@ -2499,7 +2421,7 @@
     },
     {
       "id": "5f6c3e43-2b1c-457b-8621-e92204b6a8d2",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM tarafından hazırlanan yıllık çalışma programını 'onaylama' yetkisi kime aittir?",
       "option_a": "Merkez Başkanı",
@@ -2512,7 +2434,7 @@
     },
     {
       "id": "c715b034-3860-4085-97b4-3c8d7313d422",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'fonların aktüeryal yönden değerlendirilmesini yapmak' hangi birimin asli görevidir?",
       "option_a": "Sigorta Primleri Genel Müdürlüğü",
@@ -2525,7 +2447,7 @@
     },
     {
       "id": "bafe483f-3070-46dd-84d5-dda142b8d596",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Genel Kurulu'na 'Türkiye İşçi Sendikaları Konfederasyonları' kaç temsilci ile katılır?",
       "option_a": "5",
@@ -2538,7 +2460,7 @@
     },
     {
       "id": "4be77717-b29a-4b77-b510-940fa4c27857",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Denetim Dairesi Başkanlığı'nın' görev alanına giren denetimler kimin adına yapılır?",
       "option_a": "Bakan adına",
@@ -2551,7 +2473,7 @@
     },
     {
       "id": "2cc0fafc-3bfa-45ba-9350-ba62bc146290",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Özel Kalem Müdürlüğü'nün' görevleri arasında aşağıdakilerden hangisi bulunur?",
       "option_a": "Bakanlık bina güvenliği",
@@ -2564,7 +2486,7 @@
     },
     {
       "id": "65324c7a-6fe6-401a-9969-ed58007f1ab5",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'İşsizlik Sigortası Dairesi Başkanlığı'nın' görevleri arasında 'iş kaybı tazminatı' dışında hangisi bulunur?",
       "option_a": "Ücret garanti fonu işlemleri",
@@ -2577,7 +2499,7 @@
     },
     {
       "id": "86ce3009-17f2-47a5-9dfe-329aca524f83",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Genel Sekreter' unvanlı personelin atanması için gereken organ kararı nedir?",
       "option_a": "Genel Kurul kararı",
@@ -2590,7 +2512,7 @@
     },
     {
       "id": "4fb07731-9132-4a3b-9dd4-b523dd6ab3aa",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu üyelerine ödenecek 'huzur hakkı' ücreti için hangi gösterge rakamı esas alınır?",
       "option_a": "3000",
@@ -2603,7 +2525,7 @@
     },
     {
       "id": "38ccb19c-db90-45a8-b90e-1c9557a8afab",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "4 sayılı Cumhurbaşkanlığı Kararnamesi'ne göre, ÇSGEM Danışma Kurulu'na sunulacak yıllık çalışma programı taslağı kim tarafından hazırlanır?",
       "option_a": "Bakanlık Strateji Geliştirme Başkanlığı",
@@ -2616,7 +2538,7 @@
     },
     {
       "id": "094d228b-c18d-42c7-bf5d-f2e185f336bd",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM'in görev alanıyla ilgili olarak 'iş yerlerinin çalışma mevzuları ve iş verimi' konularında istişarede bulunması hangi şarta bağlıdır?",
       "option_a": "Sadece Bakanın yazılı emri",
@@ -2629,7 +2551,7 @@
     },
     {
       "id": "103dc665-ebd3-4b73-9005-b04a070e2483",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM Danışma Kurulu toplantıları için çağrıyı yapan ve gündemi belirleyen makam hangisidir?",
       "option_a": "Çalışma ve Sosyal Güvenlik Bakanı",
@@ -2642,7 +2564,7 @@
     },
     {
       "id": "ed73fd9a-efb0-4620-8c05-e1fe6c5a3d9e",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM bünyesinde istihdam edilen uzman ve uzman yardımcıları hangi alanlarda çalıştırılmak üzere atanırlar?",
       "option_a": "Sadece mali denetim",
@@ -2655,7 +2577,7 @@
     },
     {
       "id": "0a3da336-7650-4c74-87e2-1c700b35033e",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM Danışma Kurulu'nda yer alan Bakanlık temsilcileri kim tarafından belirlenir?",
       "option_a": "Cumhurbaşkanı",
@@ -2668,7 +2590,7 @@
     },
     {
       "id": "bcde1234-1111-90ab-cdef-1234567890a1",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "Mesleki Yeterlilik Kurumu'nun (MYK) stratejik plan ve performans programını inceleyerek karara bağlama yetkisi hangi organa aittir?",
       "option_a": "Genel Kurul",
@@ -2681,7 +2603,7 @@
     },
     {
       "id": "deadbeef-2222-5678-90ab-cdefdeadbe12",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Genel Kurulu'na 'Türkiye İşveren Sendikaları Konfederasyonu' (TİSK) kaç üye ile temsil edilir?",
       "option_a": "1",
@@ -2694,7 +2616,7 @@
     },
     {
       "id": "a9b8c7d6-3333-3210-fedc-ba9876543213",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "Aşağıdakilerden hangisi MYK Yönetim Kurulu üyeliği için gerekli şartlardan biri değildir?",
       "option_a": "Yükseköğrenim mezunu olmak",
@@ -2707,7 +2629,7 @@
     },
     {
       "id": "22334455-4444-8899-00aa-bbccddeeff15",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK tarafından hazırlanan ve Türkiye Yeterlilikler Çerçevesi (TYÇ) kapsamındaki kalite güvence belgelerinin 'yıllık değerlendirme raporlarını' hangi birim hazırlar?",
       "option_a": "Meslek Standartları Dairesi Başkanlığı",
@@ -2720,7 +2642,7 @@
     },
     {
       "id": "ffeeddcc-5555-9988-7766-554433221105",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK Yönetim Kurulu toplantıları kural olarak en az kaç üye ile toplanır?",
       "option_a": "Salt Çoğunluk",
@@ -2733,7 +2655,7 @@
     },
     {
       "id": "12b96b00-6666-4f5f-a064-52049484cae9",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "Sosyal Güvenlik Kurumu (SGK) Genel Kurulu'nda 'Türkiye Barolar Birliği' kaç temsilci ile temsil edilir?",
       "option_a": "1",
@@ -2746,7 +2668,7 @@
     },
     {
       "id": "abcdef12-7777-7890-abcd-ef1234567891",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu'na 'Cumhurbaşkanı tarafından seçilen' üyelerin görev süreleri kaç yıldır?",
       "option_a": "2",
@@ -2759,7 +2681,7 @@
     },
     {
       "id": "99887766-8888-3322-1100-abcdefabcd12",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'iş kazası, meslek hastalığı, hastalık ve analık sigortası' kollarından yapılacak yardımları koordine etmek hangi birimin görevidir?",
       "option_a": "Genel Sağlık Sigortası Genel Müdürlüğü",
@@ -2772,7 +2694,7 @@
     },
     {
       "id": "10101010-9999-3030-4040-505050505051",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Sigorta Primleri Genel Müdürlüğü'nün' görevleri arasında aşağıdakilerden hangisi yer alır?",
       "option_a": "Emekli maaşlarını ödemek",
@@ -2785,7 +2707,7 @@
     },
     {
       "id": "f0f0f0f0-aaaa-d2d2-c3c3-b4b4b4b4b4b5",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'Sağlık hizmeti sunucularıyla yapılacak sözleşme esaslarını belirlemek' hangi genel müdürlüğün yetkisindedir?",
       "option_a": "Hukuk Müşavirliği",
@@ -2798,7 +2720,7 @@
     },
     {
       "id": "c7c7c7c7-bbbb-a9a9-0101-232323232325",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Hizmet Sunumu Genel Müdürlüğü' tarafından tutulan verilerin 'bilimsel amaçlarla kullanımı için anonim hale getirilmesi' hangi usule tabidir?",
       "option_a": "Sadece Genel Müdür onayı",
@@ -2811,7 +2733,7 @@
     },
     {
       "id": "d9d9d9d9-cccc-f1f1-2222-333333333334",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK personeline yapılacak 'performans ödemeleri' ile ilgili kriterleri belirlemeye hangi organ yetkilidir?",
       "option_a": "Başkanlık",
@@ -2824,7 +2746,7 @@
     },
     {
       "id": "5a5a5a5a-dddd-7c7c-8d8d-9e9e9e9e9e9a",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Strateji Geliştirme Başkanlığı'nın' görevleri arasında aşağıdakilerden hangisi yer almaz?",
       "option_a": "Kurumun stratejik planını hazırlamak",
@@ -2837,7 +2759,7 @@
     },
     {
       "id": "b1b1b1b1-eeee-c3c3-d4d4-e5e5e5e5e5e6",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'İnşaat ve Emlak Daire Başkanlığı' tarafından yürütülen 'kamulaştırma' işlemleri için hangi karar mekanizması gereklidir?",
       "option_a": "Sadece Daire Başkanı onayı",
@@ -2850,7 +2772,7 @@
     },
     {
       "id": "6c6c6c6c-ffff-8e8e-9f9f-0a0a0a0a0a0b",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'aktüeryal dengeyi izlemek ve uzun vadeli projeksiyonlar yapmak' hangi birimin asli görevidir?",
       "option_a": "Emeklilik Hizmetleri Genel Müdürlüğü",
@@ -2863,7 +2785,7 @@
     },
     {
       "id": "3e3e3e3e-1122-5a5a-6b6b-7c7c7c7c7c7d",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Genel Kurulu üyeleri arasında 'üniversitelerin ilgili bölümlerinden' kaç öğretim üyesi bulunur?",
       "option_a": "5",
@@ -2876,7 +2798,7 @@
     },
     {
       "id": "2d2d2d2d-2233-3c3c-4b4b-5e5e5e5e5e5f",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Yönetim Kurulu'nda 'en çok üyeye sahip memur konfederasyonundan' kaç temsilci bulunur?",
       "option_a": "1",
@@ -2889,7 +2811,7 @@
     },
     {
       "id": "0a0a0a0a-3344-2c2c-3d3d-4e4e4e4e4e4f",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR bünyesinde 'işsizlik sigortası primlerinin toplanmasını' hangi kurum/birim koordine eder?",
       "option_a": "İŞKUR Bilgi İşlem Dairesi",
@@ -2902,7 +2824,7 @@
     },
     {
       "id": "9b9b9b9b-4455-7c7c-6d6d-5e5e5e5e5e5f",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Aktif İşgücü Hizmetleri Dairesi Başkanlığı'nın' temel görevi nedir?",
       "option_a": "İşsizlik ödeneği miktarını belirlemek",
@@ -2915,7 +2837,7 @@
     },
     {
       "id": "8c8c8c8c-5566-6a6a-5d5d-4e4e4e4e4e4f",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'İl İstihdam ve Mesleki Eğitim Kurulları' hangi aralıklarla olağan toplanır?",
       "option_a": "Ayda bir",
@@ -2928,7 +2850,7 @@
     },
     {
       "id": "7d7d7d7d-6677-5b5b-4a4a-3e3e3e3e3e3f",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR Yönetim Kurulu üyeliğinden çekilmiş sayılma kriteri nedir?",
       "option_a": "Ardışık 2 toplantıya katılmamak",
@@ -2941,7 +2863,7 @@
     },
     {
       "id": "6e6e6e6e-7788-4c4c-3b3b-2a2a2a2a2a2f",
-      "topic_id": "4_sayili_cbk_yedinci_bolum_csgem",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__yedinci_bolum_csgem",
       "topic_name": "Yedinci Bölüm - ÇSGEM",
       "question_text": "ÇSGEM'in 'danışmanlık hizmeti' verme yetkisi hangi konuları kapsar?",
       "option_a": "Sadece hukuk danışmanlığı",
@@ -2954,7 +2876,7 @@
     },
     {
       "id": "5f5f5f5f-8899-3d3d-2c2c-1b1b1b1b1b1f",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Sektör Komiteleri'nde' aşağıdakilerden hangisinin temsilcisi bulunması zorunlu değildir?",
       "option_a": "İlgili Bakanlıklar",
@@ -2967,7 +2889,7 @@
     },
     {
       "id": "4a4a4a4a-9900-2c2c-1d1d-0e0e0e0e0e0f",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Rehberlik ve Teftiş Başkanlığı' müfettişlerinin denetim yetkisi nereleri kapsar?",
       "option_a": "Sadece Kurum merkez birimleri",
@@ -2980,7 +2902,7 @@
     },
     {
       "id": "bcf76fb3-904a-45e0-af2b-7c38adce525d",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'İşgücü Piyasası ve İstatistik Dairesi Başkanlığı' işgücü verilerini analiz ederken hangi metodolojiyi esas alır?",
       "option_a": "Sadece yerel anketler",
@@ -2993,7 +2915,7 @@
     },
     {
       "id": "2c2c2c2c-1122-0e0e-9f9f-8a8a8a8a8a8b",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK Yönetim Kurulu toplantılarında 'Karşı oy' kullanan üyeler için hangi kural geçerlidir?",
       "option_a": "Sözlü beyan yeterlidir",
@@ -3006,7 +2928,7 @@
     },
     {
       "id": "1d1d1d1d-2233-9f9f-8a8a-7b7b7b7b7b7c",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Genel Sağlık Sigortası Genel Müdürlüğü' ilaç ve tıbbi malzemelerin geri ödeme listelerini hangi kritere göre günceller?",
       "option_a": "Tıbbi ve ekonomik değerlendirmeler çerçevesinde",
@@ -3019,7 +2941,7 @@
     },
     {
       "id": "0e0e0e0e-3344-8a8a-7b7b-6c6c6c6c6c6d",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Denetim Dairesi Başkanlığı' yetkilendirilmiş kuruluşları denetlerken hangi yetkiyi kullanamaz?",
       "option_a": "Belgeleri inceleme",
@@ -3032,7 +2954,7 @@
     },
     {
       "id": "9f9f9f9f-4455-7b7b-6c6c-5d5d5d5d5d5e",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'Kurumun yıllık bütçesini hazırlamak' hangi birimin görevidir?",
       "option_a": "Muhasebe Daire Başkanlığı",
@@ -3045,7 +2967,7 @@
     },
     {
       "id": "8a8a8a8a-5566-6c6c-5d5d-4e4e4e4e4e4f",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'İşsizlik Sigortası Dairesi Başkanlığı'nın' görevleri arasında aşağıdakilerden hangisi bulunur?",
       "option_a": "Mesleki yeterlilik belgesi vermek",
@@ -3058,7 +2980,7 @@
     },
     {
       "id": "50ceed0a-dc1c-4ac2-a9e2-9d19211d32a7",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Rehberlik ve Teftiş Başkanlığı' tarafından yapılan denetimlerin temel amacı nedir?",
       "option_a": "Sadece personel cezalandırmak",
@@ -3071,7 +2993,7 @@
     },
     {
       "id": "c1fd6925-5235-4482-8d39-1a5207b6d4a0",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'İstihdam Hizmetleri Dairesi Başkanlığı' işe yerleştirme faaliyetlerinde hangi gruba öncelik verir?",
       "option_a": "Yüksek gelirli gruplara",
@@ -3084,7 +3006,7 @@
     },
     {
       "id": "bc6169f2-4c00-4c7f-9935-3f08c549c1fd",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Destek Hizmetleri Daire Başkanlığı' Bakanlık merkez binalarının güvenliğini hangi usulle sağlar?",
       "option_a": "Sivil polislerle",
@@ -3097,7 +3019,7 @@
     },
     {
       "id": "c37d03cd-5c3c-4c0e-acb7-ac17126f6667",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR personeline ödenecek 'ücret ve mali haklar' hangi mevzuata göre belirlenir?",
       "option_a": "4857 sayılı İş Kanunu",
@@ -3110,7 +3032,7 @@
     },
     {
       "id": "aee7fe61-e48c-4357-bb12-a7ac818ca85a",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Basın ve Halkla İlişkiler Müşavirliği' kamuoyunda Kurum imajını güçlendirmek için hangi faaliyeti yürütür?",
       "option_a": "Sadece ilan vermek",
@@ -3123,7 +3045,7 @@
     },
     {
       "id": "2a2a2a2a-1122-0c0c-9d9d-8e8e8e8e8e8f",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Genel Sekreterliği'nin' idari koordinasyon yetkisi kimin adına kullanılır?",
       "option_a": "Bakan adına",
@@ -3136,7 +3058,7 @@
     },
     {
       "id": "66f75b8b-523f-4bff-bb09-b132543438c6",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Dış İlişkiler Dairesi Başkanlığı' yurt dışındaki Türk işçileriyle ilgili hangi faaliyeti yapar?",
       "option_a": "Maaşlarını öder",
@@ -3149,7 +3071,7 @@
     },
     {
       "id": "6de7f30f-847c-467a-86ab-a964114e1222",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Hukuk Müşavirliği' bir davadan feragat etme veya sulh olma teklifini nereye sunar?",
       "option_a": "Cumhurbaşkanlığına",
@@ -3162,7 +3084,7 @@
     },
     {
       "id": "f8c0e962-5954-4c46-8cd9-e846b76b98d1",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'İşgücü Piyasası ve İstatistik Dairesi Başkanlığı' işgücü piyasasını hangi periyotlarla izler?",
       "option_a": "Sadece 10 yılda bir",
@@ -3175,7 +3097,7 @@
     },
     {
       "id": "5392f5cf-d9ee-43a7-b64a-0385bbe81416",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK bünyesinde 'sağlık harcamalarını azaltmaya yönelik' tedbir önerileri hangi birimden gelir?",
       "option_a": "Sigorta Primleri Genel Müdürlüğü",
@@ -3188,7 +3110,7 @@
     },
     {
       "id": "9835513f-e60c-4e1d-97e9-5617e33aeadb",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Eğitim ve Tanıtım Dairesi Başkanlığı'nın' yayınları hangi onaydan geçer?",
       "option_a": "Sadece birim amiri",
@@ -3201,7 +3123,7 @@
     },
     {
       "id": "11c116d4-871c-4158-8ec1-3a3bc5c7c3b9",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Yönetim Kurulu' kararlarının yürütülmesinden birinci derecede kim sorumludur?",
       "option_a": "Bakan",
@@ -3214,7 +3136,7 @@
     },
     {
       "id": "1800f526-455b-4d47-a336-555a801d21ad",
-      "topic_id": "4_sayili_cbk_kirkucuncu_bolum_iskur",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__kirkucuncu_bolum_iskur",
       "topic_name": "Kırküçüncü Bölüm - İŞKUR",
       "question_text": "İŞKUR 'Fon Yönetimi ve Aktüerya Dairesi Başkanlığı' Fonun mali tablosunu kimlere sunar?",
       "option_a": "Sadece sendikalara",
@@ -3227,7 +3149,7 @@
     },
     {
       "id": "4e3d2c1b-9900-8e7d-6c5b-4a3b2c1d0e9f",
-      "topic_id": "4_sayili_cbk_otuzuncu_bolum_sgk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__otuzuncu_bolum_sgk",
       "topic_name": "Otuzuncu Bölüm - SGK",
       "question_text": "SGK 'Strateji Geliştirme Başkanlığı' personeli olan 'İç Denetçiler' kime bağlıdır?",
       "option_a": "Rehberlik ve Teftiş Başkanına",
@@ -3240,7 +3162,7 @@
     },
     {
       "id": "39b1befd-8370-4389-94ea-528335ba4dfe",
-      "topic_id": "4_sayili_cbk_ondokuzuncu_bolum_myk",
+      "topic_id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi__ondokuzuncu_bolum_myk",
       "topic_name": "Ondokuzuncu Bölüm - MYK",
       "question_text": "MYK 'Yönetim Kurulu' toplantılarına mazeretsiz katılmamanın yaptırımı nedir?",
       "option_a": "Maaş kesintisi",

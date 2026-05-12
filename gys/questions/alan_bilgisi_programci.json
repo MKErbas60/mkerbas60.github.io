@@ -68,7 +68,7 @@
     },
     {
       "id": "96faa9cd-d1ae-4bf4-9b77-eeff9ab0c672",
-      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_c",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta bir sınıftan (class) yeni bir nesne üretmek için kullanılan anahtar kelime hangisidir?",
       "option_a": "static",
@@ -120,7 +120,7 @@
     },
     {
       "id": "9c0d1e2f-3a4b-4c5d-6e7f-8a9b0c1d2e3f",
-      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_c",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta bir metodun değer döndürmediğini belirtmek için hangi anahtar kelime kullanılır?",
       "option_a": "int",
@@ -198,7 +198,7 @@
     },
     {
       "id": "11186e8e-44f8-4e3b-8905-8baaf2a9f2c6",
-      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_c",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "Nesne Yönelimli Programlamada, bir sınıfın başka bir sınıfın özelliklerini ve metodlarını almasına ne ad verilir?",
       "option_a": "Encapsulation (Kapsülleme)",
@@ -276,7 +276,7 @@
     },
     {
       "id": "279f30af-6779-4ad5-8310-4d7d276d4965",
-      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_c",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta hata yönetimi (exception handling) için kullanılan blok yapısı hangisidir?",
       "option_a": "if - else",
@@ -301,7 +301,7 @@
       "difficulty": 2
     },
     {
-      "id": "a3b4c5d6-e7f8-4a9b-0c1d-2e3f4a5b6c7d",
+      "id": "fa060768-6a65-4404-abb0-58aa45a81bb9",
       "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "Bilgisayarın açılışında donanım kontrollerini yapan ve işletim sistemini başlatan yazılım hangisidir?",
@@ -314,7 +314,7 @@
       "difficulty": 2
     },
     {
-      "id": "b4c5d6e7-f8a9-4b0c-1d2e-3f4a5b6c7d8e",
+      "id": "42071cfa-41ee-4ca4-a3c7-47fa722f0d55",
       "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Bir algoritmanın adım adım şematik olarak gösterilmesine ne ad verilir?",
@@ -327,7 +327,7 @@
       "difficulty": 1
     },
     {
-      "id": "c5d6e7f8-a9b0-4c1d-2e3f-4a5b6c7d8e9f",
+      "id": "bcf1b7b0-7df3-44b3-aa18-58d00b0e7be3",
       "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "HTML'de tıklanabilir bir köprü (link) oluşturmak için kullanılan etiket hangisidir?",
@@ -340,7 +340,7 @@
       "difficulty": 1
     },
     {
-      "id": "d6e7f8a9-b0c1-4d2e-3f4a-5b6c7d8e9f0a",
+      "id": "21ca0fed-4f4d-490b-8b40-9fe6b6e17d44",
       "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de benzer karakter kalıplarını aramak için 'WHERE' ifadesiyle birlikte hangi operatör kullanılır?",
@@ -353,8 +353,8 @@
       "difficulty": 2
     },
     {
-      "id": "e7f8a9b0-c1d2-4e3f-4a5b-6c7d8e9f0a1b",
-      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
+      "id": "24f46de3-d8fd-4f19-863e-2a45ffe947a6",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_c",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta bir sınıftan nesne üretildiğinde çalışan özel metoda ne ad verilir?",
       "option_a": "Destructor",
@@ -366,7 +366,7 @@
       "difficulty": 2
     },
     {
-      "id": "f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2c",
+      "id": "fb8f5496-1f33-4504-a5c6-4d167269d968",
       "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Word'de bir metni kalın (bold) yapmak için kullanılan kısayol hangisidir?",
@@ -379,7 +379,7 @@
       "difficulty": 1
     },
     {
-      "id": "a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3d",
+      "id": "add72be9-56f4-4919-849e-e7522d8a928b",
       "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "İşletim sisteminde donanım ile yazılım arasındaki iletişimi sağlayan küçük yazılımlara ne ad verilir?",
@@ -392,7 +392,7 @@
       "difficulty": 1
     },
     {
-      "id": "b0c1d2e3-f4a5-4b6c-7d8e-9f0a1b2c3d4e",
+      "id": "66d10535-49a4-4262-8dd5-8d3a47134045",
       "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Özyinelemeli (Recursive) bir fonksiyonun temel özelliği nedir?",
@@ -418,7 +418,7 @@
       "difficulty": 2
     },
     {
-      "id": "d2e3f4a5-b6c7-4d8e-9f0a-1b2c3d4e5f6a",
+      "id": "b256b729-5458-4777-b868-1ec01b2d938e",
       "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Birden fazla tablodaki verileri belirli bir ilişkiye göre birleştirmek için kullanılan SQL komutu hangisidir?",
@@ -431,8 +431,8 @@
       "difficulty": 2
     },
     {
-      "id": "e3f4a5b6-c7d8-4e9f-0a1b-2c3d4e5f6a7b",
-      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
+      "id": "9c9896e0-53f6-41aa-ab2b-9af6a3e5a29f",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_c",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta tüm sınıfların türediği en temel sınıf hangisidir?",
       "option_a": "System.Base",
@@ -444,7 +444,7 @@
       "difficulty": 3
     },
     {
-      "id": "f4a5b6c7-d8e9-4f0a-1b2c-3d4e5f6a7b8c",
+      "id": "899a6e51-b3f0-4f95-883d-31ef5858c72a",
       "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Excel'de '=EĞER(A1>50; \"Geçti\"; \"Kaldı\")' formülünde A1 hücresi 50 ise sonuç ne olur?",
@@ -457,7 +457,7 @@
       "difficulty": 2
     },
     {
-      "id": "a5b6c7d8-e9f0-4a1b-2c3d-4e5f6a7b8c9d",
+      "id": "fefbeb34-f782-451c-aa62-02b00b3bf432",
       "topic_id": "alan_bilgisi_programci__windows_isletim_sistemi_temel_bilgisayar",
       "topic_name": "Windows İşletim Sistemi-Temel Bilgisayar",
       "question_text": "Windows'ta 'Registry Editor' (Kayıt Defteri) açmak için çalıştır satırına ne yazılır?",
@@ -470,7 +470,7 @@
       "difficulty": 2
     },
     {
-      "id": "b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0e",
+      "id": "3926d26e-4400-4713-a155-7425373afa92",
       "topic_id": "alan_bilgisi_programci__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "FIFO (First In First Out - İlk Giren İlk Çıkar) prensibiyle çalışan veri yapısı hangisidir?",
@@ -483,7 +483,7 @@
       "difficulty": 2
     },
     {
-      "id": "c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1f",
+      "id": "eaf8fdfe-eab4-46bb-a815-36f7ba4c9ef4",
       "topic_id": "alan_bilgisi_programci__web_programlama",
       "topic_name": "Web Programlama",
       "question_text": "HTML'de bir form oluştururken verilerin URL adresinde görünmeden gönderilmesini sağlayan yöntem hangisidir?",
@@ -496,7 +496,7 @@
       "difficulty": 2
     },
     {
-      "id": "d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2a",
+      "id": "a4deb9c9-0920-4116-a4c8-83dd3d0bb3a1",
       "topic_id": "alan_bilgisi_programci__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de bir tablodan kayıt silmek için hangi komut kullanılır?",
@@ -510,7 +510,7 @@
     },
     {
       "id": "7964f656-8301-4974-9394-2739ea3722b7",
-      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_c",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "C#'ta bir değişkenin değerinin değiştirilemez olmasını sağlayan anahtar kelime hangisidir?",
       "option_a": "static",
@@ -522,7 +522,7 @@
       "difficulty": 1
     },
     {
-      "id": "f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c",
+      "id": "c5cfbb5f-3e1a-4b82-98d7-47944942d171",
       "topic_id": "alan_bilgisi_programci__temel_ofis_uygulamalari",
       "topic_name": "Temel Ofis Uygulamaları",
       "question_text": "Bir PDF dosyasını düzenlemek veya metin kopyalamak için kullanılan standart uygulama hangisidir?",
@@ -588,7 +588,7 @@
     },
     {
       "id": "e6798d6b-ec01-4f9b-bf52-a87b91c59b3f",
-      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_csharp",
+      "topic_id": "alan_bilgisi_programci__nesne_yonelimli_programlama_c",
       "topic_name": "Nesne Yönelimli Programlama (C#)",
       "question_text": "Sadece aynı sınıf içinden erişilebilen üyelere hangi erişim belirleyicisi (access modifier) atanır?",
       "option_a": "public",

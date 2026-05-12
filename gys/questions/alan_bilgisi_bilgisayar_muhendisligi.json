@@ -55,7 +55,7 @@
     },
     {
       "id": "295de618-8d7c-493f-92b8-12ee16b14696",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de mevcut bir tablodaki verileri güncellemek için hangi komut kullanılır?",
       "option_a": "ALTER",
@@ -68,7 +68,7 @@
     },
     {
       "id": "af5f0b95-bcec-4565-a418-5bc8c4593d26",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "İki tabloyu ortak bir sütun üzerinden birleştirmek için kullanılan SQL ifadesi hangisidir?",
       "option_a": "GROUP BY",
@@ -81,7 +81,7 @@
     },
     {
       "id": "87b55861-f44c-4d06-9d0f-f54127381f6f",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Veritabanında 'NULL' değerleri hariç satır sayısını bulan fonksiyon hangisidir?",
       "option_a": "SUM",
@@ -94,7 +94,7 @@
     },
     {
       "id": "170b5b49-df37-4b59-b6ef-3b972fef566c",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "ACID prensiplerinde yer alan 'A' (Atomicity) neyi ifade eder?",
       "option_a": "İşlemin ya tamamen yapılması ya da hiç yapılmaması",
@@ -107,7 +107,7 @@
     },
     {
       "id": "261ac293-4499-408a-84b2-71ac7f1f6b8c",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de verileri belirli bir kolona göre sıralamak için hangi ifade kullanılır?",
       "option_a": "SORT BY",
@@ -120,7 +120,7 @@
     },
     {
       "id": "89124742-8914-4c87-a665-a9f2d6f87ca0",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Bir veritabanı şemasında 'Foreign Key' temel olarak neyi sağlar?",
       "option_a": "Tablonun hızlanmasını",
@@ -211,7 +211,7 @@
     },
     {
       "id": "16b8f799-6d06-41ec-9cfa-b3e42ad482fa",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Big O notasyonuna göre O(1) neyi ifade eder?",
       "option_a": "Doğrusal zaman",
@@ -224,7 +224,7 @@
     },
     {
       "id": "84386e96-ba55-4770-849a-9e6b350a6f13",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Aşağıdaki sıralama algoritmalarından hangisi genellikle 'Divide and Conquer' (Böl ve Yönet) yaklaşımını kullanır?",
       "option_a": "Selection Sort",
@@ -263,7 +263,7 @@
     },
     {
       "id": "18ba5e6a-fac4-4270-8949-dd8b74b1fe9b",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Bir sınıfın değişkenlerine doğrudan erişimi engelleyip metodlar üzerinden erişim sağlamaya ne denir?",
       "option_a": "Inheritance",
@@ -276,7 +276,7 @@
     },
     {
       "id": "9ec67985-994b-428b-ab32-f89d68456201",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Java ve C#'ta 'static' anahtar kelimesi neyi ifade eder?",
       "option_a": "Nesneye özel üyeleri",
@@ -289,7 +289,7 @@
     },
     {
       "id": "72002d0a-dd8c-485a-9143-1347d33346ae",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Aynı isimli metodun farklı parametrelerle tanımlanmasına ne denir?",
       "option_a": "Overriding",
@@ -302,7 +302,7 @@
     },
     {
       "id": "4febca40-bf6b-413e-b2fa-c7c37d89c03b",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Bir sınıftan nesne üretilmesini engelleyen ve sadece kalıtım için kullanılan sınıf türü hangisidir?",
       "option_a": "Interface",
@@ -315,7 +315,7 @@
     },
     {
       "id": "88f0a3e9-ddca-48d0-bc5d-b383613d12b7",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Kalıtım alan sınıfın, ata sınıftaki bir metodu kendi ihtiyacına göre yeniden yazmasına ne denir?",
       "option_a": "Overloading",
@@ -328,7 +328,7 @@
     },
     {
       "id": "d9b27507-1b7a-423f-a402-8c46e53f8f35",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Nesne oluşturulduğunda ilk çalışan ve sınıf ile aynı isme sahip metoda ne ad verilir?",
       "option_a": "Main",
@@ -341,7 +341,7 @@
     },
     {
       "id": "54d27bcd-3c45-4f9d-ae0e-41fca6d9207c",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Java'da tüm sınıfların en üstünde yer alan ata sınıf (parent) hangisidir?",
       "option_a": "Class",
@@ -354,7 +354,7 @@
     },
     {
       "id": "f7a25e28-cac5-4109-8f84-505c76801295",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Aşağıdakilerden hangisi bir erişim belirleyici (Access Modifier) değildir?",
       "option_a": "public",
@@ -367,7 +367,7 @@
     },
     {
       "id": "ac840d3c-c5e2-4a8b-95a2-e4c3bb297420",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_donanim",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
       "topic_name": "Bilgisayar Mimarisi ve Donanım",
       "question_text": "Bilgisayarda aritmetik ve mantıksal işlemlerin yapıldığı birim hangisidir?",
       "option_a": "RAM",
@@ -380,7 +380,7 @@
     },
     {
       "id": "26160d3b-b05f-4dab-957e-d5e40213cf15",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_donanim",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
       "topic_name": "Bilgisayar Mimarisi ve Donanım",
       "question_text": "Bilgisayar açılırken donanımları test eden ve işletim sistemini başlatan yazılım hangisidir?",
       "option_a": "Kernel",
@@ -445,7 +445,7 @@
     },
     {
       "id": "1b0bbce2-31cf-45d7-9db1-fdc63cdcb7cf",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de bir tablonun yapısını (kolon ekleme, silme) değiştirmek için hangi DDL komutu kullanılır?",
       "option_a": "UPDATE",
@@ -458,7 +458,7 @@
     },
     {
       "id": "c8d83f56-af6d-4798-b0bb-d7407d6343b2",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Bir 'Transaction' işlemi sırasında hata oluştuğunda yapılan değişiklikleri geri almak için ne kullanılır?",
       "option_a": "COMMIT",
@@ -471,7 +471,7 @@
     },
     {
       "id": "5a280b39-3ddf-46b5-af10-cf9334672b5c",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Aşağıdaki SQL ifadelerinden hangisi mükerrer (tekrar eden) kayıtları elemek için kullanılır?",
       "option_a": "UNIQUE",
@@ -484,7 +484,7 @@
     },
     {
       "id": "5bf58236-33e2-411d-a479-00d5ecb3bf2c",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Sorgu performansını artırmak amacıyla verilerin belirli bir düzende dizinlenmesine ne ad verilir?",
       "option_a": "Trigger",
@@ -497,7 +497,7 @@
     },
     {
       "id": "176ac793-423e-4b90-b946-e1c32583b1f8",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Veritabanında belirli bir olay (Insert, Update vb.) gerçekleştiğinde otomatik çalışan kod bloklarına ne denir?",
       "option_a": "Function",
@@ -510,7 +510,7 @@
     },
     {
       "id": "f6217436-0b0b-4d73-b91c-c1b3efbf1cac",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de bir kolondaki değerlerin ortalamasını almak için hangi fonksiyon kullanılır?",
       "option_a": "MEAN()",
@@ -601,7 +601,7 @@
     },
     {
       "id": "3c9b3c96-e0d6-4d8d-bc86-b12357f2eb32",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "O(n^2) zaman karmaşıklığına sahip bir algoritma için 'n' değeri 10 katına çıkarsa, çalışma süresi yaklaşık kaç kat artar?",
       "option_a": "10",
@@ -614,7 +614,7 @@
     },
     {
       "id": "9b695be8-5462-4777-bcf3-126c8f76a92f",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Sıralı bir dizide (Sorted Array) bir elemanı aramak için en verimli algoritma hangisidir?",
       "option_a": "Linear Search",
@@ -653,7 +653,7 @@
     },
     {
       "id": "8fb2fdb6-92b0-4e5d-b50b-4174418aebee",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Sadece metod imzalarını barındıran ve sınıfların bu imzaları uygulamasını (implement) zorunlu kılan yapıya ne denir?",
       "option_a": "Abstract Class",
@@ -666,7 +666,7 @@
     },
     {
       "id": "083b2b5d-1c2c-4bb1-8b49-8aba886f9662",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Nesneye yönelik programlamada 'this' anahtar kelimesi neyi temsil eder?",
       "option_a": "Ata sınıfı",
@@ -679,7 +679,7 @@
     },
     {
       "id": "86ed13a8-26c4-4d65-a5b4-76eb31b51df8",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Ata sınıfa ait bir metoda alt sınıftan erişmek için hangi anahtar kelime kullanılır?",
       "option_a": "this",
@@ -692,7 +692,7 @@
     },
     {
       "id": "24a554bd-0a97-4bdc-b6a4-ac22cef6be63",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Bellekte nesnelerin tutulduğu ve boyutunun çalışma zamanında (runtime) belirlendiği alan hangisidir?",
       "option_a": "Stack",
@@ -705,7 +705,7 @@
     },
     {
       "id": "1e569cc8-d18f-422b-a11b-1aabed06a086",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "C#'ta bir sınıfın miras alınmasını engellemek için hangi anahtar kelime kullanılır?",
       "option_a": "final",
@@ -718,7 +718,7 @@
     },
     {
       "id": "34e65ce0-1bcc-437b-9775-cdab3126d91e",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "SOLID prensiplerindeki 'S' (Single Responsibility) kuralı neyi savunur?",
       "option_a": "Bir sınıfın sadece tek bir görevi olması gerektiğini",
@@ -731,7 +731,7 @@
     },
     {
       "id": "131bb112-c3ad-474d-977e-9bd13e742283",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Hata yakalama mekanizmasında (Try-Catch), hata olsa da olmasa da mutlaka çalışması gereken kod bloğu hangisidir?",
       "option_a": "try",
@@ -744,7 +744,7 @@
     },
     {
       "id": "3288c1d9-7ec0-4e4b-925d-2191a8689d0b",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Java'da çoklu kalıtımın (Multiple Inheritance) sınıflar düzeyinde desteklenmemesinin temel çözümü nedir?",
       "option_a": "Abstract sınıflar",
@@ -757,7 +757,7 @@
     },
     {
       "id": "0794c65f-3cc8-45d0-b8d5-760028d2d4cd",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_donanim",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
       "topic_name": "Bilgisayar Mimarisi ve Donanım",
       "question_text": "İşlemcinin (CPU) bir saniyedeki çevrim sayısını belirleyen birim hangisidir?",
       "option_a": "Watt",
@@ -770,7 +770,7 @@
     },
     {
       "id": "af11fc9a-3063-4af0-90c8-1397094396ea",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_donanim",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
       "topic_name": "Bilgisayar Mimarisi ve Donanım",
       "question_text": "Birden fazla işlemci veya çekirdeğin aynı anda farklı işleri yapmasına ne ad verilir?",
       "option_a": "Multitasking",
@@ -835,7 +835,7 @@
     },
     {
       "id": "24240bdd-9581-4f74-a012-10905eb087d7",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Veritabanında veri tekrarını önlemek ve tutarlılığı artırmak için verilerin tabloda organize edilmesine ne denir?",
       "option_a": "Denormalizasyon",
@@ -848,7 +848,7 @@
     },
     {
       "id": "34aa42c0-3fb1-44dd-8406-fb87771f1483",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Bir tablodan tüm kayıtları silen ancak tablonun yapısını bozmayan komut hangisidir?",
       "option_a": "DROP",
@@ -861,7 +861,7 @@
     },
     {
       "id": "b4100bda-1bc9-4d99-b1eb-9e81872cbe06",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de 'GROUP BY' ile birlikte kullanılan ve gruplanmış veriler üzerinde filtreleme yapan ifade hangisidir?",
       "option_a": "WHERE",
@@ -874,7 +874,7 @@
     },
     {
       "id": "6632a051-e75c-474e-a92e-fde5701a8e73",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Karmaşık SQL sorgularını basitleştirmek için oluşturulan 'sanal tablolara' ne ad verilir?",
       "option_a": "Trigger",
@@ -887,7 +887,7 @@
     },
     {
       "id": "5cf587d9-b027-4a3b-8a55-7a68d00c2d7b",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Veri manipülasyon dili (DML) komutları arasında aşağıdakilerden hangisi yer almaz?",
       "option_a": "INSERT",
@@ -900,7 +900,7 @@
     },
     {
       "id": "29894079-69c0-476f-9a7e-c1efd9c2ead9",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "İki tabloyu birleştirirken sadece her iki tabloda da eşleşen kayıtları getiren JOIN türü hangisidir?",
       "option_a": "LEFT JOIN",
@@ -991,7 +991,7 @@
     },
     {
       "id": "fd2754c2-2a04-405a-8cd2-d35bdd3403b1",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Bir algoritmanın çalışma süresinin giriş verisi (n) büyüdükçe nasıl değiştiğini gösteren üst sınır notasyonu hangisidir?",
       "option_a": "Omega Notasyonu",
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "837ea17d-6d74-42b1-b2a5-f6c64f4c0961",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Problemi daha küçük alt problemlere bölen ve bu alt problemlerin sonuçlarını saklayarak tekrar çözülmesini engelleyen teknik hangisidir?",
       "option_a": "Greedy Algorithm",
@@ -1043,7 +1043,7 @@
     },
     {
       "id": "3d7d2df3-3a22-4c33-8926-8cdf7429d767",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Kullanıcıya sistemin sadece gerekli işlevlerini gösterip arka plandaki karmaşıklığı gizlemeye ne ad verilir?",
       "option_a": "Inheritance",
@@ -1056,7 +1056,7 @@
     },
     {
       "id": "4ea11acd-78f6-48e3-b297-01eafc050540",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Bir sınıfın sadece bir adet örneğinin (instance) olmasını garanti eden tasarım deseni (design pattern) hangisidir?",
       "option_a": "Factory",
@@ -1069,7 +1069,7 @@
     },
     {
       "id": "d479cfc3-7f14-4cd1-ac2c-843532417a0c",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Java'da bir sınıfın başka bir sınıfı miras alması için hangi anahtar kelime kullanılır?",
       "option_a": "implements",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "5a879909-3175-4545-90d5-81e0c8d1e1ec",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Çok biçimlilik (Polymorphism) kavramının temelini hangi mekanizma oluşturur?",
       "option_a": "Encapsulation",
@@ -1095,7 +1095,7 @@
     },
     {
       "id": "93263a82-429d-4add-ad4f-dc477176394f",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "C# dilinde tüm sınıfların türetildiği temel referans türü hangisidir?",
       "option_a": "var",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "50af08ea-f699-49f5-8da8-83bd5557a5f7",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Bir metodun 'abstract' olarak tanımlanması ne anlama gelir?",
       "option_a": "Metodun gövdesi yoktur ve alt sınıflarda ezilmelidir",
@@ -1121,7 +1121,7 @@
     },
     {
       "id": "669ce1aa-68fd-4752-8aca-0f24a0d06d30",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Büyük projelerde isim çakışmalarını önlemek için kodun mantıksal gruplara ayrıldığı yapıya ne denir?",
       "option_a": "Library",
@@ -1134,7 +1134,7 @@
     },
     {
       "id": "cdeff128-b223-4c4d-9f64-007f26aaf41a",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Hata yönetimi sırasında manuel olarak bir hata fırlatmak (tetiklemek) için kullanılan ifade hangisidir?",
       "option_a": "catch",
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "934d5051-638c-4ea7-b65c-d4185891b0b7",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_donanim",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
       "topic_name": "Bilgisayar Mimarisi ve Donanım",
       "question_text": "İşlemcinin (CPU) komutları işleme hızını artıran, bir komutu bitirmeden diğerine başlama tekniğine ne ad verilir?",
       "option_a": "Multitasking",
@@ -1160,7 +1160,7 @@
     },
     {
       "id": "00d02d2b-8de3-48e9-aec8-37760bed2270",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_donanim",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
       "topic_name": "Bilgisayar Mimarisi ve Donanım",
       "question_text": "Verilerin kalıcı olarak saklandığı ve güç kesildiğinde silinmediği bellek türü hangisidir?",
       "option_a": "RAM",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": "3eecac78-8fa3-4205-9d06-4b3807f7afbd",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "İlişkisel veritabanı tasarımında, bir tabloda boş bırakılamayacak alanları tanımlamak için kullanılan kısıtlama hangisidir?",
       "option_a": "UNIQUE",
@@ -1238,7 +1238,7 @@
     },
     {
       "id": "096a55ac-2c01-433a-9e58-27485ae01c7d",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de bir tablodaki verileri belirli bir kritere göre grupladıktan sonra sonuçları filtrelemek için hangi anahtar kelime kullanılır?",
       "option_a": "WHERE",
@@ -1251,7 +1251,7 @@
     },
     {
       "id": "026999dc-671d-47e1-ae05-5d0d801d559c",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Veritabanında bir tablonun tüm satırlarını silen ancak tablonun kendisini (şemasını) silmeyen komut hangisidir?",
       "option_a": "DROP TABLE",
@@ -1264,7 +1264,7 @@
     },
     {
       "id": "e4f47520-3271-4e09-b690-9de4edd0f214",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL sorgusunda alfabetik olarak 'A' ile başlayan isimleri getirmek için kullanılan 'LIKE' kalıbı hangisidir?",
       "option_a": "LIKE '%A'",
@@ -1277,7 +1277,7 @@
     },
     {
       "id": "2dd450f9-c3f5-4ad5-b272-728cd183c582",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "İlişkisel veritabanı yönetim sistemlerinde (RDBMS) veriler hangi mantıksal yapıda saklanır?",
       "option_a": "Ağaç (Tree)",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "abcb9c2a-9bb7-49dd-ae8b-d8928a8625d3",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Bir 'Transaction' işleminin kalıcı hale getirilmesi için kullanılan SQL komutu hangisidir?",
       "option_a": "ROLLBACK",
@@ -1381,7 +1381,7 @@
     },
     {
       "id": "2be36be6-f396-4de2-a3af-350d28a95f8a",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Big O notasyonuna göre en hızlıdan en yavaşa doğru sıralama hangisinde doğrudur?",
       "option_a": "O(1) < O(log n) < O(n)",
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "86f63b61-5537-45bd-88b3-d81c85b33f15",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__algoritma_analizi_ve_tasarimi",
       "topic_name": "Algoritma Analizi ve Tasarımı",
       "question_text": "Bir problemin çözümünde her adımda o anki en iyi seçeneği seçen algoritma türüne ne ad verilir?",
       "option_a": "Dynamic Programming",
@@ -1433,7 +1433,7 @@
     },
     {
       "id": "f136be42-c4f5-4453-aaf6-9ffb52103774",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Alt sınıfın, üst sınıftan miras aldığı bir metodu tamamen farklı bir işleyişle yeniden tanımlamasına ne ad verilir?",
       "option_a": "Overloading",
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "575c8e03-8aea-449c-8167-565ceee53be1",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Bir sınıfa ait değişkenlerin 'private' yapılarak sadece metodlar aracılığıyla dışarı açılması ilkesi hangisidir?",
       "option_a": "Inheritance",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": "03347369-abaa-4cbb-b18a-d466393d1f6e",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Java ve C#'ta 'interface' yapıları ile ilgili hangisi doğrudur?",
       "option_a": "Nesne örneği oluşturulabilir",
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "28efb64d-6952-40bb-bd90-56d243e68bd5",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Sınıf hiyerarşisinde 'ata sınıfın' özelliklerini kullanmak için C# dilinde hangi anahtar kelime kullanılır?",
       "option_a": "super",
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "fdd81557-7f7a-4086-8fa3-40bb895654bb",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Bir nesnenin bellekten silinmeden hemen önce çalışan özel metoduna ne ad verilir?",
       "option_a": "Constructor",
@@ -1498,7 +1498,7 @@
     },
     {
       "id": "f403cf4c-00b8-49ab-87f9-04f74790b90f",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Sadece bir sınıftan nesne üretilmesini değil, o sınıfın miras alınmasını da engellemek için C#'ta hangi anahtar kelime kullanılır?",
       "option_a": "abstract",
@@ -1511,7 +1511,7 @@
     },
     {
       "id": "794add0f-eea9-40ea-9043-5e1e5a3f00a8",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "NYP'de 'çok biçimlilik' (polymorphism) sayesinde bir ata sınıf referansı neyi tutabilir?",
       "option_a": "Sadece kendi nesnesini",
@@ -1524,7 +1524,7 @@
     },
     {
       "id": "3395d151-2b43-422c-b5cd-65515b5a4d20",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__nesne_yonelimli_programlama_c_java",
       "topic_name": "Nesne Yönelimli Programlama (C#, Java)",
       "question_text": "Bir sınıfın içerisinde 'yapıcı metod' (constructor) ne zaman çalışır?",
       "option_a": "Program biterken",
@@ -1537,7 +1537,7 @@
     },
     {
       "id": "f00badae-8fbc-484c-a1f0-7ad76d4dcef4",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_donanim",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
       "topic_name": "Bilgisayar Mimarisi ve Donanım",
       "question_text": "İşlemcinin yaptığı işlemlerin sonuçlarının geçici olarak saklandığı en hızlı bellek birimi hangisidir?",
       "option_a": "RAM",
@@ -1550,7 +1550,7 @@
     },
     {
       "id": "f5f27ad0-0a3e-4726-8db2-c0dd665dfa39",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_donanim",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__bilgisayar_mimarisi_ve_donanim",
       "topic_name": "Bilgisayar Mimarisi ve Donanım",
       "question_text": "Von Neumann mimarisinde 'darboğaz' (bottleneck) olarak adlandırılan sorun temel olarak hangi iki birim arasındadır?",
       "option_a": "CPU - Giriş/Çıkış Birimleri",
@@ -1654,7 +1654,7 @@
     },
     {
       "id": "55be32ee-3b6a-49ad-93a3-df6cc2e53372",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Bir veritabanı tablosundan belirli satırları silmek için kullanılan DML komutu hangisidir?",
       "option_a": "DROP",
@@ -1667,7 +1667,7 @@
     },
     {
       "id": "ea704d35-afd0-4317-a13b-e22359875e0b",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de bir kolondaki en büyük değeri bulan fonksiyon hangisidir?",
       "option_a": "BIG()",
@@ -1680,7 +1680,7 @@
     },
     {
       "id": "baaa6c45-2b78-4a65-ae11-3364bcded261",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Normalizasyonun 1NF (Birinci Normal Form) kuralı temel olarak neyi zorunlu kılar?",
       "option_a": "Kısmi bağımlılıkların kaldırılmasını",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": "6223f1b3-247a-4fbf-bebb-bb9c36bdc146",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "İki tablo arasında 'Bire-Çok' (One-to-Many) ilişki kurmak için hangisi kullanılır?",
       "option_a": "Primary Key - Primary Key",
@@ -1706,7 +1706,7 @@
     },
     {
       "id": "2d1231b9-adfe-4a99-b4ef-86620ff275a6",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Veritabanında bir tablonun adını değiştirmek için hangi anahtar kelime kullanılır?",
       "option_a": "RENAME",
@@ -1719,7 +1719,7 @@
     },
     {
       "id": "1ab5f05f-ca1a-4e0b-96ec-6da0a2f176ab",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de verileri gruplarken boş (NULL) değerler nasıl işlenir?",
       "option_a": "Hata verir",
@@ -1732,7 +1732,7 @@
     },
     {
       "id": "f5e8ec3f-e3fd-4828-9e1f-ab5445545ab8",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "NoSQL veritabanlarının ilişkisel veritabanlarına (RDBMS) göre en büyük avantajı nedir?",
       "option_a": "Veri bütünlüğünü daha iyi koruması",
@@ -1745,7 +1745,7 @@
     },
     {
       "id": "53148f92-3f51-4acb-8a0e-affc39e7e22d",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Bir SQL sorgusunda 'HAVING' ifadesi hangi durumda kullanılır?",
       "option_a": "Tablo oluştururken",
@@ -1758,7 +1758,7 @@
     },
     {
       "id": "96cd577d-669b-4a77-8246-37c70a381976",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "Veritabanında bir 'View' oluşturmanın temel amacı nedir?",
       "option_a": "Veriyi fiziksel olarak kopyalamak",
@@ -1771,7 +1771,7 @@
     },
     {
       "id": "33d8db38-49df-4283-9b82-2315aa2b1a1a",
-      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_sql",
+      "topic_id": "alan_bilgisi_bilgisayar_muhendisligi__veri_tabani_yonetim_sistemleri_sql",
       "topic_name": "Veri Tabanı Yönetim Sistemleri, SQL",
       "question_text": "SQL'de 'LIKE' operatörü ile kullanılan '_' (alt tire) karakteri ne anlama gelir?",
       "option_a": "Tüm karakterleri temsil eder",

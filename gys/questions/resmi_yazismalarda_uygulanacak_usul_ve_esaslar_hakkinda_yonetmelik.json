@@ -3,7 +3,7 @@
   "questions": [
     {
       "id": "7f8c12a4-b9d2-4e5a-8c1f-2a3b4c5d6e7f",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'e göre, resmî yazışmaların hangi ortamda ve hangi teknikle yapılması esastır?",
       "option_a": "Fiziksel ortamda, el yazısıyla atılan imza ile",
@@ -16,7 +16,7 @@
     },
     {
       "id": "7ca21683-782f-4f97-a030-976879b4d004",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__tanimlar_ve_kisaltmalar",
       "topic_name": "Tanımlar ve Kısaltmalar",
       "question_text": "Yönetmelikte ifade edilen 'DETSİS' kısaltmasının açılımı aşağıdakilerden hangisidir?",
       "option_a": "Devlet Teşkilatı Sayısal İletişim Sistemi",
@@ -29,7 +29,7 @@
     },
     {
       "id": "f5e4d3c2-b1a0-4f9e-8d7c-6b5a493210fe",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_sekli_ozellikleri",
       "topic_name": "Belgenin Şekli Özellikleri",
       "question_text": "Yönetmeliğe göre, hazırlanan resmî belgelerde 'Times New Roman' yazı tipinin punto büyüklüğü aşağıdakilerden hangisi olmalıdır?",
       "option_a": "10 punto",
@@ -42,7 +42,7 @@
     },
     {
       "id": "bc345678-de90-4123-bcde-f1234567890a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri_yazi_alani",
       "topic_name": "Belgenin Bölümleri - Yazı Alanı",
       "question_text": "İdare, belge üzerinde logo kullandığı takdirde, sayfanın üst boşluğu kaç santimetre (cm) olarak ayarlanmalıdır?",
       "option_a": "1,5 cm",
@@ -55,7 +55,7 @@
     },
     {
       "id": "de456789-f012-4345-def0-1234567890ab",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri_sayi",
       "topic_name": "Belgenin Bölümleri - Sayı",
       "question_text": "Elektronik ortamda hazırlanan belgelerde, 'Sayı' alanının başında hangi ibare yer alır?",
       "option_a": "E",
@@ -68,7 +68,7 @@
     },
     {
       "id": "ef567890-a123-4567-abcd-234567890abc",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri_tarih",
       "topic_name": "Belgenin Bölümleri - Tarih",
       "question_text": "Resmî belgelerde tarih bilgisi rakamla yazıldığında gün, ay ve yıl arasına hangi noktalama işareti konulur?",
       "option_a": "Kısa çizgi (-)",
@@ -81,7 +81,7 @@
     },
     {
       "id": "cd678901-b234-5678-bcde-34567890abcd",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri_muhatap",
       "topic_name": "Belgenin Bölümleri - Muhatap",
       "question_text": "Cumhurbaşkanı Yardımcısı'na gönderilen belgelerin muhatap kısmında hangi ifade kullanılmalıdır?",
       "option_a": "SAYIN CUMHURBAŞKANI YARDIMCISI",
@@ -94,7 +94,7 @@
     },
     {
       "id": "ab789012-c345-6789-defa-4567890abcde",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri_metin_sonu",
       "topic_name": "Belgenin Bölümleri - Metin Sonu",
       "question_text": "Üst, aynı düzey ve alt makamlara birlikte dağıtımlı olarak yapılan yazışmalar metin sonunda nasıl bitirilir?",
       "option_a": "Rica ederim.",
@@ -107,7 +107,7 @@
     },
     {
       "id": "bc890123-d456-7890-abcd-567890abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri_imza",
       "topic_name": "Belgenin Bölümleri - İmza",
       "question_text": "Zorunlu hâllerde fiziksel ortamda hazırlanan belgelerde el yazısıyla atılan imza hangi renk kalemle atılır?",
       "option_a": "Siyah",
@@ -120,7 +120,7 @@
     },
     {
       "id": "cd901234-e567-8901-bcde-678901abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri_imza",
       "topic_name": "Belgenin Bölümleri - İmza",
       "question_text": "Belgenin iki yetkili tarafından imzalanması durumunda, üst unvan sahibinin imzası nerede yer alır?",
       "option_a": "Solda",
@@ -133,7 +133,7 @@
     },
     {
       "id": "de012345-f678-9012-cdef-789012abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri_ek",
       "topic_name": "Belgenin Bölümleri - Ek",
       "question_text": "Birden fazla ek olması durumunda, ek numaraları belgenin neresinde belirtilir?",
       "option_a": "Sol üst köşede",
@@ -146,7 +146,7 @@
     },
     {
       "id": "ef123456-0789-0123-abcd-890123abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__sureli_yazismalar",
       "topic_name": "Süreli Yazışmalar",
       "question_text": "Süreli belgelerde kullanılan 'ACELE' veya 'GÜNLÜDÜR' ibaresi yazı alanının neresinde ve ne renk yazılır?",
       "option_a": "Alt kısımda mavi",
@@ -159,7 +159,7 @@
     },
     {
       "id": "f1234567-1890-1234-bcde-901234abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__sureler",
       "topic_name": "Süreler",
       "question_text": "Resmî yazışmalarda, özel bir süre belirtilmeyen 'bilgi ve görüş' taleplerinin cevaplanma süresi en geç kaç iş günüdür?",
       "option_a": "5 iş günü",
@@ -172,7 +172,7 @@
     },
     {
       "id": "a2345678-2901-2345-cdef-012345abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__sureler",
       "topic_name": "Süreler",
       "question_text": "Resmî yazışmalarda, özel bir süre belirtilmeyen 'belge' taleplerinin cevaplanma süresi en geç kaç iş günüdür?",
       "option_a": "5 iş günü",
@@ -185,7 +185,7 @@
     },
     {
       "id": "b3456789-3012-3456-defa-123456abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__gizlilik_derecesi",
       "topic_name": "Gizlilik Derecesi",
       "question_text": "Aşağıdaki gizlilik derecelerinden hangisine sahip belgeler elektronik ortamda hazırlanıp gönderilebilir?",
       "option_a": "Çok Gizli",
@@ -198,7 +198,7 @@
     },
     {
       "id": "c4567890-4123-4567-abcd-234567abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "Yönetmelikte, belgenin hazırlanmasından tasfiyesine kadar olan sürecini ifade eden kavram nedir?",
       "option_a": "Üstveri",
@@ -211,7 +211,7 @@
     },
     {
       "id": "d5678901-5234-5678-bcde-345678abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__baslik_antet",
       "topic_name": "Başlık (Antet)",
       "question_text": "Belgelerin başlık (antet) kısmının yazımında hangi sistemde yer alan kayıtlar esas alınır?",
       "option_a": "EBYS",
@@ -224,7 +224,7 @@
     },
     {
       "id": "e6789012-6345-6789-defa-456789abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__metin_bolumu",
       "topic_name": "Metin Bölümü",
       "question_text": "Resmî yazışma metinlerinde paragrafa kaç santimetre (cm) içeriden başlanmalıdır?",
       "option_a": "1,0 cm",
@@ -237,7 +237,7 @@
     },
     {
       "id": "f7890123-7456-7890-abcd-567890abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__sayi",
       "topic_name": "Sayı",
       "question_text": "Sayı alanında yer alan birim kodları birbirinden hangi işaretle ayrılır?",
       "option_a": "Eğik çizgi (/)",
@@ -250,7 +250,7 @@
     },
     {
       "id": "a8901234-8567-8901-bcde-678901abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__imza_yetkisi",
       "topic_name": "İmza Yetkisi",
       "question_text": "Belge vekâleten imzalandığında, imza kısmındaki unvanın hemen sonuna hangi ibare getirilir?",
       "option_a": "a.",
@@ -263,7 +263,7 @@
     },
     {
       "id": "b9012345-9678-9012-cdef-789012abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__imza_yetkisi",
       "topic_name": "İmza Yetkisi",
       "question_text": "Belge yetki devri ile imzalandığında, imza kısmındaki unvanın hemen sonuna hangi ibare getirilir?",
       "option_a": "V.",
@@ -276,7 +276,7 @@
     },
     {
       "id": "c0123456-0789-0123-abcd-890123abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__muhatap",
       "topic_name": "Muhatap",
       "question_text": "Gerçek kişilere gönderilen yazışmalarda, ad ve soyaddan önce hangi nezaket ifadesi kullanılır?",
       "option_a": "Sayın",
@@ -289,7 +289,7 @@
     },
     {
       "id": "d1234567-1890-1234-bcde-901234abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__ilgi",
       "topic_name": "İlgi",
       "question_text": "İlgi bölümünde belirtilen belgeler hangi sıraya göre dizilmelidir?",
       "option_a": "Önem sırasına göre",
@@ -302,7 +302,7 @@
     },
     {
       "id": "e2345678-2901-2345-cdef-012345abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__tarih",
       "topic_name": "Tarih",
       "question_text": "Tarih alanında ay adları harfle yazıldığında, gün, ay ve yıl arasına hangi işaret konulur?",
       "option_a": "Nokta (.)",
@@ -315,7 +315,7 @@
     },
     {
       "id": "f3456789-3012-3456-defa-123456abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "Yönetmelikte, biçimli belgeyi ifade eden terim aşağıdakilerden hangisidir?",
       "option_a": "Format",
@@ -328,7 +328,7 @@
     },
     {
       "id": "a4567890-4123-4567-abcd-234567abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__nusha_sayisi",
       "topic_name": "Nüsha Sayısı",
       "question_text": "Elektronik ortamda hazırlanan ve imzalanan belgeler kaç nüsha olarak düzenlenir?",
       "option_a": "İki nüsha",
@@ -341,7 +341,7 @@
     },
     {
       "id": "b5678901-5234-5678-bcde-345678abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "Yönetmelikte, elektronik dosya türlerini ifade eden terim hangisidir?",
       "option_a": "Üstveri",
@@ -354,7 +354,7 @@
     },
     {
       "id": "c6789012-6345-6789-defa-456789abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__iletisim_bilgileri",
       "topic_name": "İletişim Bilgileri",
       "question_text": "İletişim bilgileri kısmında kullanılan harf büyüklüğü, en fazla kaç puntoya kadar düşürülebilir?",
       "option_a": "9 punto",
@@ -367,7 +367,7 @@
     },
     {
       "id": "d7890123-7456-7890-abcd-567890abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri_konu",
       "topic_name": "Belgenin Bölümleri - Konu",
       "question_text": "Resmî belgelerde 'Konu' bölümünün sonunda herhangi bir noktalama işareti kullanılır mı?",
       "option_a": "Nokta (.) kullanılır.",
@@ -380,7 +380,7 @@
     },
     {
       "id": "e8901234-8567-8901-bcde-678901abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__koordinasyon",
       "topic_name": "Koordinasyon",
       "question_text": "İdare içinde birden fazla birimin iş birliği ile hazırlanan belgelerde, imza aşamasından önce hangi bölüm açılır?",
       "option_a": "Dağıtım",
@@ -393,7 +393,7 @@
     },
     {
       "id": "f9012345-9678-9012-cdef-789012abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__sayfa_numarasi",
       "topic_name": "Sayfa Numarası",
       "question_text": "Birden fazla sayfa tutan belgelerde, sayfa numarası nerede ve nasıl belirtilir?",
       "option_a": "Sağ üstte",
@@ -406,7 +406,7 @@
     },
     {
       "id": "a0123456-0123-4567-8901-234567890123",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belge_dogrulama",
       "topic_name": "Belge Doğrulama",
       "question_text": "Elektronik belgelerde belge doğrulama işlemi hangi platform üzerinden sağlanır?",
       "option_a": "İdarenin web sitesi",
@@ -419,7 +419,7 @@
     },
     {
       "id": "b1234567-1234-5678-9012-345678901234",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__surec_yonetimi",
       "topic_name": "Süreç Yönetimi",
       "question_text": "İdare kendisine hatalı gelen (muhatabı olmadığı) bir elektronik belgeyi aldığında ne yapmalıdır?",
       "option_a": "Siler ve görmezden gelir.",
@@ -432,7 +432,7 @@
     },
     {
       "id": "c2345678-2345-6789-0123-456789012345",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__paraf",
       "topic_name": "Paraf",
       "question_text": "Fiziksel ortamda hazırlanan belgelerde paraf nerede yer alır?",
       "option_a": "Belgenin her sayfasında sağ üstte",
@@ -445,7 +445,7 @@
     },
     {
       "id": "d3456789-3456-7890-1234-567890123456",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__tekit",
       "topic_name": "Tekit",
       "question_text": "Belgeye süresi içinde cevap verilmemesi durumunda muhataba gönderilen uyarı yazısına ne ad verilir?",
       "option_a": "İhtar yazısı",
@@ -458,7 +458,7 @@
     },
     {
       "id": "e4567890-4567-8901-2345-678901234567",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__olur",
       "topic_name": "Olur",
       "question_text": "Makam oluru alınan belgelerde 'OLUR' ibaresi nerede ve nasıl yazılır?",
       "option_a": "İmza bölümünden sonra, yazı alanının ortasına büyük harflerle",
@@ -471,7 +471,7 @@
     },
     {
       "id": "f5678901-5678-9012-3456-789012345678",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__zaman_damgasi",
       "topic_name": "Zaman Damgası",
       "question_text": "Elektronik ortamdaki belgelerde 'belge tarihi' olarak ne esas alınır?",
       "option_a": "Belgenin yazılmaya başlandığı gün",
@@ -484,7 +484,7 @@
     },
     {
       "id": "a6789012-6789-0123-4567-890123456789",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari",
       "topic_name": "Resmî Yazışma Ortamları",
       "question_text": "Güvenli elektronik imza ile imzalanan belgelerin çıktıları hakkında aşağıdakilerden hangisi doğrudur?",
       "option_a": "Çıktısı alınıp el yazısıyla da imzalanmalıdır.",
@@ -497,7 +497,7 @@
     },
     {
       "id": "b7890123-7890-1234-5678-901234567890",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belge_tanimi",
       "topic_name": "Belge Tanımı",
       "question_text": "İdare tarafından hazırlanan, aidiyet zincirini muhafaza eden her türlü bilgiye ne ad verilir?",
       "option_a": "Veri",
@@ -510,7 +510,7 @@
     },
     {
       "id": "c8901234-8901-2345-6789-012345678901",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__dayanak",
       "topic_name": "Dayanak",
       "question_text": "Bu Yönetmelik, hangi Cumhurbaşkanlığı Kararnamesi hükümlerine dayanılarak hazırlanmıştır?",
       "option_a": "1 sayılı Cumhurbaşkanlığı Kararnamesi",
@@ -523,7 +523,7 @@
     },
     {
       "id": "d9012345-9012-3456-7890-123456789012",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__tanimlar",
       "topic_name": "Tanımlar",
       "question_text": "Güvenli elektronik imza kullanılmayan durumlarda, paraf yerine geçecek elektronik kayda ne denir?",
       "option_a": "Elektronik imza",
@@ -536,7 +536,7 @@
     },
     {
       "id": "e0123456-0123-9876-5432-109876543210",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__logo_kullanimi",
       "topic_name": "Logo Kullanımı",
       "question_text": "Resmî bir belge üzerinde en fazla kaç logo kullanılabilir?",
       "option_a": "1",
@@ -549,7 +549,7 @@
     },
     {
       "id": "f1234567-89ab-cdef-0123-456789abcdef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__dil_ve_uslup",
       "topic_name": "Dil ve Üslup",
       "question_text": "Belgelerin yazımında, dil bilgisi kuralları bakımından hangi kurumun kaynakları esas alınır?",
       "option_a": "Türk Dil Kurumu (TDK)",
@@ -562,7 +562,7 @@
     },
     {
       "id": "12345678-abcd-1234-abcd-1234567890ab",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__sayi_yazimi",
       "topic_name": "Sayı Yazımı",
       "question_text": "Dört ve dörtten çok haneli sayılarda üçlü grupları ayırmak için hangi işaret kullanılır?",
       "option_a": "Virgül (,)",
@@ -575,7 +575,7 @@
     },
     {
       "id": "23456789-bcde-2345-bcde-2345678901bc",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__sayi_yazimi",
       "topic_name": "Sayı Yazımı",
       "question_text": "Resmî yazışmalardaki sayılarda kesirler nasıl ayrılır?",
       "option_a": "Nokta (.)",
@@ -588,7 +588,7 @@
     },
     {
       "id": "34567890-cdef-3456-cdef-3456789012cd",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__kisaltmalar",
       "topic_name": "Kısaltmalar",
       "question_text": "Metin içinde kısaltma kullanılacağı zaman, ilk kullanımda gösterim nasıl olmalıdır?",
       "option_a": "Sadece kısaltma yazılır.",
@@ -601,7 +601,7 @@
     },
     {
       "id": "45678901-defa-4567-defa-4567890123de",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__dilekce_islemleri",
       "topic_name": "Dilekçe İşlemleri",
       "question_text": "Vatandaşlar tarafından yazılan dilekçelerin '... rica ederim' ibaresiyle bitmesi durumunda ne yapılır?",
       "option_a": "Dilekçe reddedilir.",
@@ -614,7 +614,7 @@
     },
     {
       "id": "56789012-efab-5678-efab-5678901234ef",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__yururluk",
       "topic_name": "Yürürlük",
       "question_text": "Bu Yönetmelik hükümleri ne zaman yürürlüğe girmiştir?",
       "option_a": "Resmî Gazete'de yayımlandığı gün",
@@ -627,7 +627,7 @@
     },
     {
       "id": "67890123-f012-6789-f012-6789012345f0",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__yurutme",
       "topic_name": "Yürütme",
       "question_text": "Bu Yönetmelik hükümlerini yürütme yetkisi kime aittir?",
       "option_a": "İçişleri Bakanı",
@@ -640,7 +640,7 @@
     },
     {
       "id": "78901234-abcd-7890-abcd-7890123456ab",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__ebys_uyumu",
       "topic_name": "EBYS Uyumu",
       "question_text": "Yönetmeliğin yürürlüğe girdiği tarihten önce kurulu olan Elektronik Belge Yönetim Sistemlerinin (EBYS) yönetmeliğe uyumlu hale getirilmesi için tanınan süre nedir?",
       "option_a": "1 yıl",
@@ -653,7 +653,7 @@
     },
     {
       "id": "494b97dc-78ae-42c4-9248-f2894c4029ac",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik'e göre, resmî yazışmalar kural olarak hangi ortamda yapılır?",
       "option_a": "Fiziksel ortamda (Kâğıt üzerinde)",
@@ -666,7 +666,7 @@
     },
     {
       "id": "986a6d48-701b-426e-9213-d562abdb4b29",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Elektronik ortamda güvenli elektronik imza ile imzalanan belgeler kaç nüsha olarak hazırlanır?",
       "option_a": "Tek nüsha",
@@ -679,7 +679,7 @@
     },
     {
       "id": "70072a2f-0378-459c-a401-6aa5aa5b67f7",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yönetmeliğe göre hazırlanan resmî belgelerde hangi standart kâğıt boyutu dikkate alınır?",
       "option_a": "A3 (297x420 mm)",
@@ -692,7 +692,7 @@
     },
     {
       "id": "f17ed7b0-f854-4b13-ba0b-cafef766cd94",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Hazırlanan belgelerde 'Times New Roman' yazı tipi kullanıldığında harf büyüklüğü kaç punto olmalıdır?",
       "option_a": "10 punto",
@@ -705,7 +705,7 @@
     },
     {
       "id": "56234cbd-4f3e-4eda-a2ac-53d05dbdbc03",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İdare logo kullanmak istediğinde, belgenin üst boşluğu kaç cm olarak düzenlenir?",
       "option_a": "0,5 cm",
@@ -718,7 +718,7 @@
     },
     {
       "id": "a2d6f4a8-0ff3-4770-a295-50ed43cb19f1",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belge üzerinde en fazla kaç adet logo kullanılabilir?",
       "option_a": "1",
@@ -731,7 +731,7 @@
     },
     {
       "id": "f03263f2-826b-448e-a1b3-ef36fcd5452a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgeyi gönderen idarenin adının belirtildiği 'Başlık' (Antet) bölümü belgenin neresine yazılır?",
       "option_a": "Sol üst köşeye",
@@ -744,7 +744,7 @@
     },
     {
       "id": "02238f5d-3c6f-4b83-94ae-aeac1cca66ec",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin 'Sayı' bölümünde kullanılan 'Z' ibaresi belgenin hangi süreçle hazırlandığını ifade eder?",
       "option_a": "Elektronik ortam",
@@ -757,7 +757,7 @@
     },
     {
       "id": "78db0164-6684-4dbb-98c0-653e2caeda56",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Tarih bilgisi belgenin neresine yazılır?",
       "option_a": "Sayı ile aynı satırda, yazı alanının en sağında",
@@ -770,7 +770,7 @@
     },
     {
       "id": "2581442e-b6cd-4e00-a209-728dc5a76b90",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin içeriği hakkında kısa ve öz bilgi barındıran bölüm hangisidir?",
       "option_a": "Başlık",
@@ -783,7 +783,7 @@
     },
     {
       "id": "7ec4d559-0818-440c-811b-a37017126dfe",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Muhatap bölümü yazılırken idare veya özel hukuk tüzel kişisi adının sonuna hangi eklerden uygun olanı getirilir?",
       "option_a": "İlgi hâl ekleri",
@@ -796,7 +796,7 @@
     },
     {
       "id": "c08f1c1d-cbbf-445a-ae1c-29121de74ae5",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İlgide yer alan belgeler birden fazla ise sıralama nasıl yapılır?",
       "option_a": "Önem sırasına göre",
@@ -809,7 +809,7 @@
     },
     {
       "id": "53be79f0-c752-45bf-9a32-a8681fe993ed",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Metin bölümünde paragrafa kaç cm içeriden başlanır?",
       "option_a": "0,75 cm",
@@ -822,7 +822,7 @@
     },
     {
       "id": "34b812fd-c41e-42dd-98ad-fa3ea5d2652a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Metin içinde geçen dört ve dörtten çok haneli sayılar nasıl yazılır?",
       "option_a": "Bitişik yazılır",
@@ -835,7 +835,7 @@
     },
     {
       "id": "26eea62a-e5d5-406b-b977-c1abc526a6f2",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Üst ve aynı düzeydeki makamlara yapılan yazışmalar hangi ibareyle bitirilir?",
       "option_a": "Rica ederim.",
@@ -848,7 +848,7 @@
     },
     {
       "id": "822c34a0-2288-4e45-a3cd-f4ad4f73fd5d",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Üst, aynı düzey ve alt makamlara birlikte dağıtımlı olarak yapılan yazışmalar hangi ibareyle bitirilir?",
       "option_a": "Rica ederim.",
@@ -861,7 +861,7 @@
     },
     {
       "id": "cc4af1b7-46bd-47c4-993e-a76dcb224794",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Zorunlu hâllerde el yazısıyla atılan imza hangi renk kalemle atılmalıdır?",
       "option_a": "Siyah",
@@ -874,7 +874,7 @@
     },
     {
       "id": "aa9a67cf-9e5d-4740-b1f5-edc83d0bd82f",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin iki yetkili tarafından imzalanması durumunda üst unvan sahibinin imzası nerede yer alır?",
       "option_a": "Solda",
@@ -887,7 +887,7 @@
     },
     {
       "id": "2d6ea4f9-76f4-49a4-8457-557dddec2ecf",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Makam oluru alınan belgelerde, imza bölümünden sonra yazı alanının ortasına hangi ibare yazılır?",
       "option_a": "ONAY",
@@ -900,7 +900,7 @@
     },
     {
       "id": "a2bb1d31-9bc4-43ba-a08f-e394a6ca4440",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yazışmayı hazırlayan birimin yöneticisinden itibaren imza atacak makama kadar olan aşamadaki kayıtlar nerede tutulur?",
       "option_a": "Belgenin son sayfasında",
@@ -913,7 +913,7 @@
     },
     {
       "id": "456fad07-40a2-4ec8-b1f0-6347ac033d5a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Güvenli elektronik imza ile imzalanan belgelerin doğrulama işlemi hangi platform üzerinden sağlanır?",
       "option_a": "Kurumun internet sitesi",
@@ -926,7 +926,7 @@
     },
     {
       "id": "a10b2783-e541-4809-a6a3-a5ea3be3ccad",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Aşağıdaki gizlilik derecelerinden hangisine sahip belgelerin işlemleri elektronik ortamda gerçekleştirilir?",
       "option_a": "Çok Gizli",
@@ -939,7 +939,7 @@
     },
     {
       "id": "bb628f24-f4fc-4e94-850c-44cb645c888c",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Süreli belgelerde 'ACELE' ibaresine karşılık gelen cevap verme yükümlülüğü nedir?",
       "option_a": "7 gün içinde cevap verilir.",
@@ -952,7 +952,7 @@
     },
     {
       "id": "ab8f085a-636f-4d50-86fe-2bf408dee0b8",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Birden fazla sayfa tutan belgelerde sayfa numarası nereye yazılır?",
       "option_a": "Sağ üst köşeye",
@@ -965,7 +965,7 @@
     },
     {
       "id": "beaae288-8442-4713-8f9c-a77af69f0d54",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yanlışlıkla gelen elektronik belgelerin reddedilmesi durumunda, bu durum gönderen idareye en geç ne zamana kadar bildirilmelidir?",
       "option_a": "Hemen",
@@ -978,7 +978,7 @@
     },
     {
       "id": "409a221d-5608-4287-9481-7214ccfb46a3",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İdareler, süre belirtilmeyen 'Belge' taleplerini en geç kaç iş günü içinde yerine getirir?",
       "option_a": "3 iş günü",
@@ -991,7 +991,7 @@
     },
     {
       "id": "6c36ad05-5d14-4a63-8b36-bfe5cf486456",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İdareler, süre belirtilmeyen 'Bilgi ve Görüş' taleplerini en geç kaç iş günü içinde yerine getirir?",
       "option_a": "5 iş günü",
@@ -1004,7 +1004,7 @@
     },
     {
       "id": "f1ae3354-1e97-45d9-9e18-847324af8828",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgeye süresi içinde cevap verilmemesi durumunda muhataba yazılan yazıya ne ad verilir?",
       "option_a": "Uyarı yazısı",
@@ -1017,7 +1017,7 @@
     },
     {
       "id": "f616d8a3-49b2-4398-80ce-373335933476",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yönetmeliğin yürütülmesinden hangi makam sorumludur?",
       "option_a": "İçişleri Bakanı",
@@ -1030,7 +1030,7 @@
     },
     {
       "id": "69da26a2-8095-4c5c-8f6d-11bfa9856016",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "DETSİS kısaltmasının açılımı aşağıdakilerden hangisidir?",
       "option_a": "Devlet Teşkilatı Sorgulama Sistemi",
@@ -1043,7 +1043,7 @@
     },
     {
       "id": "ebc93a88-7494-481f-88f2-b2edfc5ed7de",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin hazırlanmasından tasfiyesine kadar olan sürecine ne ad verilir?",
       "option_a": "Dosya planı",
@@ -1056,7 +1056,7 @@
     },
     {
       "id": "d0e75f3e-95ff-473b-8564-8f39cc400c1a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin yazı alanında Times New Roman 12 punto kullanılırken, iletişim bilgileri kısmında punto en fazla kaça kadar düşürülebilir?",
       "option_a": "10 punto",
@@ -1069,7 +1069,7 @@
     },
     {
       "id": "a547c41e-aec5-4bc1-9c1d-a0405f866967",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Kurumsal logo belgenin neresinde yer alır?",
       "option_a": "Sadece sağ alt köşede",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "481b614e-d74e-4b26-a812-e4949d7dfe93",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Başlık (Antet) bölümünde ilk satıra ne yazılır?",
       "option_a": "İdarenin adı",
@@ -1095,7 +1095,7 @@
     },
     {
       "id": "36ef7672-9b63-4099-a8b0-fefeea541f55",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Sayı bölümündeki Türkiye Cumhuriyeti Devlet Teşkilatı Numarası ve standart dosya planı kodu arasına hangi işaret konulur?",
       "option_a": "Nokta (.)",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "99eab4d7-72f4-465c-b528-30843252287f",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Ay adlarının harfle yazıldığı bir tarih örneğinde (Örn: 10 Ekim 2019) bileşenler arasına hangi işaret konulur?",
       "option_a": "Nokta (.)",
@@ -1121,7 +1121,7 @@
     },
     {
       "id": "833ea2a0-9f3f-4de0-992a-48c438e52943",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Muhatap gerçek kişi ise isminin önüne hangi ibare getirilir?",
       "option_a": "Sayın",
@@ -1134,7 +1134,7 @@
     },
     {
       "id": "9c3564cd-544f-4a6a-9d6b-4be0f9a64b61",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Aşağıdakilerden hangisi bir belgenin 'Üstveri' elemanlarından biri olamaz?",
       "option_a": "Gönderici",
@@ -1147,7 +1147,7 @@
     },
     {
       "id": "7c29964c-7d9d-493d-b385-573941368125",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İlgi bölümünde sıralama yapılırken hangi işaret kullanılır?",
       "option_a": "Nokta (.)",
@@ -1160,7 +1160,7 @@
     },
     {
       "id": "c8a6d37b-dbb1-49bc-a7af-a1afcb028ca1",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Metindeki kelime aralarında ve noktalama işaretlerinden sonra kaç karakter boşluk bırakılır?",
       "option_a": "Boşluk bırakılmaz",
@@ -1173,7 +1173,7 @@
     },
     {
       "id": "8477b27a-0515-4e86-a04e-b54cb4485987",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Sayılar metin içinde nasıl yazılabilir?",
       "option_a": "Sadece rakamla",
@@ -1186,7 +1186,7 @@
     },
     {
       "id": "23c9a8c6-5d3c-4fff-98df-9162cc9269c9",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İmza atacak makam sahibinin adı ve soyadı yazı alanının neresinde yer alır?",
       "option_a": "En solunda",
@@ -1199,7 +1199,7 @@
     },
     {
       "id": "3519fcff-f58d-4ce2-b0b3-928f03668b85",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin vekâleten imzalanması durumunda vekâlet olunan makam ibaresi (Örn: Genel Müdür V.) nereye yazılır?",
       "option_a": "Birinci satıra",
@@ -1212,7 +1212,7 @@
     },
     {
       "id": "710aa39f-2605-47a1-9542-2181b22eb1dd",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgede birden fazla ek olması durumunda ekler nasıl gösterilir?",
       "option_a": "Sadece toplam sayfa sayısı yazılır",
@@ -1225,7 +1225,7 @@
     },
     {
       "id": "5a096414-2425-4c85-9ca9-6aa6cc56585a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin hem 'Gereği' hem 'Bilgi' muhatapları varsa bu bilgiler nereye yazılır?",
       "option_a": "Sadece muhatap bölümüne",
@@ -1238,7 +1238,7 @@
     },
     {
       "id": "864eb27e-df5d-4413-927e-a1629fd93b08",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İdare içinde birden fazla birimin iş birliği ile hazırlanan belgelerde hangi seçim yapılır?",
       "option_a": "İşbirliği",
@@ -1251,7 +1251,7 @@
     },
     {
       "id": "657191f4-319e-4843-a003-b0d0af384618",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Elektronik ortamda hazırlanan belgelerde 'KİŞİYE ÖZEL' ibaresi belgenin neresinde yer alır?",
       "option_a": "Başlığın üstünde",
@@ -1264,7 +1264,7 @@
     },
     {
       "id": "4cdae17e-7875-4596-8eb6-b46d9292dc25",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Fiziksel ortamda hazırlanan bir belgeden örnek çıkartılması durumunda belge üzerine hangi ibare konulur?",
       "option_a": "Örnektir",
@@ -1277,7 +1277,7 @@
     },
     {
       "id": "6e082a86-8ae4-47ab-b693-3a7864686fd1",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yazı alanının dikey orta hizasını geçmeyecek biçimde kelimelerin baş harfleri büyük olarak yazılan bölüm hangisidir?",
       "option_a": "Başlık",
@@ -1290,7 +1290,7 @@
     },
     {
       "id": "8fa68ba4-dcf2-44c6-9cfa-c411101bf929",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik hangi tarihte Resmî Gazete'de yayımlanmıştır?",
       "option_a": "09.06.2020",
@@ -1303,7 +1303,7 @@
     },
     {
       "id": "ddc1903b-7922-48b4-b28f-f8433703d9d9",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Kriptografik metodların zaman içerisinde koruyucu özelliğini yitirmesine karşı, periyodik olarak alınan zaman damgası ile korunan elektronik imzaya ne ad verilir?",
       "option_a": "Güvenli İmza",
@@ -1316,7 +1316,7 @@
     },
     {
       "id": "be4e0e61-ff73-4f59-b104-33ddae0aeb00",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İdarelerin merkez, taşra ve yurt dışı teşkilatındaki birimlerinin T.C. Devlet Teşkilatı Numarası ile tanımlandığı sistem hangisidir?",
       "option_a": "EBYS",
@@ -1329,7 +1329,7 @@
     },
     {
       "id": "aa6746d4-d4ff-4ef8-a106-6cecc8b15591",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "EBYS içerisinde yapılan ekleme, değiştirme, silme ve görüntüleme gibi işlemlerin kim tarafından ve ne zaman yapıldığını gösteren kayıtlara ne ad verilir?",
       "option_a": "Süreç takibi",
@@ -1342,7 +1342,7 @@
     },
     {
       "id": "b6b9a0b6-18b7-46f0-bf50-ec81094f5c18",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Teknik gerekçelerle EBYS'nin uzun süreli olarak çalışmamasından dolayı belgenin fiziksel ortamda hazırlanması gereken durumlara ne ad verilir?",
       "option_a": "Zorunlu hâl",
@@ -1355,7 +1355,7 @@
     },
     {
       "id": "8f5b4a6b-5b53-422a-b0a2-a9b9d4000564",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Güvenli elektronik imza ile imzalanan belgelerin saklanması ile ilgili hangisi doğrudur?",
       "option_a": "Çıktısı alınarak fiziksel dosyada saklanır.",
@@ -1368,7 +1368,7 @@
     },
     {
       "id": "5415efa8-5954-4766-b1c0-205072a5617d",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Zorunlu hâllerde hazırlanan belgelerin nüsha sayısı en az kaç olmalıdır?",
       "option_a": "1",
@@ -1381,7 +1381,7 @@
     },
     {
       "id": "7e9f0a1b-2c3d-4e5f-a6b7-c8d9e0f1a2b3",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Arial yazı tipi kullanıldığında, belgenin ana metni için standart punto büyüklüğü kaçtır?",
       "option_a": "10 punto",
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "d922917e-b6cc-4c40-ba81-3c4f96176839",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İki ayrı logo kullanıldığında hiyerarşi yönünden üst olan idareye ait logo belgenin neresinde yer alır?",
       "option_a": "Sağda",
@@ -1407,7 +1407,7 @@
     },
     {
       "id": "0ad4cdce-a116-4f02-931d-5b7e80bb6ad7",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Başlık (Antet) bölümünde, bağlı veya ilgili idarelerin adı hangi satıra yazılır?",
       "option_a": "Birinci satıra",
@@ -1420,7 +1420,7 @@
     },
     {
       "id": "3ec7ec0f-4132-4710-8456-122ed6a7e2be",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Bölge müdürlüklerinde başlık kısmında hangi bilgiye yer verilmesi zorunludur?",
       "option_a": "Bölge müdürünün adı",
@@ -1433,7 +1433,7 @@
     },
     {
       "id": "6b22b7cd-8378-49f0-987c-86bd571ae69a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Sayı yan başlığı, başlığın son satırından itibaren kaç satır boşluk bırakılarak yazılır?",
       "option_a": "1 satır",
@@ -1446,7 +1446,7 @@
     },
     {
       "id": "184ff262-60e2-4834-9a56-4ad3afd1ef07",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Olağanüstü durumlarda hazırlanan bir belgenin sayı numarasının başında hangi ibare yer alır?",
       "option_a": "E",
@@ -1459,7 +1459,7 @@
     },
     {
       "id": "065fab13-1e5b-4df4-a516-3411c085d59b",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Elektronik ortamdaki bir belgenin tarihi olarak hangi zaman bilgisi esas alınır?",
       "option_a": "Belgenin oluşturulmaya başlandığı an",
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "5f7d9829-8acb-44e0-b211-8a549b187f72",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Tutanak, rapor ve tebliğ-tebellüğ gibi belgelerde tarih nerede yer alabilir?",
       "option_a": "Sadece en üstte",
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "30331674-593c-41a0-8188-767bdcc30fc2",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin konusu yazılırken hangi kurala uyulması zorunludur?",
       "option_a": "Sonuna nokta konulması",
@@ -1498,7 +1498,7 @@
     },
     {
       "id": "c6ff1ab5-3763-41aa-bb62-ff5ee382702e",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Cumhurbaşkanı Yardımcısı'na yazılan belgelerde muhatap bölümünde hangi ibare kullanılır?",
       "option_a": "SAYIN CUMHURBAŞKANI YARDIMCISI",
@@ -1511,7 +1511,7 @@
     },
     {
       "id": "550cbb21-dbb7-45b8-82dd-f40684a7b136",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Birden fazla muhataba iletilecek dağıtımlı belgelerin muhatap bölümüne ne yazılır?",
       "option_a": "LİSTE EKİNDEDİR",
@@ -1524,7 +1524,7 @@
     },
     {
       "id": "b5bf114f-6403-4fb8-b438-5efba429cc30",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İlgi bölümünde belgeyi gönderen idarenin adı hangi durumda belirtilmez?",
       "option_a": "Belge çok gizli ise",
@@ -1537,7 +1537,7 @@
     },
     {
       "id": "9df42536-7ac3-4efe-9b3e-a701bc4b350d",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Gerçek kişiden gelen bir dilekçe ilgi tutulurken, belgenin muhatabı dilekçe sahibinin kendisi ise ilgi bölümünde neye yer verilmez?",
       "option_a": "Tarih bilgisine",
@@ -1550,7 +1550,7 @@
     },
     {
       "id": "0c03dd17-7cad-4a8e-9338-37fe07ed2a8b",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İlgi ile metin başlangıcı arasında kaç satır boşluk bulunmalıdır?",
       "option_a": "Boşluk bırakılmaz",
@@ -1563,7 +1563,7 @@
     },
     {
       "id": "62f126df-88e8-4723-a23d-3c3de24d56b0",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Metin içinde geçen sayılarda kesirler ne ile ayrılır?",
       "option_a": "Nokta (.)",
@@ -1576,7 +1576,7 @@
     },
     {
       "id": "35be20c3-2b4a-4bd2-a9b2-46190836c5fe",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Muhatabı yabancı ülke veya uluslararası kuruluş olan resmî yazışmalarda hazırlanan belgenin Türkçe tercümesi ile ilgili kural nedir?",
       "option_a": "Tercümeye gerek yoktur.",
@@ -1589,7 +1589,7 @@
     },
     {
       "id": "7de75ff5-2461-4522-a3e5-9969cb75ac19",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Cumhurbaşkanlığı İdari İşler Başkanı tarafından bakanlıklara yazılan yazılar hangi ibareyle bitirilir?",
       "option_a": "Arz ederim.",
@@ -1602,7 +1602,7 @@
     },
     {
       "id": "cf662312-032d-4d0e-b2d3-1c934287469e",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Muhatabı gerçek kişi olan yazışmalar aşağıdakilerden hangisiyle bitirilebilir?",
       "option_a": "Arz ederim.",
@@ -1615,7 +1615,7 @@
     },
     {
       "id": "5c006cca-1225-428c-931c-63d8de5d5d2c",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İmza bölümünde imzalayanın unvanı ad ve soyadın neresine yazılır?",
       "option_a": "Üstüne",
@@ -1628,7 +1628,7 @@
     },
     {
       "id": "9ec0fa0c-4a3a-41b1-aba2-be71a98da321",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin ikiden fazla yetkili tarafından imzalanması durumunda en üst unvan sahibi nerede yer alır?",
       "option_a": "En sağda",
@@ -1641,7 +1641,7 @@
     },
     {
       "id": "36739d67-eee8-4965-8984-8fa00c0f846b",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin birden fazla eki varsa ekler nasıl belirtilir?",
       "option_a": "Harflerle sıralanır",
@@ -1654,7 +1654,7 @@
     },
     {
       "id": "69708d5d-3b10-4e83-aab9-d3b92edcc8bb",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Ek listesi yazı alanına sığmayacak kadar uzunsa nasıl gösterilir?",
       "option_a": "Ekler yazılmaz",
@@ -1667,7 +1667,7 @@
     },
     {
       "id": "e8d794e9-ebdd-4a37-9f9f-222008cbcf68",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Dağıtım bölümünde belgenin içeriği hakkında bilgi sahibi olması istenenler hangi kısma yazılır?",
       "option_a": "Gereği:",
@@ -1680,7 +1680,7 @@
     },
     {
       "id": "6dff2084-ec9e-4d48-8167-48c7eb34fe7c",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Oluru teklif eden birim yetkilisi ile olur alınan makam arasında başka makamlar varsa hangi ibare kullanılır?",
       "option_a": "Onayınıza sunarım.",
@@ -1693,7 +1693,7 @@
     },
     {
       "id": "ab10adc1-dca2-4e47-97a0-da06cf40e3d4",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Elektronik ortamda hazırlanan belgelerde paraf nasıl atılır?",
       "option_a": "Sadece kalemle",
@@ -1706,7 +1706,7 @@
     },
     {
       "id": "5370e196-3ae1-460f-85cf-5221bf854535",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belge doğrulama kodu ve karekod belgenin neresinde yer alır?",
       "option_a": "En üst sağ köşede",
@@ -1719,7 +1719,7 @@
     },
     {
       "id": "68a14f85-9bab-4d92-8808-a2e2118794a3",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İletişim bilgilerinde belgenin sağ tarafında kimin bilgileri yer alır?",
       "option_a": "İdarenin adresi",
@@ -1732,7 +1732,7 @@
     },
     {
       "id": "9b4f1650-1c7b-41d4-b0e2-cd34ee20e375",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin gizlilik derecesinin belirlenmesinden kim sorumludur?",
       "option_a": "EBYS yöneticisi",
@@ -1745,7 +1745,7 @@
     },
     {
       "id": "03823d78-e4e1-43fc-9d1f-3442b9a5815a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Süreli belgelerde 'GÜNLÜDÜR' ibaresi taşıyan yazılara ne zamana kadar cevap verilmelidir?",
       "option_a": "Derhal",
@@ -1758,7 +1758,7 @@
     },
     {
       "id": "d99c6221-59e6-4b7e-9494-766654b9d9a3",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "KİŞİYE ÖZEL ibaresi taşıyan bir belgenin açılması ile ilgili hangisi doğrudur?",
       "option_a": "Birim amiri açar.",
@@ -1771,7 +1771,7 @@
     },
     {
       "id": "a15b7913-e4df-4943-94d1-e14dd30e4694",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Zorunlu hâllerde fiziksel olarak hazırlanan bir belgeden örnek çıkartılırken hangi ibare eklenir?",
       "option_a": "KOPYADIR",
@@ -1784,7 +1784,7 @@
     },
     {
       "id": "b65721b7-df12-46da-b6a6-8df602f252e8",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Bir idare, kendisine e-Yazışma Teknik Rehberi'ne uygun hazırlanmamış bir belge gelirse ne yapabilir?",
       "option_a": "Yine de işleme koymak zorundadır.",
@@ -1797,7 +1797,7 @@
     },
     {
       "id": "810cf204-d5e6-4757-bad4-1dd90aaa74f0",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Şifreli olarak gönderilen bir belgenin şifresi açılmazsa, durum gönderen idareye en geç ne zamana kadar bildirilmelidir?",
       "option_a": "Hemen",
@@ -1810,7 +1810,7 @@
     },
     {
       "id": "abd971cb-0ec7-4533-bbbe-313970d58f3d",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Fiziksel ortamda alınan belgelerin üzerine basılan etiket/kaşe belgenin neresine uygulanır?",
       "option_a": "Sadece zarfın üzerine",
@@ -1823,7 +1823,7 @@
     },
     {
       "id": "ed2a8863-ec11-4c5b-a89d-961e7c66f281",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İdareye muhatabı olmadığı hâlde elektronik ortamda gelen bir belge ile ilgili hangisi doğrudur?",
       "option_a": "İmha edilir.",
@@ -1836,7 +1836,7 @@
     },
     {
       "id": "71f5faf4-2f87-44ec-83be-5b776983b9aa",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yönetmeliğe uygun yazılmayan belgelere devam edilmesi hâlinde, hangi belgeler gerekçe belirtilerek iade edilebilir?",
       "option_a": "Acele yazılar",
@@ -1849,7 +1849,7 @@
     },
     {
       "id": "08a063bb-9728-4793-8597-7898c518876d",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yönetmeliğin uygulama birliğini sağlamak amacıyla kılavuz hazırlama yetkisi kime aittir?",
       "option_a": "Türk Dil Kurumu",
@@ -1862,7 +1862,7 @@
     },
     {
       "id": "2ff472aa-9cf9-49d8-82bc-cd33ac4e4f46",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin, varsa ek veya ekleri hariç kısmına ne ad verilir?",
       "option_a": "Üstveri",
@@ -1875,7 +1875,7 @@
     },
     {
       "id": "9d23dccc-6b8e-480f-b9f3-8bd383d010f3",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Güvenli elektronik imza kullanılmayan durumlarda paraf yerine geçen kaydın elektronik ortamda alınmasına ne ad verilir?",
       "option_a": "Elektronik imza",
@@ -1888,7 +1888,7 @@
     },
     {
       "id": "d6c1e06e-c18b-4267-81a0-ab86930bb6dc",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Kurumsal işlemlerin konu veya fonksiyon esasına göre dosyalanmasını sağlayan sınıflama şemasına ne ad verilir?",
       "option_a": "Arşiv planı",
@@ -1901,7 +1901,7 @@
     },
     {
       "id": "fad7149f-2c97-4a0a-a695-02cc90020727",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin yazı alanı düzenlenirken sayfa kenarlarından kaçar cm boşluk bırakılır?",
       "option_a": "1,0 cm",
@@ -1914,7 +1914,7 @@
     },
     {
       "id": "0ee27430-bbf7-4b01-8e59-8089ac40bfeb",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Başlığın yazımında hangi kayıtlar esas alınır?",
       "option_a": "Maliye Bakanlığı kayıtları",
@@ -1927,7 +1927,7 @@
     },
     {
       "id": "5bffc403-ae8b-4795-80e0-6733618144a7",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin vekâleten imzalanması durumunda ikinci satıra ne yazılır?",
       "option_a": "İmzalayanın unvanı",
@@ -1940,7 +1940,7 @@
     },
     {
       "id": "96a4f5f6-2ca3-45f2-917e-09d08f857284",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İletişim bilgilerinde 'Kep' kısaltması neyi ifade eder?",
       "option_a": "Kayıtlı Elektronik Posta",
@@ -1953,7 +1953,7 @@
     },
     {
       "id": "27f8a1b2-c3d4-4e5f-a6b7-c8d9e0f1a2b3",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yönetmeliğe göre, belgenin hazırlanmasından tasfiyesine kadar olan sürecine ne ad verilir?",
       "option_a": "Süreç takibi",
@@ -1966,7 +1966,7 @@
     },
     {
       "id": "9c9990ca-ef90-420b-bd46-190a4349bf54",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Güvenli elektronik imza kullanılmayan durumlarda paraf yerine geçecek kaydın elektronik ortamda alınmasına ne ad verilir?",
       "option_a": "Dijital onay",
@@ -1979,7 +1979,7 @@
     },
     {
       "id": "dbbf741c-9d15-41ed-a2f1-97e763065969",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "EBYS'nin uzun süreli olarak çalışmamasından dolayı belgenin fiziksel ortamda hazırlanması gereken durumlar ne olarak tanımlanır?",
       "option_a": "Zorunlu hâl",
@@ -1992,7 +1992,7 @@
     },
     {
       "id": "849e741b-7f1e-4f3a-92b6-19b6b53b6cdc",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgeyi tanımlayan gönderici, konu, tarih ve sayı gibi bilgilerin tamamına ne ad verilir?",
       "option_a": "Dosya bilgisi",
@@ -2005,7 +2005,7 @@
     },
     {
       "id": "d3b20830-d70a-4ade-b491-87e42e04c5ec",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Güvenli elektronik imza ile imzalanan belgelerin saklanmasıyla ilgili hangisi doğrudur?",
       "option_a": "Çıktısı alınarak ıslak imza ile saklanır.",
@@ -2018,7 +2018,7 @@
     },
     {
       "id": "abf65fdb-4391-4461-870f-bc06bf5ed7d9",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Zorunlu hâllerde veya olağanüstü durumlarda hazırlanan belgelerin üst yazılarında kağıdın hangi yüzü kullanılır?",
       "option_a": "Sadece ön yüzü",
@@ -2031,7 +2031,7 @@
     },
     {
       "id": "573ce917-9bbc-45b4-a72e-2097114ee5cd",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Arial yazı tipi kullanıldığında harf büyüklüğünün kaç punto olması esastır?",
       "option_a": "10 punto",
@@ -2044,7 +2044,7 @@
     },
     {
       "id": "d803ed8f-c211-49cf-819f-f50472edb39f",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin yazı alanı, sayfanın üst, sol ve sağ kenarlarından kaçar cm boşluk bırakılarak düzenlenir?",
       "option_a": "1,0 cm",
@@ -2057,7 +2057,7 @@
     },
     {
       "id": "8d55179c-4877-4621-b304-347354272533",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belge üzerinde idareye ait olmayan bir kavram veya etkinlik logosu kullanılmak istendiğinde, idare logosu nerede yer alır?",
       "option_a": "Sağda",
@@ -2070,7 +2070,7 @@
     },
     {
       "id": "adc92bf6-6101-4d70-a04e-ef819a77ffc1",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Başlığın (antet) yazımında hangi sistemde yer alan kayıtlar esas alınır?",
       "option_a": "EBYS",
@@ -2083,7 +2083,7 @@
     },
     {
       "id": "50682198-5c26-47af-b294-b043a5461f37",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Sayı bölümündeki 'O' ibaresi belgenin hangi duruma göre hazırlandığını gösterir?",
       "option_a": "Ortak yazışma",
@@ -2096,7 +2096,7 @@
     },
     {
       "id": "abb97bca-4ca3-4a2a-babb-0e961df9aff1",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Tarih bilgisinde ay adları harfle yazıldığında (Örn: 10 Ekim 2019), bileşenler arasına hangi işaret konulur?",
       "option_a": "Nokta (.)",
@@ -2109,7 +2109,7 @@
     },
     {
       "id": "5f0a15cb-f530-40f7-98d1-06ea119962c9",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Konu yan başlığı, Sayı yan başlığının kaç satır altına yazılır?",
       "option_a": "Aynı satıra",
@@ -2122,7 +2122,7 @@
     },
     {
       "id": "1383007d-8215-4bdd-b0c3-e27cab74b2a2",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Muhatap idarenin bağlı olduğu idarenin bilgi sahibi olmasının gerekli görüldüğü durumlarda belge nasıl gönderilir?",
       "option_a": "Doğrudan muhataba",
@@ -2135,7 +2135,7 @@
     },
     {
       "id": "27ab562f-fc5b-4870-a0d0-74cd97d72a8e",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Sayı, Konu ve İlgi yan başlıklarından sonra kullanılan iki nokta (:) işareti için hangi kural geçerlidir?",
       "option_a": "Kelimeye bitişik yazılır.",
@@ -2148,7 +2148,7 @@
     },
     {
       "id": "e08f5080-aba8-4842-9c8f-696d06356c2e",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İlgi bölümünde, ilgi tutulan belge bir gerçek kişiden geliyorsa bu bölüm nasıl yazılır?",
       "option_a": "Sayın ...'ın dilekçesi.",
@@ -2161,7 +2161,7 @@
     },
     {
       "id": "7bca8520-34ad-4f2c-80cc-2a217f5f8908",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Metin içerisinde kullanılan sayılarda ondalık kesirler ne ile ayrılır?",
       "option_a": "Nokta (.)",
@@ -2174,7 +2174,7 @@
     },
     {
       "id": "78e382ca-e6b3-43c7-99ba-5f3d09d68faa",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Metin içinde kısaltma kullanılacaksa izlenecek doğru usul hangisidir?",
       "option_a": "Sadece kısaltma yazılır.",
@@ -2187,7 +2187,7 @@
     },
     {
       "id": "1a6a99b2-46ed-43d1-a27f-ef73e5b5edb1",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgeyi imzalayanın akademik unvanı veya rütbesi nerede yer alabilir?",
       "option_a": "Sadece imzanın üstünde",
@@ -2200,7 +2200,7 @@
     },
     {
       "id": "4788bed4-5463-4002-8799-3aeb086a2170",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Elektronik ortamdaki yazışmalarda yetkili makamın ad ve soyad bilgilerinin üzerinde hangisine yer verilmez?",
       "option_a": "Unvana",
@@ -2213,7 +2213,7 @@
     },
     {
       "id": "d3d81e60-e99e-441e-b51e-fc22185ce31c",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgeyi imza yetkisi devredilen makam imzaladığında, yetki devreden makamı gösteren 'Bakan a.' gibi ibare hangi satıra yazılır?",
       "option_a": "Birinci satıra",
@@ -2226,7 +2226,7 @@
     },
     {
       "id": "97052422-1816-4473-9101-f140fb6604cc",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin ikiden fazla yetkili tarafından imzalanması durumunda en üst unvan sahibinden sonraki yetkililer nasıl sıralanır?",
       "option_a": "Üstten alta doğru",
@@ -2239,7 +2239,7 @@
     },
     {
       "id": "f0206c77-1796-4259-8bd4-eb00bd75eb95",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Zorunlu hâllerde hazırlanan fiziksel belgelerde, raporun son sayfasından önceki sayfaları için hangisi doğrudur?",
       "option_a": "Sadece son sayfa imzalanır.",
@@ -2252,7 +2252,7 @@
     },
     {
       "id": "1d6d2f89-5932-449c-a730-195b637a06af",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgede birden fazla ek olması durumunda ek numarası belgenin neresinde belirtilir?",
       "option_a": "Sol alt köşede",
@@ -2265,7 +2265,7 @@
     },
     {
       "id": "2580ebef-b73c-4091-89ab-54904c73aef8",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Ek listesi yazı alanına sığmayacak kadar uzunsa üst yazıda nasıl gösterilir?",
       "option_a": "Ek: Liste",
@@ -2278,7 +2278,7 @@
     },
     {
       "id": "eeab28c7-9f8b-4a33-ae46-e27e7929c9da",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Dağıtım bölümünde 'Gereği' ve 'Bilgi' kısımları nasıl yerleştirilir?",
       "option_a": "Gereği üstte, Bilgi altta",
@@ -2291,7 +2291,7 @@
     },
     {
       "id": "b6002a54-b2a9-4023-9541-cf215c47d35a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Olur yazılarında imzalayanın unvanı nerede yer alır?",
       "option_a": "İsminin sağında",
@@ -2304,7 +2304,7 @@
     },
     {
       "id": "cc0a88a7-aecb-488a-b611-5a356690e378",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Elektronik onaylar sistemde ne kadar süreyle saklanmalıdır?",
       "option_a": "En az 5 yıl",
@@ -2317,7 +2317,7 @@
     },
     {
       "id": "53d12e7c-ba2b-4342-a36f-5601139923d6",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Fiziksel ortamda hazırlanan belgelerde paraflar belgenin neresinde yer alır?",
       "option_a": "En son sayfada, en sağda",
@@ -2330,7 +2330,7 @@
     },
     {
       "id": "e4cfb417-cf82-403e-9701-7a8901ec49df",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İletişim bilgilerinde belgenin sol tarafında aşağıdakilerden hangisi yer almaz?",
       "option_a": "İdarenin adresi",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": "51c3563e-71ec-4304-b82a-21b22f1cfb87",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Gizlilik dereceli belgelerden hangisi elektronik ortamda hazırlanıp saklanabilir?",
       "option_a": "Özel",
@@ -2356,7 +2356,7 @@
     },
     {
       "id": "9f9e4f4c-88f2-4f1b-9675-fecb6fc9e73a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Süreli belgelerde 'GÜNLÜDÜR' ibaresi taşıyan yazılara cevap verme süresi nerede belirtilir?",
       "option_a": "Başlıkta",
@@ -2369,7 +2369,7 @@
     },
     {
       "id": "13c0edbf-5354-4070-8c19-3f1af2a2f69e",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Birden fazla sayfalı süreli belgelerde 'ACELE' ibaresi kaçıncı sayfada yer alır?",
       "option_a": "Sadece son sayfada",
@@ -2382,7 +2382,7 @@
     },
     {
       "id": "17a91899-cba2-4dc9-be19-8a6e3ffad086",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "KİŞİYE ÖZEL ibaresi taşıyan belgenin zarfı açılmadan önce hangi işlem yapılır?",
       "option_a": "Birim amirine teslim edilir.",
@@ -2395,7 +2395,7 @@
     },
     {
       "id": "b5d68512-2307-414a-8df6-8d5b4f0591be",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgenin üstveri elemanları ile belge görüntüsü üzerindeki bilgiler arasındaki ilişki nasıldır?",
       "option_a": "Farklı olabilir.",
@@ -2408,7 +2408,7 @@
     },
     {
       "id": "bea2f2bf-d9f6-438a-a0f7-f165200a502e",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İdare, kurallara uygun hazırlanmamış bir belgeyi reddettiğinde bu durumu en geç ne zamana kadar bildirmelidir?",
       "option_a": "Hemen",
@@ -2421,7 +2421,7 @@
     },
     {
       "id": "38c938d8-6b60-4c7b-8542-3500a7f0a5af",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İdare, kendisine gönderilen şifreli bir belgenin şifresini açamazsa nasıl hareket etmelidir?",
       "option_a": "Belgeyi siler.",
@@ -2434,7 +2434,7 @@
     },
     {
       "id": "9a12cbcf-b18f-4ab5-9a06-04ab77013978",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belge zarflanarak iletildiğinde, muhatabın adı ve adres bilgisi zarfın neresine yazılır?",
       "option_a": "Sol üst köşeye",
@@ -2447,7 +2447,7 @@
     },
     {
       "id": "5ccd51de-198d-430e-a1a8-c75604059fba",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İletişim bilgilerinde 'KEP' kısaltması neyi ifade eder?",
       "option_a": "Kurumsal Elektronik Portal",
@@ -2460,7 +2460,7 @@
     },
     {
       "id": "02236f52-e5f8-4216-898b-dd9b4299a644",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Kişiler tarafından idareye yazılan dilekçelerin '... arz ederim.' yerine başka ibarelerle bitirilmesi durumunda ne yapılır?",
       "option_a": "İşleme alınmaz.",
@@ -2473,7 +2473,7 @@
     },
     {
       "id": "cf6f8e70-21bf-492d-ae50-e77ebe7fb141",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "İdareye muhatabı olmadığı hâlde elektronik ortamda gelen bir belge ile ilgili hangisi doğrudur?",
       "option_a": "Silinir.",
@@ -2486,7 +2486,7 @@
     },
     {
       "id": "7a235019-a3c8-4b99-b2e9-82bc5b7816d3",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Belgeye süresi içinde cevap verilmemesi durumunda hangi yazı yazılabilir?",
       "option_a": "Uyarı yazısı",
@@ -2499,7 +2499,7 @@
     },
     {
       "id": "114d6596-b782-4cd8-a704-d56a00d6ce1a",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yönetmeliğin uygulama birliğini sağlamak amacıyla kılavuz hazırlama yetkisi hangi makama aittir?",
       "option_a": "İçişleri Bakanlığı",
@@ -2512,7 +2512,7 @@
     },
     {
       "id": "8471decc-1270-4a69-9bb3-5b0c5ab81eff",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "EBYS'lerde yapılan tüm işlemlerin (ekleme, silme vb.) kayıt altına alındığı günlük raporlar ne ile damgalanmalıdır?",
       "option_a": "Resmi mühürle",
@@ -2525,7 +2525,7 @@
     },
     {
       "id": "8c193415-5426-4b28-8df3-1661f894d953",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Karekod ve belge doğrulama kodu belgenin neresinde yer alır?",
       "option_a": "Metnin hemen altında",
@@ -2538,7 +2538,7 @@
     },
     {
       "id": "f422fc90-5218-408f-b69b-1c6cf7045ee2",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Mülki idareye bağlı teşkilatlarda, başlığın ikinci satırına ne yazılır?",
       "option_a": "Bağlı olunan mülki idarenin adı",
@@ -2551,7 +2551,7 @@
     },
     {
       "id": "46ea4dea-3ace-4d71-884a-6a1027ad2fc2",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Bir belgede 'İlgi' ile metin başlangıcı arasında kaç satır boşluk bulunur?",
       "option_a": "Boşluk bulunmaz.",
@@ -2564,7 +2564,7 @@
     },
     {
       "id": "cbf38973-4e1c-4bfa-952a-8d95038aafb5",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "EBYS'ler, teknik standartlara göre belgede yer alan imzanın hangi tipe dönüştürülebilmesini sağlamalıdır?",
       "option_a": "Güvenli imza",
@@ -2577,7 +2577,7 @@
     },
     {
       "id": "aad46708-257b-4f4c-ab65-ba2c21b51ac0",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Resmî yazışma hiyerarşisinde alt makamlara yazılan belgeler hangi ifadeyle bitirilir?",
       "option_a": "Arz ederim.",
@@ -2590,7 +2590,7 @@
     },
     {
       "id": "4fb98f95-8980-46b2-833e-2b8cd0911627",
-      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "topic_id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__resmi_yazisma_ortamlari_ve_genel_ilkeler",
       "topic_name": "Resmî Yazışma Ortamları ve Genel İlkeler",
       "question_text": "Yönetmeliğin Geçici 1. Maddesi uyarınca, yönetmeliğin yürürlüğe girdiği tarihten önce kurulan EBYS'lerin uyumlu hale getirilmesi için tanınan süre ne kadardır?",
       "option_a": "3 ay",
