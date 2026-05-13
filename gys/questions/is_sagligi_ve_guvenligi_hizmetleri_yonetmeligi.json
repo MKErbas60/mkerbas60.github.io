@@ -847,7 +847,7 @@
       "difficulty": 3
     },
     {
-      "id": "1a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p6",
+      "id": "fd4f13fb-c044-4e33-b3bd-2c60fa4b56ac",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
       "topic_name": "Amaç, Kapsam, Dayanak ve Tanımlar",
       "question_text": "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği'nin dayanağı olan kanunlardan bir tanesi hangisidir?",
@@ -860,7 +860,7 @@
       "difficulty": 3
     },
     {
-      "id": "2b3c4d5e-6f7g-8h9i-0j1k-l2m3n4o5p6q7",
+      "id": "12d1107b-7a48-4a47-9e4a-f923220496f8",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__yasaklar",
       "topic_name": "Yasaklar",
       "question_text": "OSGB'lerin aşağıdakilerden hangisini yapması kesinlikle yasaktır?",
@@ -873,7 +873,7 @@
       "difficulty": 2
     },
     {
-      "id": "3c4d5e6f-7g8h-9i0j-k1l2-m3n4o5p6q7r8",
+      "id": "fbec3314-58b9-43a2-bbee-2759fcdf5f6a",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__kayit_ve_arsiv",
       "topic_name": "Kayıt ve Arşiv",
       "question_text": "Hizmet sunulan işyerinin kapanması durumunda, İSG kayıtları OSGB tarafından nereye teslim edilir?",
@@ -886,7 +886,7 @@
       "difficulty": 3
     },
     {
-      "id": "4d5e6f7g-8h9i-0j1k-l2m3-n4o5p6q7r8s9",
+      "id": "97fc2af0-ecde-4c08-804d-0a6fb2dfae7b",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__katilim_ve_bilgilendirme",
       "topic_name": "Katılım ve Bilgilendirme",
       "question_text": "İşveren, görevlendirdiği İSG personelini çalışanlara ne zaman tanıtmakla yükümlüdür?",
@@ -899,7 +899,7 @@
       "difficulty": 2
     },
     {
-      "id": "5e6f7g8h-9i0j-k1l2-m3n4-o5p6q7r8s9t0",
+      "id": "4e44a0de-3971-46c6-8388-c0411199cf33",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__isgb_donanimi",
       "topic_name": "İSGB Donanımı",
       "question_text": "İSGB'lerde bulundurulması zorunlu olan en temel tıbbi malzeme hangisidir?",
@@ -912,7 +912,7 @@
       "difficulty": 3
     },
     {
-      "id": "6f7g8h9i-0j1k-l2m3-n4o5-p6q7r8s9t0u1",
+      "id": "dba2c0ce-fef8-47a1-a60e-7369c9ad73d4",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__askiya_alma",
       "topic_name": "Askıya Alma",
       "question_text": "Denetim personeli tarafından denetimin yapılmasına engel olunması durumunda OSGB yetki belgesi kaç ay askıya alınır?",
@@ -925,7 +925,7 @@
       "difficulty": 3
     },
     {
-      "id": "7g8h9i0j-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+      "id": "bcf177e5-d797-42e5-9111-a93b85c084da",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__ihtarlar",
       "topic_name": "İhtarlar",
       "question_text": "Verilen ihtarların sisteme işlendiği tarihten itibaren kaç iş günü içinde Genel Müdürlüğe itiraz edilebilir?",
@@ -938,7 +938,7 @@
       "difficulty": 2
     },
     {
-      "id": "8h9i0j1k-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+      "id": "615b398d-7c36-4a2f-a70f-cb2dc3f64b7e",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__isverenin_yukumlulukleri",
       "topic_name": "İşverenin Yükümlülükleri",
       "question_text": "İSG personelinin eğitimi ve bilgilendirilmesi için harcanan zaman çalışma süresinden sayılır mı?",
@@ -951,7 +951,7 @@
       "difficulty": 1
     },
     {
-      "id": "9i0j1k2l-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+      "id": "3908a63a-93dc-422b-b111-0ce13d6e20be",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__isgb_sartlari",
       "topic_name": "İSGB Şartları",
       "question_text": "İSGB'lerin giriş katında kurulması mümkün değilse, ulaşım için ne sağlanmalıdır?",
@@ -964,7 +964,7 @@
       "difficulty": 2
     },
     {
-      "id": "0j1k2l3m-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+      "id": "7b546305-aa7f-4c5e-a1bf-fd062c9e4fbf",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__vize_islemleri",
       "topic_name": "Vize İşlemleri",
       "question_text": "Vize süresi dolan bir kurumun vize işlemi tamamlanana kadar yetki belgesinin durumu ne olur?",
@@ -977,7 +977,7 @@
       "difficulty": 2
     },
     {
-      "id": "1k2l3m4n-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+      "id": "69ee3f16-9d03-4b1a-b636-579279c9c457",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__tanimlar_ve_kisaltmalar",
       "topic_name": "Tanımlar ve Kısaltmalar",
       "question_text": "Yönetmelikte geçen 'Hizmet sunucusu' ifadesi kimi kapsar?",
@@ -990,7 +990,7 @@
       "difficulty": 1
     },
     {
-      "id": "2l3m4n5o-p6q7-r8s9-t0u1-v2w3x4y5z6a7",
+      "id": "f7f7ab2f-dfa9-40f6-ab69-779a8cd45a57",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__calisanlarin_hak_ve_yukumlulukleri",
       "topic_name": "Çalışanların Hak ve Yükümlülükleri",
       "question_text": "Çalışanlar, kendilerine sağlanan kişisel koruyucu donanımları ne şekilde kullanmalıdır?",
@@ -1003,7 +1003,7 @@
       "difficulty": 1
     },
     {
-      "id": "3m4n5o6p-q7r8-s9t0-u1v2-w3x4y5z6a7b8",
+      "id": "10843771-734c-40f1-9020-6be83c26a909",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__isverenin_yukumlulukleri",
       "topic_name": "İşverenin Yükümlülükleri",
       "question_text": "İşveren, İSG birimlerinin ihtiyaç duyduğu araç ve gereçleri sağlamakla yükümlü müdür?",
@@ -1016,7 +1016,7 @@
       "difficulty": 1
     },
     {
-      "id": "4n5o6p7q-r8s9-t0u1-v2w3-x4y5z6a7b8c9",
+      "id": "c2df5b3c-b633-46b0-a621-2a69f725c95c",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__itiraz_komisyonu",
       "topic_name": "İtiraz Komisyonu",
       "question_text": "İtiraz komisyonu başkanlığını kim yürütür?",
@@ -1029,7 +1029,7 @@
       "difficulty": 2
     },
     {
-      "id": "5o6p7q8r-s9t0-u1v2-w3x4-y5z6a7b8c9d0",
+      "id": "7b0cedb7-cbd2-4c55-a8b8-6dc1a617b039",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__osgb_fiziksel_sartlar",
       "topic_name": "OSGB Fiziksel Şartlar",
       "question_text": "OSGB'lerde muayene odasının doğrudan bekleme yerine açılması zorunlu mudur?",
@@ -1042,7 +1042,7 @@
       "difficulty": 3
     },
     {
-      "id": "6p7q8r9s-t0u1-v2w3-x4y5-z6a7b8c9d0e1",
+      "id": "babce08d-8d92-4e72-835b-e450dc5feff7",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__calisma_usulleri",
       "topic_name": "Çalışma Usulleri",
       "question_text": "Hizmet sunucuları, sözleşme yaptıkları işyerine hizmet vermek üzere İSG personeli görevlendirdiklerinde bu bildirim ne üzerinden yapılır?",
@@ -1055,7 +1055,7 @@
       "difficulty": 1
     },
     {
-      "id": "7q8r9s0t-u1v2-w3x4-y5z6-a7b8c9d0e1f2",
+      "id": "0cade026-c526-418b-a23f-2a324282bc43",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__vize_islemleri",
       "topic_name": "Vize İşlemleri",
       "question_text": "Vize başvurusunun süresi bitiminden kaç gün önce yapılması esastır?",
@@ -1068,7 +1068,7 @@
       "difficulty": 2
     },
     {
-      "id": "8r9s0t1u-v2w3-x4y5-z6a7-b8c9d0e1f2g3",
+      "id": "ebb30ea5-7f08-4523-8141-4d00e7ec7c4f",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__onayli_defter",
       "topic_name": "Onaylı Defter",
       "question_text": "Onaylı defterin sayfaları mühürlü ve kaç nüsha olarak tasdik edilir?",
@@ -1081,7 +1081,7 @@
       "difficulty": 2
     },
     {
-      "id": "9s0t1u2v-w3x4-y5z6-a7b8-c9d0e1f2g3h4",
+      "id": "7de002a5-740f-4c93-ac3e-a1c26b370c83",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__osgb_yukumlulukleri",
       "topic_name": "OSGB Yükümlülükleri",
       "question_text": "OSGB'lerin faaliyet gösterdikleri adresin değişmesi durumunda, yeni adrese ilişkin yetki belgesi düzenlenmesi için ne kadar süre tanınır?",
@@ -1094,7 +1094,7 @@
       "difficulty": 2
     },
     {
-      "id": "0t1u2v3w-x4y5-z6a7-b8c9-d0e1f2g3h4i5",
+      "id": "e625c781-108b-4fbf-abf4-a445c8f2c144",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__tanimlar_ve_kisaltmalar",
       "topic_name": "Tanımlar ve Kısaltmalar",
       "question_text": "Yönetmelikte geçen 'İş Müfettişi' tanımı kimi kapsar?",
@@ -1107,7 +1107,7 @@
       "difficulty": 1
     },
     {
-      "id": "1u2v3w4x-y5z6-a7b8-c9d0-e1f2g3h4i5j6",
+      "id": "5f488c99-145c-4f6c-82c7-36aef96de07d",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__isgb_donanimi",
       "topic_name": "İSGB Donanımı",
       "question_text": "İSGB'lerde çalışanların en yakın sağlık birimine ulaştırılması için ne bulundurulması zorunludur?",
@@ -1120,7 +1120,7 @@
       "difficulty": 2
     },
     {
-      "id": "2v3w4x5y-z6a7-b8c9-d0e1-f2g3h4i5j6k7",
+      "id": "cdacd017-af9a-4e03-9ec6-0a52f9f813f9",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__denetim",
       "topic_name": "Denetim",
       "question_text": "Denetim sonuçları Genel Müdürlüğe en geç kaç iş günü içinde bildirilir?",
@@ -1133,7 +1133,7 @@
       "difficulty": 3
     },
     {
-      "id": "3w4x5y6z-a7b8-c9d0-e1f2-g3h4i5j6k7l8",
+      "id": "a8021619-f1a5-402d-9450-a3353cccbb65",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__isg_personeli",
       "topic_name": "İSG Personeli",
       "question_text": "Hizmet sunucularında görevlendirilen personelin değişikliğinde bildirim süresi kaç iş günüdür?",
@@ -1146,7 +1146,7 @@
       "difficulty": 2
     },
     {
-      "id": "4x5y6z7a-b8c9-d0e1-f2g3-h4i5j6k7l8m9",
+      "id": "5cbc37bc-1456-4262-b91e-885f430d448a",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__belge_iptali",
       "topic_name": "Belge İptali",
       "question_text": "Bir OSGB'nin yetki belgesi, aynı ihtar puanı limiti nedeniyle kaçıncı kez askıya alınırsa belge tamamen iptal edilir?",
@@ -1159,7 +1159,7 @@
       "difficulty": 3
     },
     {
-      "id": "5y6z7a8b-c9d0-e1f2-g3h4-i5j6k7l8m9n0",
+      "id": "61eb90e0-b734-4e09-b4cd-07c810e9a233",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__olaganustu_haller",
       "topic_name": "Olağanüstü Haller",
       "question_text": "Savaş veya seferberlik gibi olağanüstü durumlarda İSG hizmetleri nasıl yürütülür?",
@@ -1172,7 +1172,7 @@
       "difficulty": 2
     },
     {
-      "id": "6z7a8b9c-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
+      "id": "8f848529-4aaf-4f60-b49c-f7bef20d13fe",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__belge_alma_ve_vize_islemleri",
       "topic_name": "Belge Alma ve Vize İşlemleri",
       "question_text": "Vize işlemlerinde eksiklik tespit edilmesi halinde, bu eksikliklerin tamamlanması için verilen ek süre ne kadardır?",
@@ -1185,7 +1185,7 @@
       "difficulty": 3
     },
     {
-      "id": "7a8b9c0d-e1f2-g3h4-i5j6-k7l8m9n0o1p2",
+      "id": "b30dbce0-4de2-45e8-a3f8-071a01c54736",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__tanimlar_ve_kisaltmalar",
       "topic_name": "Tanımlar ve Kısaltmalar",
       "question_text": "Yönetmelikte geçen 'Diğer Sağlık Personeli' tanımı aşağıdakilerden hangisini kapsamaz?",
@@ -1198,7 +1198,7 @@
       "difficulty": 2
     },
     {
-      "id": "8b9c0d1e-f2g3-h4i5-j6k7-l8m9n0o1p2q3",
+      "id": "be20932e-2359-43a5-8ecf-3b70b09b789e",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__isverenin_yukumlulukleri",
       "topic_name": "İşverenin Yükümlülükleri",
       "question_text": "İşveren, sağlık ve güvenlik kayıtlarını personelin işten ayrılmasından sonra kaç yıl saklar?",
@@ -1211,7 +1211,7 @@
       "difficulty": 1
     },
     {
-      "id": "9c0d1e2f-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
+      "id": "1460bda4-0873-4efe-8369-e137c0d01a94",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__onayli_defter",
       "topic_name": "Onaylı Defter",
       "question_text": "Onaylı defterin asıl sureti aşağıdakilerden hangisince saklanır?",
@@ -1224,7 +1224,7 @@
       "difficulty": 1
     },
     {
-      "id": "0d1e2f3g-h4i5-j6k7-l8m9-n0o1p2q3r4s5",
+      "id": "30df6033-a53b-418b-89f7-dd139c0465df",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__yasaklar",
       "topic_name": "Yasaklar",
       "question_text": "OSGB'ler başka bir ticari faaliyette bulunabilirler mi?",
@@ -1237,7 +1237,7 @@
       "difficulty": 2
     },
     {
-      "id": "1e2f3g4h-i5j6-k7l8-m9n0-o1p2q3r4s5t6",
+      "id": "6881ee51-0097-433d-bb4d-4080ebb47841",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__osgb_yetkilendirilmesi",
       "topic_name": "OSGB Yetkilendirilmesi",
       "question_text": "OSGB yetki belgeleri kim tarafından onaylanır?",
@@ -1250,7 +1250,7 @@
       "difficulty": 1
     },
     {
-      "id": "2f3g4h5i-j6k7-l8m9-n0o1-p2q3r4s5t6u7",
+      "id": "f05d45b5-c948-4c03-8f86-4364823926b2",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__calisan_sagligi_merkezi_casmer",
       "topic_name": "Çalışan Sağlığı Merkezi (ÇASMER)",
       "question_text": "ÇASMER tanımı aşağıdakilerden hangisini ifade eder?",
@@ -1263,7 +1263,7 @@
       "difficulty": 1
     },
     {
-      "id": "3g4h5i6j-k7l8-m9n0-o1p2-q3r4s5t6u7v8",
+      "id": "902dcee2-5371-43ff-87e8-bf0ce8a0e0e4",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__gecici_hukumler",
       "topic_name": "Geçici Hükümler",
       "question_text": "Yönetmeliğin yayımı tarihinden önce yetkilendirilmiş kurumların hakları ile ilgili genel yaklaşım nedir?",
@@ -1276,7 +1276,7 @@
       "difficulty": 2
     },
     {
-      "id": "4h5i6j7k-l8m9-n0o1-p2q3-r4s5t6u7v8w9",
+      "id": "4244ba9a-83c3-4769-b204-cea26920fa4b",
       "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__yururluk",
       "topic_name": "Yürürlük",
       "question_text": "Bu Yönetmelik hangi tarihte yürürlüğe girmiştir?",
@@ -1289,8 +1289,8 @@
       "difficulty": 3
     },
     {
-      "id": "5i6j7k8l-m9n0-o1p2-q3r4-s5t6u7v8w9x0",
-      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
+      "id": "913a3abf-52bf-484b-8e5d-c1ced30e9440",
+      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
       "topic_name": "Amaç, Kapsam, Dayanak ve Tanımlar",
       "question_text": "Yönetmelik kapsamına giren işyerleri hangileridir?",
       "option_a": "Sadece fabrikalar",
@@ -1485,7 +1485,7 @@
     },
     {
       "id": "8c90b9cd-4e9a-4a82-b5d0-45916e0c50a5",
-      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
+      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
       "topic_name": "Amaç, Kapsam, Dayanak ve Tanımlar",
       "question_text": "Aşağıdakilerden hangisi İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği'nin kapsamı dışındadır?",
       "option_a": "Belediyeler",
@@ -1758,7 +1758,7 @@
     },
     {
       "id": "a177860f-a7bc-4043-b3ce-478997b4120f",
-      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
+      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
       "topic_name": "Amaç, Kapsam, Dayanak ve Tanımlar",
       "question_text": "Yönetmelikte geçen 'Bakanlık' ifadesi hangi bakanlığı tanımlar?",
       "option_a": "İçişleri Bakanlığı",
@@ -2083,7 +2083,7 @@
     },
     {
       "id": "e2f3a4b5-d6e7-4f8a-9b0c-1d2e3f4a5b6c",
-      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
+      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
       "topic_name": "Amaç, Kapsam, Dayanak ve Tanımlar",
       "question_text": "Aşağıdakilerden hangisi bu Yönetmelik kapsamındaki 'İş Sağlığı ve Güvenliği Hizmetleri'nin amaçlarından biri değildir?",
       "option_a": "İş kazası ve meslek hastalıklarını önlemek",
@@ -2278,7 +2278,7 @@
     },
     {
       "id": "b7c8d9e0-a1b2-4c3d-4e5f-6a7b8c9d0e1f",
-      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
+      "topic_id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi__amac_kapsam_dayanak_ve_tanimlar",
       "topic_name": "Amaç, Kapsam, Dayanak ve Tanımlar",
       "question_text": "Yönetmelikte geçen 'İSGB'nin açılımı nedir?",
       "option_a": "İş Sağlığı ve Güvenliği Birimi",
