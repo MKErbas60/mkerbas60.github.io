@@ -1,0 +1,251 @@
+{
+  "regulation": {
+    "id": "kanun_3071",
+    "title": "3071 Sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun",
+    "kanun_no": "3071",
+    "kabul_tarihi": "01.11.1984",
+    "resmi_gazete": "10.11.1984 / 18571"
+  },
+  "cards": [
+    {
+      "id": "dk_001",
+      "soru": "3071 sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun'un amacı nedir?",
+      "cevap": "Türk vatandaşlarının ve Türkiye'de ikamet eden yabancıların kendileriyle veya kamu ile ilgili dilek ve şikâyetleri hakkında TBMM'ye ve yetkili makamlara yazı ile başvurma haklarının kullanılma biçimini düzenlemektir.",
+      "madde": "Madde 1",
+      "kategori": "Genel",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_002",
+      "soru": "3071 sayılı Kanun'un kapsamı nedir?",
+      "cevap": "Türk vatandaşları ve Türkiye'de ikamet eden yabancılar tarafından TBMM ile idarî makamlara yapılan dilek ve şikâyetler hakkındaki başvuruları kapsar.",
+      "madde": "Madde 2",
+      "kategori": "Kapsam",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_003",
+      "soru": "Dilekçe hakkı kimlere tanınmıştır?",
+      "cevap": "Türk vatandaşlarına tanınmıştır. Türkiye'de ikamet eden yabancılar ise karşılıklılık esası gözetilmek ve dilekçelerinin Türkçe yazılması kaydıyla bu haktan yararlanabilirler.",
+      "madde": "Madde 3",
+      "kategori": "Hak Sahipleri",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_004",
+      "soru": "Yabancıların dilekçe hakkından yararlanabilmesi için hangi iki şart aranmaktadır?",
+      "cevap": "1) Karşılıklılık esasının gözetilmesi, 2) Dilekçenin Türkçe yazılmış olması.",
+      "madde": "Madde 3",
+      "kategori": "Hak Sahipleri",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_005",
+      "soru": "Dilekçede bulunması zorunlu şartlar nelerdir?",
+      "cevap": "Dilekçe sahibinin: 1) Adı-soyadı, 2) İmzası, 3) İş veya ikametgâh adresi bulunması zorunludur.",
+      "madde": "Madde 4",
+      "kategori": "Zorunlu Şartlar",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_006",
+      "soru": "Dilekçe yanlış idari makama verilirse ne olur?",
+      "cevap": "O makam, dilekçeyi yetkili idari makama gönderir ve ayrıca dilekçe sahibine de bilgi verir.",
+      "madde": "Madde 5",
+      "kategori": "Usul",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_007",
+      "soru": "Hangi dilekçeler incelenemez? (Madde 6)",
+      "cevap": "a) Belli bir konuyu ihtiva etmeyenler, b) Yargı mercilerinin görevine giren konularla ilgili olanlar, c) 4. maddede gösterilen şartlardan herhangi birini taşımayanlar incelenemez.",
+      "madde": "Madde 6",
+      "kategori": "İncelenemeyecek Dilekçeler",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_008",
+      "soru": "Yargı mercilerinin görevine giren konulardaki dilekçeler incelenebilir mi?",
+      "cevap": "Hayır. Yargı mercilerinin görevine giren konularla ilgili dilekçeler incelenemez (Madde 6/b).",
+      "madde": "Madde 6",
+      "kategori": "İncelenemeyecek Dilekçeler",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_009",
+      "soru": "İdari makamlara yapılan başvurulara en geç kaç gün içinde cevap verilmek zorundadır?",
+      "cevap": "En geç otuz (30) gün içinde gerekçeli olarak cevap verilmesi zorunludur.",
+      "madde": "Madde 7",
+      "kategori": "Süre",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_010",
+      "soru": "İdari makamlarca yapılan cevabın niteliği nasıl olmalıdır?",
+      "cevap": "Cevap gerekçeli olarak verilmelidir. İşlem safahatının duyurulması hâlinde alınan sonuç ayrıca bildirilir.",
+      "madde": "Madde 7",
+      "kategori": "Cevap Niteliği",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_011",
+      "soru": "TBMM'ye gönderilen dilekçelerin incelenmesi ve karara bağlanması kaç gün içinde sonuçlandırılır?",
+      "cevap": "Altmış (60) gün içinde sonuçlandırılır.",
+      "madde": "Madde 8",
+      "kategori": "Süre",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_012",
+      "soru": "TBMM'ye gönderilen dilekçeler hangi komisyon tarafından incelenir?",
+      "cevap": "TBMM Dilekçe Komisyonu tarafından incelenir.",
+      "madde": "Madde 8",
+      "kategori": "TBMM",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_013",
+      "soru": "İlgili kamu kurum ve kuruluşları, TBMM Dilekçe Komisyonunca gönderilen dilekçeleri kaç gün içinde cevaplandırır?",
+      "cevap": "Otuz (30) gün içinde cevaplandırır.",
+      "madde": "Madde 8",
+      "kategori": "Süre",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_014",
+      "soru": "TBMM Dilekçe Komisyonu'nun yetkileri nelerdir?",
+      "cevap": "Her türlü bilgi ve belge almak, ilgilileri çağırıp bilgi almak, idari denetimin yapılmasını istemek, bilirkişi görevlendirmek ve yerinde inceleme yapmak yetkisine sahiptir.",
+      "madde": "Madde 8",
+      "kategori": "TBMM",
+      "zorluk": "zor"
+    },
+    {
+      "id": "dk_015",
+      "soru": "Kamu personelinin TBMM Dilekçe Komisyonu'na karşı yükümlülükleri nelerdir?",
+      "cevap": "Talep edilen bilgi ve belgeyi vermek, idari denetimi yapmak ve yerinde inceleme için gerekli tedbirleri almakla yükümlüdür.",
+      "madde": "Madde 8",
+      "kategori": "TBMM",
+      "zorluk": "zor"
+    },
+    {
+      "id": "dk_016",
+      "soru": "3071 sayılı Kanun hangi tarihte yürürlüğe girmiştir?",
+      "cevap": "Kanun, yayımı tarihinde yürürlüğe girmiştir. Resmi Gazete'de yayımlanma tarihi: 10/11/1984.",
+      "madde": "Madde 10",
+      "kategori": "Genel",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_017",
+      "soru": "3071 sayılı Kanun'u kim yürütür?",
+      "cevap": "Kanun hükümlerini TBMM Başkanı ile Bakanlar Kurulu yürütür.",
+      "madde": "Madde 11",
+      "kategori": "Genel",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_018",
+      "soru": "3071 sayılı Kanun ile hangi eski kanun yürürlükten kaldırılmıştır?",
+      "cevap": "26 Aralık 1962 tarih ve 140 sayılı 'Türk Vatandaşlarının TBMM'ye Dilekçe ile Başvurmaları ve Dilekçelerin İncelenmesi ile Karara Bağlanmasının Düzenlenmesine Dair Kanun' yürürlükten kaldırılmıştır.",
+      "madde": "Madde 9",
+      "kategori": "Genel",
+      "zorluk": "zor"
+    },
+    {
+      "id": "dk_019",
+      "soru": "3071 sayılı Kanun'un 1. maddesinde 2003 yılında yapılan değişiklikle kapsama kimler eklenmiştir?",
+      "cevap": "Türkiye'de ikamet eden yabancılar kapsama eklenmiştir (4778 sayılı Kanun, 2/1/2003).",
+      "madde": "Madde 1",
+      "kategori": "Değişiklikler",
+      "zorluk": "zor"
+    },
+    {
+      "id": "dk_020",
+      "soru": "Dilekçe hakkı Anayasa'nın hangi kapsamında değerlendirilir ve 3071 sayılı Kanun ne ile güvence altına almaktadır?",
+      "cevap": "Dilekçe hakkı temel bir anayasal haktır. 3071 sayılı Kanun bu hakkın kullanılma biçimini yazılı başvuru yoluyla düzenleyerek güvence altına almaktadır.",
+      "madde": "Madde 1",
+      "kategori": "Genel",
+      "zorluk": "zor"
+    },
+    {
+      "id": "dk_021",
+      "soru": "Adres bilgisi olmayan bir dilekçe incelenebilir mi?",
+      "cevap": "Hayır. Madde 4'te düzenlenen zorunlu şartlardan birini (ad-soyad, imza, iş veya ikametgâh adresi) taşımayan dilekçeler Madde 6/c gereğince incelenemez.",
+      "madde": "Madde 4, Madde 6",
+      "kategori": "Zorunlu Şartlar",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_022",
+      "soru": "İmzasız dilekçe hakkında ne yapılır?",
+      "cevap": "İmza, Madde 4'te sayılan zorunlu şartlardan biridir. İmzasız dilekçe Madde 6/c kapsamında incelenemez.",
+      "madde": "Madde 4, Madde 6",
+      "kategori": "Zorunlu Şartlar",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_023",
+      "soru": "Belli bir konu içermeyen (muğlak) dilekçe incelenebilir mi?",
+      "cevap": "Hayır. Belli bir konuyu ihtiva etmeyen dilekçeler Madde 6/a uyarınca incelenemez.",
+      "madde": "Madde 6",
+      "kategori": "İncelenemeyecek Dilekçeler",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_024",
+      "soru": "Yanlış makama verilen dilekçede dilekçe sahibine bilgi verilir mi?",
+      "cevap": "Evet. Yetkisiz makam dilekçeyi yetkili makama gönderirken ayrıca dilekçe sahibine de bilgi vermekle yükümlüdür (Madde 5).",
+      "madde": "Madde 5",
+      "kategori": "Usul",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_025",
+      "soru": "TBMM Dilekçe Komisyonu'nun çalışma esas ve usulleri nerede gösterilir?",
+      "cevap": "TBMM İçtüzüğünde gösterilir.",
+      "madde": "Madde 8",
+      "kategori": "TBMM",
+      "zorluk": "orta"
+    },
+    {
+      "id": "dk_026",
+      "soru": "3071 sayılı Kanun kaç tarihinde kabul edilmiştir?",
+      "cevap": "1 Kasım 1984 tarihinde kabul edilmiştir.",
+      "madde": "Genel Bilgi",
+      "kategori": "Genel",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_027",
+      "soru": "3071 sayılı Kanun'da 6253 sayılı Kanun ile hangi madde değiştirilmiş ve ne zaman yürürlüğe girmiştir?",
+      "cevap": "8. madde değiştirilmiş olup 18/12/2011 tarihinde yürürlüğe girmiştir.",
+      "madde": "Değişiklik Tablosu",
+      "kategori": "Değişiklikler",
+      "zorluk": "zor"
+    },
+    {
+      "id": "dk_028",
+      "soru": "Dilekçe Komisyonu özel kuruluşlardan bilgi ve belge alabilir mi?",
+      "cevap": "Evet. Dilekçe Komisyonu kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşları yanı sıra özel kuruluşlardan da her türlü bilgi ve belgeyi alabilir.",
+      "madde": "Madde 8",
+      "kategori": "TBMM",
+      "zorluk": "zor"
+    },
+    {
+      "id": "dk_029",
+      "soru": "Dilekçe hakkının kullanılmasında başvuru yöntemi ne olmalıdır?",
+      "cevap": "Başvuru yazılı olarak yapılmalıdır. Kanun yalnızca yazılı başvuru hakkını düzenlemektedir.",
+      "madde": "Madde 1, Madde 3",
+      "kategori": "Usul",
+      "zorluk": "kolay"
+    },
+    {
+      "id": "dk_030",
+      "soru": "Geçici Madde 1'e göre, TBMM İçtüzüğünde değişiklik yapılıncaya kadar ne uygulanır?",
+      "cevap": "140 sayılı eski Kanun'un Dilekçe Komisyonunun çalışma esas ve usullerine ilişkin hükümlerinin uygulanmasına devam olunur.",
+      "madde": "Geçici Madde 1",
+      "kategori": "Geçici Hükümler",
+      "zorluk": "zor"
+    }
+  ]
+}
