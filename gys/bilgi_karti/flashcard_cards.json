@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "total": 3,
+  "cards": [
+    {
+      "question_id": "buraya-questions-tablosundaki-uuid",
+      "ease_factor": 2.5,
+      "interval": 0,
+      "repetition": 0,
+      "due_date": "2025-01-01"
+    },
+    {
+      "question_id": "baska-bir-uuid",
+      "ease_factor": 2.6,
+      "interval": 6,
+      "repetition": 2,
+      "due_date": "2025-02-15"
+    },
+    {
+      "question_id": "ucuncu-uuid",
+      "ease_factor": 2.5,
+      "interval": 0,
+      "repetition": 0,
+      "due_date": "2025-01-01"
+    }
+  ]
+}
