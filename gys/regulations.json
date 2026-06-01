@@ -1,169 +1,149 @@
 {
+  "total": 18,
   "regulations": [
     {
       "id": "turkiye_cumhuriyeti_anayasasi",
       "name": "Türkiye Cumhuriyeti Anayasası",
-      "description": "Birinci Kısım (Genel Esaslar), İkinci Kısım (Temel Haklar ve Ödevler), Üçüncü Kısım (Cumhuriyetin Temel Organları)"
-    },
-    {
-      "id": "657_sayili_devlet_memurlari_kanunu",
-      "name": "657 Sayılı Devlet Memurları Kanunu",
-      "description": "Geçici Maddeler ile Ek Geçici Maddeler hariç (Şube Müdürü). Şef/Memur/ÜD için: Kısım-1 Bölüm 1-4, Kısım-4 Bölüm 4-5-7, Kısım-7"
-    },
-    {
-      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
-      "name": "3071 Sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun",
-      "description": "Dilekçe hakkının kullanılmasına ilişkin usul ve esaslar"
-    },
-    {
-      "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
-      "name": "4483 Sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
-      "description": "Kamu görevlilerinin yargılanmasına ilişkin usul ve esaslar"
-    },
-    {
-      "id": "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
-      "name": "4688 Sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu",
-      "description": "Kamu görevlilerinin sendikal hakları ve toplu sözleşme esasları"
-    },
-    {
-      "id": "4734_sayili_kamu_ihale_kanunu",
-      "name": "4734 Sayılı Kamu İhale Kanunu",
-      "description": "Kamu ihalelerinde uygulanacak usul ve esaslar"
-    },
-    {
-      "id": "4857_sayili_is_kanunu",
-      "name": "4857 Sayılı İş Kanunu",
-      "description": "İş ilişkileri, iş sözleşmesi ve çalışma koşullarına ilişkin esaslar"
-    },
-    {
-      "id": "4982_sayili_bilgi_edinme_hakki_kanunu",
-      "name": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
-      "description": "Kamu kurumlarından bilgi edinme hakkı ve usulleri"
-    },
-    {
-      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
-      "name": "5018 Sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
-      "description": "Kamu malî yönetimi ve kontrol esasları"
-    },
-    {
-      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
-      "name": "6331 Sayılı İş Sağlığı ve Güvenliği Kanunu",
-      "description": "İş sağlığı ve güvenliğine ilişkin usul ve esaslar"
-    },
-    {
-      "id": "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
-      "name": "6356 Sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu",
-      "description": "Özel sektör sendikaları ve toplu iş sözleşmesi esasları"
-    },
-    {
-      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
-      "name": "6698 Sayılı Kişisel Verilerin Korunması Kanunu",
-      "description": "Kişisel verilerin işlenmesi ve korunmasına ilişkin esaslar"
-    },
-    {
-      "id": "6735_sayili_uluslararasi_isgucu_kanunu",
-      "name": "6735 Sayılı Uluslararası İşgücü Kanunu",
-      "description": "Yabancıların çalışma izni ve uluslararası işgücüne ilişkin esaslar"
-    },
-    {
-      "id": "7201_sayili_tebligat_kanunu",
-      "name": "7201 Sayılı Tebligat Kanunu",
-      "description": "Resmi tebligat usul ve esasları"
-    },
-    {
-      "id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
-      "name": "7315 Sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu",
-      "description": "Güvenlik soruşturması ve arşiv araştırmasına ilişkin esaslar"
-    },
-    {
-      "id": "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
-      "name": "1 Sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
-      "description": "Altıncı Kısım: Üçüncü Bölüm (Çalışma ve Sosyal Güvenlik Bakanlığı teşkilatı)"
-    },
-    {
-      "id": "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
-      "name": "4 Sayılı Bakanlıklara Bağlı Kurum ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
-      "description": "Yedinci Bölüm, Ondokuzuncu Bölüm, Otuzuncu Bölüm, Kırküçüncü Bölüm"
-    },
-    {
-      "id": "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
-      "name": "Çalışma ve Sosyal Güvenlik Bakanlığı Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliği",
-      "description": "Bakanlık personelinin görevde yükselme ve unvan değişikliğine ilişkin usul ve esaslar"
-    },
-    {
-      "id": "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
-      "name": "Çalışma ve Sosyal Güvenlik Bakanlığı Disiplin Amirleri Yönetmeliği",
-      "description": "Bakanlık personelinin disiplin amirlerini belirleyen yönetmelik"
-    },
-    {
-      "id": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik",
-      "name": "Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik",
-      "description": "Devlet memurlarının şikayet ve müracaat usul ve esasları"
-    },
-    {
-      "id": "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
-      "name": "İş Sağlığı ve Güvenliği Hizmetleri Yönetmeliği",
-      "description": "İşyerlerinde iş sağlığı ve güvenliği hizmetlerine ilişkin usul ve esaslar"
-    },
-    {
-      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
-      "name": "Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelik",
-      "description": "Kamu görevlilerinin uyması gereken etik ilkeler ve başvuru esasları"
-    },
-    {
-      "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
-      "name": "Mal Bildiriminde Bulunulması Hakkında Yönetmelik",
-      "description": "Kamu görevlilerinin mal bildiriminde bulunmasına ilişkin usul ve esaslar"
-    },
-    {
-      "id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
-      "name": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik",
-      "description": "Kamu kurumlarında resmi yazışma kural ve standartları"
-    },
-    {
-      "id": "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi",
-      "name": "Uluslararası İşgücü Kanunu Uygulama Yönetmeliği",
-      "description": "6735 Sayılı Uluslararası İşgücü Kanununun uygulama esasları"
+      "short_name": "Anayasa",
+      "category": "Anayasa ve Temel Hukuk",
+      "description": "Birinci Kısım (Genel Esaslar), İkinci Kısım (Temel Haklar ve Ödevler), Üçüncü Kısım (Cumhuriyetin Temel Organları)",
+      "topic_count": 14
     },
     {
       "id": "genel_kultur_ve_genel_yetenek",
-      "name": "Genel Kültür ve Genel Yetenek",
-      "description": "Genel kültür, genel yetenek ve güncel konular"
+      "name": "Genel Kultur ve Genel Yetenek",
+      "short_name": "GKGY",
+      "category": "Genel Yetenek ve Genel Kültür",
+      "description": "Genel kültür, genel yetenek ve güncel konular",
+      "topic_count": 10
     },
     {
       "id": "turkce_ve_dil_bilgisi",
       "name": "Türkçe ve Dil Bilgisi",
-      "description": "Türkçe dil bilgisi, yazım kuralları ve anlama"
+      "short_name": "Türkçe",
+      "category": "Genel Yetenek ve Genel Kültür",
+      "description": "Türkçe dil bilgisi, yazım kuralları ve anlama",
+      "topic_count": 7
     },
     {
       "id": "ataturk_ilkeleri_ve_inkilap_tarihi",
       "name": "Atatürk İlkeleri ve İnkılap Tarihi",
-      "description": "Atatürk ilkeleri, Türk inkılabı ve yakın tarih"
+      "short_name": "İnkılap Tarihi",
+      "category": "Genel Yetenek ve Genel Kültür",
+      "description": "Atatürk ilkeleri, Türk inkılabı ve yakın tarih",
+      "topic_count": 14
     },
     {
-      "id": "alan_bilgisi_bilgisayar_muhendisligi",
-      "name": "Alan Bilgisi: Bilgisayar Mühendisliği",
-      "description": "Ünvan değişikliği sınavı – Bilgisayar Mühendisi alan bilgisi konuları (30 soru)"
+      "id": "657_sayili_devlet_memurlari_kanunu",
+      "name": "657 Sayılı Devlet Memurları Kanunu",
+      "short_name": "DMK",
+      "category": "Genel Mevzuat",
+      "description": "Geçici Maddeler ile Ek Geçici Maddeler hariç (Şube Müdürü). Şef/Memur/ÜD için: Kısım-1 Bölüm 1-4, Kısım-4 Bölüm 4-5-7, Kısım-7",
+      "topic_count": 22
     },
     {
-      "id": "alan_bilgisi_endustri_muhendisligi",
-      "name": "Alan Bilgisi: Endüstri Mühendisliği",
-      "description": "Ünvan değişikliği sınavı – Endüstri Mühendisi alan bilgisi konuları (30 soru)"
+      "id": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+      "name": "3071 Sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun",
+      "short_name": "Dilekçe K.",
+      "category": "Genel Mevzuat",
+      "description": "Dilekçe hakkının kullanılmasına ilişkin usul ve esaslar",
+      "topic_count": 8
     },
     {
-      "id": "alan_bilgisi_kimya_muhendisligi",
-      "name": "Alan Bilgisi: Kimya Mühendisliği",
-      "description": "Ünvan değişikliği sınavı – Kimya Mühendisi alan bilgisi konuları (30 soru)"
+      "id": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
+      "name": "4483 Sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+      "short_name": "Memur Yargılama K.",
+      "category": "Genel Mevzuat",
+      "description": "Kamu görevlilerinin yargılanmasına ilişkin usul ve esaslar",
+      "topic_count": 15
     },
     {
-      "id": "alan_bilgisi_ziraat_muhendisligi",
-      "name": "Alan Bilgisi: Ziraat Mühendisliği",
-      "description": "Ünvan değişikliği sınavı – Ziraat Mühendisi alan bilgisi konuları (30 soru)"
+      "id": "4734_sayili_kamu_ihale_kanunu",
+      "name": "4734 Sayılı Kamu İhale Kanunu",
+      "short_name": "KİK",
+      "category": "Genel Mevzuat",
+      "description": "Kamu ihalelerinde uygulanacak usul ve esaslar",
+      "topic_count": 12
     },
     {
-      "id": "alan_bilgisi_programci",
-      "name": "Alan Bilgisi: Programcı",
-      "description": "Ünvan değişikliği sınavı – Programcı alan bilgisi konuları (30 soru)"
+      "id": "4982_sayili_bilgi_edinme_hakki_kanunu",
+      "name": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
+      "short_name": "Bilgi Edinme K.",
+      "category": "Genel Mevzuat",
+      "description": "Kamu kurumlarından bilgi edinme hakkı ve usulleri",
+      "topic_count": 10
+    },
+    {
+      "id": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+      "name": "5018 Sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
+      "short_name": "KMYKK",
+      "category": "Genel Mevzuat",
+      "description": "Kamu malî yönetimi ve kontrol esasları",
+      "topic_count": 0
+    },
+    {
+      "id": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+      "name": "6331 Sayılı İş Sağlığı ve Güvenliği Kanunu",
+      "short_name": "İSG Kanunu",
+      "category": "İş ve Sosyal Güvenlik",
+      "description": "İş sağlığı ve güvenliğine ilişkin usul ve esaslar",
+      "topic_count": 37
+    },
+    {
+      "id": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+      "name": "6698 Sayılı Kişisel Verilerin Korunması Kanunu",
+      "short_name": "KVKK",
+      "category": "Genel Mevzuat",
+      "description": "Kişisel verilerin işlenmesi ve korunmasına ilişkin esaslar",
+      "topic_count": 31
+    },
+    {
+      "id": "7201_sayili_tebligat_kanunu",
+      "name": "7201 Sayılı Tebligat Kanunu",
+      "short_name": "Tebligat K.",
+      "category": "Genel Mevzuat",
+      "description": "Resmi tebligat usul ve esasları",
+      "topic_count": 9
+    },
+    {
+      "id": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
+      "name": "7315 Sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu",
+      "short_name": "Güvenlik Sor. K.",
+      "category": "Genel Mevzuat",
+      "description": "Güvenlik soruşturması ve arşiv araştırmasına ilişkin esaslar",
+      "topic_count": 16
+    },
+    {
+      "id": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik",
+      "name": "Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik",
+      "short_name": "Şikayet Yön.",
+      "category": "Genel Mevzuat",
+      "description": "Devlet memurlarının sikayet ve müracaat usul ve esasları",
+      "topic_count": 4
+    },
+    {
+      "id": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+      "name": "Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelik",
+      "short_name": "Etik Yönetmeliği",
+      "category": "Genel Mevzuat",
+      "description": "Kamu görevlilerinin uyması gereken etik ilkeler ve basvuru esasları",
+      "topic_count": 5
+    },
+    {
+      "id": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
+      "name": "Mal Bildiriminde Bulunulması Hakkında Yönetmelik",
+      "short_name": "Mal Bildirimi Yön.",
+      "category": "Genel Mevzuat",
+      "description": "Kamu görevlilerinin mal bildiriminde bulunmasına iliskin usul ve esaslar",
+      "topic_count": 24
+    },
+    {
+      "id": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+      "name": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik",
+      "short_name": "Resmi Yazışma Yön.",
+      "category": "Genel Mevzuat",
+      "description": "Kamu kurumlarında resmi yazısma kural ve standartları",
+      "topic_count": 43
     }
   ]
 }
