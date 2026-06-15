@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "key": "turkce",
+    "name": "Türkçe",
+    "group": "GY",
+    "order_index": 1,
+    "question_count": 30
+  },
+  {
+    "id": 2,
+    "key": "matematik",
+    "name": "Matematik",
+    "group": "GY",
+    "order_index": 2,
+    "question_count": 30
+  },
+  {
+    "id": 3,
+    "key": "tarih",
+    "name": "Tarih",
+    "group": "GK",
+    "order_index": 3,
+    "question_count": 12
+  },
+  {
+    "id": 4,
+    "key": "cografya",
+    "name": "Coğrafya",
+    "group": "GK",
+    "order_index": 4,
+    "question_count": 12
+  },
+  {
+    "id": 5,
+    "key": "vatandaslik",
+    "name": "Vatandaşlık/Anayasa",
+    "group": "GK",
+    "order_index": 5,
+    "question_count": 12
+  },
+  {
+    "id": 6,
+    "key": "ataturk_ilkeleri",
+    "name": "Atatürk İlkeleri",
+    "group": "GK",
+    "order_index": 6,
+    "question_count": 12
+  }
+]
