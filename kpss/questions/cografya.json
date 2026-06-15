@@ -1,0 +1,1202 @@
+[
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin en yüksek dağı hangisidir?",
+    "option_a": "Erciyes Dağı", "option_b": "Uludağ", "option_c": "Kaçkar Dağları", "option_d": "Ağrı Dağı", "option_e": "Suphan Dağı",
+    "correct_option": "D", "explanation": "Ağrı Dağı 5137 m yüksekliğiyle Türkiye'nin en yüksek dağıdır.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin en uzun nehri hangisidir?",
+    "option_a": "Sakarya", "option_b": "Kızılırmak", "option_c": "Fırat", "option_d": "Dicle", "option_e": "Yeşilırmak",
+    "correct_option": "B", "explanation": "Kızılırmak yaklaşık 1355 km uzunluğuyla Türkiye'nin en uzun nehridir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin en büyük gölü hangisidir?",
+    "option_a": "Beyşehir Gölü", "option_b": "Eğirdir Gölü", "option_c": "Van Gölü", "option_d": "Tuz Gölü", "option_e": "İznik Gölü",
+    "correct_option": "C", "explanation": "Van Gölü 3713 km² yüzey alanıyla Türkiye'nin en büyük gölüdür.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'nin en kalabalık şehri hangisidir?",
+    "option_a": "Ankara", "option_b": "İzmir", "option_c": "İstanbul", "option_d": "Bursa", "option_e": "Antalya",
+    "correct_option": "C", "explanation": "İstanbul, 15 milyonu aşan nüfusuyla Türkiye'nin en kalabalık şehridir.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en uzun nehri hangisidir?",
+    "option_a": "Amazon", "option_b": "Nil", "option_c": "Yangtze", "option_d": "Mississippi", "option_e": "Volga",
+    "correct_option": "B", "explanation": "Nil Nehri yaklaşık 6650 km uzunluğuyla dünyanın en uzun nehridir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de tarım için en elverişli bölge hangisidir?",
+    "option_a": "Doğu Anadolu", "option_b": "İç Anadolu", "option_c": "Ege", "option_d": "Karadeniz", "option_e": "Güneydoğu Anadolu",
+    "correct_option": "C", "explanation": "Ege Bölgesi, ılıman iklimi, verimli ovaları ve uzun yetişme mevsimiyle tarım açısından en elverişli bölgedir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin yüzölçümü yaklaşık kaç km²'dir?",
+    "option_a": "500.000", "option_b": "650.000", "option_c": "783.562", "option_d": "900.000", "option_e": "1.100.000",
+    "correct_option": "C", "explanation": "Türkiye'nin yüzölçümü 783.562 km²'dir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin en büyük tatlı su gölü hangisidir?",
+    "option_a": "Van Gölü", "option_b": "Tuz Gölü", "option_c": "Beyşehir Gölü", "option_d": "Eğirdir Gölü", "option_e": "İznik Gölü",
+    "correct_option": "C", "explanation": "Beyşehir Gölü yaklaşık 651 km² ile Türkiye'nin en büyük tatlı su gölüdür. Van Gölü daha büyük olsa da sodalı ve tuzludur.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'de yıllık en fazla yağış hangi ilde düşer?",
+    "option_a": "Trabzon", "option_b": "Samsun", "option_c": "Rize", "option_d": "Artvin", "option_e": "Sinop",
+    "correct_option": "C", "explanation": "Rize, yıllık ortalama 2400 mm'yi aşan yağış miktarıyla Türkiye'nin en fazla yağış alan ilidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin 7 coğrafi bölgesi içinde en büyük yüzölçümüne sahip olan hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Karadeniz", "option_c": "Akdeniz", "option_d": "Doğu Anadolu", "option_e": "Ege",
+    "correct_option": "D", "explanation": "Doğu Anadolu Bölgesi yaklaşık 163.000 km²'lik yüzölçümüyle Türkiye'nin en büyük coğrafi bölgesidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin 7 coğrafi bölgesi içinde en küçük yüzölçümüne sahip olan hangisidir?",
+    "option_a": "Marmara", "option_b": "Ege", "option_c": "Güneydoğu Anadolu", "option_d": "Akdeniz", "option_e": "Karadeniz",
+    "correct_option": "C", "explanation": "Güneydoğu Anadolu Bölgesi yaklaşık 61.000 km²'lik yüzölçümüyle Türkiye'nin en küçük coğrafi bölgesidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+    "option_a": "Karadeniz - Ege", "option_b": "Marmara - Ege", "option_c": "Karadeniz - Marmara", "option_d": "Ege - Akdeniz", "option_e": "Akdeniz - Marmara",
+    "correct_option": "C", "explanation": "İstanbul Boğazı, Karadeniz ile Marmara Denizi'ni birbirine bağlar.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Çanakkale Boğazı hangi iki denizi birleştirir?",
+    "option_a": "Karadeniz - Marmara", "option_b": "Marmara - Ege", "option_c": "Ege - Akdeniz", "option_d": "Karadeniz - Ege", "option_e": "Marmara - Akdeniz",
+    "correct_option": "B", "explanation": "Çanakkale Boğazı, Marmara Denizi ile Ege Denizi'ni birbirine bağlar.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye kaç komşu ülkeyle kara sınırı paylaşmaktadır?",
+    "option_a": "5", "option_b": "6", "option_c": "7", "option_d": "8", "option_e": "9",
+    "correct_option": "D", "explanation": "Türkiye; Yunanistan, Bulgaristan, Gürcistan, Ermenistan, Azerbaycan (Nahçıvan), İran, Irak ve Suriye ile olmak üzere 8 ülkeyle kara sınırı paylaşmaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Erciyes Dağı hangi ilde yer alır?",
+    "option_a": "Sivas", "option_b": "Erzurum", "option_c": "Kayseri", "option_d": "Malatya", "option_e": "Ağrı",
+    "correct_option": "C", "explanation": "Erciyes Dağı, Kayseri ili sınırları içinde yer alan ve yaklaşık 3916 m yüksekliğe sahip sönmüş bir volkandır.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Kaçkar Dağları hangi bölgede yer alır?",
+    "option_a": "Marmara", "option_b": "Ege", "option_c": "Akdeniz", "option_d": "Doğu Karadeniz", "option_e": "Doğu Anadolu",
+    "correct_option": "D", "explanation": "Kaçkar Dağları, Rize ve Artvin illeri arasında yer alan Doğu Karadeniz'in en yüksek dağ silsilesini oluşturur.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Van Gölü'nün en belirgin özelliği nedir?",
+    "option_a": "Dünyanın en derin gölüdür", "option_b": "Sodalı ve tuzlu bir kapalı havza gölüdür", "option_c": "Yapay bir göldür", "option_d": "Tatlı su gölüdür", "option_e": "Balıkçılığa en elverişli göldür",
+    "correct_option": "B", "explanation": "Van Gölü; soda (Na₂CO₃) ve tuz içeren, dışarıya akışı olmayan bir kapalı havza gölüdür. Bu nedenle suları tatlı değil sodalı ve tuzludur.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Tuz Gölü hangi iller arasındaki sınır bölgesinde yer alır?",
+    "option_a": "Konya - Ankara - Aksaray", "option_b": "Konya - Karaman - Niğde", "option_c": "Kayseri - Sivas - Yozgat", "option_d": "Ankara - Eskişehir - Kütahya", "option_e": "Afyon - Isparta - Burdur",
+    "correct_option": "A", "explanation": "Tuz Gölü, Konya, Ankara ve Aksaray il sınırlarının kesiştiği noktada yer alır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Kuzey Anadolu Fay Hattı hangi iki levhanın sınırında yer alır?",
+    "option_a": "Afrika - Avrasya", "option_b": "Arap - Anadolu", "option_c": "Avrasya - Anadolu", "option_d": "Pasifik - Avrasya", "option_e": "Hindistan - Avrasya",
+    "correct_option": "C", "explanation": "Kuzey Anadolu Fay Hattı, Avrasya Levhası ile Anadolu Levhası arasındaki doğrultu atımlı faydır. Marmara'dan Doğu Karadeniz'e uzanır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Doğu Anadolu Fay Hattı hangi iki levha arasında yer alır?",
+    "option_a": "Anadolu - Avrasya", "option_b": "Arap - Anadolu", "option_c": "Afrika - Anadolu", "option_d": "Pasifik - Anadolu", "option_e": "Hindistan - Anadolu",
+    "correct_option": "B", "explanation": "Doğu Anadolu Fay Hattı, Arap Levhası ile Anadolu Levhası arasında yer alır; Karlıova'dan Ölüdeniz'e uzanır.", "difficulty": 3
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin en yüksek platosu hangisidir?",
+    "option_a": "Uzunyayla", "option_b": "Erzurum - Kars Platosu", "option_c": "Haymana Platosu", "option_d": "Obruk Platosu", "option_e": "Taşeli Platosu",
+    "correct_option": "B", "explanation": "Erzurum-Kars Platosu, ortalama 1800-2000 m yükseltisiyle Türkiye'nin en yüksek ve en geniş platosudur.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Büyük Menderes Nehri nereye dökülür?",
+    "option_a": "Karadeniz", "option_b": "Marmara Denizi", "option_c": "Ege Denizi", "option_d": "Akdeniz", "option_e": "Van Gölü",
+    "correct_option": "C", "explanation": "Büyük Menderes, Afyon-Dinar yakınlarından doğarak Ege Denizi'ne (Söke civarı) dökülür.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Sakarya Nehri hangi denize dökülür?",
+    "option_a": "Marmara Denizi", "option_b": "Karadeniz", "option_c": "Ege Denizi", "option_d": "Akdeniz", "option_e": "Hazar Denizi",
+    "correct_option": "B", "explanation": "Sakarya Nehri, Afyon Emirdağ çevresinden doğar ve Karadeniz'e (Karasu yakını) dökülür.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'de karasal iklimin en sert yaşandığı bölge hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Güneydoğu Anadolu", "option_c": "Ege", "option_d": "Doğu Anadolu", "option_e": "Karadeniz",
+    "correct_option": "D", "explanation": "Doğu Anadolu Bölgesi, çok soğuk geçen uzun kışları ve sıcak kısa yazlarıyla karasal iklimin en sert biçimde yaşandığı bölgedir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin en büyük ovası hangisidir?",
+    "option_a": "Çukurova", "option_b": "Gediz Ovası", "option_c": "Konya Ovası", "option_d": "Bafra Ovası", "option_e": "Bursa Ovası",
+    "correct_option": "C", "explanation": "Konya Ovası, yaklaşık 4.500 km²'lik yüzölçümüyle Türkiye'nin en büyük ovasıdır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin en kuzey noktası aşağıdakilerden hangisidir?",
+    "option_a": "Kerempe Burnu (Kastamonu)", "option_b": "İğneada (Kırklareli)", "option_c": "İnceburun (Sinop)", "option_d": "Bafra Burnu (Samsun)", "option_e": "Çam Burnu (Ordu)",
+    "correct_option": "C", "explanation": "İnceburun (Sinop) Türkiye'nin en kuzey noktasıdır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin en güney noktası hangisidir?",
+    "option_a": "Taşucu (Mersin)", "option_b": "Alanya (Antalya)", "option_c": "Anamur Burnu (Mersin)", "option_d": "İskenderun (Hatay)", "option_e": "Yumurtalık (Adana)",
+    "correct_option": "C", "explanation": "Anamur Burnu (Mersin) Türkiye'nin en güney noktasıdır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Karadeniz ikliminin en belirgin özelliği nedir?",
+    "option_a": "Yazlar yağışlı, kışlar kurak", "option_b": "Her mevsim yağışlı ve nemli", "option_c": "Yazlar sıcak ve kurak, kışlar yağışlı", "option_d": "Yağış miktarı çok düşük", "option_e": "Yıllık sıcaklık farkları çok büyük",
+    "correct_option": "B", "explanation": "Karadeniz ikliminde yağışlar yılın her mevsimine yayılmıştır; nem oranı yüksektir ve iklim ılımandır.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Akdeniz ikliminin en belirgin özelliği nedir?",
+    "option_a": "Her mevsim yağışlı ve serin", "option_b": "Kışları çok soğuk ve karlı", "option_c": "Yazları sıcak ve kurak, kışları ılık ve yağışlı", "option_d": "Çok yüksek yıllık yağış miktarı", "option_e": "Büyük sıcaklık farkları",
+    "correct_option": "C", "explanation": "Akdeniz ikliminde yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır. Yağışların büyük bölümü kış aylarında düşer.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "İç Anadolu Bölgesi'ne özgü bitki örtüsü hangisidir?",
+    "option_a": "Orman", "option_b": "Maki", "option_c": "Bozkır (Step)", "option_d": "Tropikal Yağmur Ormanı", "option_e": "Tundra",
+    "correct_option": "C", "explanation": "İç Anadolu'da az yağış ve karasal iklim nedeniyle bozkır (step) bitki örtüsü hâkimdir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Ege kıyılarında hangi kıyı tipi hâkimdir?",
+    "option_a": "Fiyort kıyısı", "option_b": "Boyuna kıyı", "option_c": "Ria kıyısı (Haliç tipi)", "option_d": "Delta kıyısı", "option_e": "Lagün kıyısı",
+    "correct_option": "C", "explanation": "Ege kıyıları, dağların kıyıya dik uzanması sonucu oluşan girintili çıkıntılı ria (haliç tipi) kıyısıdır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye Karadeniz kıyılarında hangi kıyı tipi hâkimdir?",
+    "option_a": "Ria kıyısı", "option_b": "Boyuna kıyı", "option_c": "Delta kıyısı", "option_d": "Fiyort kıyısı", "option_e": "Lagün kıyısı",
+    "correct_option": "B", "explanation": "Karadeniz'de dağlar kıyıya paralel uzandığından boyuna kıyı tipi görülür; kıyılar az girintili çıkıntılıdır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Çukurova'nın oluşmasında hangi nehirler belirleyici olmuştur?",
+    "option_a": "Fırat ve Dicle", "option_b": "Seyhan ve Ceyhan", "option_c": "Büyük Menderes ve Gediz", "option_d": "Sakarya ve Kızılırmak", "option_e": "Yeşilırmak ve Kızılırmak",
+    "correct_option": "B", "explanation": "Çukurova, Seyhan ve Ceyhan nehirlerinin Akdeniz'e taşıdığı alüvyonlarla oluşmuş verimli bir delta ovasıdır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Bafra Ovası hangi nehrin deltası üzerinde kurulmuştur?",
+    "option_a": "Kızılırmak", "option_b": "Yeşilırmak", "option_c": "Sakarya", "option_d": "Bartın Çayı", "option_e": "Filyos Çayı",
+    "correct_option": "A", "explanation": "Bafra Ovası, Kızılırmak Nehri'nin Karadeniz'e döküldüğü yerde oluşan delta ovasıdır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Fırat Nehri'nin en büyük kolu aşağıdakilerden hangisidir?",
+    "option_a": "Karasu", "option_b": "Murat Nehri", "option_c": "Munzur Çayı", "option_d": "Peri Suyu", "option_e": "Tohma Suyu",
+    "correct_option": "B", "explanation": "Murat Nehri, Fırat'ın en büyük koludur. Karasu ile Elazığ yakınında birleşerek asıl Fırat'ı oluşturur.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye hangi yarımadada yer almaktadır?",
+    "option_a": "Balkan Yarımadası", "option_b": "Arabistan Yarımadası", "option_c": "Anadolu (Küçük Asya) Yarımadası", "option_d": "Sinai Yarımadası", "option_e": "İber Yarımadası",
+    "correct_option": "C", "explanation": "Türkiye, Asya ile Avrupa'yı birbirine bağlayan Anadolu (Küçük Asya) Yarımadası'nda yer alır.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Doğu Anadolu Bölgesi'nin ortalama yükseltisi yaklaşık kaç metredir?",
+    "option_a": "500", "option_b": "1000", "option_c": "1500", "option_d": "2000", "option_e": "3000",
+    "correct_option": "D", "explanation": "Doğu Anadolu Bölgesi, ortalama yaklaşık 2000 m yükseltisiyle Türkiye'nin en yüksek bölgesidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin ortalama yükseltisi yaklaşık kaç metredir?",
+    "option_a": "400", "option_b": "650", "option_c": "1132", "option_d": "1500", "option_e": "2000",
+    "correct_option": "C", "explanation": "Türkiye'nin ortalama yükseltisi yaklaşık 1132 m'dir. Bu değer Avrupa ortalamasının çok üzerindedir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Aşağıdaki nehirlerden hangisi Karadeniz'e dökülmez?",
+    "option_a": "Kızılırmak", "option_b": "Sakarya", "option_c": "Yeşilırmak", "option_d": "Fırat", "option_e": "Bartın Çayı",
+    "correct_option": "D", "explanation": "Fırat, Türkiye'den çıkarak Suriye ve Irak üzerinden Basra Körfezi'ne dökülür. Diğerleri Karadeniz'e akar.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'de Akdeniz Bölgesi'nin kıyı tipi hangisidir?",
+    "option_a": "Ria kıyısı", "option_b": "Delta kıyısı", "option_c": "Boyuna kıyı", "option_d": "Fiyort kıyısı", "option_e": "Lagün kıyısı",
+    "correct_option": "C", "explanation": "Akdeniz kıyılarında Toros Dağları kıyıya paralel uzandığından boyuna kıyı tipi hâkimdir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Süphan Dağı hangi il sınırları içinde yer alır?",
+    "option_a": "Ağrı", "option_b": "Van", "option_c": "Bitlis", "option_d": "Muş", "option_e": "Erzurum",
+    "correct_option": "C", "explanation": "Süphan Dağı (4058 m), Van Gölü'nün kuzeyinde Bitlis iline bağlı Ahlat ilçesi sınırlarında yer alır.", "difficulty": 3
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'de Marmara ikliminin en belirgin özelliği nedir?",
+    "option_a": "Tam karasal iklim", "option_b": "Karadeniz ile Akdeniz iklimleri arasında geçiş özelliği taşıması", "option_c": "Her mevsim yağışlı ve nemli olması", "option_d": "Çok kurak ve az yağışlı olması", "option_e": "Tropikal iklime benzemesi",
+    "correct_option": "B", "explanation": "Marmara Bölgesi, Karadeniz ve Akdeniz iklimleri arasında geçiş niteliğinde bir iklime sahiptir; dört mevsim belirgin şekilde yaşanır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Türkiye'nin en batı noktası aşağıdakilerden hangisidir?",
+    "option_a": "Kefken Burnu", "option_b": "İnceburun", "option_c": "Bababurnu (Çanakkale)", "option_d": "Bodrum Yarımadası", "option_e": "Şarköy",
+    "correct_option": "C", "explanation": "Bababurnu (Çanakkale - Babakale), Türkiye'nin en batı noktasıdır.", "difficulty": 3
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Fiziki Coğrafyası",
+    "question_text": "Toros Dağları hangi bölgeleri Akdeniz'den ayırır?",
+    "option_a": "Ege ve Marmara Bölgelerini", "option_b": "İç Anadolu ve Doğu Anadolu Bölgelerini", "option_c": "Karadeniz ve Marmara Bölgelerini", "option_d": "Güneydoğu Anadolu ve İç Anadolu Bölgelerini", "option_e": "Karadeniz ve Ege Bölgelerini",
+    "correct_option": "B", "explanation": "Toros Dağları, İç Anadolu ve Doğu Anadolu Bölgelerini güneyde Akdeniz Bölgesi'nden ayıran dağ silsilesidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Fındık üretiminde Türkiye dünya piyasasında yaklaşık ne kadarlık bir paya sahiptir?",
+    "option_a": "%20", "option_b": "%40", "option_c": "%55", "option_d": "%70", "option_e": "%90",
+    "correct_option": "D", "explanation": "Türkiye, dünya fındık üretiminin yaklaşık %70'ini karşılamakta ve dünyada birinci sırada yer almaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de çay tarımı hangi bölgede yapılır?",
+    "option_a": "Ege", "option_b": "Marmara", "option_c": "Doğu Karadeniz", "option_d": "Akdeniz", "option_e": "Güneydoğu Anadolu",
+    "correct_option": "C", "explanation": "Çay tarımı Türkiye'de özellikle Rize ili başta olmak üzere Doğu Karadeniz Bölgesi'nde yapılmaktadır.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de en fazla zeytinyağı üretimi hangi bölgede yapılır?",
+    "option_a": "İç Anadolu", "option_b": "Karadeniz", "option_c": "Ege", "option_d": "Doğu Anadolu", "option_e": "Güneydoğu Anadolu",
+    "correct_option": "C", "explanation": "Ege Bölgesi, İzmir ve çevresi başta olmak üzere Türkiye'nin en fazla zeytin ve zeytinyağı ürettiği bölgedir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de tütün üretiminin en yoğun olduğu bölgeler hangileridir?",
+    "option_a": "İç Anadolu ve Doğu Anadolu", "option_b": "Ege ve Karadeniz", "option_c": "Marmara ve Güneydoğu Anadolu", "option_d": "Akdeniz ve Ege", "option_e": "Karadeniz ve İç Anadolu",
+    "correct_option": "B", "explanation": "Tütün üretimi özellikle Ege Bölgesi'nde (Akhisar, Manisa) ve Karadeniz Bölgesi'nde (Samsun) yoğunlaşmıştır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de pamuk tarımı hangi bölgelerde yoğunlaşmıştır?",
+    "option_a": "Karadeniz ve İç Anadolu", "option_b": "Doğu Anadolu ve Güneydoğu Anadolu", "option_c": "Ege ve Akdeniz", "option_d": "Marmara ve Karadeniz", "option_e": "İç Anadolu ve Doğu Anadolu",
+    "correct_option": "C", "explanation": "Pamuk tarımı Ege Bölgesi'nde (Gediz ve Büyük Menderes ovaları) ve Akdeniz Bölgesi'nde (Çukurova) yoğunlaşmıştır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de şeker pancarı üretiminin en yoğun olduğu bölge hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Karadeniz", "option_c": "Doğu Anadolu", "option_d": "Güneydoğu Anadolu", "option_e": "Ege",
+    "correct_option": "A", "explanation": "Şeker pancarı üretimi Konya, Afyon, Kayseri gibi illerin bulunduğu İç Anadolu Bölgesi'nde yoğunlaşmıştır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de taş kömürü hangi ilde çıkarılmaktadır?",
+    "option_a": "Manisa (Soma)", "option_b": "Zonguldak", "option_c": "Kütahya (Tunçbilek)", "option_d": "Kahramanmaraş (Elbistan)", "option_e": "Muğla (Yatağan)",
+    "correct_option": "B", "explanation": "Zonguldak, Türkiye'nin tek taş kömürü havzasıdır. Diğer seçenekler linyit üretim merkezleridir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Aşağıdakilerden hangisi linyit kömürü üretilen bir merkezdir?",
+    "option_a": "Zonguldak", "option_b": "Batman", "option_c": "Soma (Manisa)", "option_d": "Murgul (Artvin)", "option_e": "Divriği (Sivas)",
+    "correct_option": "C", "explanation": "Soma (Manisa), Türkiye'nin en büyük linyit üretim merkezlerinden biridir. Zonguldak taş kömürü, Batman petrol, Murgul bakır, Divriği demir madeniyle bilinir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye dünya bor rezervlerinin yaklaşık yüzde kaçına sahiptir?",
+    "option_a": "%10", "option_b": "%30", "option_c": "%50", "option_d": "%70", "option_e": "%90",
+    "correct_option": "D", "explanation": "Türkiye, dünyanın en büyük bor rezervlerine sahip ülkesidir; küresel rezervlerin yaklaşık %70'i ülkemizde bulunmaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de bakır madenciliğinin en önemli merkezi hangisidir?",
+    "option_a": "Zonguldak", "option_b": "Murgul (Artvin)", "option_c": "Divriği (Sivas)", "option_d": "Emet (Kütahya)", "option_e": "Batman",
+    "correct_option": "B", "explanation": "Murgul (Artvin), Türkiye'nin en büyük bakır madeni işletmesinin bulunduğu merkezdir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "GAP (Güneydoğu Anadolu Projesi) hangi nehirlerin havzasında uygulanmaktadır?",
+    "option_a": "Kızılırmak ve Sakarya", "option_b": "Fırat ve Dicle", "option_c": "Seyhan ve Ceyhan", "option_d": "Meriç ve Tunca", "option_e": "Büyük Menderes ve Gediz",
+    "correct_option": "B", "explanation": "GAP, Fırat ve Dicle havzasında yer alan 9 ili kapsayan çok amaçlı bir kalkınma projesidir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'nin en büyük barajı olan Atatürk Barajı hangi il sınırlarındadır?",
+    "option_a": "Elazığ - Diyarbakır", "option_b": "Şanlıurfa - Adıyaman", "option_c": "Malatya - Adıyaman", "option_d": "Batman - Siirt", "option_e": "Mardin - Şanlıurfa",
+    "correct_option": "B", "explanation": "Atatürk Barajı, Fırat Nehri üzerinde Şanlıurfa ve Adıyaman il sınırlarının kesiştiği noktada bulunmaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de turizm gelirlerinin en yüksek olduğu bölge hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Karadeniz", "option_c": "Akdeniz", "option_d": "Doğu Anadolu", "option_e": "Güneydoğu Anadolu",
+    "correct_option": "C", "explanation": "Akdeniz Bölgesi, özellikle Antalya'nın kitlesel turizmiyle Türkiye'de en yüksek turizm geliri elde eden bölgedir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de nüfus yoğunluğunun en fazla olduğu bölge hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Karadeniz", "option_c": "Marmara", "option_d": "Doğu Anadolu", "option_e": "Güneydoğu Anadolu",
+    "correct_option": "C", "explanation": "Marmara Bölgesi, İstanbul başta olmak üzere sanayileşmiş kentlerin yoğunlaştığı ve kişi başına düşen alanın en az olduğu bölgedir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de nüfus yoğunluğunun en az olduğu bölge hangisidir?",
+    "option_a": "Güneydoğu Anadolu", "option_b": "Ege", "option_c": "Doğu Anadolu", "option_d": "Karadeniz", "option_e": "Akdeniz",
+    "correct_option": "C", "explanation": "Doğu Anadolu, engebeli arazi, sert iklim ve sınırlı ekonomik fırsatlar nedeniyle Türkiye'nin en az nüfus yoğunluğuna sahip bölgesidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de ayçiçeği üretiminin yoğunlaştığı bölge hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Trakya (Marmara)", "option_c": "Ege", "option_d": "Karadeniz", "option_e": "Akdeniz",
+    "correct_option": "B", "explanation": "Ayçiçeği üretimi Trakya'da, başta Edirne, Kırklareli ve Tekirdağ olmak üzere yoğunlaşmıştır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de turunçgil üretiminin yoğunlaştığı bölge hangisidir?",
+    "option_a": "Ege", "option_b": "Karadeniz", "option_c": "İç Anadolu", "option_d": "Akdeniz", "option_e": "Marmara",
+    "correct_option": "D", "explanation": "Turunçgil (portakal, mandalina, limon vb.) üretimi, ılıman kış sıcaklıkları nedeniyle Akdeniz Bölgesi'nde (Antalya, Mersin, Adana) yoğunlaşmıştır.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de en fazla üzüm üretilen bölge hangisidir?",
+    "option_a": "Karadeniz", "option_b": "Doğu Anadolu", "option_c": "Ege", "option_d": "Akdeniz", "option_e": "İç Anadolu",
+    "correct_option": "C", "explanation": "Üzüm üretimi Ege Bölgesi'nde (Manisa, İzmir çevresi) yoğunlaşmıştır; bu bölge aynı zamanda kuru üzüm ihracatında dünya sıralamasında üst basamaklarda yer alır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de elma üretiminin önemli bir merkezi olan Isparta hangi bölgededir?",
+    "option_a": "Karadeniz", "option_b": "İç Anadolu", "option_c": "Akdeniz", "option_d": "Ege", "option_e": "Marmara",
+    "correct_option": "C", "explanation": "Isparta, Göller Yöresi olarak anılan Akdeniz Bölgesi'nin iç kesimlerinde yer alır ve Türkiye'nin en fazla elma üreten illeri arasındadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Tuz Gölü'nün Türkiye ekonomisine katkısı nedir?",
+    "option_a": "Hidroelektrik enerji üretimi", "option_b": "Balıkçılık", "option_c": "Tuz üretimi", "option_d": "Turizm", "option_e": "Su sporları",
+    "correct_option": "C", "explanation": "Tuz Gölü, gölün kuruduğu yaz aylarında tuz hasadı yapılan ve Türkiye tuz üretiminin büyük bölümünü karşılayan önemli bir kaynaktır.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de krom madenciliğinin önemli bir merkezi aşağıdakilerden hangisidir?",
+    "option_a": "Soma (Manisa)", "option_b": "Zonguldak", "option_c": "Guleman (Elazığ)", "option_d": "Murgul (Artvin)", "option_e": "Divriği (Sivas)",
+    "correct_option": "C", "explanation": "Guleman (Elazığ), Türkiye'nin en önemli krom madeni üretim merkezlerinden biridir.", "difficulty": 3
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Elbistan linyit havzası hangi ilde yer alır?",
+    "option_a": "Kütahya", "option_b": "Manisa", "option_c": "Kahramanmaraş", "option_d": "Muğla", "option_e": "Çanakkale",
+    "correct_option": "C", "explanation": "Afşin-Elbistan linyit havzası Kahramanmaraş ilinde yer alır ve Türkiye'nin en büyük linyit rezervleri arasındadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de demir-çelik sektörünün önemli merkezleri hangileridir?",
+    "option_a": "Zonguldak ve Batman", "option_b": "Karabük ve İskenderun", "option_c": "Kütahya ve Manisa", "option_d": "Sivas ve Erzincan", "option_e": "Artvin ve Kastamonu",
+    "correct_option": "B", "explanation": "Karabük (1939'da kurulan Türkiye'nin ilk demir-çelik tesisi) ve İskenderun (İSDEMİR/ERDEMİR) Türkiye'nin iki büyük demir-çelik merkezidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de buğday üretiminin en yoğun olduğu bölge hangisidir?",
+    "option_a": "Ege", "option_b": "Karadeniz", "option_c": "İç Anadolu", "option_d": "Marmara", "option_e": "Doğu Anadolu",
+    "correct_option": "C", "explanation": "Geniş düzlüklere ve uygun iklime sahip İç Anadolu Bölgesi, Türkiye'nin en fazla buğday ve tahıl üretilen bölgesidir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de sanayinin en yoğun geliştiği bölge hangisidir?",
+    "option_a": "Ege", "option_b": "Akdeniz", "option_c": "Marmara", "option_d": "İç Anadolu", "option_e": "Karadeniz",
+    "correct_option": "C", "explanation": "Marmara Bölgesi, İstanbul, Bursa, Kocaeli ve Tekirdağ gibi sanayi kentleriyle Türkiye'de sanayinin en yoğun biçimde geliştiği bölgedir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de jeotermal enerji üretiminin en yoğun olduğu bölge hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Ege", "option_c": "Karadeniz", "option_d": "Doğu Anadolu", "option_e": "Güneydoğu Anadolu",
+    "correct_option": "B", "explanation": "Ege Bölgesi, Kızıldere (Denizli) ve Germencik (Aydın) gibi önemli jeotermal alanlarıyla Türkiye'nin jeotermal enerji açısından en zengin bölgesidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de haşhaş tarımının yoğunlaştığı il hangisidir?",
+    "option_a": "Isparta", "option_b": "Afyonkarahisar", "option_c": "Konya", "option_d": "Ankara", "option_e": "Eskişehir",
+    "correct_option": "B", "explanation": "Afyonkarahisar (adı haşhaştan gelir), yasal denetim altında gerçekleştirilen haşhaş tarımının en yoğun yapıldığı ildir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de mermer üretiminin önemli merkezlerinden biri olan Afyonkarahisar hangi bölgede yer alır?",
+    "option_a": "İç Anadolu", "option_b": "Karadeniz", "option_c": "Marmara", "option_d": "Ege", "option_e": "Akdeniz",
+    "correct_option": "D", "explanation": "Afyonkarahisar, İç Batı Anadolu bölümünde Ege Bölgesi içinde yer alır ve Türkiye'nin en önemli mermer üretim merkezlerinden biridir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de doğal gaz üretiminin yapıldığı bölgeler arasında hangisi yer alır?",
+    "option_a": "Trakya ve Güneydoğu Anadolu", "option_b": "Doğu Anadolu ve İç Anadolu", "option_c": "Karadeniz kıyıları ve Ege", "option_d": "Marmara ve Akdeniz içleri", "option_e": "Yalnızca İç Anadolu",
+    "correct_option": "A", "explanation": "Türkiye'de doğal gaz; Trakya (Kırklareli) ve Güneydoğu Anadolu (Batman havzası) bölgelerinde üretilmektedir.", "difficulty": 3
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'nin ihracatında en büyük paya sahip ticaret ortağı ülke hangisidir?",
+    "option_a": "ABD", "option_b": "Çin", "option_c": "Almanya", "option_d": "Japonya", "option_e": "Fransa",
+    "correct_option": "C", "explanation": "Almanya, Türkiye'nin en büyük ihracat ortağı konumundadır; otomotiv, tekstil ve makine ürünleri başlıca ihracat kalemlerini oluşturur.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de petrol üretiminin yoğunlaştığı iller arasında hangisi yer almaz?",
+    "option_a": "Batman", "option_b": "Siirt", "option_c": "Şırnak", "option_d": "Diyarbakır", "option_e": "Zonguldak",
+    "correct_option": "E", "explanation": "Zonguldak taş kömürüyle bilinir; petrol üretimi bu ilde yapılmaz. Batman, Siirt, Şırnak ve Diyarbakır Türkiye'nin petrol üretim merkezleridir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'de pirinç (çeltik) üretiminin en fazla yapıldığı bölge hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Doğu Anadolu", "option_c": "Trakya ve Karadeniz kıyı ovaları", "option_d": "Ege", "option_e": "Akdeniz",
+    "correct_option": "C", "explanation": "Pirinç üretimi Trakya'da (Edirne) ve Karadeniz kıyısındaki delta ovalarında (Bafra, Amisos) yoğunlaşmıştır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri ve Ekonomik Coğrafya",
+    "question_text": "Türkiye'nin Türkiye İstatistik Kurumu verilerine göre kentleşme oranı yaklaşık yüzde kaçtır?",
+    "option_a": "%40", "option_b": "%55", "option_c": "%65", "option_d": "%75", "option_e": "%90",
+    "correct_option": "D", "explanation": "Türkiye'de nüfusun yaklaşık %75'i kentlerde (belediye sınırları içinde) yaşamaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en büyük kıtası hangisidir?",
+    "option_a": "Avrupa", "option_b": "Afrika", "option_c": "Asya", "option_d": "Kuzey Amerika", "option_e": "Avustralya",
+    "correct_option": "C", "explanation": "Asya Kıtası, yaklaşık 44,5 milyon km²'lik yüzölçümüyle dünyanın en büyük kıtasıdır.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en küçük kıtası hangisidir?",
+    "option_a": "Antarktika", "option_b": "Güney Amerika", "option_c": "Kuzey Amerika", "option_d": "Avustralya", "option_e": "Avrupa",
+    "correct_option": "D", "explanation": "Avustralya (Okyanusya), yaklaşık 7,7 milyon km²'lik yüzölçümüyle kıtalar arasında en küçük olanıdır.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en yüksek dağı hangisidir?",
+    "option_a": "K2", "option_b": "Kilimanjaro", "option_c": "Everest", "option_d": "Mont Blanc", "option_e": "Aconcagua",
+    "correct_option": "C", "explanation": "Everest Dağı (8848 m), Himalayalar'da Nepal-Çin sınırında yer alır ve dünyanın en yüksek zirvesidir.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en büyük okyanusu hangisidir?",
+    "option_a": "Atlas Okyanusu", "option_b": "Hint Okyanusu", "option_c": "Arktik Okyanus", "option_d": "Pasifik Okyanusu", "option_e": "Güney Okyanusu",
+    "correct_option": "D", "explanation": "Pasifik Okyanusu, yaklaşık 165 milyon km²'lik yüzölçümüyle dünyanın en büyük ve en derin okyanusudur.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en derin gölü hangisidir?",
+    "option_a": "Hazar Gölü", "option_b": "Baykal Gölü", "option_c": "Michigan Gölü", "option_d": "Victoria Gölü", "option_e": "Titicaca Gölü",
+    "correct_option": "B", "explanation": "Baykal Gölü (Rusya), yaklaşık 1637 m derinliğiyle dünyanın en derin gölüdür; aynı zamanda en fazla tatlı su hacmine sahip göldür.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en büyük sıcak çölü hangisidir?",
+    "option_a": "Gobi Çölü", "option_b": "Sahara Çölü", "option_c": "Arabistan Çölü", "option_d": "Kalahari Çölü", "option_e": "Avustralya Çölü",
+    "correct_option": "B", "explanation": "Sahara Çölü, yaklaşık 9,2 milyon km²'lik yüzölçümüyle dünyanın en büyük sıcak çölüdür; Kuzey Afrika'da yer alır.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Ekvator hangi kıtaları geçer?",
+    "option_a": "Yalnızca Afrika", "option_b": "Afrika, Güney Amerika ve Asya (Endonezya)", "option_c": "Avrupa, Afrika ve Asya", "option_d": "Güney Amerika ve Avustralya", "option_e": "Afrika ve Antarktika",
+    "correct_option": "B", "explanation": "Ekvator; Afrika, Güney Amerika ve Asya (Endonezya adaları) kıtalarını geçmektedir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Güncel verilere göre dünyanın en kalabalık ülkesi hangisidir?",
+    "option_a": "Çin", "option_b": "Hindistan", "option_c": "ABD", "option_d": "Endonezya", "option_e": "Pakistan",
+    "correct_option": "B", "explanation": "2023 yılı itibarıyla Hindistan, Çin'i geçerek 1,4 milyarı aşan nüfusuyla dünyanın en kalabalık ülkesi konumuna yükselmiştir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Yüzölçümü bakımından dünyanın en büyük ülkesi hangisidir?",
+    "option_a": "Kanada", "option_b": "Çin", "option_c": "ABD", "option_d": "Rusya", "option_e": "Avustralya",
+    "correct_option": "D", "explanation": "Rusya, yaklaşık 17,1 milyon km²'lik yüzölçümüyle yüzey alanı bakımından dünyanın en büyük ülkesidir.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Yengeç Dönencesi (Tropic of Cancer) hangi enlemde yer alır?",
+    "option_a": "0°", "option_b": "23,5° Kuzey", "option_c": "23,5° Güney", "option_d": "66,5° Kuzey", "option_e": "66,5° Güney",
+    "correct_option": "B", "explanation": "Yengeç Dönencesi 23,5° Kuzey enlemi üzerinde yer alır; Güneş'in yaz gündönümünde (21 Haziran) tam tepede göründüğü enlemdir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en uzun dağ silsilesi hangisidir?",
+    "option_a": "Himalayalar", "option_b": "Alpler", "option_c": "And Dağları (Andes)", "option_d": "Kayalık Dağları", "option_e": "Ural Dağları",
+    "correct_option": "C", "explanation": "And Dağları (Andes), yaklaşık 7200 km uzunluğuyla dünyanın en uzun dağ silsilesidir; Güney Amerika'nın batı kıyısı boyunca uzanır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Amazon Ormanları hangi kıtada yer alır?",
+    "option_a": "Afrika", "option_b": "Asya", "option_c": "Kuzey Amerika", "option_d": "Güney Amerika", "option_e": "Avustralya",
+    "correct_option": "D", "explanation": "Amazon Ormanları, ağırlıklı olarak Brezilya'da olmak üzere Güney Amerika kıtasında yer alır ve dünyanın en büyük tropikal yağmur ormanıdır.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Süveyş Kanalı hangi iki denizi birbirine bağlar?",
+    "option_a": "Karadeniz - Marmara", "option_b": "Marmara - Ege", "option_c": "Akdeniz - Kızıldeniz", "option_d": "Atlantik - Pasifik", "option_e": "Kızıldeniz - Hint Okyanusu",
+    "correct_option": "C", "explanation": "Süveyş Kanalı, Mısır'da Akdeniz ile Kızıldeniz'i birbirine bağlar; bu güzergah Asya ile Avrupa arasındaki deniz ulaşımını kısaltır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Panama Kanalı hangi iki okyanusu birbirine bağlar?",
+    "option_a": "Pasifik - Hint", "option_b": "Atlantik - Hint", "option_c": "Atlantik - Pasifik", "option_d": "Arktik - Pasifik", "option_e": "Arktik - Atlantik",
+    "correct_option": "C", "explanation": "Panama Kanalı, Orta Amerika'da Atlantik ve Pasifik okyanuslarını birbirine bağlar.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Yüzey alanı bakımından dünyanın en büyük tatlı su gölü hangisidir?",
+    "option_a": "Victoria Gölü", "option_b": "Hazar Gölü", "option_c": "Superior Gölü", "option_d": "Baykal Gölü", "option_e": "Titicaca Gölü",
+    "correct_option": "C", "explanation": "Superior Gölü, yaklaşık 82.414 km²'lik yüzey alanıyla dünyanın en büyük tatlı su gölüdür (Kuzey Amerika, ABD-Kanada sınırı).", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Himalaya Dağları hangi iki levhanın çarpışmasıyla oluşmuştur?",
+    "option_a": "Avrasya - Pasifik", "option_b": "Hint-Avustralya - Avrasya", "option_c": "Afrika - Avrasya", "option_d": "Arap - Avrasya", "option_e": "Avustralya - Hint",
+    "correct_option": "B", "explanation": "Himalayalar, Hint-Avustralya Levhası'nın Avrasya Levhası'na çarpması sonucu oluşmuştur.", "difficulty": 3
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Pasifik Okyanusu'ndaki 'Ateş Çemberi' (Ring of Fire) neyi ifade eder?",
+    "option_a": "Ekvator çevresindeki tropikal iklim kuşağı", "option_b": "Pasifik'i çevreleyen yoğun volkanik ve deprem aktivitesi bölgesi", "option_c": "Pasifik'teki tropikal kasırgaların izlediği yol", "option_d": "Pasifik'teki sıcak su akıntıları", "option_e": "Yoğun balıkçılık yapılan deniz alanları",
+    "correct_option": "B", "explanation": "Ateş Çemberi, Pasifik Okyanusu'nu çevreleyen aktif volkanlar ve deprem bölgelerinden oluşan at nalı biçimindeki kuşaktır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Yüzölçümü bakımından Rusya'dan sonra ikinci büyük ülke hangisidir?",
+    "option_a": "ABD", "option_b": "Çin", "option_c": "Brezilya", "option_d": "Kanada", "option_e": "Avustralya",
+    "correct_option": "D", "explanation": "Kanada, yaklaşık 10 milyon km²'lik yüzölçümüyle Rusya'dan sonra dünyanın ikinci büyük ülkesidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünya nüfusunun yaklaşık ne kadarı Asya kıtasında yaşamaktadır?",
+    "option_a": "%30", "option_b": "%40", "option_c": "%50", "option_d": "%60", "option_e": "%70",
+    "correct_option": "D", "explanation": "Yaklaşık 8 milyarlık dünya nüfusunun %60'ından fazlası Asya kıtasında yaşamaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Aşağıdaki ülkelerden hangisi Orta Asya ülkesidir?",
+    "option_a": "Azerbaycan", "option_b": "Kazakistan", "option_c": "Ermenistan", "option_d": "Gürcistan", "option_e": "Ukrayna",
+    "correct_option": "B", "explanation": "5 Orta Asya ülkesi: Kazakistan, Kırgızistan, Tacikistan, Türkmenistan ve Özbekistan'dır. Azerbaycan, Ermenistan ve Gürcistan Kafkasya ülkeleridir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Nil Nehri kaç kıta üzerinden akar?",
+    "option_a": "1", "option_b": "2", "option_c": "3", "option_d": "4", "option_e": "5",
+    "correct_option": "A", "explanation": "Nil Nehri, Victoria Gölü'nden başlayarak yalnızca Afrika kıtası üzerinden (Uganda, Sudan, Mısır) Akdeniz'e dökülür.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Amazon Nehri, hangi özelliğiyle diğer nehirlerden öne çıkar?",
+    "option_a": "Dünyanın en uzun nehridir", "option_b": "Dünyanın en büyük havzasına ve en fazla su debisine sahip nehirdir", "option_c": "Dünyanın en derin nehridir", "option_d": "Dünyanın en hızlı akan nehridir", "option_e": "Dünyanın en geniş deltasına sahip nehirdir",
+    "correct_option": "B", "explanation": "Amazon; uzunlukta (Nil'den kısa) değil, dünyada en büyük havzaya ve en yüksek su debisine (saniyede yaklaşık 200.000 m³) sahip nehir olmasıyla öne çıkar.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Küresel ısınmaya en fazla katkıda bulunan CO₂ salınımında dünyada birinci sırada hangi ülke yer alır?",
+    "option_a": "ABD", "option_b": "Hindistan", "option_c": "Çin", "option_d": "Rusya", "option_e": "Japonya",
+    "correct_option": "C", "explanation": "Çin, toplam CO₂ salınımında dünya birincisi konumundadır; küresel salınımın yaklaşık %30'undan fazlasını tek başına gerçekleştirmektedir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Japonya hangi ülkelerle deniz sınırı komşuluğu içindedir?",
+    "option_a": "Yalnızca Çin", "option_b": "Çin, Kore Cumhuriyeti, Kuzey Kore ve Rusya", "option_c": "Yalnızca Rusya", "option_d": "Avustralya ve Yeni Zelanda", "option_e": "Filipinler ve Endonezya",
+    "correct_option": "B", "explanation": "Japonya bir ada ülkesidir; Pasifik'te Çin, Güney Kore, Kuzey Kore ve Rusya ile deniz komşuluğu içindedir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Oğlak Dönencesi (Tropic of Capricorn) hangi enlemde yer alır?",
+    "option_a": "0°", "option_b": "23,5° Kuzey", "option_c": "23,5° Güney", "option_d": "66,5° Kuzey", "option_e": "66,5° Güney",
+    "correct_option": "C", "explanation": "Oğlak Dönencesi 23,5° Güney enlemi üzerindedir; Güneş'in kış gündönümünde (22 Aralık) tam tepede göründüğü güney yarımküre çizgisidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Aşağıdaki ülkelerden hangisi hem Avrupa'da hem de Asya'da topraklara sahiptir?",
+    "option_a": "Almanya", "option_b": "İran", "option_c": "Rusya", "option_d": "Polonya", "option_e": "Irak",
+    "correct_option": "C", "explanation": "Rusya, Ural Dağları ve Kafkasya sınırı nedeniyle hem Avrupa'da hem de Asya'da geniş topraklara sahip tek büyük devlettir. Türkiye de bu kategoridedir ancak seçenekler arasında yer almamaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en küçük bağımsız devleti hangisidir?",
+    "option_a": "Monako", "option_b": "San Marino", "option_c": "Vatikan (Kutsal Makam)", "option_d": "Liechtenstein", "option_e": "Andorra",
+    "correct_option": "C", "explanation": "Vatikan, yaklaşık 0,44 km²'lik yüzölçümü ve 800 kişilik nüfusuyla dünyanın hem en küçük hem de en az nüfuslu bağımsız devletidir.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Afrika kıtasının en uzun nehri hangisidir?",
+    "option_a": "Kongo", "option_b": "Zambezi", "option_c": "Nil", "option_d": "Niger", "option_e": "Orange",
+    "correct_option": "C", "explanation": "Nil Nehri, Afrika'nın ve dünyanın en uzun nehridir; yaklaşık 6650 km uzunluğuyla Doğu Afrika'dan Akdeniz'e uzanır.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin yaklaşık yüzölçümü kaç km²'dir?",
+    "option_a": "483 562 km²", "option_b": "583 562 km²", "option_c": "683 562 km²", "option_d": "783 562 km²", "option_e": "883 562 km²",
+    "correct_option": "D", "explanation": "Türkiye'nin yüzölçümü yaklaşık 783 562 km²'dir. Bu değerle Türkiye, dünya yüzölçümü sıralamasında 37. büyük ülkedir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin en yüksek noktası hangisidir ve kaç metredir?",
+    "option_a": "Erciyes Dağı - 3917 m", "option_b": "Kaçkar Dağı - 3932 m", "option_c": "Ağrı Dağı - 5137 m", "option_d": "Uludağ - 2543 m", "option_e": "Süphan Dağı - 4058 m",
+    "correct_option": "C", "explanation": "Ağrı Dağı, 5137 metre yüksekliğiyle Türkiye'nin en yüksek noktasıdır. Doğu Anadolu'da yer alan bu söndürülmüş volkanik dağ, tarihsel ve kültürel açıdan da büyük önem taşır.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin en büyük gölü hangisidir?",
+    "option_a": "Tuz Gölü", "option_b": "Beyşehir Gölü", "option_c": "Eğirdir Gölü", "option_d": "Van Gölü", "option_e": "Burdur Gölü",
+    "correct_option": "D", "explanation": "Van Gölü, 3713 km²'lik yüzölçümüyle Türkiye'nin en büyük gölüdür. Doğu Anadolu'da yer alan bu kapalı havza gölünün suları sodalı ve tuzludur.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin en uzun akarsuyu hangisidir?",
+    "option_a": "Fırat", "option_b": "Dicle", "option_c": "Sakarya", "option_d": "Kızılırmak", "option_e": "Yeşilırmak",
+    "correct_option": "D", "explanation": "Kızılırmak, yaklaşık 1355 km uzunluğuyla Türkiye'nin tamamen kendi topraklarında akan en uzun akarsuyu ve en uzun yarımada nehridir. İç Anadolu'dan doğarak Karadeniz'e dökülür.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'Akdeniz iklimi' en belirgin biçimde hangi bölgede görülür?",
+    "option_a": "Karadeniz Bölgesi", "option_b": "İç Anadolu Bölgesi", "option_c": "Doğu Anadolu Bölgesi", "option_d": "Akdeniz Bölgesi ve Ege kıyıları", "option_e": "Marmara Bölgesi",
+    "correct_option": "D", "explanation": "Akdeniz iklimi; yazları sıcak ve kurak, kışları ılık ve yağışlı geçer. Türkiye'de bu iklim, Akdeniz Bölgesi ile Ege kıyılarında belirgin şekilde hissedilir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Güneydoğu Anadolu Projesi (GAP) hangi iki nehir havzasında uygulanmaktadır?",
+    "option_a": "Kızılırmak ve Sakarya", "option_b": "Fırat ve Dicle", "option_c": "Gediz ve Büyük Menderes", "option_d": "Çoruh ve Araş", "option_e": "Yeşilırmak ve Kızılırmak",
+    "correct_option": "B", "explanation": "GAP (Güneydoğu Anadolu Projesi), Fırat ve Dicle nehirleri havzasında enerji üretimi ve sulama amacıyla yürütülen entegre bir kalkınma projesidir. Proje kapsamında Atatürk Barajı başta olmak üzere pek çok büyük baraj inşa edilmiştir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'Karadeniz iklimi' ile diğer iklimlerin farkını en iyi tanımlayan özellik nedir?",
+    "option_a": "Yaz kuraklığı ve kış yağışları", "option_b": "Her mevsim yeterli yağış alan ılıman bir iklim", "option_c": "Kışların çok soğuk ve yazların serin geçmesi", "option_d": "Yaz sıcaklığının 40°C'yi aşması", "option_e": "Yağışların yalnızca kış aylarında görülmesi",
+    "correct_option": "B", "explanation": "Karadeniz iklimi; her mevsim yeterli miktarda yağış alır, kışlar ılıman geçer ve nem oldukça yüksektir. Bu iklim tipinde belirgin bir kuru mevsim görülmez.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "İç Anadolu Bölgesi'nde görülen karasal iklimdeki bozkırların (step) oluşumunun temel nedeni nedir?",
+    "option_a": "Bölgenin denizden uzak olması ve çevreleyen dağların yağış engellemesi", "option_b": "Bölgedeki yoğun sanayileşme", "option_c": "Ormansızlaştırma politikaları", "option_d": "Bölgedeki aktif volkanizm", "option_e": "Tuz göllerinin buharlaşması",
+    "correct_option": "A", "explanation": "İç Anadolu'da bozkırların oluşmasında; denizden uzaklık ve çevreleyen dağların (Kuzey ve Güney Anadolu sıradağları) rutubetli hava kütlelerinin içeriye girmesini engellemesi belirleyicidir. Yıllık yağış 250-400 mm dolayındadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de en çok üretilen meyve hangisidir?",
+    "option_a": "Elma", "option_b": "Portakal", "option_c": "Üzüm", "option_d": "Fındık", "option_e": "İncir",
+    "correct_option": "C", "explanation": "Türkiye, üzüm üretiminde dünya genelinde önemli bir konuma sahiptir; tarihsel olarak üzüm en fazla üretilen meyve grupları arasında yer almaktadır. Ayrıca fındık, dünya üretiminin yaklaşık %70'ini Türkiye sağlamaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "İstanbul Boğazı (Boğaziçi) hangi iki denizi birbirine bağlar?",
+    "option_a": "Akdeniz - Ege Denizi", "option_b": "Marmara Denizi - Karadeniz", "option_c": "Karadeniz - Ege Denizi", "option_d": "Marmara Denizi - Ege Denizi", "option_e": "Akdeniz - Karadeniz",
+    "correct_option": "B", "explanation": "İstanbul Boğazı (Boğaziçi), Marmara Denizi ile Karadeniz'i birbirine bağlar. Çanakkale Boğazı ise Marmara Denizi ile Ege Denizi'ni birbirine bağlar.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin komşusu olmayan devlet hangisidir?",
+    "option_a": "Bulgaristan", "option_b": "Gürcistan", "option_c": "Azerbaycan", "option_d": "Irak", "option_e": "Ukrayna",
+    "correct_option": "E", "explanation": "Türkiye'nin kara komşuları Yunanistan, Bulgaristan, Gürcistan, Ermenistan, İran, Irak ve Suriye'dir. Azerbaycan ile Türkiye arasında kara sınırı yoktur. Ukrayna ise Türkiye ile deniz komşusudur.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'deki depremsellik ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "option_a": "Türkiye deprem kuşaklarından uzakta yer alır.", "option_b": "Türkiye'de Kuzey Anadolu Fay Hattı ve Doğu Anadolu Fay Hattı olmak üzere iki büyük aktif fay hattı bulunur.", "option_c": "Türkiye'de yalnızca Ege kıyılarında deprem riski yüksektir.", "option_d": "Türkiye'de fay hatları Karadeniz kıyısında yoğunlaşmıştır.", "option_e": "Türkiye, Avrasya levhası üzerinde tamamen kararlı bir bölgede yer alır.",
+    "correct_option": "B", "explanation": "Türkiye, Kuzey Anadolu Fay Hattı (KAFH) ve Doğu Anadolu Fay Hattı (DAFH) olmak üzere iki büyük aktif fay hattı barındırır. Bu nedenle ülke topraklarının büyük bölümü yüksek deprem riski taşır.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'Akdeniz Bölgesi'nde en fazla üretilen tarım ürünü aşağıdakilerden hangisidir?",
+    "option_a": "Buğday", "option_b": "Çay", "option_c": "Narenciye (turunçgiller)", "option_d": "Şeker pancarı", "option_e": "Pamuk",
+    "correct_option": "C", "explanation": "Akdeniz Bölgesi; ılıman kışları ve uzun yaz kuruluğuyla narenciye üretimine oldukça uygundur. Portakal, mandalina ve limon başlıca tarımsal ürünler arasında yer alır.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de kömür üretiminin en yoğun olduğu bölge hangisidir?",
+    "option_a": "Doğu Anadolu", "option_b": "Karadeniz (Zonguldak taşkömürü)", "option_c": "İç Anadolu (Ankara-Beypazarı linyiti)", "option_d": "Ege (Soma linyiti)", "option_e": "Marmara",
+    "correct_option": "B", "explanation": "Türkiye'nin tek önemli taşkömürü havzası Zonguldak'tır. Ülke genelinde linyit yatakları daha yaygın olmakla birlikte kaliteli taşkömürü yalnızca Zonguldak-Ereğli havzasında çıkarılmaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de Tuz Gölü hangi bölgede yer alır?",
+    "option_a": "Ege Bölgesi", "option_b": "Akdeniz Bölgesi", "option_c": "İç Anadolu Bölgesi", "option_d": "Karadeniz Bölgesi", "option_e": "Marmara Bölgesi",
+    "correct_option": "C", "explanation": "Tuz Gölü, İç Anadolu'da Ankara, Konya ve Aksaray illeri sınırında yer alır. Sığ ve tuzlu yapısıyla bilinen bu göl, Türkiye'nin önemli tuz rezervlerinden birini oluşturur.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin nüfus yoğunluğu en yüksek bölgesi hangisidir?",
+    "option_a": "Ege Bölgesi", "option_b": "Karadeniz Bölgesi", "option_c": "Marmara Bölgesi", "option_d": "Akdeniz Bölgesi", "option_e": "İç Anadolu Bölgesi",
+    "correct_option": "C", "explanation": "Marmara Bölgesi; İstanbul başta olmak üzere sanayileşme ve göç nedeniyle Türkiye'nin nüfusu ve nüfus yoğunluğu en yüksek bölgesidir. Türkiye nüfusunun yaklaşık üçte biri bu bölgede yaşar.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin en fazla petrol işlenen kenti ve bölgesi hangisidir?",
+    "option_a": "Rize - Karadeniz", "option_b": "Batman - Güneydoğu Anadolu", "option_c": "Kırıkkale - İç Anadolu", "option_d": "Aliağa (İzmir) - Ege", "option_e": "Körfez (Kocaeli) - Marmara",
+    "correct_option": "B", "explanation": "Türkiye'nin en önemli ham petrol üretim bölgesi Batman ve çevresidir (Güneydoğu Anadolu). Türkiye'nin bilinen petrol rezervlerinin büyük bölümü bu bölgededir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'çay' tarımı ağırlıklı olarak hangi ilde yapılır?",
+    "option_a": "Trabzon", "option_b": "Samsun", "option_c": "Rize", "option_d": "Artvin", "option_e": "Ordu",
+    "correct_option": "C", "explanation": "Çay tarımı, Türkiye'de ağırlıklı olarak Rize ilinde yapılır. Rize ve çevresi, yüksek yağış miktarı ve uygun iklimi sayesinde Türkiye'nin en önemli çay üretim merkezidir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Kaçkar Dağları, Türkiye'nin hangi bölgesinde yer alır?",
+    "option_a": "Doğu Anadolu - Ağrı", "option_b": "Karadeniz - Artvin / Rize", "option_c": "İç Anadolu - Kayseri", "option_d": "Ege - Manisa", "option_e": "Marmara - Bursa",
+    "correct_option": "B", "explanation": "Kaçkar Dağları, Doğu Karadeniz'de Rize ve Artvin illeri arasında yer alır. 3932 metre yüksekliğiyle Karadeniz sıradağlarının en yüksek noktasıdır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de Orta Anadolu'nun önemli bir hammaddesi olan 'bor minerali' en çok hangi ilde çıkarılır?",
+    "option_a": "Konya", "option_b": "Ankara", "option_c": "Kütahya", "option_d": "Eskişehir", "option_e": "Kırşehir",
+    "correct_option": "C", "explanation": "Türkiye, dünyanın en büyük bor rezervlerine sahiptir. Kütahya'nın Emet ilçesi başta olmak üzere Eskişehir-Hisarcık ve Balıkesir-Bigadiç bölgelerinde yoğun bor madeni yatakları bulunmaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin en büyük ovası hangisidir?",
+    "option_a": "Konya Ovası", "option_b": "Çukurova", "option_c": "Erzurum-Kars Platosu", "option_d": "Gediz Ovası", "option_e": "Harran Ovası",
+    "correct_option": "A", "explanation": "Konya Ovası, Türkiye'nin en büyük iç ovasıdır. Kapalı havza özelliği gösteren bu ova; tarım açısından büyük potansiyele sahip olup sulama projeleriyle tarımsal verimliliği artırılmıştır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin Doğu Anadolu Bölgesi'nde yıllık ortalama yağış miktarı diğer bölgelere kıyasla nasıldır?",
+    "option_a": "En yüksektir", "option_b": "En düşüktür", "option_c": "Ortalama Karadeniz kıyısına eşittir", "option_d": "İç Anadolu'ya kıyasla düşük, Akdeniz'e kıyasla yüksektir", "option_e": "Yağışlar tüm bölgelerle benzerdir",
+    "correct_option": "B", "explanation": "Doğu Anadolu Bölgesi'nde yıllık ortalama yağış miktarı Türkiye'nin diğer bölgelerine kıyasla genel olarak düşüktür; yağışların büyük bölümü kar şeklinde düşer ve yüksek rakımlı alanlarda yıl boyunca görebilirsiniz.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin güneyinde yer alan Toros Dağları hangi denize paralel uzanır?",
+    "option_a": "Karadeniz", "option_b": "Ege Denizi", "option_c": "Akdeniz", "option_d": "Marmara Denizi", "option_e": "Hazar Denizi",
+    "correct_option": "C", "explanation": "Toroslar, Akdeniz kıyısına paralel uzanan dağ sırasıdır; bu özelliğiyle İç Anadolu ile Akdeniz arasında iklimsel bir bariyer oluşturur. Doğu Toroslar Ağrı Dağı'na kadar uzanır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de hidroelektrik santrallerinin en yoğun bulunduğu bölge hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Doğu Anadolu ve Güneydoğu Anadolu", "option_c": "Marmara", "option_d": "Ege kıyıları", "option_e": "Orta Karadeniz",
+    "correct_option": "B", "explanation": "Fırat ve Dicle başta olmak üzere GAP kapsamındaki barajlar, Doğu ve Güneydoğu Anadolu'yu Türkiye'nin en büyük hidroelektrik üretim bölgeleri hâline getirmiştir. Atatürk, Karakaya, Keban ve Ilısu barajları bu bölgededir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin hangi bölgesinde 'akdeniz makisi' bitki örtüsüne rastlanır?",
+    "option_a": "İç Anadolu Bozkırları", "option_b": "Doğu Anadolu dağlık alanları", "option_c": "Akdeniz ve Ege kıyıları", "option_d": "Doğu Karadeniz yaylaları", "option_e": "Güneydoğu Anadolu step alanları",
+    "correct_option": "C", "explanation": "Maki (garig), Akdeniz ikliminin egemen olduğu alçak kesimlerde yetişen bodur, dikenli ve yaprak dökmeyen çalı topluluğudur. Türkiye'de Akdeniz ve Ege kıyı kesimlerinde yoğun olarak görülür.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Atatürk Barajı hangi ilde ve nehir üzerinde inşa edilmiştir?",
+    "option_a": "Diyarbakır - Dicle Nehri", "option_b": "Gaziantep - Fırat Nehri", "option_c": "Adıyaman/Şanlıurfa - Fırat Nehri", "option_d": "Batman - Dicle Nehri", "option_e": "Elazığ - Fırat Nehri",
+    "correct_option": "C", "explanation": "Atatürk Barajı, Adıyaman ve Şanlıurfa illeri sınırında Fırat Nehri üzerine inşa edilmiştir. GAP'ın en büyük barajı olup Türkiye'nin en büyük baraj gölüne sahiptir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de en fazla güneş enerjisi potansiyeli taşıyan bölge hangisidir?",
+    "option_a": "Karadeniz Bölgesi", "option_b": "Marmara Bölgesi", "option_c": "İç Anadolu", "option_d": "Güneydoğu Anadolu ve Akdeniz Bölgesi", "option_e": "Doğu Karadeniz",
+    "correct_option": "D", "explanation": "Yıllık güneşlenme süresinin en yüksek olduğu bölgeler Güneydoğu Anadolu ve Akdeniz bölgeleridir. Bu bölgelerde güneş enerjisi santrallerinin kurulumu için ideal koşullar bulunmaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'verimli hilal' ya da GAP sulamaları sayesinde öne çıkan başlıca tarım ürünü hangisidir?",
+    "option_a": "Fındık", "option_b": "Zeytin", "option_c": "Pamuk", "option_d": "Şeker pancarı", "option_e": "Buğday",
+    "correct_option": "C", "explanation": "GAP sulama altyapısı sayesinde Harran Ovası ve Güneydoğu Anadolu'da pamuk üretimi büyük ölçüde artmıştır. Uzun sıcak yaz ve sulama olanakları pamuk tarımı için idealdir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'Çukurova' olarak adlandırılan bölge hangi ildedir?",
+    "option_a": "Antalya", "option_b": "Mersin ve Adana", "option_c": "Hatay", "option_d": "Kahramanmaraş", "option_e": "Konya",
+    "correct_option": "B", "explanation": "Çukurova, Adana ve Mersin illeri arasında Seyhan, Ceyhan ve Berdan ırmaklarının oluşturduğu alüvyal bir ovadır. Verimli toprakları ve sulama olanakları nedeniyle Türkiye'nin en önemli tarım ovalarından biridir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de krom madeni üretiminin en önemli merkezi hangisidir?",
+    "option_a": "Zonguldak", "option_b": "Güneydoğu Anadolu (Guleman - Elazığ)", "option_c": "Kütahya", "option_d": "Bursa", "option_e": "Van",
+    "correct_option": "B", "explanation": "Türkiye, dünya krom rezervleri açısından ilk sıralarda yer alır. En önemli krom yatakları; Elazığ-Guleman, Bursa-Harmancık ve Hatay-İskenderun çevresinde bulunmaktadır.", "difficulty": 3
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de nüfusu en az olan coğrafi bölge hangisidir?",
+    "option_a": "Güneydoğu Anadolu Bölgesi", "option_b": "Doğu Anadolu Bölgesi", "option_c": "İç Anadolu Bölgesi", "option_d": "Karadeniz Bölgesi", "option_e": "Ege Bölgesi",
+    "correct_option": "B", "explanation": "Doğu Anadolu Bölgesi, yüzölçümü en büyük bölge olmakla birlikte nüfus yoğunluğu en düşük bölgedir. Sert kışlar, engebeli arazi ve tarıma elverişsiz koşullar göçü hızlandırmıştır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'İpek Yolu'nun geçtiği günümüz şehirleri arasında hangisi tarihi önemiyle öne çıkar?",
+    "option_a": "İzmir", "option_b": "Trabzon", "option_c": "Gaziantep ve Erzurum", "option_d": "Bursa", "option_e": "Antalya",
+    "correct_option": "C", "explanation": "Tarihi İpek Yolu'nun güney kolu, Türkiye'de Gaziantep, Diyarbakır, Erzurum ve Erzincan güzergâhını izlemiştir. Erzurum, aynı zamanda kuzey ve güney yollarının birleşme noktasıydı.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Nüfus artış hızının hesaplanmasında kullanılan formül hangisidir?",
+    "option_a": "Doğum oranı × ölüm oranı", "option_b": "Göç fazlası + (doğum oranı − ölüm oranı)", "option_c": "(Canlı doğum − ölüm) / 1000 kişi", "option_d": "Nüfus / Yüzölçümü", "option_e": "Şehir nüfusu / Kır nüfusu",
+    "correct_option": "B", "explanation": "Nüfus artış hızı; doğal nüfus artışının (doğum − ölüm) ve net göçün toplamından oluşur. Göçün ihmal edildiği durumlarda yalnızca doğum ve ölüm oranları dikkate alınır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "İnsani Gelişme Endeksi (İGE / HDI) hangi üç temel göstergeden oluşur?",
+    "option_a": "Nüfus artışı, istihdam oranı, tarım alanı", "option_b": "Sağlıklı uzun yaşam (ortalama yaşam süresi), eğitim, kişi başına düşen milli gelir", "option_c": "Askeri harcamalar, dış borç, ticaret dengesi", "option_d": "Çevre kalitesi, kentleşme oranı, ihracat hacmi", "option_e": "Cinsiyete dayalı eşitlik, bebek ölümü, ekonomik büyüme",
+    "correct_option": "B", "explanation": "BM'nin yayımladığı İnsani Gelişme Endeksi (HDI); ortalama yaşam beklentisi, eğitim düzeyi (yıllık ve beklenen okul yılı) ve kişi başına düşen gayrisafi milli gelir (GSMH) bileşenlerinden oluşur.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Demografik geçiş modelinin 'ikinci evre'sinde hangi durum söz konusudur?",
+    "option_a": "Yüksek doğum ve yüksek ölüm oranları", "option_b": "Yüksek doğum ve azalan ölüm oranları → hızlı nüfus artışı", "option_c": "Azalan doğum ve azalan ölüm oranları → yavaşlayan artış", "option_d": "Düşük doğum ve düşük ölüm oranları → durağan nüfus", "option_e": "Negatif nüfus artışı",
+    "correct_option": "B", "explanation": "Demografik geçiş modelinin ikinci evresinde; tıp ve sanitasyon gelişmeleriyle ölüm oranları hızla düşerken doğum oranları yüksek kalmaya devam eder; bu durum hızlı nüfus artışına neden olur. Gelişmekte olan ülkeler bu evrededir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Göç türlerinden 'mülteci' kavramı nasıl tanımlanır?",
+    "option_a": "Ekonomik nedenlerle başka ülkeye giden kişiler", "option_b": "Savaş, zulüm veya doğal afet gibi nedenlerle ülkesini terk etmek zorunda kalan kişiler", "option_c": "Mevsimlik iş nedeniyle geçici olarak yer değiştiren kişiler", "option_d": "Eğitim amacıyla yurt dışına çıkan kişiler", "option_e": "Emekli olarak başka bir şehre taşınan kişiler",
+    "correct_option": "B", "explanation": "BM Mülteciler Yüksek Komiserliği (BMMYK) tanımına göre mülteci; ırkı, dini, milliyeti, siyasi görüşü veya belirli bir gruba üyeliği nedeniyle zulme uğrama korkusuyla ülkesini terk eden ve uluslararası koruma arayan kişidir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Kentleşme oranı en yüksek olan kıta hangisidir?",
+    "option_a": "Afrika", "option_b": "Asya", "option_c": "Avrupa", "option_d": "Kuzey Amerika", "option_e": "Latin Amerika",
+    "correct_option": "D", "explanation": "Nüfusunun %80'inden fazlası kentlerde yaşayan Kuzey Amerika, kentleşme oranı en yüksek kıtadır. Bunu Avrupa ve Latin Amerika takip etmektedir. Afrika ise kentleşme oranı en düşük kıtadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Tarihte yaşanan 'Yeşil Devrim' ne anlama gelir?",
+    "option_a": "Çevre haklarının uluslararası arenada tanınması", "option_b": "Yüksek verimli tahıl çeşitlerinin, gübrelerin ve sulama tekniklerinin geliştirilmesiyle 1960-70'lerde tarımsal üretimin artması", "option_c": "Güneş enerjisinin tarımda kullanılmaya başlanması", "option_d": "Ormanlaştırma projelerinin hayata geçirilmesi", "option_e": "Tarımsal arazilerin kentsel alanlara dönüştürülmesi",
+    "correct_option": "B", "explanation": "Yeşil Devrim; 1960-70'lerde Norman Borlaug'un öncülüğünde geliştirilen yüksek verimli tahıl tohumları, tarımsal ilaçlar ve sulama teknikleriyle başta Güney ve Güneydoğu Asya olmak üzere birçok bölgede açlığı azaltmış bir tarım dönüşümüdür.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Dünyada en fazla göç kabul eden ülke hangisidir?",
+    "option_a": "Almanya", "option_b": "Fransa", "option_c": "ABD", "option_d": "Suudi Arabistan", "option_e": "Avustralya",
+    "correct_option": "C", "explanation": "ABD, mutlak göçmen sayısı bakımından dünyanın en büyük göç kabul eden ülkesidir. Yaklaşık 50 milyonun üzerinde göçmenle dünya göçmen nüfusunun yaklaşık %19'una ev sahipliği yapar.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Nüfus piramidinde 'geniş tabanlı' bir yapı hangi demografik durumu gösterir?",
+    "option_a": "Yaşlanan ve küçülen bir nüfus", "option_b": "Dengeli ve istikrarlı bir nüfus", "option_c": "Yüksek doğurganlık oranına sahip genç ve büyüyen bir nüfus", "option_d": "Düşük doğurganlık ve uzun ömür", "option_e": "Savaş sonrası nüfus kaybı",
+    "correct_option": "C", "explanation": "Nüfus piramidinin geniş tabanı; yüksek doğum oranını ve toplumun genç yaş gruplarının fazlalığını gösterir. Bu durum gelişmekte olan ülkelerde yaygındır ve hızlı nüfus artışına işaret eder.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Fosil yakıtların kullanımı açısından dünyada enerji tüketiminin büyük bölümünü sağlayan kaynak nedir?",
+    "option_a": "Doğalgaz", "option_b": "Petrol", "option_c": "Kömür", "option_d": "Nükleer enerji", "option_e": "Güneş enerjisi",
+    "correct_option": "B", "explanation": "Petrol, küresel enerji tüketiminin en büyük payını oluşturan yakıttır. Ulaşım, sanayi ve ısıtmada yoğun kullanımıyla birincil enerji kaynakları arasında lider konumdadır.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Kalkınma coğrafyasında 'Kuzeyli Güneyli Fay Hattı' (Brandt Çizgisi) neyi temsil eder?",
+    "option_a": "Kuzey ve Güney Kutuplarını birbirinden ayıran jeolojik hat", "option_b": "Görece zengin (kuzey) ve görece yoksul (güney) ülkeleri genel olarak birbirinden ayıran hayali çizgi", "option_c": "Kuzey ve güney yarım kürenin tarihsel ticaret sınırı", "option_d": "Kuzey Atlantik iklim kuşağıyla ekvatoral kuşağın sınırı", "option_e": "Asya ve Afrika'yı birbirinden ayıran siyasi sınır",
+    "correct_option": "B", "explanation": "Willy Brandt'ın 1980 raporunda önerilen bu kavramsal çizgi; genel olarak zengin sanayi ülkelerini (kuzey) daha yoksul ülkelerden (güney) ayıran eşitsizlikleri simgeler. Avustralya ve Yeni Zelanda gibi 'güneyde' yer alan zengin ülkeler bu genel kuralın istisnasıdır.", "difficulty": 3
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Şehirleşmenin getirdiği olumsuz çevresel etkilerden hangisi doğrudan ilişkili değildir?",
+    "option_a": "Hava kirliliği artışı", "option_b": "Su kaynaklarının tükenmesi", "option_c": "Isı adası etkisi", "option_d": "Tarım alanlarının azalması", "option_e": "Orman alanlarının artması",
+    "correct_option": "E", "explanation": "Şehirleşmeyle birlikte hava kirliliği, su baskısı, ısı adası etkisi ve tarım arazilerinin yitirilmesi gibi olumsuz çevresel etkiler ortaya çıkar. Orman alanlarının artması şehirleşmenin doğrudan bir sonucu değil; aksine şehirleşme ormanları tahrip eder.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Türkiye'de kırdan kente göçün en yoğun yaşandığı dönem hangisidir?",
+    "option_a": "1920-1930", "option_b": "1940-1950", "option_c": "1960-1990 (sanayileşme dönemi)", "option_d": "2000'li yıllar", "option_e": "2010'lu yıllar",
+    "correct_option": "C", "explanation": "Türkiye'de sanayileşmenin hız kazandığı 1960-1990 yılları arasında kırdan kente yönelik göç belirgin biçimde artmıştır. Tarım sektöründeki makineleşme, kırsal bölgelerde işsizliği artırmış; kentlerdeki iş olanakları göçü hızlandırmıştır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Dünya'da en kalabalık nüfusa sahip kıta hangisidir?",
+    "option_a": "Afrika", "option_b": "Avrupa", "option_c": "Asya", "option_d": "Kuzey Amerika", "option_e": "Latin Amerika",
+    "correct_option": "C", "explanation": "Asya, yaklaşık 4,7 milyar kişilik nüfusuyla dünya nüfusunun yaklaşık %60'ını barındırır. Yalnızca Çin ve Hindistan'ın nüfusu toplamı diğer tüm kıtaların nüfuslarını geçmektedir.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Çevre kirliliği ve iklim değişikliğiyle mücadelede imzalanan 'Paris Anlaşması' (2015) hangi hedefi belirler?",
+    "option_a": "Fosil yakıtların 2020'de tamamen yasaklanması", "option_b": "Küresel ortalama sıcaklık artışını sanayi öncesi döneme kıyasla 2°C'nin altında tutmak, mümkünse 1,5°C ile sınırlamak", "option_c": "Nükleer enerjiyi zorunlu enerji kaynağı ilan etmek", "option_d": "Petrol ihracatını dondurarak küresel enerji fiyatlarını stabilize etmek", "option_e": "Her ülkenin aynı miktarda sera gazı salması",
+    "correct_option": "B", "explanation": "Paris Anlaşması; BM İklim Değişikliği Çerçeve Sözleşmesi kapsamında 2015'te kabul edilmiştir. Ülkelerin gönüllü olarak belirlediği ulusal katkılar (NDC) aracılığıyla küresel ısınmayı sınırlamayı hedefler.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en büyük kıtası hangisidir?",
+    "option_a": "Amerika", "option_b": "Afrika", "option_c": "Avustralya", "option_d": "Asya", "option_e": "Avrupa",
+    "correct_option": "D", "explanation": "Asya, yaklaşık 44,6 milyon km² yüzölçümüyle dünyanın en büyük kıtasıdır. Dünya kara yüzeyinin yaklaşık %30'unu kaplar.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Amazon Nehri hangi iki ülke arasından geçer ve hangi okyanusa dökülür?",
+    "option_a": "Brezilya ve Venezuela - Atlantik Okyanusu", "option_b": "Peru ve Brezilya - Atlantik Okyanusu", "option_c": "Arjantin ve Paraguay - Büyük Okyanus", "option_d": "Brezilya ve Bolivya - Hint Okyanusu", "option_e": "Kolombiya ve Peru - Karayip Denizi",
+    "correct_option": "B", "explanation": "Amazon Nehri; Batı Andlar'da Peru'da doğarak Brezilya'dan geçer ve Atlantik Okyanusu'na dökülür. Su debisi bakımından dünyanın en büyük nehri olup Amazon havzası dünyanın en geniş tropikal yağmur ormanlık alanını barındırır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en büyük okyanusu hangisidir?",
+    "option_a": "Atlantik Okyanusu", "option_b": "Hint Okyanusu", "option_c": "Arktik Okyanusu", "option_d": "Güney Okyanusu", "option_e": "Büyük Okyanus (Pasifik)",
+    "correct_option": "E", "explanation": "Büyük Okyanus (Pasifik), yaklaşık 165 milyon km² yüzölçümüyle dünyanın en büyük ve en derin okyanusudur. Tüm kıtaların toplam yüzölçümünden daha büyüktür.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en yüksek dağı olan Everest hangi ülkelerin sınırındadır?",
+    "option_a": "Çin ve Hindistan", "option_b": "Nepal ve Hindistan", "option_c": "Nepal (Tibet/Çin)", "option_d": "Pakistan ve Afganistan", "option_e": "Bhutan ve Çin",
+    "correct_option": "C", "explanation": "Everest Dağı (8848 m), Nepal ile Tibet Özerk Bölgesi (Çin) sınırındadır. Himalayalar'ın bir parçası olan bu dağ, hem güney (Nepal) hem de kuzey (Tibet) yamaçtan tırmanılmaktadır.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Ekvator üzerinden geçen Güney Amerika ülkeleri arasında hangisi yer almaz?",
+    "option_a": "Brezilya", "option_b": "Kolombiya", "option_c": "Ekvador", "option_d": "Peru", "option_e": "Arjantin",
+    "correct_option": "E", "explanation": "Arjantin, güney yarım kürenin güneybatısında yer alır; ekvator bu ülkeden geçmez. Ekvator üzerinden geçen Güney Amerika ülkeleri arasında Brezilya, Kolombiya ve Ekvador bulunur.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünya'nın en büyük çölü hangisidir?",
+    "option_a": "Gobi Çölü", "option_b": "Atacama Çölü", "option_c": "Antarktika Çölü (kutup çölü)", "option_d": "Sahra Çölü", "option_e": "Arabistan Çölü",
+    "correct_option": "C", "explanation": "Çöl yağışsız arazi olarak tanımlandığında, yaklaşık 14,2 milyon km²'lik alanıyla Antarktika (kutup çölü) dünyanın en büyük çölüdür. Sıcak çöller arasında ise Sahra (yaklaşık 9,2 milyon km²) birinci sıradaır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Süveyş Kanalı hangi iki denizi birbirine bağlar?",
+    "option_a": "Akdeniz - Karadeniz", "option_b": "Kızıldeniz - Hint Okyanusu", "option_c": "Akdeniz - Kızıldeniz", "option_d": "Basra Körfezi - Hint Okyanusu", "option_e": "Atlantik - Büyük Okyanus",
+    "correct_option": "C", "explanation": "Mısır'daki Süveyş Kanalı; Akdeniz ile Kızıldeniz'i birbirine bağlar. 1869'da açılan kanal, Avrupa ve Asya arasındaki deniz yolunu kısaltarak küresel ticarette kritik öneme sahiptir.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Panama Kanalı hangi iki okyanusu birbirine bağlar?",
+    "option_a": "Atlantik - Hint Okyanusu", "option_b": "Büyük Okyanus - Hint Okyanusu", "option_c": "Atlantik - Büyük Okyanus (Pasifik)", "option_d": "Arktik - Atlantik Okyanusu", "option_e": "Güney - Büyük Okyanus",
+    "correct_option": "C", "explanation": "Panama Kanalı, Orta Amerika'daki Panama'da Atlantik ve Büyük Okyanus'u (Pasifik) birbirine bağlar. 1914'te açılan kanal; Amerika kıtasını dolaşmak zorunda kalmadan okyanus geçişine olanak tanır.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en büyük ülkesi (yüzölçümü bakımından) hangisidir?",
+    "option_a": "Kanada", "option_b": "ABD", "option_c": "Çin", "option_d": "Rusya", "option_e": "Brezilya",
+    "correct_option": "D", "explanation": "Rusya, yaklaşık 17,1 milyon km² yüzölçümüyle dünyanın en büyük ülkesidir. 11 saat dilimini kapsayan bu ülke, hem Avrupa'nın hem de Asya'nın en büyük bölümünü oluşturur.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Japonya'nın tektonik yapısı ile sismik aktivitesi arasındaki ilişki nasıl açıklanır?",
+    "option_a": "Japonya, tamamen istikrarlı bir levha üzerinde yer aldığından deprem riski düşüktür.", "option_b": "Japonya, birden fazla tektonik levhanın kesişme noktasında yer aldığından deprem ve volkanizma açısından yüksek risk taşır.", "option_c": "Japonya'daki depremler yalnızca fay hatlarından değil, insan faaliyetlerinden kaynaklanır.", "option_d": "Japonya'da volkanik aktivite görülmez.", "option_e": "Japonya, Avrasya levhasının ortasında yer alır.",
+    "correct_option": "B", "explanation": "Japonya, Avrasya, Kuzey Amerika, Filipin ve Pasifik levhalarının kesişme bölgesinde yer alır. 'Ateş Çemberi'nin bir parçası olan Japonya; sık sık büyük depremler ve volkanik patlamalarla karşılaşır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Güneydoğu Asya ülkelerine yönelik bölgesel örgüt olan ASEAN'ın kaç üyesi vardır?",
+    "option_a": "5", "option_b": "8", "option_c": "10", "option_d": "12", "option_e": "15",
+    "correct_option": "C", "explanation": "ASEAN (Güneydoğu Asya Ülkeleri Birliği), 1967'de kurulan bölgesel örgütün 10 üyesi vardır: Endonezya, Malezya, Filipinler, Singapur, Tayland, Brunei, Vietnam, Laos, Myanmar ve Kamboçya.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en kalabalık nüfuslu ülkesi 2024 itibarıyla hangisidir?",
+    "option_a": "Çin", "option_b": "Hindistan", "option_c": "ABD", "option_d": "Endonezya", "option_e": "Brezilya",
+    "correct_option": "B", "explanation": "2023 yılı verilerine göre Hindistan yaklaşık 1,43 milyar nüfusla Çin'i (1,40 milyar) geçerek dünyanın en kalabalık ülkesi konumuna gelmiştir.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Orta Doğu'nun en büyük petrol rezervlerine sahip ülkesi hangisidir?",
+    "option_a": "İran", "option_b": "Irak", "option_c": "Kuveyt", "option_d": "Suudi Arabistan", "option_e": "Birleşik Arap Emirlikleri",
+    "correct_option": "D", "explanation": "Suudi Arabistan, dünyada kanıtlanmış petrol rezervleri bakımından ikinci sırada (Venezüela'nın ardından) yer alsa da Orta Doğu'nun ve OPEC'in en büyük üreticisidir.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünyanın en derin gölü hangisidir?",
+    "option_a": "Hazar Gölü", "option_b": "Titicaca Gölü", "option_c": "Tanganika Gölü", "option_d": "Baykal Gölü", "option_e": "Victoria Gölü",
+    "correct_option": "D", "explanation": "Sibirya'daki Baykal Gölü, yaklaşık 1642 metre derinliğiyle dünyanın en derin ve en büyük (hacim bakımından) tatlı su gölüdür. Dünya tatlı su rezervlerinin yaklaşık %20'sini barındırır.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Mississippi - Missouri nehir sistemi hangi kıtada bulunur ve hangi denize/okyanusa dökülür?",
+    "option_a": "Güney Amerika - Atlantik Okyanusu", "option_b": "Kuzey Amerika - Meksika Körfezi (Atlantik)", "option_c": "Afrika - Hint Okyanusu", "option_d": "Asya - Büyük Okyanus", "option_e": "Avrupa - Kuzey Denizi",
+    "correct_option": "B", "explanation": "Mississippi - Missouri nehir sistemi, Kuzey Amerika'nın en uzun nehir sistemidir. Missouri'nin kaynağından Meksika Körfezi'ne döküldüğü noktaya kadar yaklaşık 5970 km uzunluğuyla kıtanın büyük bir bölümünü drene eder.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Avrupa'nın en uzun nehri hangisidir?",
+    "option_a": "Ren Nehri", "option_b": "Tuna Nehri", "option_c": "Volga Nehri", "option_d": "Don Nehri", "option_e": "Dinyeper Nehri",
+    "correct_option": "C", "explanation": "Volga Nehri, yaklaşık 3531 km uzunluğuyla Avrupa'nın en uzun ve en büyük (su hacmi bakımından) nehridir. Rusya'da Hazar Denizi'ne dökülen bu nehir, önemli bir ekonomik ve ulaşım aksı oluşturur.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Avrupa Birliği'nin para birimi Euro'yu kullanmayan AB üyesi ülkeler arasında hangisi yer almaz?",
+    "option_a": "Polonya", "option_b": "İsveç", "option_c": "Danimarka", "option_d": "Macaristan", "option_e": "Fransa",
+    "correct_option": "E", "explanation": "Fransa, Euro bölgesinin kurucu üyelerinden biridir ve Euro kullanmaktadır. Polonya, İsveç, Danimarka ve Macaristan ise AB üyesi olmakla birlikte Euro'ya geçmemiş ve ulusal para birimlerini korumaktadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "İklim değişikliğinin en doğrudan etkisi olarak kutup bölgelerinde ne gözlemlenmektedir?",
+    "option_a": "Kar yağışının artması", "option_b": "Kutup bölgelerinin soğumasıyla buzul alanlarının genişlemesi", "option_c": "Buz örtüsünün ve permafrost alanlarının erimesiyle deniz seviyesinin yükselmesi", "option_d": "Okyanusların tuzluluk oranının azalması", "option_e": "Kutup rüzgârlarının güçlenmesi",
+    "correct_option": "C", "explanation": "Küresel ısınmayla birlikte Arktik ve Antarktika'daki buz örtüsü ile buzullar hızla eriyerek deniz seviyesinin yükselmesine neden olmaktadır. Permafrost'un çözülmesi de toprağa hapsolmuş metan gazının atmosfere karışması riskini artırır.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Sahraaltı Afrika'da en yaygın tarım sistemi hangisidir?",
+    "option_a": "Endüstriyel bant tarımı", "option_b": "Geçimlik ya da yarı geçimlik tarım", "option_c": "Seralı ve kontrollü tarım", "option_d": "Organik ihracat tarımı", "option_e": "Hidroponik tarım",
+    "correct_option": "B", "explanation": "Sahraaltı Afrika'da küçük parsellerde yürütülen geçimlik tarım hâkimdir. Yetersiz altyapı, su kıtlığı ve toprak bozunumu; modern tarıma geçişi engelleyen başlıca sorunlardır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "BM'nin genel merkezi hangi şehirde bulunur?",
+    "option_a": "Cenevre", "option_b": "Paris", "option_c": "Viyana", "option_d": "Londra", "option_e": "New York",
+    "correct_option": "E", "explanation": "BM'nin genel merkezi New York'ta yer almaktadır. Cenevre'de ise pek çok BM ajansı ve uluslararası kuruluşun Avrupa ofisleri bulunmaktadır.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Himalayalar hangi tektonik levha çarpışmasının ürünüdür?",
+    "option_a": "Avrasya ve Afrika levhaları", "option_b": "Hindistan ve Avrasya levhaları", "option_c": "Pasifik ve Avrasya levhaları", "option_d": "Avustralya ve Pasifik levhaları", "option_e": "Arabistan ve Afrika levhaları",
+    "correct_option": "B", "explanation": "Himalayalar, Hindistan levhasının Avrasya levhasıyla yaklaşık 50 milyon yıl önce çarpışması sonucunda oluşmuştur. Bu çarpışma hâlâ devam etmektedir; dolayısıyla Himalayalar milimlik düzeyde de olsa yükselmeye devam eder.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Avrupa kıtasının en yüksek dağı hangisidir?",
+    "option_a": "Mont Blanc", "option_b": "Matterhorn", "option_c": "Elbrus Dağı", "option_d": "Finsteraarhorn", "option_e": "Dolomitler",
+    "correct_option": "C", "explanation": "Elbrus Dağı, 5642 metre yüksekliğiyle Kafkasya'da yer alır; Avrupa-Asya sınırı bu dağın üzerinden geçtiği kabul edildiğinde Avrupa'nın en yüksek noktası sayılır. Mont Blanc ise yalnızca Batı Avrupa'nın en yüksek dağıdır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Çin'de nüfus yoğunluğunun en fazla olduğu bölge hangisidir?",
+    "option_a": "Batı Çin (Sincan ve Tibet)", "option_b": "Kuzey Çin Ovası ve Doğu kıyı bölgeleri", "option_c": "Moğolistan sınırları", "option_d": "Gobi Çölü çevresi", "option_e": "Himalaya etekleri",
+    "correct_option": "B", "explanation": "Çin nüfusunun büyük çoğunluğu; tarıma elverişli ovalar ve sanayileşmiş kıyı bölgelerini kapsayan Doğu Çin'de yoğunlaşmıştır. Batı Çin (Tibet, Sincan, İç Moğolistan) ise oldukça seyrek nüfusludur.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin hangi bölgesinde yıllık yağış miktarı en yüksektir?",
+    "option_a": "İç Anadolu", "option_b": "Karadeniz (özellikle Doğu Karadeniz)", "option_c": "Ege kıyıları", "option_d": "Akdeniz kıyıları", "option_e": "Doğu Anadolu",
+    "correct_option": "B", "explanation": "Doğu Karadeniz kıyıları, Türkiye'nin en yağışlı bölgesidir. Rize ve Artvin çevresinde yıllık ortalama yağış 2000 mm'yi aşabilir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de Marmara Bölgesi'nin sanayileşme açısından öne çıkmasının temel nedeni nedir?",
+    "option_a": "Tarihsel süreçte Osmanlı başkentinin bu bölgede bulunması ve ulaşım kolaylıkları ile nitelikli iş gücü birikimi", "option_b": "Doğal kaynakların bu bölgede çok fazla olması", "option_c": "Devletin zorunlu kılmasıyla sanayi buraya taşınmıştır.", "option_d": "Marmara Bölgesi'nde iklimdeki özellikler sanayiyi zorlamıştır.", "option_e": "Yüksek nüfus yoğunluğu sanayiye engel olmuştur.",
+    "correct_option": "A", "explanation": "Marmara Bölgesi; tarihsel miras (İstanbul), nitelikli iş gücü, liman altyapısı ve ulaşım bağlantıları sayesinde Türkiye'nin sanayi açısından en gelişmiş bölgesi konumundadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de orman alanları bakımından en zengin bölge hangisidir?",
+    "option_a": "İç Anadolu", "option_b": "Ege", "option_c": "Güneydoğu Anadolu", "option_d": "Karadeniz", "option_e": "Marmara",
+    "correct_option": "D", "explanation": "Yüksek yağış, uygun sıcaklık ve dik yamaçlar nedeniyle Karadeniz Bölgesi Türkiye'nin en geniş orman alanlarını barındırır. Ladin, kayın ve gürgen başlıca ağaç türleridir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin Karadeniz'e dökülen en uzun nehri hangisidir?",
+    "option_a": "Yeşilırmak", "option_b": "Sakarya", "option_c": "Kızılırmak", "option_d": "Çoruh", "option_e": "Filyos",
+    "correct_option": "C", "explanation": "Kızılırmak, Karadeniz'e dökülen nehirler içinde en uzun olanıdır. Yaklaşık 1355 km uzunluğuyla Türkiye'nin en uzun ulusal nehridir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Türkiye'de sanayinin en hızlı geliştiği dönem hangisidir?",
+    "option_a": "1920-1930", "option_b": "1930-1940 (devletçilik dönemi)", "option_c": "1950-1960", "option_d": "1980 sonrası (serbest piyasa dönemi)", "option_e": "2000'li yıllar",
+    "correct_option": "D", "explanation": "1980 sonrası Özal döneminde uygulanan ihracata yönelik büyüme stratejisi ve serbest piyasa politikaları Türkiye sanayisini hızla büyütmüştür. Tekstil, otomotiv ve elektronik bu dönemde öne çıkan sektörlerdir.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "İç göçün en önemli itici (push) faktörü nedir?",
+    "option_a": "Şehirlerde yüksek kira bedelleri", "option_b": "Kırsal alanda iş imkânlarının azlığı, tarımsal gelirin düşüklüğü ve altyapı eksiklikleri", "option_c": "Şehirlerdeki nüfus yoğunluğu", "option_d": "Hükümetin zorunlu göç politikaları", "option_e": "Şehirlerin çekici iklimi",
+    "correct_option": "B", "explanation": "İtici faktörler; insanları bulundukları yerden ayrılmaya zorlayan koşullardır. Kırsal alanlarda yetersiz gelir, işsizlik, eğitim ve sağlık hizmetlerinin yetersizliği en güçlü itici faktörlerdir.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünya'nın en büyük göl sistemi Büyük Göller hangi kıtada yer alır?",
+    "option_a": "Güney Amerika", "option_b": "Afrika", "option_c": "Asya", "option_d": "Kuzey Amerika", "option_e": "Avrupa",
+    "correct_option": "D", "explanation": "Kuzey Amerika'da ABD ve Kanada sınırındaki Büyük Göller (Superior, Michigan, Huron, Erie, Ontario); dünyanın en büyük tatlı su gölü sistemidir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Güney Amerika'nın en uzun dağ silsilesi hangisidir?",
+    "option_a": "Rocky Dağları", "option_b": "Andlar (Andes)", "option_c": "Appalachian Dağları", "option_d": "Sierra Madre", "option_e": "Patagonya Yaylası",
+    "correct_option": "B", "explanation": "Andlar (Andes), yaklaşık 7200 km uzunluğuyla dünyanın en uzun kıta içi dağ silsilesidir. Şili, Peru, Bolivya, Kolombiya gibi ülkelerden geçer.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Dünya'nın en büyük adası hangisidir?",
+    "option_a": "Madagaskar", "option_b": "Yeni Gine", "option_c": "Grönland (Kalaallit Nunaat)", "option_d": "Borneo", "option_e": "Japonya",
+    "correct_option": "C", "explanation": "Grönland, yaklaşık 2,166 milyon km² yüzölçümüyle dünyanın en büyük adasıdır. Danimarka'ya bağlı özerk bir topraktır.", "difficulty": 1
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Aşağıdakilerden hangisi 'çekici (pull) faktör' değildir?",
+    "option_a": "Şehirlerde yüksek ücret imkânları", "option_b": "Kırsal alanda tarımsal kuraklık", "option_c": "Eğitim olanaklarının zenginliği", "option_d": "Şehirlerdeki sağlık altyapısı", "option_e": "İş bulma imkânlarının fazlalığı",
+    "correct_option": "B", "explanation": "Kırsal alanda tarımsal kuraklık insanları kırdan iten (itici) bir faktördür; şehre çeken değil. Yüksek ücret, eğitim, sağlık ve iş imkânları şehirlerin çekici faktörleridir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Japonya kaç adadan oluşan bir ülkedir ve başlıca dört büyük adası hangisidir?",
+    "option_a": "2 ada: Honshu ve Hokkaido", "option_b": "Yaklaşık 6800 ada; başlıcaları Honshu, Hokkaido, Kyushu, Shikoku", "option_c": "Yalnızca 1 büyük ada: Honshu", "option_d": "10 büyük ada; hepsinin adı Nippon", "option_e": "5 ada grubu; her biri ayrı eyalet",
+    "correct_option": "B", "explanation": "Japonya, yaklaşık 6800 adadan oluşan bir takımada ülkesidir. Honshu (en büyük), Hokkaido, Kyushu ve Shikoku başlıca dört büyük adadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'Doğu Anadolu Bölgesi'nin en büyük gölü hangisidir?",
+    "option_a": "Beyşehir", "option_b": "Eğirdir", "option_c": "Van", "option_d": "Tuz", "option_e": "Burdur",
+    "correct_option": "C", "explanation": "Van Gölü, Doğu Anadolu'daki en büyük göldür ve aynı zamanda Türkiye'nin en büyük gölüdür. Kapalı havza özelliği gösteren Van Gölü'nün suları soda içerikli ve tuzludur.", "difficulty": 1
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Aşağıdaki kıta-okyanus eşleşmelerinden hangisi yanlıştır?",
+    "option_a": "Avrupa - Atlantik Okyanusu (batıda)", "option_b": "Avustralya - Hint Okyanusu (batıda) ve Pasifik Okyanusu (doğuda)", "option_c": "Afrika - Hint Okyanusu (doğuda) ve Atlantik Okyanusu (batıda)", "option_d": "Kuzey Amerika - Arktik Okyanusu (kuzeyde)", "option_e": "Güney Amerika - Büyük Okyanus (doğuda)",
+    "correct_option": "E", "explanation": "Güney Amerika'nın doğusunda Atlantik Okyanusu, batısında ise Büyük Okyanus (Pasifik) bulunur. Bu nedenle E seçeneği yanlıştır.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Kişi başına düşen milli geliri en yüksek olan kıta hangisidir?",
+    "option_a": "Asya", "option_b": "Afrika", "option_c": "Avrupa", "option_d": "Kuzey Amerika", "option_e": "Latin Amerika",
+    "correct_option": "D", "explanation": "Kuzey Amerika; ABD ve Kanada başta olmak üzere kişi başına düşen milli gelir bakımından dünyanın en zengin kıtaları arasındadır. Bu iki ülkenin yüksek GSYH'si kıtanın ortalamasını da yükseltmektedir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Güneydoğu Asya'da yer alan ve dünyanın en büyük ada ülkesi olan ülke hangisidir?",
+    "option_a": "Filipinler", "option_b": "Malezya", "option_c": "Japonya", "option_d": "Endonezya", "option_e": "Sri Lanka",
+    "correct_option": "D", "explanation": "Endonezya, 17.000'den fazla adadan oluşan dünyanın en büyük ada devletidir. 270 milyonun üzerinde nüfusuyla aynı zamanda dünyanın dördüncü büyük ülkesidir.", "difficulty": 1
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'nin Akdeniz Bölgesi'nde Toroslar'ın denize bakan yamaçlarında görülen bitki örtüsü hangisidir?",
+    "option_a": "Step (Bozkır)", "option_b": "Seyrek çam ormanı ve maki", "option_c": "Ladin ve kayın ormanı", "option_d": "Tundra", "option_e": "Savan",
+    "correct_option": "B", "explanation": "Akdeniz ikliminin egemen olduğu Toroslar'ın güney yamaçlarında kızılçam ormanları ve maki toplulukları egemendir. Kuzey yamaçlarda ise yağış arttıkça sedir ve karaçam ormanları görülür.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Sürdürülebilir kalkınma kavramı en kısa biçimde nasıl tanımlanır?",
+    "option_a": "Ekonomik büyümenin sınırsız sürdürülmesi", "option_b": "Bugünün ihtiyaçlarını karşılarken gelecek nesillerin kendi ihtiyaçlarını karşılama kapasitesini tehlikeye atmayan kalkınma", "option_c": "Yalnızca çevresel kaygıları ön planda tutan bir yaklaşım", "option_d": "Nüfus artışının durdurulmasıyla elde edilen denge", "option_e": "Fosil yakıtların ortadan kaldırılmasıyla oluşan enerji modeli",
+    "correct_option": "B", "explanation": "Brundtland Raporu (1987) kaynaklı klasik tanıma göre sürdürülebilir kalkınma; bugünün ihtiyaçlarını karşılarken gelecek nesillerin de kendi ihtiyaçlarını karşılayabilme kapasitesini tehlikeye atmayan kalkınmadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'Güneydoğu Anadolu Bölgesi' iklim açısından nasıl tanımlanır?",
+    "option_a": "Karasal iklim, dört mevsim dengeli yağış", "option_b": "Karasal ve yarı-kurak iklim; yazlar çok sıcak-kurak, kışlar sert ve soğuk", "option_c": "Akdeniz iklimi, yazlar ılık", "option_d": "Nemli subtropikal iklim, yıl boyu bol yağış", "option_e": "Tundra iklimi",
+    "correct_option": "B", "explanation": "Güneydoğu Anadolu Bölgesi karasal ve yarı kurak bir iklim özelliği taşır. Yazlar oldukça sıcak ve kurak geçer; kışlar sert olur. Şanlıurfa ve Gaziantep gibi illerde yaz sıcaklıkları 40°C'nin üzerine çıkabilir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Amazon Havzası'nın küresel önemi nedir?",
+    "option_a": "Dünya'nın en büyük çölü barındırması", "option_b": "Dünyanın en büyük tropikal yağmur ormanına ve biyoçeşitlilik deposuna ev sahipliği yapması", "option_c": "Dünya'nın en uzun nehrine sahip olması", "option_d": "Dünya'nın en yoğun nüfuslu bölgesi olması", "option_e": "Dünya'nın en büyük petrol rezervlerine sahip olması",
+    "correct_option": "B", "explanation": "Amazon Havzası, dünyanın en büyük tropikal yağmur ormanını barındırır ve küresel biyoçeşitliliğin yaklaşık %10'una ev sahipliği yapar. Aynı zamanda küresel oksijen üretiminde ve karbon döngüsünde kritik bir rol oynar.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Demografik geçiş modelinde ikinci aşama nasıl tanımlanır?",
+    "option_a": "Doğum ve ölüm oranları düşük, nüfus durağan", "option_b": "Doğum oranı yüksek, ölüm oranı düşmeye başlıyor; nüfus hızla artıyor", "option_c": "Doğum oranı düşüyor, ölüm oranı zaten düşük; nüfus artışı yavaşlıyor", "option_d": "Hem doğum hem ölüm oranı yüksek; nüfus az ama dengeli", "option_e": "Ölüm oranı doğum oranını geçiyor; nüfus azalıyor",
+    "correct_option": "B", "explanation": "Demografik geçiş modelinin ikinci aşamasında tıp ve hijyen gelişmeleriyle ölüm oranları düşerken doğum oranları hâlâ yüksektir. Bu durum nüfusun hızla artmasına yol açar. Günümüz gelişmekte olan ülkelerin bir kısmı bu aşamadadır.", "difficulty": 3
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de Doğu Anadolu Bölgesi'ndeki yüksek rakımın tarım açısından en önemli sonucu nedir?",
+    "option_a": "Uzun vejetasyon süresi", "option_b": "Kısa vejetasyon süresi ve don olaylarının tarımı kısıtlaması", "option_c": "Çok çeşitli meyve yetiştiriciliğine imkân tanıması", "option_d": "Yıl boyu tarım yapılabilmesi", "option_e": "Sıcak iklim nedeniyle tropik bitki yetiştiriciliği",
+    "correct_option": "B", "explanation": "Doğu Anadolu'nun yüksek rakımı (1500-2000 m ve üzeri) vejetasyon süresini kısaltır ve ilkbahar-sonbahar donlarını sık yaşatır. Bu nedenle ürün çeşitliliği sınırlıdır; tahıl ve hayvancılık ön plandadır.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Afrika kıtasının nüfus artış hızı küresel ortalamaya kıyasla nasıldır?",
+    "option_a": "Küresel ortalamanın çok altında", "option_b": "Küresel ortalamaya eşit", "option_c": "Küresel ortalamanın çok üzerinde; dünyanın en hızlı nüfus büyüyen kıtası", "option_d": "Negatif nüfus artışı yaşanan tek kıta", "option_e": "Nüfus artış hızı sıfır",
+    "correct_option": "C", "explanation": "Afrika, dünyada en hızlı nüfus büyüyen kıtadır. Yüksek doğurganlık oranları, düşen ölüm oranları ve gençlik yapısı nedeniyle kıtanın nüfusunun 2050'ye kadar iki katına çıkması beklenmektedir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de 'GAP' (Güneydoğu Anadolu Projesi) kapsamında inşa edilen en büyük baraj hangisidir?",
+    "option_a": "Keban Barajı", "option_b": "Atatürk Barajı", "option_c": "Karakaya Barajı", "option_d": "Birecik Barajı", "option_e": "Hirfanlı Barajı",
+    "correct_option": "B", "explanation": "Atatürk Barajı, Fırat Nehri üzerinde 1990 yılında tamamlanmıştır. GAP kapsamındaki en büyük baraj olup elektrik üretimi ve sulama açısından Türkiye'nin stratejik projelerinden biridir.", "difficulty": 2
+  },
+  {
+    "topic_id": 19, "topic_name": "Dünya Coğrafyası",
+    "question_text": "Kuzey Amerika'nın en uzun nehri hangisidir?",
+    "option_a": "Colorado", "option_b": "Ohio", "option_c": "Missouri-Mississippi sistemi", "option_d": "Mackenzie", "option_e": "Yukon",
+    "correct_option": "C", "explanation": "Missouri-Mississippi ırmak sistemi, yaklaşık 6000 km uzunluğuyla Kuzey Amerika'nın ve dünyanın en uzun nehir sistemlerinden biridir. Mississippi Nehri Meksika Körfezi'ne dökülür.", "difficulty": 2
+  },
+  {
+    "topic_id": 18, "topic_name": "Beşeri Coğrafya",
+    "question_text": "Bir ülkenin 'nüfus piramidi' ters üçgen biçimindeyse (tabana dar, tepeye geniş) bu durum ne anlama gelir?",
+    "option_a": "Hızla büyüyen genç bir nüfus", "option_b": "Yaşlanan nüfus; düşük doğum oranı ve yüksek yaşlı nüfus oranı", "option_c": "Yoğun göç alan dengeli bir nüfus", "option_d": "Savaş nedeniyle oluşan nüfus açığı", "option_e": "Yüksek bebek ölüm oranı",
+    "correct_option": "B", "explanation": "Ters üçgen (ya da üst tabanı geniş) nüfus piramidi; düşük doğum oranı, uzun yaşam beklentisi ve büyük yaşlı nüfusa işaret eder. Japonya, Almanya ve İtalya gibi gelişmiş ülkeler bu yapıya sahiptir.", "difficulty": 2
+  },
+  {
+    "topic_id": 17, "topic_name": "Türkiye Coğrafyası",
+    "question_text": "Türkiye'de tarım alanlarının en fazla olduğu bölge hangisidir?",
+    "option_a": "Doğu Anadolu", "option_b": "Karadeniz", "option_c": "İç Anadolu", "option_d": "Ege", "option_e": "Güneydoğu Anadolu",
+    "correct_option": "C", "explanation": "İç Anadolu Bölgesi, geniş düzlük ve platolarıyla Türkiye'de en fazla tarım arazisine sahip bölgedir. Tahıl (buğday, arpa) tarımı bu bölgede yoğunlaşmıştır. Konya Ovası Türkiye'nin en büyük tarım ovalarından biridir.", "difficulty": 2
+  }
+]
