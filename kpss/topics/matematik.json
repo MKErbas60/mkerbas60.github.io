@@ -4,146 +4,111 @@
     "subject_id": 2,
     "name": "Temel Kavramlar",
     "order_index": 1,
-    "content": "# Temel Kavramlar\n\nBu bölüm Temel Kavramlar konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Temel Kavramlar\n\nMatematiğin temeli olan sayı kümeleri ve sayıların özelliklerini kapsar.\n\n## 1. Sayı Kümeleri\n* **Rakamlar:** {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}\n* **Doğal Sayılar (N):** {0, 1, 2, ...}\n* **Tam Sayılar (Z):** {..., -2, -1, 0, 1, 2, ...}\n* **Rasyonel Sayılar (Q):** a/b şeklinde yazılabilen sayılar.\n\n## 2. Tek ve Çift Sayılar\n* **Çift Sayılar:** 2n formundadır (..., -2, 0, 2, ...).\n* **Tek Sayılar:** 2n-1 formundadır (..., -1, 1, 3, ...).\n* **Kural:** T + T = Ç, T + Ç = T, Ç + Ç = Ç, T . T = T, T . Ç = Ç\n\n## 3. Pozitif ve Negatif Sayılar\n* (+).(+) = (+), (-).(-) = (+), (+).(-) = (-)\n* Negatif sayıların çift kuvvetleri pozitif, tek kuvvetleri negatiftir.\n\n## 4. Ardışık Sayılar\n* **Terim Sayısı:** (Son Terim - İlk Terim) / Artış Miktarı + 1\n* **Toplam:** (Son Terim + İlk Terim) / 2 . Terim Sayısı\n\n> **Örnek:** a ve b farklı rakamlardır. 3a + 2b'nin en büyük değeri kaçtır?\n> **Çözüm:** a=9, b=8 seçilirse; 3(9) + 2(8) = 27 + 16 = 43."
   },
   {
     "id": 15,
     "subject_id": 2,
     "name": "Rasyonel Sayılar ve Ondalıklı Sayılar",
     "order_index": 2,
-    "content": "# Rasyonel Sayılar ve Ondalıklı Sayılar\n\nBu bölüm Rasyonel Sayılar ve Ondalıklı Sayılar konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Rasyonel ve Ondalıklı Sayılar\n\n## 1. Rasyonel Sayılar\na/b (b ≠ 0) şeklindeki ifadelerdir.\n* **Toplama/Çıkarma:** Paydalar eşitlenir.\n* **Çarpma:** Paylar kendi arasında, paydalar kendi arasında çarpılır.\n* **Bölme:** İlk kesir aynen kalır, ikincisi ters çevrilip çarpılır.\n\n## 2. Ondalıklı Sayılar\nPaydası 10'un kuvveti olan kesirlerdir.\n* **Örnek:** 0,25 = 25/100 = 1/4\n* **Devirli Ondalık:** (Sayının tamamı - Devretmeyen kısım) / (Virgülden sonra devreden kadar 9, devretmeyen kadar 0).\n\n> **Örnek:** 0,4 + 0,04 + 0,004 işleminin sonucu kaçtır?\n> **Çözüm:** Alt alta toplarsak 0,444 sonucuna ulaşırız."
   },
   {
     "id": 16,
     "subject_id": 2,
     "name": "Basit Eşitsizlikler",
     "order_index": 3,
-    "content": "# Basit Eşitsizlikler\n\nBu bölüm Basit Eşitsizlikler konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Basit Eşitsizlikler\n\n<, >, ≤, ≥ sembolleri ile ifade edilen bağıntılardır.\n\n## Özellikler\n1. Eşitsizliğin her iki tarafına aynı sayı eklenip çıkarılabilir.\n2. Pozitif bir sayı ile çarpılırsa veya bölünürse eşitsizlik yön değiştirmez.\n3. **Kritik:** Negatif bir sayı ile çarpılırsa veya bölünürse eşitsizlik **YÖN DEĞİŞTİRİR**.\n\n> **Örnek:** -2x < 10 ise x kaçtır?\n> **Çözüm:** Her iki tarafı -2'ye bölersek x > -5 olur (Yön değişti)."
   },
   {
     "id": 17,
     "subject_id": 2,
     "name": "Mutlak Değer",
     "order_index": 4,
-    "content": "# Mutlak Değer\n\nBu bölüm Mutlak Değer konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Mutlak Değer\n\nBir sayının başlangıç noktasına (0) olan uzaklığıdır. Sonuç asla negatif olamaz.\n\n## Özellikler\n* |x| = x (x ≥ 0 ise)\n* |x| = -x (x < 0 ise)\n* |x.y| = |x|.|y|\n* |x| = a ise x = a veya x = -a.\n\n> **Örnek:** |2x - 4| = 6 denkleminin çözüm kümesi?\n> **Çözüm:** \n> 2x - 4 = 6 => 2x = 10 => x = 5\n> 2x - 4 = -6 => 2x = -2 => x = -1\n> Ç.K = {-1, 5}"
   },
   {
     "id": 18,
     "subject_id": 2,
     "name": "Üslü Sayılar",
     "order_index": 5,
-    "content": "# Üslü Sayılar\n\nBu bölüm Üslü Sayılar konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Üslü Sayılar\n\naⁿ şeklindeki ifadelerdir. a taban, n üstür.\n\n## Özellikler\n* a⁰ = 1 (a ≠ 0)\n* aᵐ . aⁿ = aᵐ⁺ⁿ\n* aᵐ / aⁿ = aᵐ⁻ⁿ\n* (aᵐ)ⁿ = aᵐⁿ\n* (a.b)ⁿ = aⁿ.bⁿ\n* a⁻ⁿ = 1/aⁿ\n\n> **Örnek:** 2⁵ . 2³ / 2⁴ işleminin sonucu?\n> **Çözüm:** 2⁸ / 2⁴ = 2⁸⁻⁴ = 2⁴ = 16."
   },
   {
     "id": 19,
     "subject_id": 2,
     "name": "Köklü Sayılar",
     "order_index": 6,
-    "content": "# Köklü Sayılar\n\nBu bölüm Köklü Sayılar konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Köklü Sayılar\n\nⁿ√a şeklindeki ifadelerdir.\n\n## Özellikler\n* √a . √b = √(a.b)\n* √a / √b = √(a/b)\n* ⁿ√aᵐ = aᵐ/ⁿ\n* Kök dışına çıkarma: √a²b = a√b\n* Eşlenik ile çarpma: 1 / (√2-1) ifadesi (√2+1) ile çarpılır.\n\n> **Örnek:** √75 + √12 - √27 = ?\n> **Çözüm:** 5√3 + 2√3 - 3√3 = (5+2-3)√3 = 4√3."
   },
   {
     "id": 20,
     "subject_id": 2,
     "name": "Çarpanlara Ayırma",
     "order_index": 7,
-    "content": "# Çarpanlara Ayırma\n\nBu bölüm Çarpanlara Ayırma konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Çarpanlara Ayırma\n\nİfadeleri daha sade hale getirmek için kullanılır.\n\n## Önemli Özdeşlikler\n* **Tam Kare:** (a+b)² = a² + 2ab + b²\n* **Tam Kare:** (a-b)² = a² - 2ab + b²\n* **İki Kare Farkı:** a² - b² = (a-b)(a+b)\n* **Ortak Çarpan Parantezi:** ax + ay = a(x+y)\n\n> **Örnek:** x² - 9 / x-3 ifadesinin en sade hali?\n> **Çözüm:** (x-3)(x+3) / (x-3) = x+3."
   },
   {
     "id": 21,
     "subject_id": 2,
     "name": "Oran-Orantı",
     "order_index": 8,
-    "content": "# Oran-Orantı\n\nBu bölüm Oran-Orantı konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Oran-Orantı\n\n* **Oran:** a/b\n* **Orantı:** a/b = c/d = k\n\n## Orantı Türleri\n* **Doğru Orantı:** Biri artarken diğeri de artar (y/x = k).\n* **Ters Orantı:** Biri artarken diğeri azalır (y.x = k).\n\n> **Örnek:** 3 musluk bir havuzu 10 saatte doldurursa, 5 musluk kaç saatte doldurur?\n> **Çözüm:** Musluk sayısı artarsa süre azalır (Ters orantı).\n> 3 . 10 = 5 . x => 30 = 5x => x = 6 saat."
   },
   {
     "id": 22,
     "subject_id": 2,
     "name": "Denklem Çözme",
     "order_index": 9,
-    "content": "# Denklem Çözme\n\nBu bölüm Denklem Çözme konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Denklem Çözme\n\nBirinci dereceden bir bilinmeyenli denklemler: ax + b = 0.\n\n## Adımlar\n1. Bilinenler bir tarafa, bilinmeyenler diğer tarafa toplanır.\n2. Eşitliğin diğer tarafına geçen terim işaret değiştirir.\n3. Her iki taraf bilinmeyenin katsayısına bölünür.\n\n> **Örnek:** 3x - 5 = x + 7 ise x kaçtır?\n> **Çözüm:** 3x - x = 7 + 5 => 2x = 12 => x = 6."
   },
   {
     "id": 23,
     "subject_id": 2,
     "name": "Problemler",
     "order_index": 10,
-    "content": "# Problemler\n\nBu bölüm Problemler konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Problemler\n\nKPSS'nin en çok soru gelen bölümüdür (10-12 soru).\n\n## Başlıca Problem Türleri\n* **Sayı-Kesir:** Denkleme dökme becerisi gerektirir.\n* **Yaş:** Kişilerin yaş farkı sabittir.\n* **Yüzde / Kar-Zarar:** Temel formül: Satış = Maliyet + Kar.\n* **Hız-Zaman:** Yol = Hız . Zaman (x = V.t)\n\n> **Örnek:** Bir sınıftaki erkeklerin sayısı kızların 2 katıdır. Sınıf 30 kişi ise kaç kız vardır?\n> **Çözüm:** Kız=x, Erkek=2x. Toplam 3x = 30 => x = 10 kız."
   },
   {
     "id": 24,
     "subject_id": 2,
     "name": "Kümeler",
     "order_index": 11,
-    "content": "# Kümeler\n\nBu bölüm Kümeler konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Kümeler\n\nİyi tanımlanmış nesneler topluluğudur.\n\n## İşlemler\n* **Birleşim (A ∪ B):** Her iki kümedeki tüm elemanlar.\n* **Kesişim (A ∩ B):** Sadece ortak elemanlar.\n* **Fark (A \\ B):** A'da olup B'de olmayanlar.\n* **Eleman Sayısı:** s(A ∪ B) = s(A) + s(B) - s(A ∩ B)\n\n> **Örnek:** s(A)=10, s(B)=8, s(A∩B)=3 ise s(A∪B) = ?\n> **Çözüm:** 10 + 8 - 3 = 15."
   },
   {
     "id": 25,
     "subject_id": 2,
     "name": "Fonksiyonlar",
     "order_index": 12,
-    "content": "# Fonksiyonlar\n\nBu bölüm Fonksiyonlar konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Fonksiyonlar\n\nA kümesinden B kümesine her elemanı yalnız bir elemanla eşleyen bağıntıdır f: A -> B.\n\n## Kavramlar\n* **Tanım Kümesi (A), Değer Kümesi (B), Görüntü Kümesi (f(A))**\n* **Birim Fonksiyon:** f(x) = x\n* **Sabit Fonksiyon:** f(x) = c\n* **Ters Fonksiyon:** f⁻¹(x)\n\n> **Örnek:** f(x) = 2x + 3 ise f(5) = ?\n> **Çözüm:** f(5) = 2(5) + 3 = 10 + 3 = 13."
   },
   {
     "id": 26,
     "subject_id": 2,
     "name": "İşlem",
     "order_index": 13,
-    "content": "# İşlem\n\nBu bölüm İşlem konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# İşlem\n\nÖzel tanımlanmış matematiksel kurallardır.\n\n## Özellikler\n* Tanımlanan kurala göre sayılar yerleştirilir.\n* İşlem sembolü (Δ, *, o vb.) kuralı temsil eder.\n\n> **Örnek:** a Δ b = 2a + 3b - 1 olarak tanımlanıyor. 4 Δ 2 = ?\n> **Çözüm:** a=4, b=2 için; 2(4) + 3(2) - 1 = 8 + 6 - 1 = 13."
   },
   {
     "id": 27,
     "subject_id": 2,
     "name": "Permütasyon ve Kombinasyon",
     "order_index": 14,
-    "content": "# Permütasyon ve Kombinasyon\n\nBu bölüm Permütasyon ve Kombinasyon konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Permütasyon ve Kombinasyon\n\n* **Permütasyon (Sıralama):** P(n, r) = n! / (n-r)!\n* **Kombinasyon (Seçme):** C(n, r) = n! / [r! . (n-r)!]\n\n> **Örnek:** 5 kişi yan yana kaç farklı şekilde sıralanır?\n> **Çözüm:** 5! = 120 (Permütasyon).\n\n> **Örnek:** 5 kişi arasından 2 kişilik bir ekip kaç farklı şekilde seçilir?\n> **Çözüm:** C(5, 2) = 10 (Kombinasyon)."
   },
   {
     "id": 28,
     "subject_id": 2,
     "name": "Olasılık",
     "order_index": 15,
-    "content": "# Olasılık\n\nBu bölüm Olasılık konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Olasılık\n\nBir olayın olma ihtimalidir.\n\n## Formül\nOlasılık = (İstenen Durum Sayısı) / (Tüm Durumların Sayısı)\n* Sonuç 0 ile 1 arasındadır. 0 imkansız, 1 kesin olaydır.\n\n> **Örnek:** Bir zar atıldığında üst yüze çift sayı gelme olasılığı?\n> **Çözüm:** Tüm durumlar = {1, 2, 3, 4, 5, 6} (6 tane). İstenen = {2, 4, 6} (3 tane). \n> Sonuç = 3/6 = 1/2."
   },
   {
     "id": 29,
     "subject_id": 2,
     "name": "Sayısal Mantık",
     "order_index": 16,
-    "content": "# Sayısal Mantık\n\nBu bölüm Sayısal Mantık konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
-  },
-  {
-    "id": 30,
-    "subject_id": 2,
-    "name": "Geometrik Kavramlar ve Açılar",
-    "order_index": 17,
-    "content": "# Geometrik Kavramlar ve Açılar\n\nBu bölüm Geometrik Kavramlar ve Açılar konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
-  },
-  {
-    "id": 31,
-    "subject_id": 2,
-    "name": "Çokgenler ve Dörtgenler",
-    "order_index": 18,
-    "content": "# Çokgenler ve Dörtgenler\n\nBu bölüm Çokgenler ve Dörtgenler konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
-  },
-  {
-    "id": 32,
-    "subject_id": 2,
-    "name": "Çember ve Daire",
-    "order_index": 19,
-    "content": "# Çember ve Daire\n\nBu bölüm Çember ve Daire konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
-  },
-  {
-    "id": 33,
-    "subject_id": 2,
-    "name": "Analitik Geometri",
-    "order_index": 20,
-    "content": "# Analitik Geometri\n\nBu bölüm Analitik Geometri konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
-  },
-  {
-    "id": 34,
-    "subject_id": 2,
-    "name": "Katı Cisimler",
-    "order_index": 21,
-    "content": "# Katı Cisimler\n\nBu bölüm Katı Cisimler konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Sayısal Mantık\n\nAkıl yürütme, grafik yorumlama ve şekil yeteneği sorularıdır.\n\n## Soru Tipleri\n* **Sayı Dizileri:** Belirli bir kurala göre ilerleyen diziler.\n* **Şekil Yeteneği:** Küp açılımları, döndürme, örüntü tamamlama.\n* **Grafik Yorumlama:** Sütun, çizgi ve daire grafiklerini okuma.\n* **Sözel Mantık Benzeri Sayısal Kurgular.**"
   }
 ]

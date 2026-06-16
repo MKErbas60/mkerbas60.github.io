@@ -1,86 +1,86 @@
 [
   {
     "id": 47,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Türkiye'nin Coğrafi Konumu",
     "order_index": 1,
-    "content": "# Türkiye'nin Coğrafi Konumu\n\nBu bölüm Türkiye'nin Coğrafi Konumu konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türkiye'nin Coğrafi Konumu\n\nTürkiye'nin dünya üzerindeki yeri ve bunun sonuçlarını kapsar.\n\n## 1. Matematik Konum (Mutlak Konum)\n* Türkiye, 36°-42° Kuzey enlemleri ile 26°-45° Doğu boylamları arasında yer alır.\n* **Enlemin Sonuçları:** Kuzey yarım kürede yer alma, Orta kuşakta bulunma, Dört mevsimin belirgin yaşanması. Güneş ışınları asla dik açıyla gelmez (Bakı yönü daima güneydir).\n* **Boylamın Sonuçları:** En doğusu (Iğdır) ile en batısı (Gökçeada) arasında 76 dakikalık zaman farkı (19 boylam farkı).\n\n## 2. Özel Konum (Göreceli Konum)\n* Üç tarafının denizlerle çevrili olması, İstanbul ve Çanakkale boğazlarına sahip olması.\n* Asya, Avrupa ve Afrika kıtaları arasında köprü görevi görmesi.\n* Ortalama yükseltisinin fazla olması (1132 m) ve yer şekillerinin engebeli olması.\n* **Jeopolitik Önem:** Enerji koridoru olması, NATO üyeliği, transit ticaret yolları üzerinde bulunması."
   },
   {
     "id": 48,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Türkiye'nin İklimi ve Bitki Örtüsü",
     "order_index": 2,
-    "content": "# Türkiye'nin İklimi ve Bitki Örtüsü\n\nBu bölüm Türkiye'nin İklimi ve Bitki Örtüsü konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türkiye'nin İklimi ve Bitki Örtüsü\n\n## 1. İklim Tipleri\n* **Akdeniz İklimi:** Yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır. En çok yağış kışın düşer. Bitki örtüsü **Maki**'dir (Zeytin, zakkum, defne).\n* **Karadeniz İklimi:** Her mevsim yağışlı ve ılımandır. En çok yağış sonbaharda düşer. Bitki örtüsü **Orman**'dır.\n* **Karasal İklim:** Yazlar sıcak, kışlar soğuk ve kar yağışlıdır. En çok yağış ilkbaharda düşer. Bitki örtüsü **Bozkır (Step)**'dır (Geven, gelincik).\n\n## 2. Türkiye'de Rüzgarlar\n* **Soğuk Rüzgarlar (Kayıp):** Karayel (KB), Yıldız (K), Poyraz (KD).\n* **Sıcak Rüzgarlar (Sakal):** Samyeli (GD), Kıble (G), Lodos (GB).\n* **Fön Rüzgarı:** Yamaçtan aşağı inerken ısınan kuru rüzgardır (Doğu Karadeniz'de mikroklima sağlar).\n\n## 3. Toprak Tipleri\n* **Zonal Topraklar:** Terra-Rossa (Akdeniz), Çernezyom (Erzurum-Kars - En verimli), Podzol (Batı Karadeniz)."
   },
   {
     "id": 49,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Türkiye'nin Fiziki Özellikleri",
     "order_index": 3,
-    "content": "# Türkiye'nin Fiziki Özellikleri\n\nBu bölüm Türkiye'nin Fiziki Özellikleri konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türkiye'nin Fiziki Özellikleri\n\n## 1. Dağlar\n* **Kıvrım Dağlar:** Kuzey Anadolu Dağları ve Toroslar (Alp-Himalaya kuşağı).\n* **Kırıklı Dağlar:** Ege Bölgesi (Kaz, Madra, Yunt, Bozdağlar, Aydın, Menteşe).\n* **Volkanik Dağlar:** Ağrı (En yüksek), Tendürek, Süphan, Nemrut (Bitlis), Erciyes, Hasan Dağı, Melendiz, Karadağ, Karacadağ.\n\n## 2. Ovalar ve Platolar\n* **Delta Ovaları:** Çukurova (En büyük), Bafra, Çarşamba, Silifke, Selçuk, Menemen.\n* **Platolar:** Yazılıkaya (Ege), Haymana, Cihanbeyli, Obruk (İç Anadolu), Erzurum-Kars (Lav platosu).\n\n## 3. Akarsular ve Göller\n* **Akarsular:** Çoruh (En hızlı), Kızılırmak (En uzun - ülke içi), Fırat (En çok su taşıyan).\n* **Göller:** Van Gölü (En büyük - sodalı), Tuz Gölü (En sığ), Beyşehir (En büyük tatlı su gölü)."
   },
   {
     "id": 50,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Türkiye'de Nüfus ve Yerleşme",
     "order_index": 4,
-    "content": "# Türkiye'de Nüfus ve Yerleşme\n\nBu bölüm Türkiye'de Nüfus ve Yerleşme konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türkiye'de Nüfus ve Yerleşme (2024-2025 Güncel)\n\n## 1. 2024 ADNKS Verileri\n* **Toplam Nüfus:** 85.664.944 kişi.\n* **Nüfus Artış Hızı:** Binde 3,4'e yükselmiştir.\n* **Ortanca Yaş:** 34,4'e yükseldi (Nüfus yaşlanıyor).\n* **Ortanca Yaşı En Yüksek İl:** Sinop (En yaşlı).\n* **Ortanca Yaşı En Düşük İl:** Şanlıurfa (En genç).\n\n## 2. İstatistikler\n* **Nüfusu En Fazla Olan İl:** İstanbul.\n* **Nüfusu En Az Olan İl:** Bayburt.\n* **Nüfus Yoğunluğu (Aritmetik):** 111 kişi/km².\n* **Yoğunluğu En Fazla İl:** İstanbul.\n* **Yoğunluğu En Az İl:** Tunceli.\n\n## 3. Yerleşme\n* **Kentleşme Oranı:** %93,4.\n* **Kır Nüfusu:** %6,6.\n* **Dağınık Yerleşme:** Karadeniz (Engebe ve su çok).\n* **Toplu Yerleşme:** İç Anadolu (Düzlük ve su az)."
   },
   {
     "id": 51,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Tarım",
     "order_index": 5,
-    "content": "# Tarım\n\nBu bölüm Tarım konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türkiye'de Tarım (2024-2025 Güncel)\n\n## 1. Üretimde Birinci Olan İller (TÜİK 2024)\n* **Tahıllar:** Buğday, Arpa, Mısır, Şeker Pancarı, Kuru Fasulye -> **Konya**.\n* **Endüstri Bitkileri:** Pamuk, Kırmızı Mercimek, Antep Fıstığı -> **Şanlıurfa**.\n* **Zeytin (Toplam):** **Manisa** (Aydın'ı geçerek 1. sıraya yerleşti).\n* **Tütün:** **Adıyaman** (Denizli'yi geçti).\n* **Ayçiçeği:** Edirne.\n* **Çay:** Rize.\n* **Fındık:** Ordu.\n* **Kayısı:** Malatya.\n* **Elma / Gül:** Isparta.\n* **Muz / Çilek:** Mersin.\n* **Turunçgiller / Domates:** Antalya.\n* **İncir:** Aydın.\n\n## 2. Kritik Bilgiler\n* **Mısır:** Konya, sulama (KOP) ile Adana'yı geçerek birinci olmuştur.\n* **Antep Fıstığı:** İsim Gaziantep olsa da üretim lideri Şanlıurfa'dır."
   },
   {
     "id": 52,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Hayvancılık",
     "order_index": 6,
-    "content": "# Hayvancılık\n\nBu bölüm Hayvancılık konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türkiye'de Hayvancılık\n\n* **Küçükbaş (Koyun):** En çok **Van** ve **Konya** (Bozkır kültürü).\n* **Küçükbaş (Kıl Keçisi):** En çok **Mersin** ve **Antalya** (Teke-Taşeli platoları).\n* **Küçükbaş (Tiftik Keçisi):** En çok **Ankara**.\n* **Büyükbaş (Sığır):** En çok **Konya** (Besi hayvancılığı) ve **Erzurum-Kars** (Mera).\n* **Arıcılık (Bal):** En çok **Adana**, **Ordu** ve **Muğla**.\n* **Kümes Hayvancılığı:** Tüketim merkezlerine yakınlık nedeniyle **Manisa**, **Balıkesir**, **Sakarya**.\n* **İpek Böcekçiliği:** En çok **Diyarbakır** (Antalya ve Bilecik izler)."
   },
   {
     "id": 53,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Madenler ve Enerji Kaynakları",
     "order_index": 7,
-    "content": "# Madenler ve Enerji Kaynakları\n\nBu bölüm Madenler ve Enerji Kaynakları konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Madenler ve Enerji Kaynakları (2024-2025 Güncel)\n\n## 1. Önemli Madenler\n* **Bor (%72 Dünya Payı):** Balıkesir (Bigadiç), Eskişehir (Kırka), Kütahya (Emet).\n* **Demir:** Sivas (Divriği), Malatya (Hekimhan).\n* **Bakır (KADER):** Kastamonu-Küre, Artvin-Murgul, Diyarbakır-Ergani, Elazığ-Maden, Rize-Çayeli.\n* **Krom:** Elazığ (Guleman), Muğla (Fethiye).\n* **Mermer:** İhracatta en çok gelir getiren madenimizdir.\n\n## 2. Enerji Kaynakları\n* **Petrol (Gabar Keşfi):** Şırnak Gabar Dağı'nda günlük üretim 70 bin varili aşmıştır.\n* **Doğal Gaz (Sakarya Sahası):** Karadeniz Filyos açıklarında üretim devam etmektedir.\n* **Nükleer:** Mersin-Akkuyu (Türkiye'nin ilk nükleer santrali).\n* **Taş Kömürü:** Zonguldak (Çatalağzı Termik Santrali).\n* **Linyit:** En büyük rezerv Kahramanmaraş (Afşin-Elbistan).\n* **Jeotermal:** Aydın (Germencik), Denizli (Sarayköy).\n* **Güneş:** En büyük santral Konya-Karapınar (GES)."
   },
   {
     "id": 54,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Sanayi ve Endüstri",
     "order_index": 8,
-    "content": "# Sanayi ve Endüstri\n\nBu bölüm Sanayi ve Endüstri konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Sanayi ve Endüstri\n\n* **Otomotiv:** İhracat lideri sektörümüz. Kocaeli, Bursa, İstanbul, Sakarya.\n* **Demir-Çelik:** Karabük, Ereğli (Enerji), İskenderun (Ulaşım), Sivas (Hammadde).\n* **Petrol Rafinerileri:** İzmit (İpraş), İzmir (Aliağa), Mersin (Ataş - depolama), Kırıkkale (Orta Anadolu), Batman (Hammaddeye yakın).\n* **Kağıt:** Giresun (Aksu), Zonguldak (Çaycuma), Muğla (Dalaman), Kastamonu (Taşköprü).\n* **Şeker:** Hammaddeye yakınlık şarttır (Çabuk bozulur). Kıyı bölgelerinde tercih edilmez (Ekonomik değeri yüksek ürünler ekilir)."
   },
   {
     "id": 55,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Ulaşım",
     "order_index": 9,
-    "content": "# Ulaşım\n\nBu bölüm Ulaşım konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türkiye'de Ulaşım\n\n* **Karayolu:** En yaygın ulaşım türü. Dağların uzanış yönü nedeniyle doğu-batı gelişmiştir (Kuzey-Güney geçitlerle sağlanır).\n* **Önemli Geçitler:** Sertavul, Gülek, Belen (Akdeniz); Zigana, Kop, Ecevit (Karadeniz).\n* **Demiryolu:** Antalya, Muğla, Kastamonu, Sinop, Doğu Karadeniz illerinde demiryolu bağlantısı **YOKTUR**.\n* **Denizyolu:** En ucuz ulaşım. Hinterlandı en geniş liman **İstanbul**, sonra **İzmir** ve **Mersin**'dir.\n* **Havayolu:** En hızlı ulaşım. Rize-Artvin ve Ordu-Giresun havalimanları deniz doldurularak yapılmıştır."
   },
   {
     "id": 56,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Ticaret",
     "order_index": 10,
-    "content": "# Ticaret\n\nBu bölüm Ticaret konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türkiye'de Ticaret\n\n* **İhracat (Sattıklarımız):** Otomotiv (1.), Kimyevi maddeler, Hazır giyim, Çelik, Gıda ürünleri.\n* **İthalat (Aldıklarımız):** Mineral yakıtlar (Enerji/Petrol/Gaz - 1.), Makineler, Değerli taşlar.\n* **Dış Ticaret Açığı:** İthalatın ihracattan fazla olmasıdır. En büyük sebebi enerji ithalatıdır.\n* **Ticaret Partnerleri:** İhracatta en çok **Almanya**, ithalatta en çok **Rusya** ve **Çin**."
   },
   {
     "id": 57,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Turizm",
     "order_index": 11,
-    "content": "# Turizm\n\nBu bölüm Turizm konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türkiye'de Turizm\n\n* **UNESCO Dünya Miras Listesi (Son Durum):** 21 varlık.\n    * Gordion Antik Kenti (Ankara)\n    * Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri (Konya-Eşrefoğlu, Kastamonu-Mahmut Bey vb.)\n    * Göbeklitepe (Şanlıurfa)\n* **Sakin Şehirler (Cittaslow):** İlk Seferihisar (İzmir). Son eklenenlerden biri Kastamonu-Daday.\n* **Kış Turizmi:** Bursa-Uludağ, Erzurum-Palandöken, Kayseri-Erciyes, Bolu-Kartalkaya.\n* **Yayla Turizmi:** En çok Karadeniz ve Akdeniz (Toroslar)."
   },
   {
     "id": 58,
-    "subject_id": 4,
+    "subject_id": 5,
     "name": "Bölgeler Coğrafyası",
     "order_index": 12,
-    "content": "# Bölgeler Coğrafyası\n\nBu bölüm Bölgeler Coğrafyası konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Bölgeler Coğrafyası\n\n* **Marmara:** Sanayi, ulaşım ve ticaretin merkezi. Kümes hayvancılığı ve ayçiçeği lideri.\n* **İç Anadolu:** Tahıl ambarı. Küçükbaş hayvancılık ve lületaşı (Eskişehir).\n* **Ege:** Kırıklı dağlar. Jeotermal enerji, linyit, zeytin, üzüm, incir lideri.\n* **Akdeniz:** Turunçgiller, muz ve seracılık merkezi. Terke-Taşeli platoları (Kıl keçisi).\n* **Karadeniz:** Her mevsim yağış. Çay, fındık lideri. Orman varlığı en çok.\n* **Doğu Anadolu:** En yüksek ve soğuk bölge. Büyükbaş mera hayvancılığı ve kayısı lideri.\n* **Güneydoğu Anadolu:** GAP projesi. Pamuk, mercimek ve Antep fıstığı lideri. Petrol çıkarımı."
   }
 ]

@@ -1,58 +1,58 @@
 [
   {
     "id": 59,
-    "subject_id": 5,
+    "subject_id": 6,
     "name": "Temel Hukuk Kavramları",
     "order_index": 1,
-    "content": "# Temel Hukuk Kavramları\n\nBu bölüm Temel Hukuk Kavramları konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Temel Hukuk Kavramları\n\nHukuk, toplum yaşamını düzenleyen ve devlet gücüyle desteklenen kurallar bütünüdür.\n\n## 1. Sosyal Hayatı Düzenleyen Kurallar\n* **Din Kuralları:** Uhrevi (manevi) yaptırımlıdır.\n* **Ahlak Kuralları:** Kişinin vicdanıyla ilgilidir (Manevi yaptırım).\n* **Görgü Kuralları:** Adab-ı muaşeret (Manevi yaptırım).\n* **Hukuk Kuralları:** Diğerlerinden farkı **MADDİ YAPTIRIMLI** (devlet gücü) olmasıdır.\n\n## 2. Hukukun Yaptırımları (Müeyyideleri)\n* **Ceza:** Kanuna aykırı fiillere hapis veya adli para cezası.\n* **Cebri İcra:** Borcunu yerine getirmeyeni devlet gücüyle zorlamak.\n* **Tazminat:** Verilen zararın maddi/manevi ödetilmesi.\n* **Hükümsüzlük:** Yokluk (kurucu unsur eksikliği), Butlan (geçersizlik), Tek taraflı bağlamazlık.\n* **İptal:** İdari işlemlerin yargı yoluyla geçersiz kılınması.\n\n## 3. Normlar Hiyerarşisi\n1. Anayasa (En üst)\n2. Kanunlar / Milletlerarası Antlaşmalar / CB Kararnameleri\n3. Yönetmelikler\n4. Diğer Adsız Düzenleyici İşlemler\n\n## 4. Ehliyet Kavramı\n* **Hak Ehliyeti:** Sağ ve tam doğmak şartıyla ana rahmine düştüğü an başlar.\n* **Fiil Ehliyeti:** Ayırt etme gücü, erginlik (18 yaş) ve kısıtlı olmamayı gerektirir."
   },
   {
     "id": 60,
-    "subject_id": 5,
+    "subject_id": 6,
     "name": "Anayasal Kavramlar",
     "order_index": 2,
-    "content": "# Anayasal Kavramlar\n\nBu bölüm Anayasal Kavramlar konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Anayasal Kavramlar\n\n1982 Anayasası'nın ilk üç maddesi değiştirilemez ve değiştirilmesi teklif dahi edilemez.\n\n## 1. Değişmez Maddeler\n* **Madde 1:** Türkiye Devleti bir Cumhuriyettir.\n* **Madde 2:** Cumhuriyetin nitelikleri (Demokratik, laik, sosyal, hukuk devleti; insan haklarına saygılı; Atatürk milliyetçiliğine bağlı).\n* **Madde 3:** Devletin bütünlüğü, resmi dili (Türkçe), bayrağı, milli marşı ve başkenti (Ankara).\n\n## 2. Temel İlkeler\n* **Hukuk Devleti:** Faaliyetlerinde hukuk kurallarına bağlı olan devlet.\n* **Sosyal Devlet:** Bireylere asgari yaşam standardı sağlayan, fırsat eşitliği sunan devlet.\n* **Laiklik:** Din ve devlet işlerinin ayrılması, inanç hürriyeti.\n* **Egemenlik:** Kayıtsız şartsız Milletindir. Millet bu egemenliği Anayasa'nın koyduğu esaslara göre yetkili organlar eliyle kullanır."
   },
   {
     "id": 61,
-    "subject_id": 5,
+    "subject_id": 6,
     "name": "Türk Anayasa Tarihi",
     "order_index": 3,
-    "content": "# Türk Anayasa Tarihi\n\nBu bölüm Türk Anayasa Tarihi konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Türk Anayasa Tarihi\n\nTürk anayasacılık süreci 19. yüzyılda başlamıştır.\n\n## 1. Osmanlı Dönemi\n* **Sened-i İttifak (1808):** Padişahın yetkilerini kısıtlayan ilk belge (Anayasa değildir).\n* **Tanzimat Fermanı (1839):** Kanun üstünlüğü ilkesi ilk kez vurgulandı.\n* **Kanun-i Esasi (1876):** Türk tarihinin ilk anayasası.\n\n## 2. Cumhuriyet Dönemi\n* **1921 Anayasası (Teşkilat-ı Esasiye):** Tek yumuşak ve çerçeve anayasa. Meclis hükümeti sistemi.\n* **1924 Anayasası:** Karma hükümet sistemi. Çoğunlukçu demokrasi.\n* **1961 Anayasası:** En özgürlükçü anayasa. Anayasa Mahkemesi kuruldu. Kuvvetler ayrılığı sertleşti.\n* **1982 Anayasası:** Halen yürürlüktedir. Sert ve kazuistik (ayrıntılı). Rasyonelleştirilmiş parlamentarizmden 2017 değişikliği ile Cumhurbaşkanlığı Hükümet Sistemine geçilmiştir."
   },
   {
     "id": 62,
-    "subject_id": 5,
+    "subject_id": 6,
     "name": "Temel Hak Ödevler",
     "order_index": 4,
-    "content": "# Temel Hak Ödevler\n\nBu bölüm Temel Hak Ödevler konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Temel Hak ve Ödevler\n\nHaklar, Jellinek'in sınıflandırmasına göre üç grupta toplanır.\n\n## 1. Kişi Hak ve Ödevleri (Negatif Statü)\nDevletin müdahale edemeyeceği dokunulmaz alanlardır.\n* Özel hayatın gizliliği, konut dokunulmazlığı.\n* Din ve vicdan hürriyeti, mülkiyet hakkı.\n* Kişi hürriyeti ve güvenliği.\n\n## 2. Sosyal ve Ekonomik Haklar (Pozitif Statü)\nBireyin devletten talep ettiği haklardır.\n* Eğitim ve öğrenim hakkı, konut hakkı.\n* Çalışma hakkı, grev ve toplu iş sözleşmesi.\n* Sosyal güvenlik hakkı.\n\n## 3. Siyasi Hak ve Ödevler (Aktif Statü)\nDevlet yönetimine katılmayı sağlayan haklardır.\n* Türk vatandaşlığı, seçme ve seçilme hakkı.\n* Vergi ödevi, vatan hizmeti (askerlik).\n* Siyasi parti kurma, kamu hizmetlerine girme (memuriyet).\n\n## Sert Çekirdek Haklar\nSavaş durumunda dahi dokunulamayan haklardır: Yaşama hakkı, masumiyet karinesi, suç ve cezaların geçmişe yürümemesi, din/vicdan/düşünce açıklanmasına zorlanamama."
   },
   {
     "id": 63,
-    "subject_id": 5,
+    "subject_id": 6,
     "name": "Yasama",
     "order_index": 5,
-    "content": "# Yasama\n\nBu bölüm Yasama konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Yasama (TBMM)\n\nYasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisi'nindir. Bu yetki devredilemez.\n\n## 1. Milletvekili Seçilme Yeterliliği\n* 18 yaşını doldurmuş olmak.\n* En az ilkokul mezunu olmak.\n* Askerlikle ilişiği olmamak.\n* Kısıtlı olmamak, kamu hizmetinden yasaklı olmamak.\n\n## 2. Seçimler ve Dönemler\n* TBMM seçimleri 5 yılda bir Cumhurbaşkanı seçimi ile aynı gün yapılır.\n* Savaş sebebiyle seçimler en fazla 1 yıl geri bırakılabilir (Kararı TBMM alır).\n\n## 3. TBMM'nin Görevleri\n* Kanun koymak, değiştirmek ve kaldırmak.\n* Bütçe ve kesin hesap kanun tekliflerini görüşmek ve kabul etmek.\n* Para basılmasına ve savaş ilanına karar vermek.\n* Milletlerarası andlaşmaların onaylanmasını uygun bulmak.\n* Üye tam sayısının 3/5 çoğunluğu ile genel ve özel af ilanı."
   },
   {
     "id": 64,
-    "subject_id": 5,
+    "subject_id": 6,
     "name": "Yürütme",
     "order_index": 6,
-    "content": "# Yürütme\n\nBu bölüm Yürütme konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Yürütme (Cumhurbaşkanı)\n\nYürütme yetkisi ve görevi Cumhurbaşkanı tarafından yerine getirilir.\n\n## 1. Cumhurbaşkanı Seçimi\n* 40 yaşını doldurmuş olmak.\n* Yükseköğrenim yapmış olmak.\n* Milletvekili seçilme yeterliliğine sahip olmak.\n* Halk tarafından seçilir, görev süresi 5 yıldır. Bir kimse en fazla 2 kez seçilebilir.\n\n## 2. Cumhurbaşkanının Yetkileri\n* Devletin başıdır, TSK'nın başkomutanlığını temsil eder.\n* Bakanları ve Cumhurbaşkanı yardımcılarını atar ve görevden alır.\n* Kanunları yayımlar, gerekli gördüğünde TBMM'ye geri gönderir (Veto).\n* Anayasa Mahkemesi, Danıştay, Yargıtay ve HSK'ya üye seçer.\n* Cumhurbaşkanlığı Kararnamesi çıkarır.\n\n## 3. Olağanüstü Hal (OHAL)\nCumhurbaşkanı; savaş, seferberlik, ayaklanma, tabii afet veya ağır ekonomik bunalım durumlarında süresi 6 ayı geçmemek üzere OHAL ilan edebilir. Karar Resmi Gazete'de yayımlanır ve TBMM onayına sunulur."
   },
   {
     "id": 65,
-    "subject_id": 5,
+    "subject_id": 6,
     "name": "Yargı",
     "order_index": 7,
-    "content": "# Yargı\n\nBu bölüm Yargı konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# Yargı\n\nYargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.\n\n## 1. Yüksek Mahkemeler\n* **Anayasa Mahkemesi:** Kanunların Anayasa'ya uygunluğunu denetler. 15 üyeden oluşur.\n* **Yargıtay:** Adliye mahkemelerince verilen karar ve hükümlerin son inceleme merciidir (Adli yargı).\n* **Danıştay:** İdari davaların son inceleme merciidir (İdari yargı).\n* **Uyuşmazlık Mahkemesi:** Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını çözer.\n\n## 2. Hakimler ve Savcılar Kurulu (HSK)\n* 13 üyeden oluşur. Başkanı Adalet Bakanı'dır. \n* Adalet Bakanı Müsteşarı (Yardımcısı) doğal üyedir.\n* Hakim ve savcıların özlük işlerini (atama, terfi, disiplin) yürütür.\n\n## 3. Sayıştay\nKamu idarelerinin gelir, gider ve mallarını TBMM adına denetler. Kararları kesindir ancak bir yüksek mahkeme değildir."
   },
   {
     "id": 66,
-    "subject_id": 5,
+    "subject_id": 6,
     "name": "İdare Hukuku",
     "order_index": 8,
-    "content": "# İdare Hukuku\n\nBu bölüm İdare Hukuku konusu için detaylı konu anlatımı içermektedir.\n\n## Genel Bilgiler\n• Bu konu KPSS sınavında önemli bir yer tutmaktadır.\n• Temel kavramları anlamak, soruları çözmek için kritiktir.\n• Sık çıkan soru tiplerini inceleyerek konuyu pekiştirebilirsiniz.\n\n*İçerik daha sonra güncellenecektir.*"
+    "content": "# İdare Hukuku\n\nİdare hukukunun amacı kamu yararını sağlamaktır. İdare, kuruluşu ve görevleriyle bir bütündür.\n\n## 1. İdarenin Teşkilat Yapısı\n* **Merkezden Yönetim:** \n    * **Başkent:** Cumhurbaşkanı, Bakanlıklar, Yardımcı Kuruluşlar (MGK, Danıştay, Sayıştay).\n    * **Taşra:** İl (Vali), İlçe (Kaymakam), Bölge Kuruluşları.\n* **Yerinden Yönetim (Mahalli İdareler):**\n    * İl Özel İdaresi (Vali - Karar organı İl Genel Meclisi).\n    * Belediye (Belediye Başkanı).\n    * Büyükşehir Belediyesi.\n    * Köy (Muhtar - Karar organı Köy Derneği ve İhtiyar Heyeti).\n\n## 2. Denetim İlkeleri\n* **Hiyerarşi:** Aynı kurum içindeki üstün ast üzerindeki denetim yetkisidir (Örn: Vali-Kaymakam).\n* **İdari Vesayet:** Merkezi yönetimin, yerinden yönetim kuruluşları üzerindeki denetim yetkisidir (Örn: İçişleri Bakanı-Belediye Başkanı).\n\n## 3. Kamu Görevlileri\nDevlet memurluğu ilkeleri: Kariyer, Liyakat ve Sınıflandırmadır."
   }
 ]
