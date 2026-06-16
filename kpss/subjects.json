@@ -5,7 +5,8 @@
     "name": "Türkçe",
     "group": "GY",
     "order_index": 1,
-    "question_count": 30
+    "question_count": 30,
+    "levels": ["lisans", "onlisans", "ortaogretim"]
   },
   {
     "id": 2,
@@ -13,38 +14,52 @@
     "name": "Matematik",
     "group": "GY",
     "order_index": 2,
-    "question_count": 30
+    "question_count": 27,
+    "levels": ["lisans", "onlisans", "ortaogretim"]
   },
   {
     "id": 3,
-    "key": "tarih",
-    "name": "Tarih",
-    "group": "GK",
+    "key": "geometri",
+    "name": "Geometri",
+    "group": "GY",
     "order_index": 3,
-    "question_count": 12
+    "question_count": 3,
+    "levels": ["lisans"]
   },
   {
     "id": 4,
-    "key": "cografya",
-    "name": "Coğrafya",
+    "key": "tarih",
+    "name": "Tarih",
     "group": "GK",
     "order_index": 4,
-    "question_count": 12
+    "question_count": 27,
+    "levels": ["lisans", "onlisans", "ortaogretim"]
   },
   {
     "id": 5,
-    "key": "vatandaslik",
-    "name": "Vatandaşlık/Anayasa",
+    "key": "cografya",
+    "name": "Coğrafya",
     "group": "GK",
     "order_index": 5,
-    "question_count": 12
+    "question_count": 18,
+    "levels": ["lisans", "onlisans", "ortaogretim"]
   },
   {
     "id": 6,
-    "key": "ataturk_ilkeleri",
-    "name": "Atatürk İlkeleri",
+    "key": "vatandaslik",
+    "name": "Vatandaşlık / Anayasa",
     "group": "GK",
     "order_index": 6,
-    "question_count": 12
+    "question_count": 9,
+    "levels": ["lisans", "onlisans", "ortaogretim"]
+  },
+  {
+    "id": 7,
+    "key": "guncel",
+    "name": "Güncel Bilgiler",
+    "group": "GK",
+    "order_index": 7,
+    "question_count": 6,
+    "levels": ["lisans", "onlisans", "ortaogretim"]
   }
 ]
