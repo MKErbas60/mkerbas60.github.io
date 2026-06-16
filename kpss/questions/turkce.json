@@ -1,6 +1,8 @@
-[
+﻿[
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde noktalama yanlışı yapılmıştır?",
     "option_a": "Bugün hava çok güzeldi; parkta yürüdük.",
     "option_b": "Ali, kitabını almadan okula gitmişti.",
@@ -9,10 +11,13 @@
     "option_e": "Kapıyı çaldı ama; kimse açmadı.",
     "correct_option": "E",
     "explanation": "Noktalı virgül ile virgül birlikte kullanılmaz. 'ama;' yerine ya 'ama,' ya da ';' kullanılmalıdır.",
-    "difficulty": 2, "year": 2023
+    "difficulty": 2,
+    "year": 2023
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki kelimelerin hangisi yanlış yazılmıştır?",
     "option_a": "hâlâ",
     "option_b": "birbiryle",
@@ -24,7 +29,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "\"Güzel bir gün geçirdik\" cümlesinde 'güzel' sözcüğünün türü nedir?",
     "option_a": "İsim",
     "option_b": "Zamir",
@@ -36,7 +43,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Gözünü budaktan sakınmamak\" deyiminin anlamı nedir?",
     "option_a": "Çok dikkatli olmak",
     "option_b": "Hiçbir şeyden korkmamak, gözüpek olmak",
@@ -48,7 +57,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir paragrafın ana fikrini bulmak için aşağıdakilerden hangisi yapılmalıdır?",
     "option_a": "Paragraftaki bütün cümleleri ezberlemelidir",
     "option_b": "Yardımcı düşünceler tespit edilmelidir",
@@ -60,7 +71,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Babam bana kitap aldı.\" cümlesinde özne hangisidir?",
     "option_a": "bana",
     "option_b": "kitap",
@@ -72,7 +85,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Hangi seçenekte ünlem işareti doğru kullanılmıştır?",
     "option_a": "Ne kadar güzel bir manzara!",
     "option_b": "Bugün hava çok güzel!dir.",
@@ -84,7 +99,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'açık' sözcüğü mecaz anlamda kullanılmıştır?",
     "option_a": "Pencere açık kalmış.",
     "option_b": "Bugün hava açık.",
@@ -96,7 +113,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "\"Ben de seninle geleceğim.\" cümlesinde 'de' sözcüğünün türü nedir?",
     "option_a": "İsim",
     "option_b": "Sıfat",
@@ -108,7 +127,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdakilerden hangisi paragrafın konu cümlesinin özelliklerinden değildir?",
     "option_a": "Genel ve kapsamlı bir yargı içerir",
     "option_b": "Paragraftaki diğer cümlelere temel oluşturur",
@@ -120,7 +141,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde virgül kullanımı doğrudur?",
     "option_a": "Koştu, bağırdı ve yoruldu.",
     "option_b": "Ahmet, ve Ayşe birlikte geldi.",
@@ -132,7 +155,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "İki nokta üst üste (:) aşağıdaki seçeneklerin hangisinde yanlış kullanılmıştır?",
     "option_a": "Üç şeye dikkat et: çalışmaya, sabra, azme.",
     "option_b": "Saat: 15.30'da toplantı var.",
@@ -144,7 +169,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde tire (-) doğru kullanılmıştır?",
     "option_a": "Öğretmen - öğrenci ilişkisi önemlidir.",
     "option_b": "Pazar - günü gelirim.",
@@ -156,7 +183,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki seçeneklerin hangisinde kısa çizgi (-) kullanımı yanlıştır?",
     "option_a": "20-25 yaşları arasındaki gençler",
     "option_b": "İstanbul-Ankara hattı",
@@ -168,7 +197,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde üç nokta (...) doğru kullanılmıştır?",
     "option_a": "Bilmiyorum... Belki gelir.",
     "option_b": "Eve gittim... ve uyudum.",
@@ -180,7 +211,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki seçeneklerin hangisinde soru işareti yanlış kullanılmıştır?",
     "option_a": "Bugün nereye gidiyorsun?",
     "option_b": "Bunu gerçekten biliyor musun?",
@@ -192,7 +225,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde parantez kullanımı yanlıştır?",
     "option_a": "Türk Dil Kurumu (TDK) bu konuda karar aldı.",
     "option_b": "Atatürk (1881-1938) bu ülkenin kurucusudur.",
@@ -204,7 +239,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki seçeneklerin hangisinde noktalı virgül (;) doğru kullanılmıştır?",
     "option_a": "Kitap okudum; ve notlar aldım.",
     "option_b": "İstanbul'u; Ankara'yı ve İzmir'i gezdim.",
@@ -216,7 +253,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde tırnak işareti yanlış kullanılmıştır?",
     "option_a": "Atatürk, 'Ne mutlu Türküm diyene!' demiştir.",
     "option_b": "\"Kitap\" sözcüğü Arapçadan dilimize geçmiştir.",
@@ -228,7 +267,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdakilerden hangisinde kesme işareti (') yanlış kullanılmıştır?",
     "option_a": "Türkiye'nin başkenti Ankara'dır.",
     "option_b": "1923'te Cumhuriyet ilan edildi.",
@@ -240,7 +281,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki cümlelerin hangisinde büyük harf yanlış kullanılmıştır?",
     "option_a": "Türkçe, Türk milletinin dilidir.",
     "option_b": "Atatürk, Samsun'a 19 Mayıs 1919'da çıktı.",
@@ -252,7 +295,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki birleşik kelimelerin hangisi yanlış yazılmıştır?",
     "option_a": "kahvaltı",
     "option_b": "vazgeçmek",
@@ -264,7 +309,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki sayı yazımlarından hangisi doğrudur?",
     "option_a": "1000000 kişi geldi",
     "option_b": "Fiyat 1.500.000 TL'dir.",
@@ -276,7 +323,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki seçeneklerin hangisinde sözcük yanlış yazılmıştır?",
     "option_a": "fotoğraf",
     "option_b": "şampuan",
@@ -288,7 +337,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'de/da' bağlacı yanlış yazılmıştır?",
     "option_a": "Sen de gel, biz de gidelim.",
     "option_b": "Evde kitap da, dergi de vardı.",
@@ -300,7 +351,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdakilerin hangisinde sözcük doğru bölünmüştür (heceleme)?",
     "option_a": "ar-ka-daş",
     "option_b": "ka-le-m",
@@ -312,7 +365,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki seçeneklerin hangisinde özel ad yanlış yazılmıştır?",
     "option_a": "Mehmet Akif Ersoy",
     "option_b": "türk dil kurumu",
@@ -324,7 +379,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki seçeneklerin hangisinde ek yanlış yazılmıştır?",
     "option_a": "Ankara'ya",
     "option_b": "Türkiye'nin",
@@ -336,7 +393,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki seçeneklerin hangisinde ünsüz benzeşmesi kuralına uyulmamıştır?",
     "option_a": "gittiğimde",
     "option_b": "gezdiğimde",
@@ -348,7 +407,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki seçeneklerin hangisinde sözcük doğru yazılmıştır?",
     "option_a": "hergün",
     "option_b": "birçok",
@@ -360,7 +421,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdakilerden hangisi yabancı sözcüklere verilen örneklerden biriyle yanlış eşleştirilmiştir?",
     "option_a": "senfoni – müzik",
     "option_b": "telgraf – haberleşme",
@@ -372,7 +435,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "\"Bugün çok yoruldum.\" cümlesinde 'çok' sözcüğünün türü nedir?",
     "option_a": "Sıfat",
     "option_b": "Zarf",
@@ -384,7 +449,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde zamir (adıl) kullanılmıştır?",
     "option_a": "Kitabı okudum.",
     "option_b": "Güzel bir çiçek aldım.",
@@ -396,7 +463,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde bağlaç kullanılmamıştır?",
     "option_a": "Hem çalıştı hem dinlendi.",
     "option_b": "Ya gelir ya gelmez.",
@@ -408,7 +477,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "\"Arkadaşım benden üç yaş büyük.\" cümlesinde 'üç' sözcüğü hangi türdedir?",
     "option_a": "İsim",
     "option_b": "Zarf",
@@ -420,7 +491,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "Aşağıdaki seçeneklerin hangisinde edat (ilgeç) örneği verilmemiştir?",
     "option_a": "Eve kadar yürüdük.",
     "option_b": "Seninle geleceğim.",
@@ -432,7 +505,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "\"Yavaş yavaş eve döndü.\" cümlesinde 'yavaş yavaş' ikilemi hangi sözcük türüdür?",
     "option_a": "Sıfat",
     "option_b": "Zarf",
@@ -444,7 +519,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde fiilimsi (eylemsi) kullanılmıştır?",
     "option_a": "Kardeşim bugün geldi.",
     "option_b": "Eve gittiğimde kimse yoktu.",
@@ -456,7 +533,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "\"Dün okuduğum kitap çok güzeldi.\" cümlesinde 'okuduğum' sözcüğü hangi fiilimsi türüdür?",
     "option_a": "İsim fiil (mastar)",
     "option_b": "Sıfat fiil (ortaç)",
@@ -468,7 +547,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde ünlem kullanılmıştır?",
     "option_a": "Çok güzel bir gün geçirdik.",
     "option_b": "Ah, ne kadar özledim sizi!",
@@ -480,7 +561,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "\"Koşa koşa geldi.\" cümlesinde 'koşa koşa' sözcüğünün türü nedir?",
     "option_a": "Sıfat",
     "option_b": "İsim",
@@ -492,7 +575,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "Aşağıdaki sözcüklerden hangisi hem isim hem sıfat olarak kullanılabilir?",
     "option_a": "kalem",
     "option_b": "güzel",
@@ -504,7 +589,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki atasözlerinden hangisi 'acele işin akıbeti kötü olur' anlamını taşır?",
     "option_a": "Damlaya damlaya göl olur.",
     "option_b": "Acele giden ecele gider.",
@@ -516,7 +603,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Kılı kırk yarmak\" deyimi ne anlama gelir?",
     "option_a": "İşe yaramaz olmak",
     "option_b": "Çok ince düşünmek, ayrıntılara çok önem vermek",
@@ -528,7 +617,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde sözcük terim anlamıyla kullanılmıştır?",
     "option_a": "Kalbi çok temiz bir insandır.",
     "option_b": "Kalp krizi can almaya devam ediyor.",
@@ -540,7 +631,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Dağları delip geçen\" anlamındaki deyim hangisidir?",
     "option_a": "Dağ gibi olmak",
     "option_b": "Dağı taşı birbirine katmak",
@@ -552,7 +645,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde eş anlamlı sözcükler kullanılmıştır?",
     "option_a": "Güzel ve çirkin iki kız kardeşti.",
     "option_b": "Siyah ve beyaz renkler zıttır.",
@@ -564,7 +659,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"İt ürür, kervan yürür\" atasözünün anlamı aşağıdakilerden hangisidir?",
     "option_a": "Her işin bir zamanı vardır.",
     "option_b": "Kararlı olan kişi olumsuz eleştirilere aldırmadan yoluna devam eder.",
@@ -576,7 +673,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki seçeneklerin hangisinde sözcüğün yan anlamı (mecaz anlam) kullanılmamıştır?",
     "option_a": "Buz gibi bir bakış attı.",
     "option_b": "Elma ağaçtan uzağa düşmez.",
@@ -588,7 +687,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Bir elin nesi var iki elin sesi var\" atasözü hangi düşünceyi en iyi anlatır?",
     "option_a": "Yalnız başarılamayan işler birlikte başarılabilir.",
     "option_b": "Çalışmadan kazanılmaz.",
@@ -600,7 +701,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki deyimlerin hangisi 'çok meşgul olmak' anlamına gelmez?",
     "option_a": "Başı dönmek",
     "option_b": "Ağzına kadar dolu olmak",
@@ -612,7 +715,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Bal tutan parmağını yalar.\" atasözünü doğru yorumlayan seçenek hangisidir?",
     "option_a": "Çalışmak her zaman kazanç getirir.",
     "option_b": "Güzel şeyler herkes tarafından fark edilir.",
@@ -624,7 +729,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'yüz' sözcüğü çok anlamlılık özelliği taşır?",
     "option_a": "Yüzü çok güzeldi.",
     "option_b": "Yüzünü yıkadı.",
@@ -636,7 +743,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde sözcükler arasında zıt anlam ilişkisi vardır?",
     "option_a": "Hem sıcak hem soğuk iklim yaşadık.",
     "option_b": "Ev ile konut aynı anlama gelir.",
@@ -648,7 +757,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Taşıma su ile değirmen dönmez.\" atasözü aşağıdaki düşüncelerden hangisini en iyi ifade eder?",
     "option_a": "Her şeyin doğal yoldan yürümesi gerekir, geçici çözümlerle kalıcı sonuç alınamaz.",
     "option_b": "Çalışmadan başarı olmaz.",
@@ -660,7 +771,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Dil ile gönül bir olmak\" deyimi ne anlama gelir?",
     "option_a": "Konuşmak ile düşünmek aynı şeydir.",
     "option_b": "Söyledikleriyle hissettiklerinin aynı olması, içten ve samimi olmak.",
@@ -672,7 +785,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'baş' sözcüğü gerçek anlamıyla kullanılmıştır?",
     "option_a": "O projenin başını çekiyor.",
     "option_b": "Başı beladan kurtulmak bilmiyor.",
@@ -684,7 +799,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdaki paragraf türlerinden hangisi 'bir olayı veya durumu zaman sırasına göre anlatan' paragrafı tanımlar?",
     "option_a": "Betimleme paragrafı",
     "option_b": "Öyküleme (anlatım) paragrafı",
@@ -696,7 +813,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir paragrafın 'destekleyici cümleler'inin görevi nedir?",
     "option_a": "Ana fikri doğrudan ifade etmek",
     "option_b": "Paragrafı bitirmek",
@@ -708,7 +827,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdakilerden hangisi betimleme paragrafının özelliklerinden değildir?",
     "option_a": "Duyu organlarına hitap eder.",
     "option_b": "Kişi, yer veya nesne anlatılır.",
@@ -720,7 +841,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "\"Düşünceler arasındaki bağlantıyı sağlayan\" paragraf unsurunun adı nedir?",
     "option_a": "Konu cümlesi",
     "option_b": "Destekleyici cümle",
@@ -732,7 +855,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdakilerden hangisi tartışma (argümantasyon) paragrafında bulunması gerekenlerden değildir?",
     "option_a": "Bir iddia ya da tez",
     "option_b": "İddianın desteklenmesi için kanıtlar",
@@ -744,7 +869,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir paragrafta 'sonuç cümlesi'nin görevi nedir?",
     "option_a": "Yeni bir konuya geçişi sağlamak",
     "option_b": "Okuyucuya soru sormak",
@@ -756,7 +883,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdakilerden hangisi 'yazar'ın paragraftaki görüşünü bulmayı kolaylaştırır?",
     "option_a": "Paragraftaki en uzun cümleyi okumak",
     "option_b": "Yalnızca son cümleyi okumak",
@@ -768,7 +897,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdaki ifadelerin hangisi paragrafın 'bütünlük' ilkesini en doğru biçimde tanımlar?",
     "option_a": "Her cümle farklı bir konu içermelidir.",
     "option_b": "Paragraftaki tüm cümleler tek bir ana fikri desteklemelidir.",
@@ -780,7 +911,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir paragrafı doğru başlıklandırabilmek için aşağıdakilerden hangisi yapılmalıdır?",
     "option_a": "İlk cümleyi başlık olarak almak",
     "option_b": "Paragrafın ana fikrini kısa ve genel bir ifadeyle aktarmak",
@@ -792,7 +925,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdaki paragraf özelliklerinden hangisi 'tutarlılık' ilkesini ifade eder?",
     "option_a": "Cümleler birbiriyle uyumlu ve mantıksal sırayla dizilmiştir.",
     "option_b": "Paragrafta bolca sözcük kullanılmıştır.",
@@ -804,7 +939,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdakilerden hangisi paragraf sorularında 'ana fikir sorusu' türüne girer?",
     "option_a": "'Aşağıdaki bilgilerden hangisi metinde yer almamaktadır?'",
     "option_b": "'Bu metnin başlığı ne olabilir?'",
@@ -816,7 +953,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdaki paragraf türlerinden hangisi okuyucuyu inandırmayı, bir görüşü benimsemeyi sağlamayı amaçlar?",
     "option_a": "Öyküleme",
     "option_b": "Betimleme",
@@ -828,7 +967,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Öğretmen tahtaya yazdı.\" cümlesinin nesnesi hangisidir?",
     "option_a": "Öğretmen",
     "option_b": "Tahtaya",
@@ -840,7 +981,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Ali kitabı Ayşe'ye verdi.\" cümlesinde 'Ayşe'ye' sözcüğü hangi cümle öğesidir?",
     "option_a": "Özne",
     "option_b": "Nesne (belirtili)",
@@ -852,7 +995,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "Aşağıdaki cümlelerin hangisi bileşik cümledir?",
     "option_a": "Ahmet güzelce koştu.",
     "option_b": "Yağmur yağdı.",
@@ -864,7 +1009,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Sabah erkenden kalktım ve işe gittim.\" cümlesi yapısına göre nasıl sınıflandırılır?",
     "option_a": "Basit cümle",
     "option_b": "Birleşik cümle",
@@ -876,7 +1023,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Yarın gelmeyeceğim.\" cümlesi anlamına göre hangi tür cümledir?",
     "option_a": "Olumlu cümle",
     "option_b": "Soru cümlesi",
@@ -888,7 +1037,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Arabayı sürdü.\" cümlesinde 'arabayı' sözcüğü hangi cümle öğesidir?",
     "option_a": "Özne",
     "option_b": "Belirtili nesne",
@@ -900,7 +1051,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Koşarak geldi.\" cümlesinde 'koşarak' sözcüğü hangi cümle öğesidir?",
     "option_a": "Özne",
     "option_b": "Nesne",
@@ -912,7 +1065,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Kitabı okumak istiyorum.\" cümlesinde yüklem hangisidir?",
     "option_a": "Kitabı",
     "option_b": "Okumak",
@@ -924,7 +1079,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'gizli özne' vardır?",
     "option_a": "Ben her gün spor yaparım.",
     "option_b": "Ahmet derse çok çalışıyor.",
@@ -936,7 +1093,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Hava soğuk.\" cümlesinde yüklem hangi türdedir?",
     "option_a": "Eylem yüklemi (fiil yüklemi)",
     "option_b": "Ad yüklemi (isim yüklemi)",
@@ -948,7 +1107,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'belirtisiz nesne' kullanılmıştır?",
     "option_a": "Kitabı okudu.",
     "option_b": "Arabayı sattı.",
@@ -960,7 +1121,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Annem mutfakta yemek yapıyor.\" cümlesinde 'mutfakta' hangi cümle öğesidir?",
     "option_a": "Özne",
     "option_b": "Nesne",
@@ -972,7 +1135,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"O konuşmadan önce ben söz istedim.\" cümlesinde kaç tane özne vardır?",
     "option_a": "Bir",
     "option_b": "İki",
@@ -984,7 +1149,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Trenle İstanbul'a gittim.\" cümlesinde 'trenle' hangi cümle öğesidir?",
     "option_a": "Özne",
     "option_b": "Belirtili nesne",
@@ -996,7 +1163,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdakilerin hangisinde sözcükler arasındaki ses uyumu (ünlü uyumu) bozulmuştur?",
     "option_a": "geliyorum",
     "option_b": "bakıyorum",
@@ -1008,7 +1177,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "\"Dağ gibi adam.\" cümlesinde 'gibi' sözcüğünün türü nedir?",
     "option_a": "Sıfat",
     "option_b": "Zarf",
@@ -1020,7 +1191,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Damlaya damlaya göl olur.\" atasözünün verdiği mesaj hangisidir?",
     "option_a": "Suyu korumak gerekir.",
     "option_b": "Küçük birikimlerin zamanla büyük sonuçlar doğurduğu.",
@@ -1032,7 +1205,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Ağzı var dili yok\" deyimi hangi anlamda kullanılır?",
     "option_a": "Suskunluğu seven biri",
     "option_b": "Söylemesi gerekeni söyleyemeyen, sesini çıkaramayan kişi",
@@ -1044,7 +1219,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük 'ad aktarması (mecaz-ı mürsel)' ile kullanılmıştır?",
     "option_a": "Güneş doğdu, kuşlar şarkı söyledi.",
     "option_b": "Ankara bu konuyu değerlendiriyor.",
@@ -1056,7 +1233,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Köprüden önce sel basmak\" deyimi ne anlama gelir?",
     "option_a": "Çok erken davranmak",
     "option_b": "Olmayan bir şeyden korkmak, gereksiz kaygı duymak",
@@ -1068,7 +1247,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'ad aktarması (düz değişmece)' değil 'istiare (eğretileme)' kullanılmıştır?",
     "option_a": "Ankara karar aldı.",
     "option_b": "Kalem bu davayı savundu.",
@@ -1080,7 +1261,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "\"Yazar paragrafta örneklerden genele gidiyorsa\" bu ne tür bir düşünce geliştirme yöntemidir?",
     "option_a": "Tümden gelim",
     "option_b": "Tüme varım",
@@ -1092,7 +1275,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Ne kadar güzel bir yer!\" cümlesi anlamına göre hangi tür cümledir?",
     "option_a": "Soru cümlesi",
     "option_b": "Olumsuz cümle",
@@ -1104,7 +1289,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "Aşağıdaki seçeneklerin hangisinde 'sıfat' sözcüğü doğru tanımlanmıştır?",
     "option_a": "İsmin yerine geçen sözcüktür.",
     "option_b": "Eylemi niteleyen sözcüktür.",
@@ -1116,7 +1303,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Devlet kuşu\" deyimi ne anlama gelir?",
     "option_a": "Devlet tarafından beslenen kuş",
     "option_b": "Nadir görülen bir kuş türü",
@@ -1128,7 +1317,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Çocukken çok kitap okurdum.\" cümlesindeki yüklemin zamanı nedir?",
     "option_a": "Geniş zaman",
     "option_b": "Geçmiş zaman (belirli geçmiş)",
@@ -1140,7 +1331,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Çivi çakılmış yere basmak\" deyiminin anlamı nedir?",
     "option_a": "Çok dikkatli yürümek",
     "option_b": "Zor durumda kalmak, sıkışıp kalmak",
@@ -1152,7 +1345,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki cümlelerin hangisinde '-ki' eki yanlış yazılmıştır?",
     "option_a": "Dündeki haber çok üzücüydü.",
     "option_b": "Benimki en güzeliydi.",
@@ -1164,7 +1359,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki seçeneklerin hangisinde eğik çizgi (/) doğru kullanılmıştır?",
     "option_a": "İlkbahar/yaz mevsimleri çok güzeldir.",
     "option_b": "Türk/Alman ilişkileri iyi gidiyor.",
@@ -1176,7 +1373,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Akşama kadar ders çalıştı.\" cümlesinde 'akşama kadar' hangi cümle öğesidir?",
     "option_a": "Özne",
     "option_b": "Nesne",
@@ -1188,7 +1387,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde isim (ad) kullanılmamıştır?",
     "option_a": "Kalem çantamda.",
     "option_b": "Hızlıca koştu.",
@@ -1200,7 +1401,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Yazarın duygu ve düşüncelerini doğrudan aktardığı, birinci tekil şahsın ön planda olduğu anlatı türü hangisidir?",
     "option_a": "Hikâye",
     "option_b": "Roman",
@@ -1212,7 +1415,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Atı alan Üsküdar'ı geçti.\" atasözü hangi durumda kullanılır?",
     "option_a": "İşlerin çok hızlı ilerlediği durumlar",
     "option_b": "Fırsatın kaçırıldığı ya da iş için çok geç kalındığı durumlar",
@@ -1224,7 +1429,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Kapıyı çalmadan girdi.\" cümlesinde 'çalmadan' sözcüğü hangi görevdedir?",
     "option_a": "Özne",
     "option_b": "Dolaylı tümleç",
@@ -1236,7 +1443,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Söz gümüşse sükût altındır.\" atasözü hangi anlamı taşır?",
     "option_a": "Konuşmak her zaman yararlıdır.",
     "option_b": "Sessizlik zaman zaman konuşmaktan daha değerlidir.",
@@ -1248,7 +1457,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki seçeneklerin hangisinde çoğul eki yanlış kullanılmıştır?",
     "option_a": "çocuklar",
     "option_b": "kitaplar",
@@ -1260,7 +1471,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "\"Hiç kimse gelmedi.\" cümlesinde 'hiç kimse' sözcük öbeği hangi türdendir?",
     "option_a": "Sıfat tamlaması",
     "option_b": "Belirsizlik zamiri",
@@ -1272,7 +1485,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Çam sakızı çoban armağanı\" deyimi ne anlamda kullanılır?",
     "option_a": "Değerli ve nadir bir hediye",
     "option_b": "Güzel kokulu bir bitki",
@@ -1284,7 +1499,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "Aşağıdaki cümlelerin hangisi eylem yüklemlidir?",
     "option_a": "O çok çalışkandır.",
     "option_b": "Hava bugün çok soğuk.",
@@ -1296,7 +1513,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Kulağına küpe olmak\" deyiminin anlamı nedir?",
     "option_a": "Çok iyi dinlemek",
     "option_b": "Başkasına öğüt vermek",
@@ -1308,7 +1527,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdakilerden hangisi bir paragrafta 'düşünceyi geliştirme yolu' değildir?",
     "option_a": "Örnekleme",
     "option_b": "Karşılaştırma",
@@ -1320,7 +1541,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Aldığı kitabı hiç okumadı.\" cümlesinde 'aldığı' sözcüğünün cümledeki görevi nedir?",
     "option_a": "Özne",
     "option_b": "Sıfat (kitabı niteleyen ortaç/sıfat fiil)",
@@ -1332,7 +1555,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Sözcük Türleri",
+    "topic_id": 4,
+    "exam_type": "lisans",
+    "topic_name": "Sözcük Türleri",
     "question_text": "Aşağıdaki sözcüklerden hangisi 'sıfat' değil 'isim' olarak kullanılmaktadır?",
     "option_a": "\"kırmızı araba\" cümlesinde 'kırmızı'",
     "option_b": "\"güzel kız\" cümlesinde 'güzel'",
@@ -1344,7 +1569,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Noktalama İşaretleri",
+    "topic_id": 9,
+    "exam_type": "lisans",
+    "topic_name": "Noktalama İşaretleri",
     "question_text": "Aşağıdaki cümlelerin hangisinde nokta yanlış kullanılmıştır?",
     "option_a": "Bugün okula gittim.",
     "option_b": "Dr. Ahmet Yılmaz bu konuyu anlattı.",
@@ -1356,7 +1583,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Canı sıkılmak\" deyimi ne anlama gelir?",
     "option_a": "Hasta olmak",
     "option_b": "Öfkelenmek",
@@ -1368,7 +1597,9 @@
     "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki seçeneklerin hangisinde yabancı kaynaklı sözcük Türkçe ses düzenine uydurularak yanlış yazılmıştır?",
     "option_a": "taksi",
     "option_b": "bisiklet",
@@ -1380,7 +1611,9 @@
     "difficulty": 3
   },
   {
-    "topic_id": 4, "topic_name": "Anlam Bilgisi",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "\"Nereye gidersen git, önce kendinle git.\" cümlesinde anlatılmak istenen nedir?",
     "option_a": "Yolculukta yalnız gidilmeli.",
     "option_b": "İnsan her şeyden önce kendisiyle dürüst ve barışık olmalıdır.",
@@ -1392,7 +1625,9 @@
     "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Cümle Bilgisi",
+    "topic_id": 6,
+    "exam_type": "lisans",
+    "topic_name": "Cümle Bilgisi",
     "question_text": "\"Ne geldi ne gitti.\" cümlesi yapısına göre nasıl değerlendirilir?",
     "option_a": "Basit olumlu cümle",
     "option_b": "Sıralı olumsuz cümle",
@@ -1404,501 +1639,1165 @@
     "difficulty": 3
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "'Ayak' sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamda kullanılmıştır?",
-    "option_a": "Ayağı çamura bulandı.", "option_b": "Dağın ayağında küçük bir köy vardı.", "option_c": "Ayağındaki ayakkabıyı çıkardı.", "option_d": "Koşarken ayağını burktu.", "option_e": "Ayağını yıkayıp uyudu.",
-    "correct_option": "B", "explanation": "'Dağın ayağı' ifadesinde 'ayak' sözcüğü gerçek anlamından uzaklaşarak 'eteklik, alt bölüm' anlamında mecaz olarak kullanılmıştır.", "difficulty": 2
+    "option_a": "Ayağı çamura bulandı.",
+    "option_b": "Dağın ayağında küçük bir köy vardı.",
+    "option_c": "Ayağındaki ayakkabıyı çıkardı.",
+    "option_d": "Koşarken ayağını burktu.",
+    "option_e": "Ayağını yıkayıp uyudu.",
+    "correct_option": "B",
+    "explanation": "'Dağın ayağı' ifadesinde 'ayak' sözcüğü gerçek anlamından uzaklaşarak 'eteklik, alt bölüm' anlamında mecaz olarak kullanılmıştır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdakilerin hangisinde bir deyim kullanılmıştır?",
-    "option_a": "Uzun süredir onunla görüşmüyordu.", "option_b": "Birden ortada kaldı.", "option_c": "Ağzından laf almak çok zordu.", "option_d": "Kitabı saat üçe kadar okudu.", "option_e": "Sınava çok az çalışmıştı.",
-    "correct_option": "C", "explanation": "'Ağzından laf almak' bir deyimdir; birinin ağzını açtırıp konuşturmanın güçlüğünü anlatır. Deyimler; sözcüklerin gerçek anlamlarından sıyrılarak kalıplaşmış ve yeni anlam kazanmış söz öbeklerinden oluşur.", "difficulty": 2
+    "option_a": "Uzun süredir onunla görüşmüyordu.",
+    "option_b": "Birden ortada kaldı.",
+    "option_c": "Ağzından laf almak çok zordu.",
+    "option_d": "Kitabı saat üçe kadar okudu.",
+    "option_e": "Sınava çok az çalışmıştı.",
+    "correct_option": "C",
+    "explanation": "'Ağzından laf almak' bir deyimdir; birinin ağzını açtırıp konuşturmanın güçlüğünü anlatır. Deyimler; sözcüklerin gerçek anlamlarından sıyrılarak kalıplaşmış ve yeni anlam kazanmış söz öbeklerinden oluşur.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki atasözlerinden hangisinin anlamı 'küçük yardımların bir araya gelmesiyle büyük işler başarılabilir' şeklinde özetlenebilir?",
-    "option_a": "Damlaya damlaya göl olur.", "option_b": "İt ürür kervan yürür.", "option_c": "Üzüm üzüme baka baka kararır.", "option_d": "Dost başa, düşman ayağa bakar.", "option_e": "Taşıma su ile değirmen dönmez.",
-    "correct_option": "A", "explanation": "'Damlaya damlaya göl olur' atasözü; küçük katkıların birikmesiyle büyük sonuçlar elde edileceğini anlatır. Bu atasözü sabır ve birikim kavramlarını pekiştirir.", "difficulty": 1
+    "option_a": "Damlaya damlaya göl olur.",
+    "option_b": "İt ürür kervan yürür.",
+    "option_c": "Üzüm üzüme baka baka kararır.",
+    "option_d": "Dost başa, düşman ayağa bakar.",
+    "option_e": "Taşıma su ile değirmen dönmez.",
+    "correct_option": "A",
+    "explanation": "'Damlaya damlaya göl olur' atasözü; küçük katkıların birikmesiyle büyük sonuçlar elde edileceğini anlatır. Bu atasözü sabır ve birikim kavramlarını pekiştirir.",
+    "difficulty": 1
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "'Gözünü seveyim' ifadesi hangi anlam özelliği taşır?",
-    "option_a": "Gerçek anlam", "option_b": "Yan anlam", "option_c": "Mecaz anlam", "option_d": "Terim anlam", "option_e": "Deyim",
-    "correct_option": "E", "explanation": "'Gözünü seveyim' kalıplaşmış, sözcüklerin gerçek anlamından uzaklaşmış bir deyimdir; 'güzelim, nazım, canım' gibi sevecen ve yalvarma içerikli anlamlar taşır.", "difficulty": 2
+    "option_a": "Gerçek anlam",
+    "option_b": "Yan anlam",
+    "option_c": "Mecaz anlam",
+    "option_d": "Terim anlam",
+    "option_e": "Deyim",
+    "correct_option": "E",
+    "explanation": "'Gözünü seveyim' kalıplaşmış, sözcüklerin gerçek anlamından uzaklaşmış bir deyimdir; 'güzelim, nazım, canım' gibi sevecen ve yalvarma içerikli anlamlar taşır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki sözcük çiftlerinden hangisi gerçek anlamda zıt anlam ilişkisi taşır?",
-    "option_a": "Siyah - Beyaz", "option_b": "Güzel - Çirkin", "option_c": "Soğuk - Sıcak", "option_d": "Eski - Yeni", "option_e": "Hepsi gerçek anlamda zıt anlam ilişkisi taşır.",
-    "correct_option": "E", "explanation": "Listelenen tüm çiftler (siyah-beyaz, güzel-çirkin, soğuk-sıcak, eski-yeni) gerçek anlamdaki zıt anlam ilişkisine sahiptir. Zıt anlamlılık; iki sözcüğün birbirinin tam karşıtı anlamlar taşımasını ifade eder.", "difficulty": 1
+    "option_a": "Siyah - Beyaz",
+    "option_b": "Güzel - Çirkin",
+    "option_c": "Soğuk - Sıcak",
+    "option_d": "Eski - Yeni",
+    "option_e": "Hepsi gerçek anlamda zıt anlam ilişkisi taşır.",
+    "correct_option": "E",
+    "explanation": "Listelenen tüm çiftler (siyah-beyaz, güzel-çirkin, soğuk-sıcak, eski-yeni) gerçek anlamdaki zıt anlam ilişkisine sahiptir. Zıt anlamlılık; iki sözcüğün birbirinin tam karşıtı anlamlar taşımasını ifade eder.",
+    "difficulty": 1
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "'Gönlü açıktı bu sabah.' cümlesinde altı çizili sözcük hangi anlam özelliği taşır?",
-    "option_a": "Gerçek anlam: Geniş, ferah", "option_b": "Mecaz anlam: Mutlu, neşeli, kaygısız", "option_c": "Terim anlam", "option_d": "Somut anlam", "option_e": "Eş anlam",
-    "correct_option": "B", "explanation": "'Gönlü açık' ifadesinde 'açık' sözcüğü gerçek anlamından (engelsiz, kapalı olmayan) uzaklaşmış; gönül sözcüğüyle birleşerek 'neşeli, kaygısız, açık kalpli' anlamını kazanmıştır.", "difficulty": 2
+    "option_a": "Gerçek anlam: Geniş, ferah",
+    "option_b": "Mecaz anlam: Mutlu, neşeli, kaygısız",
+    "option_c": "Terim anlam",
+    "option_d": "Somut anlam",
+    "option_e": "Eş anlam",
+    "correct_option": "B",
+    "explanation": "'Gönlü açık' ifadesinde 'açık' sözcüğü gerçek anlamından (engelsiz, kapalı olmayan) uzaklaşmış; gönül sözcüğüyle birleşerek 'neşeli, kaygısız, açık kalpli' anlamını kazanmıştır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdakilerden hangisi bir eş anlamlı sözcük çiftidir?",
-    "option_a": "Kaygı - Sevinç", "option_b": "Tasa - Gam", "option_c": "Hüzün - Neşe", "option_d": "Kin - Sevgi", "option_e": "Sabır - Öfke",
-    "correct_option": "B", "explanation": "'Tasa' ve 'gam' sözcükleri her ikisi de 'keder, üzüntü, dert' anlamına gelir; eş anlamlıdırlar. Diğer çiftlerde ise zıt anlamlılık söz konusudur.", "difficulty": 2
+    "option_a": "Kaygı - Sevinç",
+    "option_b": "Tasa - Gam",
+    "option_c": "Hüzün - Neşe",
+    "option_d": "Kin - Sevgi",
+    "option_e": "Sabır - Öfke",
+    "correct_option": "B",
+    "explanation": "'Tasa' ve 'gam' sözcükleri her ikisi de 'keder, üzüntü, dert' anlamına gelir; eş anlamlıdırlar. Diğer çiftlerde ise zıt anlamlılık söz konusudur.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerde 'baş' sözcüğü hangi seçenekte 'lider, yönetici' anlamında kullanılmıştır?",
-    "option_a": "Başını havaya kaldırdı.", "option_b": "Sofranın başına oturdu.", "option_c": "Millet, kendine bir baş seçmeli.", "option_d": "Sobanın başında ısındı.", "option_e": "Başı döndü ve yere oturdu.",
-    "correct_option": "C", "explanation": "'Kendine bir baş seçmeli' cümlesinde 'baş' sözcüğü 'lider, yönetici' anlamını taşır. Diğer cümlelerde ise 'başın' farklı mecaz ya da gerçek anlamları söz konusudur.", "difficulty": 2
+    "option_a": "Başını havaya kaldırdı.",
+    "option_b": "Sofranın başına oturdu.",
+    "option_c": "Millet, kendine bir baş seçmeli.",
+    "option_d": "Sobanın başında ısındı.",
+    "option_e": "Başı döndü ve yere oturdu.",
+    "correct_option": "C",
+    "explanation": "'Kendine bir baş seçmeli' cümlesinde 'baş' sözcüğü 'lider, yönetici' anlamını taşır. Diğer cümlelerde ise 'başın' farklı mecaz ya da gerçek anlamları söz konusudur.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "'Kör topal' deyiminin cümle içindeki anlamı nedir?",
-    "option_a": "Görme ve yürüme engelli birini ifade eder.", "option_b": "Büyük bir titizlik ve özenle yapılan iş", "option_c": "Eksikliklere rağmen zorla, güçlükle ilerleme", "option_d": "Her konuda bilgisizlik", "option_e": "Bir işi çabucak bitirme",
-    "correct_option": "C", "explanation": "'Kör topal' deyimi; 'kusurlu, eksik, güçlük çekerek de olsa' anlamında kullanılır. 'Kör topal bu işi bitirdik.' cümlesinde eksikliklere rağmen bir işin tamamlandığı anlatılır.", "difficulty": 2
+    "option_a": "Görme ve yürüme engelli birini ifade eder.",
+    "option_b": "Büyük bir titizlik ve özenle yapılan iş",
+    "option_c": "Eksikliklere rağmen zorla, güçlükle ilerleme",
+    "option_d": "Her konuda bilgisizlik",
+    "option_e": "Bir işi çabucak bitirme",
+    "correct_option": "C",
+    "explanation": "'Kör topal' deyimi; 'kusurlu, eksik, güçlük çekerek de olsa' anlamında kullanılır. 'Kör topal bu işi bitirdik.' cümlesinde eksikliklere rağmen bir işin tamamlandığı anlatılır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'sert' sözcüğü yan anlamlı kullanılmıştır?",
-    "option_a": "Taş çok sertti.", "option_b": "Söyledikleri sözler çok sertti.", "option_c": "Ekmek bayatladığı için sertleşmişti.", "option_d": "Soğuk havada buz sertleşir.", "option_e": "Yere düşen çekirdek sertti.",
-    "correct_option": "B", "explanation": "'Sert sözler' ifadesinde 'sert' sözcüğü fiziksel sertliği değil, yakıcı, kırıcı ve keskin anlamlar taşır; bu da sözcüğün yan anlam kullanımına örnektir.", "difficulty": 2
+    "option_a": "Taş çok sertti.",
+    "option_b": "Söyledikleri sözler çok sertti.",
+    "option_c": "Ekmek bayatladığı için sertleşmişti.",
+    "option_d": "Soğuk havada buz sertleşir.",
+    "option_e": "Yere düşen çekirdek sertti.",
+    "correct_option": "B",
+    "explanation": "'Sert sözler' ifadesinde 'sert' sözcüğü fiziksel sertliği değil, yakıcı, kırıcı ve keskin anlamlar taşır; bu da sözcüğün yan anlam kullanımına örnektir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki ifadelerden hangisi bir atasözüdür?",
-    "option_a": "Kaş yapayım derken göz çıkardı.", "option_b": "Aşağı tükürsen sakal, yukarı tükürsen bıyık.", "option_c": "Gözden uzak olan gönülden de uzak olur.", "option_d": "Hepsi", "option_e": "Ağzı olan konuşur.",
-    "correct_option": "D", "explanation": "Verilen ifadelerin tümü Türkçe'de kullanılan atasözleridir: 'Kaş yapayım derken göz çıkardı', 'Aşağı tükürsen sakal yukarı tükürsen bıyık' ve 'Gözden uzak olan gönülden de uzak olur' birer atasözüdür.", "difficulty": 2
+    "option_a": "Kaş yapayım derken göz çıkardı.",
+    "option_b": "Aşağı tükürsen sakal, yukarı tükürsen bıyık.",
+    "option_c": "Gözden uzak olan gönülden de uzak olur.",
+    "option_d": "Hepsi",
+    "option_e": "Ağzı olan konuşur.",
+    "correct_option": "D",
+    "explanation": "Verilen ifadelerin tümü Türkçe'de kullanılan atasözleridir: 'Kaş yapayım derken göz çıkardı', 'Aşağı tükürsen sakal yukarı tükürsen bıyık' ve 'Gözden uzak olan gönülden de uzak olur' birer atasözüdür.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlede hangi sözcük 'terim anlam' taşımaktadır? 'Tümcenin öznesi bulunamadı.'",
-    "option_a": "Tümce", "option_b": "Özne", "option_c": "Bulunamadı", "option_d": "Hem tümce hem özne", "option_e": "Hiçbiri",
-    "correct_option": "D", "explanation": "'Tümce' ve 'özne', dilbilgisinde belirli ve özel anlamları olan terim sözcüklerdir. Terim anlam; sözcüklerin belirli bir bilim, sanat ya da meslek dalında özel ve kesin anlam kazanmasıdır.", "difficulty": 2
+    "option_a": "Tümce",
+    "option_b": "Özne",
+    "option_c": "Bulunamadı",
+    "option_d": "Hem tümce hem özne",
+    "option_e": "Hiçbiri",
+    "correct_option": "D",
+    "explanation": "'Tümce' ve 'özne', dilbilgisinde belirli ve özel anlamları olan terim sözcüklerdir. Terim anlam; sözcüklerin belirli bir bilim, sanat ya da meslek dalında özel ve kesin anlam kazanmasıdır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "'Yürek' sözcüğü aşağıdaki cümlelerden hangisinde gerçek anlamda kullanılmıştır?",
-    "option_a": "O kadar yürekliydi ki korkudan titreyenlerin önünde yürüdü.", "option_b": "Yüreği sıkıştı ve doktora gitmek zorunda kaldı.", "option_c": "Bu haber yüreğimi parçaladı.", "option_d": "Yüreği burkuldu bu haberi duyunca.", "option_e": "Yürekleri soğuk karanlıkta titredi.",
-    "correct_option": "B", "explanation": "'Yüreği sıkıştı' cümlesinde 'yürek', anatomik organ (kalp) anlamındadır ve gerçek anlamda kullanılmıştır. Diğer cümlelerde ise 'yürek' mecaz anlamda (cesaret, duygu merkezi) kullanılmıştır.", "difficulty": 2
+    "option_a": "O kadar yürekliydi ki korkudan titreyenlerin önünde yürüdü.",
+    "option_b": "Yüreği sıkıştı ve doktora gitmek zorunda kaldı.",
+    "option_c": "Bu haber yüreğimi parçaladı.",
+    "option_d": "Yüreği burkuldu bu haberi duyunca.",
+    "option_e": "Yürekleri soğuk karanlıkta titredi.",
+    "correct_option": "B",
+    "explanation": "'Yüreği sıkıştı' cümlesinde 'yürek', anatomik organ (kalp) anlamındadır ve gerçek anlamda kullanılmıştır. Diğer cümlelerde ise 'yürek' mecaz anlamda (cesaret, duygu merkezi) kullanılmıştır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki sözcüklerden hangisi olumlu ve olumsuz çağrışım açısından 'nötr' bir anlam taşır?",
-    "option_a": "Kahraman", "option_b": "Tembel", "option_c": "Sandalye", "option_d": "Cesur", "option_e": "Korkak",
-    "correct_option": "C", "explanation": "'Sandalye' sözcüğü yalnızca oturma mobilyasını tanımlar; olumlu ya da olumsuz çağrışım taşımaz; nötrdür. 'Kahraman' ve 'cesur' olumlu, 'tembel' ve 'korkak' ise olumsuz çağrışım taşır.", "difficulty": 1
+    "option_a": "Kahraman",
+    "option_b": "Tembel",
+    "option_c": "Sandalye",
+    "option_d": "Cesur",
+    "option_e": "Korkak",
+    "correct_option": "C",
+    "explanation": "'Sandalye' sözcüğü yalnızca oturma mobilyasını tanımlar; olumlu ya da olumsuz çağrışım taşımaz; nötrdür. 'Kahraman' ve 'cesur' olumlu, 'tembel' ve 'korkak' ise olumsuz çağrışım taşır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'al' sözcüğü renk anlamında kullanılmıştır?",
-    "option_a": "Bunu al, yanına koy.", "option_b": "Al yanakları solmuştu.", "option_c": "Al sana bir hediye.", "option_d": "Bir şeyler al buradan.", "option_e": "Aldığı haberi anlattı.",
-    "correct_option": "B", "explanation": "'Al yanakları solmuştu.' cümlesinde 'al' sözcüğü kırmızı/pembe rengi anlatır ve sıfat işlevi görür. Diğer cümlelerde ise 'al' sözcüğü fiil olarak 'almak' eyleminden gelir.", "difficulty": 2
+    "option_a": "Bunu al, yanına koy.",
+    "option_b": "Al yanakları solmuştu.",
+    "option_c": "Al sana bir hediye.",
+    "option_d": "Bir şeyler al buradan.",
+    "option_e": "Aldığı haberi anlattı.",
+    "correct_option": "B",
+    "explanation": "'Al yanakları solmuştu.' cümlesinde 'al' sözcüğü kırmızı/pembe rengi anlatır ve sıfat işlevi görür. Diğer cümlelerde ise 'al' sözcüğü fiil olarak 'almak' eyleminden gelir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'öznel' bir yargı söz konusudur?",
-    "option_a": "Türkiye'nin yüzölçümü 783 000 km²'dir.", "option_b": "Atatürk 1881 yılında Selanik'te doğmuştur.", "option_c": "Bu roman; insanı düşündüren ve duygusal açıdan zengin bir yapıttır.", "option_d": "Türkçe, Ural-Altay dil ailesine dahil edilir.", "option_e": "Su 100 derecede kaynar.",
-    "correct_option": "C", "explanation": "Öznel yargı; konuşanın kişisel düşünce, beğeni veya duygu aktarımını içerir ve kanıtlanamaz. 'İnsanı düşündüren ve duygusal açıdan zengin' ifadesi kişiden kişiye değişebilen bir yargıdır.", "difficulty": 1
+    "option_a": "Türkiye'nin yüzölçümü 783 000 km²'dir.",
+    "option_b": "Atatürk 1881 yılında Selanik'te doğmuştur.",
+    "option_c": "Bu roman; insanı düşündüren ve duygusal açıdan zengin bir yapıttır.",
+    "option_d": "Türkçe, Ural-Altay dil ailesine dahil edilir.",
+    "option_e": "Su 100 derecede kaynar.",
+    "correct_option": "C",
+    "explanation": "Öznel yargı; konuşanın kişisel düşünce, beğeni veya duygu aktarımını içerir ve kanıtlanamaz. 'İnsanı düşündüren ve duygusal açıdan zengin' ifadesi kişiden kişiye değişebilen bir yargıdır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'koşul-sonuç' ilişkisi vardır?",
-    "option_a": "Hem okul hem iş konusunda başarılıydı.", "option_b": "Ders çalışmadan başarıya ulaşmak mümkün değildir.", "option_c": "Erken yatarsan erken kalkarsın.", "option_d": "Sınavı kazandığı için çok seviniyordu.", "option_e": "Arkadaşını görmek amacıyla oraya gitti.",
-    "correct_option": "C", "explanation": "'Erken yatarsan erken kalkarsın' cümlesinde bir koşul (erken yatmak) ve buna bağlı bir sonuç (erken kalkmak) ilişkisi kurulmuştur. 'Eğer... ise... olur' yapısı koşul cümlelerine özgüdür.", "difficulty": 2
+    "option_a": "Hem okul hem iş konusunda başarılıydı.",
+    "option_b": "Ders çalışmadan başarıya ulaşmak mümkün değildir.",
+    "option_c": "Erken yatarsan erken kalkarsın.",
+    "option_d": "Sınavı kazandığı için çok seviniyordu.",
+    "option_e": "Arkadaşını görmek amacıyla oraya gitti.",
+    "correct_option": "C",
+    "explanation": "'Erken yatarsan erken kalkarsın' cümlesinde bir koşul (erken yatmak) ve buna bağlı bir sonuç (erken kalkmak) ilişkisi kurulmuştur. 'Eğer... ise... olur' yapısı koşul cümlelerine özgüdür.",
+    "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerden hangisi 'neden-sonuç' ilişkisi taşır?",
-    "option_a": "Güneş doğunca hava ısındı.", "option_b": "Sınava girecekse çalışmalıdır.", "option_c": "Hem güzeldi hem zekiydi.", "option_d": "Babası öğretmen, annesi mühendis.", "option_e": "Koş ki geç kalma.",
-    "correct_option": "A", "explanation": "'Güneş doğunca hava ısındı.' cümlesinde güneşin doğması neden, havanın ısınması ise sonuçtur. Neden-sonuç ilişkisinde bir olay ya da durum, başka bir olayı ya da durumu tetikler.", "difficulty": 1
+    "option_a": "Güneş doğunca hava ısındı.",
+    "option_b": "Sınava girecekse çalışmalıdır.",
+    "option_c": "Hem güzeldi hem zekiydi.",
+    "option_d": "Babası öğretmen, annesi mühendis.",
+    "option_e": "Koş ki geç kalma.",
+    "correct_option": "A",
+    "explanation": "'Güneş doğunca hava ısındı.' cümlesinde güneşin doğması neden, havanın ısınması ise sonuçtur. Neden-sonuç ilişkisinde bir olay ya da durum, başka bir olayı ya da durumu tetikler.",
+    "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "'Gülümsedi ama gülmedi.' cümlesi hangi anlam ilişkisini içerir?",
-    "option_a": "Eşitlik", "option_b": "Karşıtlık / Kısıtlama", "option_c": "Neden-sonuç", "option_d": "Amaç-sonuç", "option_e": "Koşul-sonuç",
-    "correct_option": "B", "explanation": "'Ama' bağlacı burada iki eylemi birbirine karşıt biçimde ilişkilendirir; gülümseme ile gerçek bir gülüşün kısıtlanması arasında karşıtlık kurulur.", "difficulty": 2
+    "option_a": "Eşitlik",
+    "option_b": "Karşıtlık / Kısıtlama",
+    "option_c": "Neden-sonuç",
+    "option_d": "Amaç-sonuç",
+    "option_e": "Koşul-sonuç",
+    "correct_option": "B",
+    "explanation": "'Ama' bağlacı burada iki eylemi birbirine karşıt biçimde ilişkilendirir; gülümseme ile gerçek bir gülüşün kısıtlanması arasında karşıtlık kurulur.",
+    "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerden hangisi 'amaç' anlamı taşır?",
-    "option_a": "Sınava girmeden önce çok çalıştı.", "option_b": "Daha iyi anlamak için tekrar okudu.", "option_c": "Çok çalışmasına karşın başaramadı.", "option_d": "Başarısız olmasından dolayı üzüldü.", "option_e": "Sınava erken geldi ve oturdu.",
-    "correct_option": "B", "explanation": "'Daha iyi anlamak için tekrar okudu.' cümlesinde 'için' edatı amaç ilişkisi kurar. Tekrar okuma, daha iyi anlamayı sağlamak amacıyla yapılmaktadır.", "difficulty": 1
+    "option_a": "Sınava girmeden önce çok çalıştı.",
+    "option_b": "Daha iyi anlamak için tekrar okudu.",
+    "option_c": "Çok çalışmasına karşın başaramadı.",
+    "option_d": "Başarısız olmasından dolayı üzüldü.",
+    "option_e": "Sınava erken geldi ve oturdu.",
+    "correct_option": "B",
+    "explanation": "'Daha iyi anlamak için tekrar okudu.' cümlesinde 'için' edatı amaç ilişkisi kurar. Tekrar okuma, daha iyi anlamayı sağlamak amacıyla yapılmaktadır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'karşılaştırma' anlamı yoktur?",
-    "option_a": "Ahmet, Mehmet'ten daha uzun boyludur.", "option_b": "Bu roman öncekinden daha ilgi çekici.", "option_c": "Yeni model eski modelin iki katı kadar pahalı.", "option_d": "Sınıfın en çalışkan öğrencisi o.", "option_e": "Bahçede güzel çiçekler açmıştı.",
-    "correct_option": "E", "explanation": "'Bahçede güzel çiçekler açmıştı.' cümlesinde herhangi bir karşılaştırma yoktur; yalnızca bir durum betimlenmektedir. Diğer cümlelerde 'daha', 'iki katı', 'en' gibi sözcükler karşılaştırma işlevi görür.", "difficulty": 1
+    "option_a": "Ahmet, Mehmet'ten daha uzun boyludur.",
+    "option_b": "Bu roman öncekinden daha ilgi çekici.",
+    "option_c": "Yeni model eski modelin iki katı kadar pahalı.",
+    "option_d": "Sınıfın en çalışkan öğrencisi o.",
+    "option_e": "Bahçede güzel çiçekler açmıştı.",
+    "correct_option": "E",
+    "explanation": "'Bahçede güzel çiçekler açmıştı.' cümlesinde herhangi bir karşılaştırma yoktur; yalnızca bir durum betimlenmektedir. Diğer cümlelerde 'daha', 'iki katı', 'en' gibi sözcükler karşılaştırma işlevi görür.",
+    "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "'Bu kadar emek verdim; olmadı.' cümlesinde hangi anlam ilişkisi söz konusudur?",
-    "option_a": "Amaç", "option_b": "Kısıtlama / Beklentinin aksi", "option_c": "Neden-sonuç", "option_d": "Koşul", "option_e": "Karşılaştırma",
-    "correct_option": "B", "explanation": "Cümlenin ilk bölümündeki 'emek verme' bir beklenti yaratmaktadır; ancak 'olmadı' bölümü bu beklentinin tersini gösterir. Bu yapı 'beklentinin aksi' veya 'kısıtlama' anlamı taşır.", "difficulty": 2
+    "option_a": "Amaç",
+    "option_b": "Kısıtlama / Beklentinin aksi",
+    "option_c": "Neden-sonuç",
+    "option_d": "Koşul",
+    "option_e": "Karşılaştırma",
+    "correct_option": "B",
+    "explanation": "Cümlenin ilk bölümündeki 'emek verme' bir beklenti yaratmaktadır; ancak 'olmadı' bölümü bu beklentinin tersini gösterir. Bu yapı 'beklentinin aksi' veya 'kısıtlama' anlamı taşır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'kesinlik' ifade eden bir yargı bulunmaktadır?",
-    "option_a": "Belki yarın gelir.", "option_b": "Sanırım bu konuda haklısın.", "option_c": "Güneş sabah doğuda yükselir.", "option_d": "Bu kitap sana göre olabilir.", "option_e": "Galiba bu yolu biliyor.",
-    "correct_option": "C", "explanation": "'Güneş sabah doğuda yükselir.' cümlesi, doğruluğu tartışmasız olan ve kesinlik ifade eden bir nesnel yargı içerir. Diğer cümlelerde 'belki, sanırım, olabilir, galiba' sözcükleri belirsizlik taşır.", "difficulty": 1
+    "option_a": "Belki yarın gelir.",
+    "option_b": "Sanırım bu konuda haklısın.",
+    "option_c": "Güneş sabah doğuda yükselir.",
+    "option_d": "Bu kitap sana göre olabilir.",
+    "option_e": "Galiba bu yolu biliyor.",
+    "correct_option": "C",
+    "explanation": "'Güneş sabah doğuda yükselir.' cümlesi, doğruluğu tartışmasız olan ve kesinlik ifade eden bir nesnel yargı içerir. Diğer cümlelerde 'belki, sanırım, olabilir, galiba' sözcükleri belirsizlik taşır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "'Ne kadar da zeki bir çocuktur!' cümlesinde hangi anlam özelliği öne çıkar?",
-    "option_a": "Öznel değerlendirme ve abartı (mübalağa)", "option_b": "Nesnel ve ölçülebilir bir yargı", "option_c": "Koşul-sonuç ilişkisi", "option_d": "Kısıtlama", "option_e": "Karşılaştırma",
-    "correct_option": "A", "explanation": "Bu cümle hem öznel bir değerlendirme hem de abartılı (mübalağalı) bir vurgu içerir. 'Ne kadar da' ifadesi yoğunluk ve abartı belirtir; zekânın ölçüsü kişisel algıya dayalıdır.", "difficulty": 2
+    "option_a": "Öznel değerlendirme ve abartı (mübalağa)",
+    "option_b": "Nesnel ve ölçülebilir bir yargı",
+    "option_c": "Koşul-sonuç ilişkisi",
+    "option_d": "Kısıtlama",
+    "option_e": "Karşılaştırma",
+    "correct_option": "A",
+    "explanation": "Bu cümle hem öznel bir değerlendirme hem de abartılı (mübalağalı) bir vurgu içerir. 'Ne kadar da' ifadesi yoğunluk ve abartı belirtir; zekânın ölçüsü kişisel algıya dayalıdır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'olasılık' anlamı vardır?",
-    "option_a": "Kitabı kesinlikle okumalısın.", "option_b": "Bu iş yarın tamamlanır.", "option_c": "Çok çalıştı, kazandı.", "option_d": "Belki de sınavı geçemeyecek.", "option_e": "Dünkü haberleri izledi.",
-    "correct_option": "D", "explanation": "'Belki de' sözcüğü kesin bir yargı değil, olasılık içeren bir beklenti kurar. Olasılık ifade eden sözcükler arasında 'belki, galiba, herhâlde, sanırım' sayılabilir.", "difficulty": 1
+    "option_a": "Kitabı kesinlikle okumalısın.",
+    "option_b": "Bu iş yarın tamamlanır.",
+    "option_c": "Çok çalıştı, kazandı.",
+    "option_d": "Belki de sınavı geçemeyecek.",
+    "option_e": "Dünkü haberleri izledi.",
+    "correct_option": "D",
+    "explanation": "'Belki de' sözcüğü kesin bir yargı değil, olasılık içeren bir beklenti kurar. Olasılık ifade eden sözcükler arasında 'belki, galiba, herhâlde, sanırım' sayılabilir.",
+    "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'sıralama' ilişkisi vardır?",
-    "option_a": "Önce ekmeği dilimledi, sonra peyniri kesti.", "option_b": "Hem kitap okudu hem müzik dinledi.", "option_c": "Okursa sınavı geçer.", "option_d": "Erken kalktı, geç uyudu.", "option_e": "Ya çalışır ya başarısız olur.",
-    "correct_option": "A", "explanation": "'Önce... sonra...' ifadesi olayların sırasını belirtir. Cümlede öncelik-sonralık ilişkisi, eylemlerin ardışıklığı söz konusudur.", "difficulty": 1
+    "option_a": "Önce ekmeği dilimledi, sonra peyniri kesti.",
+    "option_b": "Hem kitap okudu hem müzik dinledi.",
+    "option_c": "Okursa sınavı geçer.",
+    "option_d": "Erken kalktı, geç uyudu.",
+    "option_e": "Ya çalışır ya başarısız olur.",
+    "correct_option": "A",
+    "explanation": "'Önce... sonra...' ifadesi olayların sırasını belirtir. Cümlede öncelik-sonralık ilişkisi, eylemlerin ardışıklığı söz konusudur.",
+    "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "'İster çalış ister çalışma; sonuç değişmez.' cümlesinde hangi anlam ilişkisi söz konusudur?",
-    "option_a": "Koşul", "option_b": "Seçenek", "option_c": "Kayıtsızlık / Fark etmezlik", "option_d": "Çelişki", "option_e": "Karşılaştırma",
-    "correct_option": "C", "explanation": "'İster... ister...' yapısı; iki seçenekten hangisinin gerçekleştiğinin sonucu değiştirmediğini yani fark etmediğini anlatır. Bu yapı kayıtsızlık (irrelevance) anlamı taşır.", "difficulty": 2
+    "option_a": "Koşul",
+    "option_b": "Seçenek",
+    "option_c": "Kayıtsızlık / Fark etmezlik",
+    "option_d": "Çelişki",
+    "option_e": "Karşılaştırma",
+    "correct_option": "C",
+    "explanation": "'İster... ister...' yapısı; iki seçenekten hangisinin gerçekleştiğinin sonucu değiştirmediğini yani fark etmediğini anlatır. Bu yapı kayıtsızlık (irrelevance) anlamı taşır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerden hangisi 'abartma' (mübalağa) içermez?",
-    "option_a": "Sınavda o kadar heyecanlandım ki kalemimi bile tutamadım.", "option_b": "Bu haberi duyduktan sonra dünyam karardı.", "option_c": "O çocuk yüzlerce kez aynı soruyu sordurdu.", "option_d": "Dün hava yağmurluydu.", "option_e": "Yıllardır onu bir dakika beklettim diyemem.",
-    "correct_option": "D", "explanation": "'Dün hava yağmurluydu.' cümlesi gerçekçi ve ölçülü bir ifadedir; abartı içermez. Diğer cümlelerde ise ('kalemini tutamama', 'dünyanın kararması', 'yüzlerce kez', 'yıllardır') abartılı ifadeler söz konusudur.", "difficulty": 1
+    "option_a": "Sınavda o kadar heyecanlandım ki kalemimi bile tutamadım.",
+    "option_b": "Bu haberi duyduktan sonra dünyam karardı.",
+    "option_c": "O çocuk yüzlerce kez aynı soruyu sordurdu.",
+    "option_d": "Dün hava yağmurluydu.",
+    "option_e": "Yıllardır onu bir dakika beklettim diyemem.",
+    "correct_option": "D",
+    "explanation": "'Dün hava yağmurluydu.' cümlesi gerçekçi ve ölçülü bir ifadedir; abartı içermez. Diğer cümlelerde ise ('kalemini tutamama', 'dünyanın kararması', 'yüzlerce kez', 'yıllardır') abartılı ifadeler söz konusudur.",
+    "difficulty": 1
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "Aşağıdaki cümlelerden hangisi 'işlevsel bir tanım' içerir?",
-    "option_a": "Kitap, insanlara zevk verir.", "option_b": "Kitap, bilginin yazıya dökülmüş ve ciltlenmiş biçimidir.", "option_c": "Kitap, insanın en iyi dostudur.", "option_d": "Kitap, rafta durur.", "option_e": "Kitabı çok severim.",
-    "correct_option": "B", "explanation": "'Kitap, bilginin yazıya dökülmüş ve ciltlenmiş biçimidir.' cümlesi, kitabın ne olduğunu belirli özellikleriyle tanımlayan işlevsel bir tanım cümlesidir.", "difficulty": 2
+    "option_a": "Kitap, insanlara zevk verir.",
+    "option_b": "Kitap, bilginin yazıya dökülmüş ve ciltlenmiş biçimidir.",
+    "option_c": "Kitap, insanın en iyi dostudur.",
+    "option_d": "Kitap, rafta durur.",
+    "option_e": "Kitabı çok severim.",
+    "correct_option": "B",
+    "explanation": "'Kitap, bilginin yazıya dökülmüş ve ciltlenmiş biçimidir.' cümlesi, kitabın ne olduğunu belirli özellikleriyle tanımlayan işlevsel bir tanım cümlesidir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir paragrafın 'ana düşüncesi' nasıl belirlenir?",
-    "option_a": "Paragrafın ilk cümlesine bakılır.", "option_b": "Paragrafın son cümlesine bakılır.", "option_c": "Paragraftaki tüm cümleler soyutlanarak ortak mesaj tespit edilir.", "option_d": "En uzun cümle ana düşünceyi taşır.", "option_e": "Paragraftaki en güzel cümle ana düşüncedir.",
-    "correct_option": "C", "explanation": "Ana düşünce, paragraftaki tüm yardımcı düşüncelerin ve örneklerin soyutlanmasıyla ulaşılan genel mesajdır. Paragraftaki her cümle bu ana düşünceye hizmet eder.", "difficulty": 1
+    "option_a": "Paragrafın ilk cümlesine bakılır.",
+    "option_b": "Paragrafın son cümlesine bakılır.",
+    "option_c": "Paragraftaki tüm cümleler soyutlanarak ortak mesaj tespit edilir.",
+    "option_d": "En uzun cümle ana düşünceyi taşır.",
+    "option_e": "Paragraftaki en güzel cümle ana düşüncedir.",
+    "correct_option": "C",
+    "explanation": "Ana düşünce, paragraftaki tüm yardımcı düşüncelerin ve örneklerin soyutlanmasıyla ulaşılan genel mesajdır. Paragraftaki her cümle bu ana düşünceye hizmet eder.",
+    "difficulty": 1
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdakilerin hangisi 'paragrafın yardımcı düşüncesi' değildir?",
-    "option_a": "Ana düşünceyi destekleyen ayrıntı", "option_b": "Ana düşünceyi pekiştiren örnek", "option_c": "Konuyla ilgisiz bir bilgi aktarımı", "option_d": "Ana düşünceyi açıklayan tanım", "option_e": "Ana düşünceyi kanıtlayan istatistik",
-    "correct_option": "C", "explanation": "Yardımcı düşünceler; ana düşünceyi destekler, açıklar veya örnekler. Konuyla ilgisiz bir bilgi aktarımı paragrafın bütünlüğünü bozar ve yardımcı düşünce sayılamaz.", "difficulty": 2
+    "option_a": "Ana düşünceyi destekleyen ayrıntı",
+    "option_b": "Ana düşünceyi pekiştiren örnek",
+    "option_c": "Konuyla ilgisiz bir bilgi aktarımı",
+    "option_d": "Ana düşünceyi açıklayan tanım",
+    "option_e": "Ana düşünceyi kanıtlayan istatistik",
+    "correct_option": "C",
+    "explanation": "Yardımcı düşünceler; ana düşünceyi destekler, açıklar veya örnekler. Konuyla ilgisiz bir bilgi aktarımı paragrafın bütünlüğünü bozar ve yardımcı düşünce sayılamaz.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "'Anlatıcı kendisini dışarıda bırakarak olayları aktarıyor. Kişilerin düşüncelerine girmeden yalnızca gözlemlediği durumları aktarıyor.' Bu tanım hangi anlatım tekniğine aittir?",
-    "option_a": "Birinci kişili anlatım", "option_b": "Dramatik (nesnel / gözlemci) anlatım", "option_c": "İç monolog", "option_d": "Serbest dolaylı anlatım", "option_e": "Bilinç akışı tekniği",
-    "correct_option": "B", "explanation": "Tanımlanan anlatım, anlatıcının olayları gözlemci sıfatıyla aktardığı, kişilerin iç dünyasına girmediği dramatik (nesnel) anlatım tekniğidir.", "difficulty": 2
+    "option_a": "Birinci kişili anlatım",
+    "option_b": "Dramatik (nesnel / gözlemci) anlatım",
+    "option_c": "İç monolog",
+    "option_d": "Serbest dolaylı anlatım",
+    "option_e": "Bilinç akışı tekniği",
+    "correct_option": "B",
+    "explanation": "Tanımlanan anlatım, anlatıcının olayları gözlemci sıfatıyla aktardığı, kişilerin iç dünyasına girmediği dramatik (nesnel) anlatım tekniğidir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdaki paragraf sorusu için en uygun başlık hangisidir? 'İnsan beyni saniyede milyonlarca sinyal işler. Bu sinyaller duygu, düşünce ve hareketleri düzenler. Beyin bilimi, son yıllarda hızla gelişen bir alan hâline gelmiştir.'",
-    "option_a": "Duygularımız Neden Değişir?", "option_b": "Beyin Bilimine Genel Bir Bakış", "option_c": "Sinir Hücrelerinin Yapısı", "option_d": "Hareketin Fizyolojisi", "option_e": "Düşüncenin Kökeni",
-    "correct_option": "B", "explanation": "Paragraf; beyin işlevleri ve beyin biliminin gelişimi hakkında genel bir çerçeve çizer. Bu nedenle en uygun başlık 'Beyin Bilimine Genel Bir Bakış' olarak belirlenebilir.", "difficulty": 1
+    "option_a": "Duygularımız Neden Değişir?",
+    "option_b": "Beyin Bilimine Genel Bir Bakış",
+    "option_c": "Sinir Hücrelerinin Yapısı",
+    "option_d": "Hareketin Fizyolojisi",
+    "option_e": "Düşüncenin Kökeni",
+    "correct_option": "B",
+    "explanation": "Paragraf; beyin işlevleri ve beyin biliminin gelişimi hakkında genel bir çerçeve çizer. Bu nedenle en uygun başlık 'Beyin Bilimine Genel Bir Bakış' olarak belirlenebilir.",
+    "difficulty": 1
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdaki metin türlerinden hangisinde 'paragrafın son cümlesinin çarpıcı / beklenmedik olması' beklenir?",
-    "option_a": "Bilimsel makale", "option_b": "Teknik rapor", "option_c": "Kısa hikâye (öykü)", "option_d": "Biyografi", "option_e": "Kanun metni",
-    "correct_option": "C", "explanation": "Kısa hikâyelerde okuyucuyu şaşırtan, düşündüren veya çarpıcı bir sonla biten paragraf yapısı sıkça tercih edilir. Bu anlatım; merakı canlı tutmak ve güçlü etki yaratmak amacıyla kullanılır.", "difficulty": 2
+    "option_a": "Bilimsel makale",
+    "option_b": "Teknik rapor",
+    "option_c": "Kısa hikâye (öykü)",
+    "option_d": "Biyografi",
+    "option_e": "Kanun metni",
+    "correct_option": "C",
+    "explanation": "Kısa hikâyelerde okuyucuyu şaşırtan, düşündüren veya çarpıcı bir sonla biten paragraf yapısı sıkça tercih edilir. Bu anlatım; merakı canlı tutmak ve güçlü etki yaratmak amacıyla kullanılır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir paragrafta 'karşıt görüş - savunma' yapısı kullanılıyorsa bu yapıya ne denir?",
-    "option_a": "Tümdengelim", "option_b": "Tümevarım", "option_c": "Tartışmalı anlatım (diyalektik)", "option_d": "Betimleme", "option_e": "Öyküleme",
-    "correct_option": "C", "explanation": "Paragrafta önce karşıt bir görüş aktarılıp ardından savunma yapılıyorsa bu tartışmalı (diyalektik) anlatım biçimidir. Soru-yanıt, savunma-çürütme gibi yapılar da bu kategoriye girer.", "difficulty": 2
+    "option_a": "Tümdengelim",
+    "option_b": "Tümevarım",
+    "option_c": "Tartışmalı anlatım (diyalektik)",
+    "option_d": "Betimleme",
+    "option_e": "Öyküleme",
+    "correct_option": "C",
+    "explanation": "Paragrafta önce karşıt bir görüş aktarılıp ardından savunma yapılıyorsa bu tartışmalı (diyalektik) anlatım biçimidir. Soru-yanıt, savunma-çürütme gibi yapılar da bu kategoriye girer.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdaki seçeneklerden hangisi 'tümevarım' yönteminin kullanıldığı bir paragraf yapısını tanımlar?",
-    "option_a": "Genel bir yargıdan özel örneklere gidilir.", "option_b": "Özel gözlemler ya da örneklerden genel yargıya ulaşılır.", "option_c": "Paragraf, bir soruyla başlar ve yanıtla biter.", "option_d": "Paragraf yalnızca betimleme içerir.", "option_e": "Hikâye kronolojik olarak anlatılır.",
-    "correct_option": "B", "explanation": "Tümevarım (endüksiyon) yönteminde özel gözlemler, örnekler ya da olgulardan yola çıkılarak genel bir yargıya ulaşılır. Bu, tümdengelimin (genel → özel) tersidir.", "difficulty": 2
+    "option_a": "Genel bir yargıdan özel örneklere gidilir.",
+    "option_b": "Özel gözlemler ya da örneklerden genel yargıya ulaşılır.",
+    "option_c": "Paragraf, bir soruyla başlar ve yanıtla biter.",
+    "option_d": "Paragraf yalnızca betimleme içerir.",
+    "option_e": "Hikâye kronolojik olarak anlatılır.",
+    "correct_option": "B",
+    "explanation": "Tümevarım (endüksiyon) yönteminde özel gözlemler, örnekler ya da olgulardan yola çıkılarak genel bir yargıya ulaşılır. Bu, tümdengelimin (genel → özel) tersidir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdaki cümlelerin bir paragrafta düzenlenmesinde hangi cümle 'giriş cümlesi' işlevini üstlenmeye en uygundur?",
-    "option_a": "Dolayısıyla kitap okuma alışkanlığı kazandırılmalıdır.", "option_b": "Araştırmalar da bu görüşü destekler niteliktedir.", "option_c": "Okuma alışkanlığı, bireyin dil gelişimini ve düşünce gücünü besler.", "option_d": "Sonuç olarak toplumun genel kültürü yükselir.", "option_e": "Bu nedenle okullar okuma saatleri düzenlemektedir.",
-    "correct_option": "C", "explanation": "Giriş cümlesi; konuyu genel bir biçimde tanıtır ve paragrafı okumaya davet eder. 'Okuma alışkanlığı, bireyin dil gelişimini ve düşünce gücünü besler.' cümlesi konuyu genel çerçevede sunar ve iyi bir giriş niteliği taşır.", "difficulty": 2
+    "option_a": "Dolayısıyla kitap okuma alışkanlığı kazandırılmalıdır.",
+    "option_b": "Araştırmalar da bu görüşü destekler niteliktedir.",
+    "option_c": "Okuma alışkanlığı, bireyin dil gelişimini ve düşünce gücünü besler.",
+    "option_d": "Sonuç olarak toplumun genel kültürü yükselir.",
+    "option_e": "Bu nedenle okullar okuma saatleri düzenlemektedir.",
+    "correct_option": "C",
+    "explanation": "Giriş cümlesi; konuyu genel bir biçimde tanıtır ve paragrafı okumaya davet eder. 'Okuma alışkanlığı, bireyin dil gelişimini ve düşünce gücünü besler.' cümlesi konuyu genel çerçevede sunar ve iyi bir giriş niteliği taşır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir yazıda 'örnekleme' yönteminin kullanılmasının temel amacı nedir?",
-    "option_a": "Okuyucuyu sıkmadan konuyu uzatmak", "option_b": "Soyut düşünceleri somutlaştırarak anlaşılır kılmak", "option_c": "Yazıyı görsel açıdan zenginleştirmek", "option_d": "Yazarın bilgisini kanıtlamak", "option_e": "Paragrafı daha uzun yapmak",
-    "correct_option": "B", "explanation": "Örnekleme; soyut, karmaşık ya da anlaşılması güç düşünceleri somut verilerle açıklamak ve okuyucunun zihninde kalıcı bir izlenim bırakmak amacıyla kullanılır.", "difficulty": 1
+    "option_a": "Okuyucuyu sıkmadan konuyu uzatmak",
+    "option_b": "Soyut düşünceleri somutlaştırarak anlaşılır kılmak",
+    "option_c": "Yazıyı görsel açıdan zenginleştirmek",
+    "option_d": "Yazarın bilgisini kanıtlamak",
+    "option_e": "Paragrafı daha uzun yapmak",
+    "correct_option": "B",
+    "explanation": "Örnekleme; soyut, karmaşık ya da anlaşılması güç düşünceleri somut verilerle açıklamak ve okuyucunun zihninde kalıcı bir izlenim bırakmak amacıyla kullanılır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Aşağıdaki paragraf tiplerinden hangisinde 'eleştiri ve değerlendirme' ön plandadır?",
-    "option_a": "Öyküleme", "option_b": "Betimleme", "option_c": "Açıklama", "option_d": "Tartışma / Argümantasyon", "option_e": "Tanım",
-    "correct_option": "D", "explanation": "Tartışma (argümantasyon) paragrafı; bir savı öne sürmek, karşı görüşlere yanıt vermek ve okuyucuyu ikna etmek amacıyla eleştiri ve değerlendirmeye dayalı argümanlar içerir.", "difficulty": 2
+    "option_a": "Öyküleme",
+    "option_b": "Betimleme",
+    "option_c": "Açıklama",
+    "option_d": "Tartışma / Argümantasyon",
+    "option_e": "Tanım",
+    "correct_option": "D",
+    "explanation": "Tartışma (argümantasyon) paragrafı; bir savı öne sürmek, karşı görüşlere yanıt vermek ve okuyucuyu ikna etmek amacıyla eleştiri ve değerlendirmeye dayalı argümanlar içerir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir paragrafta eksik olan cümleyi bulmak için öncelikle ne yapılmalıdır?",
-    "option_a": "En uzun cümle bulunur.", "option_b": "Paragrafın anlatım akışı, ana fikri ve varsa köprü cümleler incelenir.", "option_c": "Paragrafın son cümlesine bakılır.", "option_d": "İlk cümle ile son cümle karşılaştırılır.", "option_e": "Paragraftaki fiil sayısı sayılır.",
-    "correct_option": "B", "explanation": "Paragraf tamamlama sorularında doğru strateji; paragrafın genel anlatım akışını, fikirsel boşlukları ve mantık bütünlüğünü belirlemektir. Hangi fikrin eksik olduğunu bulmak için ana fikir ve köprü cümleler dikkate alınmalıdır.", "difficulty": 2
+    "option_a": "En uzun cümle bulunur.",
+    "option_b": "Paragrafın anlatım akışı, ana fikri ve varsa köprü cümleler incelenir.",
+    "option_c": "Paragrafın son cümlesine bakılır.",
+    "option_d": "İlk cümle ile son cümle karşılaştırılır.",
+    "option_e": "Paragraftaki fiil sayısı sayılır.",
+    "correct_option": "B",
+    "explanation": "Paragraf tamamlama sorularında doğru strateji; paragrafın genel anlatım akışını, fikirsel boşlukları ve mantık bütünlüğünü belirlemektir. Hangi fikrin eksik olduğunu bulmak için ana fikir ve köprü cümleler dikkate alınmalıdır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Paragrafta 'zıtlıktan yararlanma' anlatım biçiminde yazar ne yapar?",
-    "option_a": "İki karşıt kavram veya durum arasındaki farkı ortaya koyarak düşüncesini pekiştirir.", "option_b": "Olayları kronolojik sırayla anlatır.", "option_c": "Kesin bir yargı vermekten kaçınır.", "option_d": "Tanımlarla konuyu sınırlandırır.", "option_e": "İstatistiksel verilerle açıklama yapar.",
-    "correct_option": "A", "explanation": "Zıtlıktan yararlanma; iki zıt kavramı, durumu veya tutumu yan yana getirerek aralarındaki farkı belirginleştirme ve düşünceyi güçlendirme tekniğidir.", "difficulty": 2
+    "option_a": "İki karşıt kavram veya durum arasındaki farkı ortaya koyarak düşüncesini pekiştirir.",
+    "option_b": "Olayları kronolojik sırayla anlatır.",
+    "option_c": "Kesin bir yargı vermekten kaçınır.",
+    "option_d": "Tanımlarla konuyu sınırlandırır.",
+    "option_e": "İstatistiksel verilerle açıklama yapar.",
+    "correct_option": "A",
+    "explanation": "Zıtlıktan yararlanma; iki zıt kavramı, durumu veya tutumu yan yana getirerek aralarındaki farkı belirginleştirme ve düşünceyi güçlendirme tekniğidir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede 'büyük ünlü uyumuna' göre aşağıdaki hangi sözcük bu kurala uymaktadır?",
-    "option_a": "Öğrenci", "option_b": "Kalem", "option_c": "Masa", "option_d": "Kitap", "option_e": "Hepsi",
-    "correct_option": "E", "explanation": "Büyük ünlü uyumuna göre bir sözcükte ünlüler ya hep kalın (a, ı, o, u) ya da hep ince (e, i, ö, ü) olmalıdır. 'Öğrenci' ince ünlüler, 'kalem' ince, 'masa' kalın, 'kitap' ince ünlülerle yazılır; hepsi bu kurala uyar.", "difficulty": 2
+    "option_a": "Öğrenci",
+    "option_b": "Kalem",
+    "option_c": "Masa",
+    "option_d": "Kitap",
+    "option_e": "Hepsi",
+    "correct_option": "E",
+    "explanation": "Büyük ünlü uyumuna göre bir sözcükte ünlüler ya hep kalın (a, ı, o, u) ya da hep ince (e, i, ö, ü) olmalıdır. 'Öğrenci' ince ünlüler, 'kalem' ince, 'masa' kalın, 'kitap' ince ünlülerle yazılır; hepsi bu kurala uyar.",
+    "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki sözcüklerin hangisi 'büyük ünlü uyumunu' bozmaktadır?",
-    "option_a": "Kapı", "option_b": "Gülüş", "option_c": "Anne", "option_d": "Elmacık", "option_e": "Karanlık",
-    "correct_option": "C", "explanation": "'Anne' sözcüğünde 'a' kalın ünlü, 'e' ise ince ünlüdür. Bu karışıklık büyük ünlü uyumunu bozar. Yabancı ya da alıntı sözcükler çoğu zaman bu kurala uymaz.", "difficulty": 2
+    "option_a": "Kapı",
+    "option_b": "Gülüş",
+    "option_c": "Anne",
+    "option_d": "Elmacık",
+    "option_e": "Karanlık",
+    "correct_option": "C",
+    "explanation": "'Anne' sözcüğünde 'a' kalın ünlü, 'e' ise ince ünlüdür. Bu karışıklık büyük ünlü uyumunu bozar. Yabancı ya da alıntı sözcükler çoğu zaman bu kurala uymaz.",
+    "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede 'ünsüz benzeşmesi' (sertleşme) kuralına göre aşağıdaki hangi durum doğrudur?",
-    "option_a": "Sert ünsüzle biten sözcüklere eklenen ekler, yazımda sert (vokal olmayan) ünsüzle başlar.", "option_b": "Sert ünsüzle biten sözcüklere eklenen ekler, yumuşak ünsüzle yazılır.", "option_c": "Tüm ekler her zaman 't' ile başlar.", "option_d": "Yumuşak ünsüzle biten sözcüklere eklenen ekler sertleşir.", "option_e": "Bu kural yalnızca yabancı kökenli sözcüklerde geçerlidir.",
-    "correct_option": "A", "explanation": "Ünsüz benzeşmesi (sertleşme) kuralına göre p, ç, t, k, s, ş, f, h ünsüzleriyle biten sözcüklere eklenen ve c, d, g ile başlayabilen ekler; bu ünsüzlerin sertleriyle (ç, t, k) yazılır. Örn: 'ip-te' (ipde değil).", "difficulty": 2
+    "option_a": "Sert ünsüzle biten sözcüklere eklenen ekler, yazımda sert (vokal olmayan) ünsüzle başlar.",
+    "option_b": "Sert ünsüzle biten sözcüklere eklenen ekler, yumuşak ünsüzle yazılır.",
+    "option_c": "Tüm ekler her zaman 't' ile başlar.",
+    "option_d": "Yumuşak ünsüzle biten sözcüklere eklenen ekler sertleşir.",
+    "option_e": "Bu kural yalnızca yabancı kökenli sözcüklerde geçerlidir.",
+    "correct_option": "A",
+    "explanation": "Ünsüz benzeşmesi (sertleşme) kuralına göre p, ç, t, k, s, ş, f, h ünsüzleriyle biten sözcüklere eklenen ve c, d, g ile başlayabilen ekler; bu ünsüzlerin sertleriyle (ç, t, k) yazılır. Örn: 'ip-te' (ipde değil).",
+    "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede 'ünsüz yumuşaması' kuralına örnek veren sözcük hangisidir?",
-    "option_a": "Kitap → Kitaba", "option_b": "Kalem → Kaleme", "option_c": "Masa → Masaya", "option_d": "Güneş → Güneşe", "option_e": "Araba → Arabaya",
-    "correct_option": "A", "explanation": "'Kitap' sözcüğüne ünlüyle başlayan bir ek geldiğinde son ünsüz 'p' yumuşayarak 'b'ye dönüşür: 'Kitaba'. Bu, ünsüz yumuşamasının klasik bir örneğidir.", "difficulty": 1
+    "option_a": "Kitap → Kitaba",
+    "option_b": "Kalem → Kaleme",
+    "option_c": "Masa → Masaya",
+    "option_d": "Güneş → Güneşe",
+    "option_e": "Araba → Arabaya",
+    "correct_option": "A",
+    "explanation": "'Kitap' sözcüğüne ünlüyle başlayan bir ek geldiğinde son ünsüz 'p' yumuşayarak 'b'ye dönüşür: 'Kitaba'. Bu, ünsüz yumuşamasının klasik bir örneğidir.",
+    "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "'Ağız → ağzı' sözcüğünde hangi ses olayı yaşanmaktadır?",
-    "option_a": "Ünsüz türemesi", "option_b": "Ünlü daralması", "option_c": "Hece düşmesi (heceleme)", "option_d": "Ünlü düşmesi (orta hece ünlüsünün düşmesi)", "option_e": "Ünsüz benzeşmesi",
-    "correct_option": "D", "explanation": "'Ağız → ağzı' sözcüğünde '-ı' ekiyle orta hecenin ünlüsü (ı) düşmüştür: 'ağ-ız-ı' değil 'ağ-z-ı'. Bu olaya ünlü düşmesi (heceye düşme ya da apokop) adı verilir.", "difficulty": 2
+    "option_a": "Ünsüz türemesi",
+    "option_b": "Ünlü daralması",
+    "option_c": "Hece düşmesi (heceleme)",
+    "option_d": "Ünlü düşmesi (orta hece ünlüsünün düşmesi)",
+    "option_e": "Ünsüz benzeşmesi",
+    "correct_option": "D",
+    "explanation": "'Ağız → ağzı' sözcüğünde '-ı' ekiyle orta hecenin ünlüsü (ı) düşmüştür: 'ağ-ız-ı' değil 'ağ-z-ı'. Bu olaya ünlü düşmesi (heceye düşme ya da apokop) adı verilir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede 'ünlü daralması' aşağıdaki hangi örnekte görülmektedir?",
-    "option_a": "Gel + iyor → Geliyor", "option_b": "De + iyor → Diyor", "option_c": "Al + dı → Aldı", "option_d": "Git + mek → Gitmek", "option_e": "Gül + dü → Güldü",
-    "correct_option": "B", "explanation": "'De-' fiili '-iyor' ekiyle birleşince 'e' sesi daralarak 'i'ye dönüşür: 'diyor'. Aynı durum 'ye + iyor → yiyor' örneğinde de görülür. Bu olaya ünlü daralması denir.", "difficulty": 2
+    "option_a": "Gel + iyor → Geliyor",
+    "option_b": "De + iyor → Diyor",
+    "option_c": "Al + dı → Aldı",
+    "option_d": "Git + mek → Gitmek",
+    "option_e": "Gül + dü → Güldü",
+    "correct_option": "B",
+    "explanation": "'De-' fiili '-iyor' ekiyle birleşince 'e' sesi daralarak 'i'ye dönüşür: 'diyor'. Aynı durum 'ye + iyor → yiyor' örneğinde de görülür. Bu olaya ünlü daralması denir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede 'kaynaştırma ünsüzleri' hangileridir?",
-    "option_a": "b, c, d, f", "option_b": "y, ş, s, n", "option_c": "r, l, m, n", "option_d": "k, p, t, ç", "option_e": "g, ğ, h, j",
-    "correct_option": "B", "explanation": "Kaynaştırma ünsüzleri; iki ünlünün yan yana gelmesini önlemek amacıyla araya giren y, ş, s ve n ünsüzleridir. Örn: 'araba + ı → arabanın, arabayla, arabası'.", "difficulty": 2
+    "option_a": "b, c, d, f",
+    "option_b": "y, ş, s, n",
+    "option_c": "r, l, m, n",
+    "option_d": "k, p, t, ç",
+    "option_e": "g, ğ, h, j",
+    "correct_option": "B",
+    "explanation": "Kaynaştırma ünsüzleri; iki ünlünün yan yana gelmesini önlemek amacıyla araya giren y, ş, s ve n ünsüzleridir. Örn: 'araba + ı → arabanın, arabayla, arabası'.",
+    "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede ünlü sayısı kaçtır ve bu ünlüler hangileridir?",
-    "option_a": "7 ünlü: a, e, ı, i, o, ö, u", "option_b": "8 ünlü: a, e, ı, i, o, ö, u, ü", "option_c": "6 ünlü: a, e, i, o, u, ü", "option_d": "9 ünlü: a, â, e, ı, i, o, ö, u, ü", "option_e": "10 ünlü",
-    "correct_option": "B", "explanation": "Türkçede 8 ünlü bulunur: a, e, ı, i, o, ö, u, ü. Bu ünlüler; düzlük-yuvarlaklık, darlık-genişlik ve kalınlık-incelik ölçütlerine göre sınıflandırılır.", "difficulty": 1
+    "option_a": "7 ünlü: a, e, ı, i, o, ö, u",
+    "option_b": "8 ünlü: a, e, ı, i, o, ö, u, ü",
+    "option_c": "6 ünlü: a, e, i, o, u, ü",
+    "option_d": "9 ünlü: a, â, e, ı, i, o, ö, u, ü",
+    "option_e": "10 ünlü",
+    "correct_option": "B",
+    "explanation": "Türkçede 8 ünlü bulunur: a, e, ı, i, o, ö, u, ü. Bu ünlüler; düzlük-yuvarlaklık, darlık-genişlik ve kalınlık-incelik ölçütlerine göre sınıflandırılır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki sözcüklerin hangisinde 'ulama' yapılabilir?",
-    "option_a": "Güzel çocuk / oturdu.", "option_b": "Dün / okula gitti.", "option_c": "Bir / armut getir.", "option_d": "Masa / üstünde duruyordu.", "option_e": "Bahçe / temizdi.",
-    "correct_option": "C", "explanation": "Ulama; ünsüzle biten bir sözcüğün ardından ünlüyle başlayan bir sözcük geldiğinde, son ünsüzün sonraki sözcüğün ilk hecesine bağlanarak okunmasıdır. 'Bir armut' → 'bi-r armut' şeklinde okunur.", "difficulty": 2
+    "option_a": "Güzel çocuk / oturdu.",
+    "option_b": "Dün / okula gitti.",
+    "option_c": "Bir / armut getir.",
+    "option_d": "Masa / üstünde duruyordu.",
+    "option_e": "Bahçe / temizdi.",
+    "correct_option": "C",
+    "explanation": "Ulama; ünsüzle biten bir sözcüğün ardından ünlüyle başlayan bir sözcük geldiğinde, son ünsüzün sonraki sözcüğün ilk hecesine bağlanarak okunmasıdır. 'Bir armut' → 'bi-r armut' şeklinde okunur.",
+    "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede ünsüz sayısı kaçtır?",
-    "option_a": "18", "option_b": "20", "option_c": "21", "option_d": "23", "option_e": "25",
-    "correct_option": "C", "explanation": "Türk alfabesinde 8 ünlü ve 21 ünsüz bulunur. Ünsüzler: b, c, ç, d, f, g, ğ, h, j, k, l, m, n, p, r, s, ş, t, v, y, z.", "difficulty": 2
+    "option_a": "18",
+    "option_b": "20",
+    "option_c": "21",
+    "option_d": "23",
+    "option_e": "25",
+    "correct_option": "C",
+    "explanation": "Türk alfabesinde 8 ünlü ve 21 ünsüz bulunur. Ünsüzler: b, c, ç, d, f, g, ğ, h, j, k, l, m, n, p, r, s, ş, t, v, y, z.",
+    "difficulty": 2
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki sözcüklerin hangisinde 'küçük ünlü uyumu' bozulmaktadır?",
-    "option_a": "Gülüyor", "option_b": "Görmek", "option_c": "Elma", "option_d": "Koyun", "option_e": "Çiçek",
-    "correct_option": "C", "explanation": "Küçük ünlü uyumuna göre 'e' veya 'i'den sonra 'i', 'a' veya 'ı'dan sonra 'ı', 'o' veya 'u'dan sonra 'u', 'ö' veya 'ü'den sonra 'ü' gelmelidir. 'Elma' sözcüğünde 'e'den sonra 'a' gelmektedir; bu küçük ünlü uyumuna aykırıdır.", "difficulty": 3
+    "option_a": "Gülüyor",
+    "option_b": "Görmek",
+    "option_c": "Elma",
+    "option_d": "Koyun",
+    "option_e": "Çiçek",
+    "correct_option": "C",
+    "explanation": "Küçük ünlü uyumuna göre 'e' veya 'i'den sonra 'i', 'a' veya 'ı'dan sonra 'ı', 'o' veya 'u'dan sonra 'u', 'ö' veya 'ü'den sonra 'ü' gelmelidir. 'Elma' sözcüğünde 'e'den sonra 'a' gelmektedir; bu küçük ünlü uyumuna aykırıdır.",
+    "difficulty": 3
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki cümlelerin hangisinde büyük harf yanlış kullanılmıştır?",
-    "option_a": "Atatürk 1881'de Selanik'te doğmuştur.", "option_b": "Bu yıl Kurban Bayramı'nda tatile gittik.", "option_c": "İstanbul Boğazı'nı geçtik.", "option_d": "Elma, portakal ve Muz aldık.", "option_e": "Türkiye Büyük Millet Meclisi açıldı.",
-    "correct_option": "D", "explanation": "'Muz' sözcüğü özel isim olmadığından büyük harfle yazılmamalıdır. Meyve adları özel isim değildir; 'elma, portakal, muz' biçiminde küçük harfle yazılır.", "difficulty": 1
+    "option_a": "Atatürk 1881'de Selanik'te doğmuştur.",
+    "option_b": "Bu yıl Kurban Bayramı'nda tatile gittik.",
+    "option_c": "İstanbul Boğazı'nı geçtik.",
+    "option_d": "Elma, portakal ve Muz aldık.",
+    "option_e": "Türkiye Büyük Millet Meclisi açıldı.",
+    "correct_option": "D",
+    "explanation": "'Muz' sözcüğü özel isim olmadığından büyük harfle yazılmamalıdır. Meyve adları özel isim değildir; 'elma, portakal, muz' biçiminde küçük harfle yazılır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki sözcüklerden hangisi yanlış yazılmıştır?",
-    "option_a": "hâlâ", "option_b": "sütlaç", "option_c": "müdür yardımcısı", "option_d": "birşey", "option_e": "bana kalırsa",
-    "correct_option": "D", "explanation": "'Birşey' sözcüğü ayrı yazılmalıdır: 'bir şey'. 'Bir' ve 'şey' sözcükleri ayrı anlam taşıyan iki bağımsız sözcüktür; bitişik yazılmaları yanlıştır.", "difficulty": 1
+    "option_a": "hâlâ",
+    "option_b": "sütlaç",
+    "option_c": "müdür yardımcısı",
+    "option_d": "birşey",
+    "option_e": "bana kalırsa",
+    "correct_option": "D",
+    "explanation": "'Birşey' sözcüğü ayrı yazılmalıdır: 'bir şey'. 'Bir' ve 'şey' sözcükleri ayrı anlam taşıyan iki bağımsız sözcüktür; bitişik yazılmaları yanlıştır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki cümlede virgül nereye konulmalıdır? 'Sabah erken kalktım yüzümü yıkadım kahvaltımı yaptım ve işe gittim.'",
-    "option_a": "Virgül hiç konulmamalıdır.", "option_b": "Sadece 've'den önce", "option_c": "Kalktım, yıkadım, yaptım, ve işe gittim.", "option_d": "Kalktım, yüzümü yıkadım, kahvaltımı yaptım ve işe gittim.", "option_e": "Kalktım, yüzümü yıkadım, kahvaltımı yaptım, ve işe gittim.",
-    "correct_option": "D", "explanation": "Sıralı eylemlerde her bölüm arasına virgül konur; ancak son iki öge arasına 've' bağlacı konulduğunda bu bağlaçtan önce virgül gerekmez.", "difficulty": 2
+    "option_a": "Virgül hiç konulmamalıdır.",
+    "option_b": "Sadece 've'den önce",
+    "option_c": "Kalktım, yıkadım, yaptım, ve işe gittim.",
+    "option_d": "Kalktım, yüzümü yıkadım, kahvaltımı yaptım ve işe gittim.",
+    "option_e": "Kalktım, yüzümü yıkadım, kahvaltımı yaptım, ve işe gittim.",
+    "correct_option": "D",
+    "explanation": "Sıralı eylemlerde her bölüm arasına virgül konur; ancak son iki öge arasına 've' bağlacı konulduğunda bu bağlaçtan önce virgül gerekmez.",
+    "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki seçeneklerin hangisinde soru işareti doğru kullanılmıştır?",
-    "option_a": "Ne zaman gelecek?", "option_b": "Sana bir şey mi söyledim?!", "option_c": "Ne yapmalıyım? diye düşündü.", "option_d": "Sanırım yarın mı gidecekmiş?", "option_e": "Cevabı neydi?",
-    "correct_option": "A", "explanation": "'Ne zaman gelecek?' doğru biçimde soru işaretiyle bitirilmiştir. 'Ne yapmalıyım? diye düşündü.' cümlesinde ise ikinci büyük harf gerekmediğinden hatalıdır; dolaylı aktarımda soru işareti farklı konumlanır.", "difficulty": 2
+    "option_a": "Ne zaman gelecek?",
+    "option_b": "Sana bir şey mi söyledim?!",
+    "option_c": "Ne yapmalıyım? diye düşündü.",
+    "option_d": "Sanırım yarın mı gidecekmiş?",
+    "option_e": "Cevabı neydi?",
+    "correct_option": "A",
+    "explanation": "'Ne zaman gelecek?' doğru biçimde soru işaretiyle bitirilmiştir. 'Ne yapmalıyım? diye düşündü.' cümlesinde ise ikinci büyük harf gerekmediğinden hatalıdır; dolaylı aktarımda soru işareti farklı konumlanır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki sözcüklerin hangisi birleşik yazılmalıdır?",
-    "option_a": "Hanım eli (bir çiçek türü)", "option_b": "Çobanlar otu", "option_c": "Gelinciği (bir çiçek türü)", "option_d": "Gece yarısı", "option_e": "Altı ay",
-    "correct_option": "D", "explanation": "'Gece yarısı' zarf işlevi kazanmış birleşik sözcüktür ve bitişik yazılır: 'geceyarısı'. Diğer seçeneklerdeki sözcükler ayrı yazılır.", "difficulty": 2
+    "option_a": "Hanım eli (bir çiçek türü)",
+    "option_b": "Çobanlar otu",
+    "option_c": "Gelinciği (bir çiçek türü)",
+    "option_d": "Gece yarısı",
+    "option_e": "Altı ay",
+    "correct_option": "D",
+    "explanation": "'Gece yarısı' zarf işlevi kazanmış birleşik sözcüktür ve bitişik yazılır: 'geceyarısı'. Diğer seçeneklerdeki sözcükler ayrı yazılır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdakilerden hangisi özel isim kuralına aykırı bir kullanımdır?",
-    "option_a": "Türkiye Cumhuriyeti", "option_b": "Çanakkale Boğazı", "option_c": "Ramazan Bayramı", "option_d": "Bahar mevsimi", "option_e": "İstanbul Üniversitesi",
-    "correct_option": "D", "explanation": "'Bahar mevsimi' ifadesinde 'bahar' özel isim olmadığından büyük harfle yazılmamalıdır. Mevsim adları (bahar, yaz, sonbahar, kış) özel isim değildir; küçük harfle yazılır.", "difficulty": 1
+    "option_a": "Türkiye Cumhuriyeti",
+    "option_b": "Çanakkale Boğazı",
+    "option_c": "Ramazan Bayramı",
+    "option_d": "Bahar mevsimi",
+    "option_e": "İstanbul Üniversitesi",
+    "correct_option": "D",
+    "explanation": "'Bahar mevsimi' ifadesinde 'bahar' özel isim olmadığından büyük harfle yazılmamalıdır. Mevsim adları (bahar, yaz, sonbahar, kış) özel isim değildir; küçük harfle yazılır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki seçeneklerin hangisinde yazım yanlışı vardır?",
-    "option_a": "Hafta sonu tatile gidiyoruz.", "option_b": "İyi ki geldin.", "option_c": "Herkes orada buluşacak.", "option_d": "Herkezi çağırdı.", "option_e": "Birbirimize yardım etmeliyiz.",
-    "correct_option": "D", "explanation": "'Herkezi' yazımı yanlıştır; doğrusu 'herkesi'dir. 'Herkes' sözcüğü ünsüzle (s) bittiğinden ünlü harfle başlayan eke kaynaştırma ünsüzü gerekmez; ancak bu sözcükte yumuşama olmaz.", "difficulty": 1
+    "option_a": "Hafta sonu tatile gidiyoruz.",
+    "option_b": "İyi ki geldin.",
+    "option_c": "Herkes orada buluşacak.",
+    "option_d": "Herkezi çağırdı.",
+    "option_e": "Birbirimize yardım etmeliyiz.",
+    "correct_option": "D",
+    "explanation": "'Herkezi' yazımı yanlıştır; doğrusu 'herkesi'dir. 'Herkes' sözcüğü ünsüzle (s) bittiğinden ünlü harfle başlayan eke kaynaştırma ünsüzü gerekmez; ancak bu sözcükte yumuşama olmaz.",
+    "difficulty": 1
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki kullanımların hangisinde ünlem işareti doğru kullanılmıştır?",
-    "option_a": "Seni gördüm! diye bağırdı.", "option_b": "Dur!, dedi telaşla.", "option_c": "Ne güzel bir gün!", "option_d": "Gel buraya! Ve otur.", "option_e": "Güzel! bir gün oldu.",
-    "correct_option": "C", "explanation": "'Ne güzel bir gün!' ifadesi sevinç ve coşku bildiren bir ünlem cümlesidir; ünlem işareti doğru konumlandırılmıştır. Ünlem işareti, duygu yoğunluğu taşıyan cümle ya da sözcüğün sonuna konur.", "difficulty": 1
+    "option_a": "Seni gördüm! diye bağırdı.",
+    "option_b": "Dur!, dedi telaşla.",
+    "option_c": "Ne güzel bir gün!",
+    "option_d": "Gel buraya! Ve otur.",
+    "option_e": "Güzel! bir gün oldu.",
+    "correct_option": "C",
+    "explanation": "'Ne güzel bir gün!' ifadesi sevinç ve coşku bildiren bir ünlem cümlesidir; ünlem işareti doğru konumlandırılmıştır. Ünlem işareti, duygu yoğunluğu taşıyan cümle ya da sözcüğün sonuna konur.",
+    "difficulty": 1
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdakilerin hangisinde kesme işareti (') doğru kullanılmıştır?",
-    "option_a": "Ankara'ya gittik.", "option_b": "Türkiye'nin başkenti Ankara'dır.", "option_c": "Ali'nin kitabı kayboldu.", "option_d": "Hepsi doğrudur.", "option_e": "Birinin çantası kaybolmuş.",
-    "correct_option": "D", "explanation": "Kesme işareti; özel isimlere gelen ekleri, kısaltmalara getirilen ekleri ve sayılara gelen yapım eklerini ayırmak için kullanılır. 'Ankara'ya', 'Türkiye'nin', 'Ali'nin' yazımlarının hepsi doğrudur; 'birinin' sözcüğünde ise kesme işareti gerekmez.", "difficulty": 2
+    "option_a": "Ankara'ya gittik.",
+    "option_b": "Türkiye'nin başkenti Ankara'dır.",
+    "option_c": "Ali'nin kitabı kayboldu.",
+    "option_d": "Hepsi doğrudur.",
+    "option_e": "Birinin çantası kaybolmuş.",
+    "correct_option": "D",
+    "explanation": "Kesme işareti; özel isimlere gelen ekleri, kısaltmalara getirilen ekleri ve sayılara gelen yapım eklerini ayırmak için kullanılır. 'Ankara'ya', 'Türkiye'nin', 'Ali'nin' yazımlarının hepsi doğrudur; 'birinin' sözcüğünde ise kesme işareti gerekmez.",
+    "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdaki ifadelerden hangisinde sayı doğru yazılmıştır?",
-    "option_a": "Beş bin dört yüz lirayı ödedi.", "option_b": "5000 lirayı ödedi.", "option_c": "Beşbin dörtyüz lirayı ödedi.", "option_d": "5.000 TL'yi ödedi.", "option_e": "A ve D seçeneklerinin her ikisi de doğrudur.",
-    "correct_option": "E", "explanation": "Sayılar yazıyla yazıldığında ayrı yazılır (beş bin dört yüz); rakamla yazıldığında ise binlik ayırıcı olarak nokta kullanılabilir (5.000). Her iki yazım da kabul görmektedir.", "difficulty": 2
+    "option_a": "Beş bin dört yüz lirayı ödedi.",
+    "option_b": "5000 lirayı ödedi.",
+    "option_c": "Beşbin dörtyüz lirayı ödedi.",
+    "option_d": "5.000 TL'yi ödedi.",
+    "option_e": "A ve D seçeneklerinin her ikisi de doğrudur.",
+    "correct_option": "E",
+    "explanation": "Sayılar yazıyla yazıldığında ayrı yazılır (beş bin dört yüz); rakamla yazıldığında ise binlik ayırıcı olarak nokta kullanılabilir (5.000). Her iki yazım da kabul görmektedir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki sözcüklerin hangisi 'zarf (belirteç)' değildir?",
-    "option_a": "Hızlıca", "option_b": "Dün", "option_c": "Çok", "option_d": "Orada", "option_e": "Güzel",
-    "correct_option": "E", "explanation": "'Güzel' sözcüğü tek başına sıfat işlevi görür; fiili niteler nitelemez. Diğer sözcükler; 'hızlıca' (durum zarfı), 'dün' (zaman zarfı), 'çok' (derece zarfı), 'orada' (yer zarfı) işlevindedir.", "difficulty": 2
+    "option_a": "Hızlıca",
+    "option_b": "Dün",
+    "option_c": "Çok",
+    "option_d": "Orada",
+    "option_e": "Güzel",
+    "correct_option": "E",
+    "explanation": "'Güzel' sözcüğü tek başına sıfat işlevi görür; fiili niteler nitelemez. Diğer sözcükler; 'hızlıca' (durum zarfı), 'dün' (zaman zarfı), 'çok' (derece zarfı), 'orada' (yer zarfı) işlevindedir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki cümlelerde yüklem hangi öğedir? 'Kitabı okuyordu.'",
-    "option_a": "Kitabı", "option_b": "Okuyordu", "option_c": "Cümlede yüklem yoktur.", "option_d": "Hem 'kitabı' hem 'okuyordu'", "option_e": "Belirsiz",
-    "correct_option": "B", "explanation": "Cümlede yüklem; kip ve şahıs eki almış fiildir. 'Okuyordu' sözcüğü geniş geçmiş zamanla çekimlenmiş yüklemdir. 'Kitabı' ise nesne (belirtili nesne) görevindedir.", "difficulty": 1
+    "option_a": "Kitabı",
+    "option_b": "Okuyordu",
+    "option_c": "Cümlede yüklem yoktur.",
+    "option_d": "Hem 'kitabı' hem 'okuyordu'",
+    "option_e": "Belirsiz",
+    "correct_option": "B",
+    "explanation": "Cümlede yüklem; kip ve şahıs eki almış fiildir. 'Okuyordu' sözcüğü geniş geçmiş zamanla çekimlenmiş yüklemdir. 'Kitabı' ise nesne (belirtili nesne) görevindedir.",
+    "difficulty": 1
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki sözcüklerden hangisi 'isim-fiil (mastar)' ekiyle türetilmiştir?",
-    "option_a": "Gelip", "option_b": "Gelen", "option_c": "Gelince", "option_d": "Gelme", "option_e": "Geliyor",
-    "correct_option": "D", "explanation": "'Gelme' sözcüğü '-me' isim-fiil ekiyle türetilmiştir ve fiilden isim yapan bir özellik taşır. 'Gelip' zarf-fiil, 'gelen' sıfat-fiil, 'gelince' zarf-fiil ve 'geliyor' çekimli fiildir.", "difficulty": 2
+    "option_a": "Gelip",
+    "option_b": "Gelen",
+    "option_c": "Gelince",
+    "option_d": "Gelme",
+    "option_e": "Geliyor",
+    "correct_option": "D",
+    "explanation": "'Gelme' sözcüğü '-me' isim-fiil ekiyle türetilmiştir ve fiilden isim yapan bir özellik taşır. 'Gelip' zarf-fiil, 'gelen' sıfat-fiil, 'gelince' zarf-fiil ve 'geliyor' çekimli fiildir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki sözcüklerin hangisi 'sıfat-fiil (ortaç)' eki almıştır?",
-    "option_a": "Koşarak", "option_b": "Koşunca", "option_c": "Koşmak", "option_d": "Koşan", "option_e": "Koşup",
-    "correct_option": "D", "explanation": "'Koşan' sözcüğü '-an/-en' sıfat-fiil ekiyle türetilmiştir; fiilden türeyerek isim veya sıfat işlevi görür. 'Koşarak' ve 'koşunca' zarf-fiil, 'koşmak' isim-fiildir.", "difficulty": 2
+    "option_a": "Koşarak",
+    "option_b": "Koşunca",
+    "option_c": "Koşmak",
+    "option_d": "Koşan",
+    "option_e": "Koşup",
+    "correct_option": "D",
+    "explanation": "'Koşan' sözcüğü '-an/-en' sıfat-fiil ekiyle türetilmiştir; fiilden türeyerek isim veya sıfat işlevi görür. 'Koşarak' ve 'koşunca' zarf-fiil, 'koşmak' isim-fiildir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki cümlede altı çizili sözcük hangi cümle öğesidir? 'Ahmet, kardeşine bir kitap **verdi**.'",
-    "option_a": "Özne", "option_b": "Nesne", "option_c": "Yüklem", "option_d": "Yer tamlayıcısı", "option_e": "Zarf tümleci",
-    "correct_option": "C", "explanation": "Cümlede 'verdi' kip ve şahıs eki almış fiildir; yüklemi oluşturur. 'Ahmet' özne, 'kardeşine' dolaylı tümleç (yer tamlayıcısı), 'bir kitap' belirtisiz nesnedir.", "difficulty": 1
+    "option_a": "Özne",
+    "option_b": "Nesne",
+    "option_c": "Yüklem",
+    "option_d": "Yer tamlayıcısı",
+    "option_e": "Zarf tümleci",
+    "correct_option": "C",
+    "explanation": "Cümlede 'verdi' kip ve şahıs eki almış fiildir; yüklemi oluşturur. 'Ahmet' özne, 'kardeşine' dolaylı tümleç (yer tamlayıcısı), 'bir kitap' belirtisiz nesnedir.",
+    "difficulty": 1
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki cümlelerin hangisinde 'bağlaç' kullanılmıştır?",
-    "option_a": "Masanın üstünde bir vazo duruyordu.", "option_b": "Her gün erken kalkardı.", "option_c": "Hem çalışkan hem zekiydi.", "option_d": "Pencereye bakarak düşünüyordu.", "option_e": "Sabahleyin koşuya çıktı.",
-    "correct_option": "C", "explanation": "'Hem... hem...' bağlacı cümle içinde iki ögeyi birleştiren bağlaçtır. Bağlaçlar; cümle içinde sözcükleri, cümle öğelerini veya cümleleri bağlama işlevi görür.", "difficulty": 1
+    "option_a": "Masanın üstünde bir vazo duruyordu.",
+    "option_b": "Her gün erken kalkardı.",
+    "option_c": "Hem çalışkan hem zekiydi.",
+    "option_d": "Pencereye bakarak düşünüyordu.",
+    "option_e": "Sabahleyin koşuya çıktı.",
+    "correct_option": "C",
+    "explanation": "'Hem... hem...' bağlacı cümle içinde iki ögeyi birleştiren bağlaçtır. Bağlaçlar; cümle içinde sözcükleri, cümle öğelerini veya cümleleri bağlama işlevi görür.",
+    "difficulty": 1
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede 'ek-fiil' hangi görevleri üstlenir?",
-    "option_a": "Yalnızca isim cümlelerinde yüklem oluşturur.", "option_b": "İsimlere eklenerek onları yüklem yapar; ayrıca fiillere eklenerek bileşik zamanlı çekim oluşturur.", "option_c": "Sözcük türetme işlevi görür.", "option_d": "Cümlede bağlaç görevi üstlenir.", "option_e": "Ek-fiil yalnızca soru cümlelerinde kullanılır.",
-    "correct_option": "B", "explanation": "Ek-fiil (i-, idi, imiş, ise, idir); isimlere eklenerek onları cümlenin yüklemi hâline getirir ve fiillere eklenerek bileşik zamanlı çekim (öğrenilen geçmiş + geniş, hikâye + geniş, vb.) oluşturur.", "difficulty": 2
+    "option_a": "Yalnızca isim cümlelerinde yüklem oluşturur.",
+    "option_b": "İsimlere eklenerek onları yüklem yapar; ayrıca fiillere eklenerek bileşik zamanlı çekim oluşturur.",
+    "option_c": "Sözcük türetme işlevi görür.",
+    "option_d": "Cümlede bağlaç görevi üstlenir.",
+    "option_e": "Ek-fiil yalnızca soru cümlelerinde kullanılır.",
+    "correct_option": "B",
+    "explanation": "Ek-fiil (i-, idi, imiş, ise, idir); isimlere eklenerek onları cümlenin yüklemi hâline getirir ve fiillere eklenerek bileşik zamanlı çekim (öğrenilen geçmiş + geniş, hikâye + geniş, vb.) oluşturur.",
+    "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki sözcüklerin hangisi 'adlaşmış sıfat' içerir?",
-    "option_a": "Güzel bir çocuk geldi.", "option_b": "Büyük her şeyi biliyor.", "option_c": "Kırmızı gülü aldı.", "option_d": "Hızlı araba geçti.", "option_e": "Küçük kedi uyudu.",
-    "correct_option": "B", "explanation": "'Büyük her şeyi biliyor.' cümlesinde 'büyük' sözcüğü sıfat işlevinden çıkarak 'büyük kişi / büyükler' anlamında isim (özne) işlevi kazanmıştır. Bu, sıfatın adlaşmasına örnektir.", "difficulty": 3
+    "option_a": "Güzel bir çocuk geldi.",
+    "option_b": "Büyük her şeyi biliyor.",
+    "option_c": "Kırmızı gülü aldı.",
+    "option_d": "Hızlı araba geçti.",
+    "option_e": "Küçük kedi uyudu.",
+    "correct_option": "B",
+    "explanation": "'Büyük her şeyi biliyor.' cümlesinde 'büyük' sözcüğü sıfat işlevinden çıkarak 'büyük kişi / büyükler' anlamında isim (özne) işlevi kazanmıştır. Bu, sıfatın adlaşmasına örnektir.",
+    "difficulty": 3
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki cümlelerin hangisi 'birleşik cümle' yapısına örnektir?",
-    "option_a": "Çalıştı ve başardı.", "option_b": "O gülümsedi, ben sevindim.", "option_c": "Çalışırsa başarır.", "option_d": "Kitap güzeldi.", "option_e": "Hızlıca koştu.",
-    "correct_option": "C", "explanation": "'Çalışırsa başarır.' cümlesinde biri bağımlı (yan cümle: 'çalışırsa') biri bağımsız (temel cümle: 'başarır') olmak üzere iki yargı birden bulunmaktadır. Bu yapı birleşik cümleyi oluşturur.", "difficulty": 2
+    "option_a": "Çalıştı ve başardı.",
+    "option_b": "O gülümsedi, ben sevindim.",
+    "option_c": "Çalışırsa başarır.",
+    "option_d": "Kitap güzeldi.",
+    "option_e": "Hızlıca koştu.",
+    "correct_option": "C",
+    "explanation": "'Çalışırsa başarır.' cümlesinde biri bağımlı (yan cümle: 'çalışırsa') biri bağımsız (temel cümle: 'başarır') olmak üzere iki yargı birden bulunmaktadır. Bu yapı birleşik cümleyi oluşturur.",
+    "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki cümlede hangi sözcük 'dolaylı tümleç' (yer tamlayıcısı) işlevi görür? 'Çantasını masanın üstüne bıraktı.'",
-    "option_a": "Çantasını", "option_b": "Masanın", "option_c": "Masanın üstüne", "option_d": "Bıraktı", "option_e": "Üstüne",
-    "correct_option": "C", "explanation": "'Masanın üstüne' ifadesi, eylemin gerçekleştiği yeri bildiren yer tamlayıcısı (dolaylı tümleç) görevindedir. 'Çantasını' belirtili nesne, 'bıraktı' yüklemdir.", "difficulty": 2
+    "option_a": "Çantasını",
+    "option_b": "Masanın",
+    "option_c": "Masanın üstüne",
+    "option_d": "Bıraktı",
+    "option_e": "Üstüne",
+    "correct_option": "C",
+    "explanation": "'Masanın üstüne' ifadesi, eylemin gerçekleştiği yeri bildiren yer tamlayıcısı (dolaylı tümleç) görevindedir. 'Çantasını' belirtili nesne, 'bıraktı' yüklemdir.",
+    "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki sözcüklerin hangisi 'işteş çatı' taşıyan bir eylemdir?",
-    "option_a": "Yıkandı (dönüşlü)", "option_b": "Güldürüldü (edilgen + ettirgen)", "option_c": "Kucaklaştılar (işteş)", "option_d": "Yazdırıldı (ettirgen + edilgen)", "option_e": "Koştu (yalın çatı)",
-    "correct_option": "C", "explanation": "İşteş çatı, eylemin birden fazla özne tarafından karşılıklı ya da birlikte yapıldığını gösterir. 'Kucaklaştılar' eyleminde iki ya da daha fazla kişinin birbirini kucaklaması söz konusudur; '-ş-' işteş çatı ekidir.", "difficulty": 3
+    "option_a": "Yıkandı (dönüşlü)",
+    "option_b": "Güldürüldü (edilgen + ettirgen)",
+    "option_c": "Kucaklaştılar (işteş)",
+    "option_d": "Yazdırıldı (ettirgen + edilgen)",
+    "option_e": "Koştu (yalın çatı)",
+    "correct_option": "C",
+    "explanation": "İşteş çatı, eylemin birden fazla özne tarafından karşılıklı ya da birlikte yapıldığını gösterir. 'Kucaklaştılar' eyleminde iki ya da daha fazla kişinin birbirini kucaklaması söz konusudur; '-ş-' işteş çatı ekidir.",
+    "difficulty": 3
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede '-ki' ekinin hangi işlevde kullanıldığına dair doğru açıklama hangisidir?",
-    "option_a": "Her zaman sıfat türetir ve bitişik yazılır.", "option_b": "İlgi zamiri olarak ayrı, sıfat yapım eki olarak bitişik, bağlaç olarak ise ayrı yazılır.", "option_c": "Her zaman ayrı yazılır.", "option_d": "Yalnızca zaman zarfı türetir.", "option_e": "Bağlaç görevinde yazılırken her zaman kesme işareti alır.",
-    "correct_option": "B", "explanation": "'-Ki' ekinin yazımı kullanıldığı işleve göre değişir: 'Masadaki kitap' (sıfat yapım eki, bitişik), 'Seninki güzel' (ilgi zamiri, bitişik), 'biliyorum ki...' (bağlaç, ayrı) biçimleri bulunur.", "difficulty": 3
+    "option_a": "Her zaman sıfat türetir ve bitişik yazılır.",
+    "option_b": "İlgi zamiri olarak ayrı, sıfat yapım eki olarak bitişik, bağlaç olarak ise ayrı yazılır.",
+    "option_c": "Her zaman ayrı yazılır.",
+    "option_d": "Yalnızca zaman zarfı türetir.",
+    "option_e": "Bağlaç görevinde yazılırken her zaman kesme işareti alır.",
+    "correct_option": "B",
+    "explanation": "'-Ki' ekinin yazımı kullanıldığı işleve göre değişir: 'Masadaki kitap' (sıfat yapım eki, bitişik), 'Seninki güzel' (ilgi zamiri, bitişik), 'biliyorum ki...' (bağlaç, ayrı) biçimleri bulunur.",
+    "difficulty": 3
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "'Taş gibi uyudu.' cümlesinde hangi anlam özelliği kullanılmıştır?",
-    "option_a": "Gerçek anlam", "option_b": "Terim anlam", "option_c": "Benzetme (teşbih)", "option_d": "Deyim", "option_e": "Zıt anlam",
-    "correct_option": "C", "explanation": "'Taş gibi uyudu' ifadesi; uyumayı taşın sertliği ve sükûnetiyle benzeştiren bir teşbih (benzetme) örneğidir. 'Gibi' edatı benzetme ögesini oluşturur.", "difficulty": 2
+    "option_a": "Gerçek anlam",
+    "option_b": "Terim anlam",
+    "option_c": "Benzetme (teşbih)",
+    "option_d": "Deyim",
+    "option_e": "Zıt anlam",
+    "correct_option": "C",
+    "explanation": "'Taş gibi uyudu' ifadesi; uyumayı taşın sertliği ve sükûnetiyle benzeştiren bir teşbih (benzetme) örneğidir. 'Gibi' edatı benzetme ögesini oluşturur.",
+    "difficulty": 2
   },
   {
-    "topic_id": 2, "topic_name": "Cümlede Anlam",
+    "topic_id": 2,
+    "exam_type": "lisans",
+    "topic_name": "Cümlede Anlam",
     "question_text": "'Okul saatlerine kadar kütüphanede çalışırdı.' cümlesi hangi zaman anlamını taşır?",
-    "option_a": "Geçmişte tek bir kez yapılan eylem", "option_b": "Geçmişte alışkanlık hâline gelmiş, tekrarlanan eylem", "option_c": "Süregelen ve hâlâ devam eden eylem", "option_d": "Gelecekte yapılacak eylem", "option_e": "Olasılık içeren eylem",
-    "correct_option": "B", "explanation": "'-rdı/-rdi' geniş zamanın hikâye kipi; geçmişte alışkanlık ya da tekrarlanan eylemleri anlatmak için kullanılır.", "difficulty": 2
+    "option_a": "Geçmişte tek bir kez yapılan eylem",
+    "option_b": "Geçmişte alışkanlık hâline gelmiş, tekrarlanan eylem",
+    "option_c": "Süregelen ve hâlâ devam eden eylem",
+    "option_d": "Gelecekte yapılacak eylem",
+    "option_e": "Olasılık içeren eylem",
+    "correct_option": "B",
+    "explanation": "'-rdı/-rdi' geniş zamanın hikâye kipi; geçmişte alışkanlık ya da tekrarlanan eylemleri anlatmak için kullanılır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir paragrafta 'örnekle açıklama' yönteminin amacı nedir?",
-    "option_a": "Savı çürütmek", "option_b": "Soyut düşünceleri somutlaştırarak okuyucu için anlaşılır kılmak", "option_c": "Konu dışına çıkmak", "option_d": "Paragrafı uzatmak", "option_e": "Bilimsel verileri aktarmak",
-    "correct_option": "B", "explanation": "Örnekle açıklama; soyut ve karmaşık fikir ya da durumları okuyucu için somutlaştırır, anlaşılırlığı artırır.", "difficulty": 1
+    "option_a": "Savı çürütmek",
+    "option_b": "Soyut düşünceleri somutlaştırarak okuyucu için anlaşılır kılmak",
+    "option_c": "Konu dışına çıkmak",
+    "option_d": "Paragrafı uzatmak",
+    "option_e": "Bilimsel verileri aktarmak",
+    "correct_option": "B",
+    "explanation": "Örnekle açıklama; soyut ve karmaşık fikir ya da durumları okuyucu için somutlaştırır, anlaşılırlığı artırır.",
+    "difficulty": 1
   },
   {
-    "topic_id": 4, "topic_name": "Ses Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "'Sil + gi → silgi' sözcüğünde hangi ses olayı gerçekleşmemiştir?",
-    "option_a": "Ünsüz yumuşaması", "option_b": "Ünlü uyumu bozulmamış", "option_c": "Hece düşmesi", "option_d": "Ünsüz benzeşmesi", "option_e": "Herhangi bir ses olayı gerçekleşmemiştir.",
-    "correct_option": "E", "explanation": "'Sil-' köküne '-gi' eki eklendiğinde herhangi bir ses değişimi yaşanmaz; sözcük 'silgi' biçimini alır. Ünlü uyumu da bozulmaz (i-i).", "difficulty": 2
+    "option_a": "Ünsüz yumuşaması",
+    "option_b": "Ünlü uyumu bozulmamış",
+    "option_c": "Hece düşmesi",
+    "option_d": "Ünsüz benzeşmesi",
+    "option_e": "Herhangi bir ses olayı gerçekleşmemiştir.",
+    "correct_option": "E",
+    "explanation": "'Sil-' köküne '-gi' eki eklendiğinde herhangi bir ses değişimi yaşanmaz; sözcük 'silgi' biçimini alır. Ünlü uyumu da bozulmaz (i-i).",
+    "difficulty": 2
   },
   {
-    "topic_id": 5, "topic_name": "Yazım Kuralları",
+    "topic_id": 8,
+    "exam_type": "lisans",
+    "topic_name": "Yazım Kuralları",
     "question_text": "Aşağıdakilerin hangisinde noktalı virgül (;) doğru kullanılmıştır?",
-    "option_a": "Kitabı aldım; ama okumadım.", "option_b": "Çarşıya gittim; ekmek aldım.", "option_c": "Çok yorgunum; çünkü bütün gece çalıştım.", "option_d": "Matematik zor; ama seviyorum.", "option_e": "Kapıyı kapattım; ışıkları söndürdüm.",
-    "correct_option": "E", "explanation": "Noktalı virgül; anlam bakımından birbirine bağlı ancak farklı konuları işleyen cümle grupları arasında kullanılır. 'Kapıyı kapattım; ışıkları söndürdüm.' biçiminde art arda gelen bağımsız eylemler arasında doğru biçimde kullanılmıştır.", "difficulty": 2
+    "option_a": "Kitabı aldım; ama okumadım.",
+    "option_b": "Çarşıya gittim; ekmek aldım.",
+    "option_c": "Çok yorgunum; çünkü bütün gece çalıştım.",
+    "option_d": "Matematik zor; ama seviyorum.",
+    "option_e": "Kapıyı kapattım; ışıkları söndürdüm.",
+    "correct_option": "E",
+    "explanation": "Noktalı virgül; anlam bakımından birbirine bağlı ancak farklı konuları işleyen cümle grupları arasında kullanılır. 'Kapıyı kapattım; ışıkları söndürdüm.' biçiminde art arda gelen bağımsız eylemler arasında doğru biçimde kullanılmıştır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Türkçede 'edilgen (pasif) çatı' hangi ek ile oluşturulur?",
-    "option_a": "-dır/-dir", "option_b": "-ıl/-il/-ul/-ül veya -ın/-in/-un/-ün", "option_c": "-laş/-leş", "option_d": "-tır/-tir/-tur/-tür", "option_e": "-an/-en",
-    "correct_option": "B", "explanation": "Edilgen çatı ekleri: '-ıl/-il/-ul/-ül' (örn: 'yazdı → yazıldı') ve '-ın/-in/-un/-ün' (örn: 'taradı → tarandı'). Bu yapılarda özne, eylemi yapan değil yapılan kişi konumundadır.", "difficulty": 2
+    "option_a": "-dır/-dir",
+    "option_b": "-ıl/-il/-ul/-ül veya -ın/-in/-un/-ün",
+    "option_c": "-laş/-leş",
+    "option_d": "-tır/-tir/-tur/-tür",
+    "option_e": "-an/-en",
+    "correct_option": "B",
+    "explanation": "Edilgen çatı ekleri: '-ıl/-il/-ul/-ül' (örn: 'yazdı → yazıldı') ve '-ın/-in/-un/-ün' (örn: 'taradı → tarandı'). Bu yapılarda özne, eylemi yapan değil yapılan kişi konumundadır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 1, "topic_name": "Sözcükte Anlam",
+    "topic_id": 1,
+    "exam_type": "lisans",
+    "topic_name": "Sözcükte Anlam",
     "question_text": "Aşağıdaki sözcüklerin hangisi 'somut' anlam taşır?",
-    "option_a": "Özgürlük", "option_b": "Sevgi", "option_c": "Masa", "option_d": "Düşünce", "option_e": "Mutluluk",
-    "correct_option": "C", "explanation": "Somut anlam; duyularla algılanabilen varlık ve kavramları belirtir. 'Masa' dokunulabilir ve görülebilir bir nesne olduğundan somut anlam taşır. Diğerleri soyuttur.", "difficulty": 1
+    "option_a": "Özgürlük",
+    "option_b": "Sevgi",
+    "option_c": "Masa",
+    "option_d": "Düşünce",
+    "option_e": "Mutluluk",
+    "correct_option": "C",
+    "explanation": "Somut anlam; duyularla algılanabilen varlık ve kavramları belirtir. 'Masa' dokunulabilir ve görülebilir bir nesne olduğundan somut anlam taşır. Diğerleri soyuttur.",
+    "difficulty": 1
   },
   {
-    "topic_id": 3, "topic_name": "Paragraf",
+    "topic_id": 3,
+    "exam_type": "lisans",
+    "topic_name": "Paragraf",
     "question_text": "Bir metinde 'soru-yanıt' yapısı kullanılıyorsa bu yöntem ne amaçla kullanılmaktadır?",
-    "option_a": "Okuyucunun dikkatini çekmek ve konuya merak uyandırmak", "option_b": "Konuyu olabildiğince kısa tutmak", "option_c": "Karşıt görüşleri çürütmek", "option_d": "Yazar için yer doldurmak", "option_e": "Paragrafı tartışmalı hâle getirmek",
-    "correct_option": "A", "explanation": "Soru-yanıt yapısı; okuyucunun dikkatini canlı tutmak, merak uyandırmak ve konuyu daha etkili biçimde aktarmak için kullanılır.", "difficulty": 2
+    "option_a": "Okuyucunun dikkatini çekmek ve konuya merak uyandırmak",
+    "option_b": "Konuyu olabildiğince kısa tutmak",
+    "option_c": "Karşıt görüşleri çürütmek",
+    "option_d": "Yazar için yer doldurmak",
+    "option_e": "Paragrafı tartışmalı hâle getirmek",
+    "correct_option": "A",
+    "explanation": "Soru-yanıt yapısı; okuyucunun dikkatini canlı tutmak, merak uyandırmak ve konuyu daha etkili biçimde aktarmak için kullanılır.",
+    "difficulty": 2
   },
   {
-    "topic_id": 6, "topic_name": "Dil Bilgisi",
+    "topic_id": 7,
+    "exam_type": "lisans",
+    "topic_name": "Ses Bilgisi",
     "question_text": "Aşağıdaki cümlede 'zarf tümleci' hangi sözcüktür? 'Dün sabah erken kalktı.'",
-    "option_a": "Dün sabah", "option_b": "Erken", "option_c": "Kalktı", "option_d": "Hem 'dün sabah' hem 'erken'", "option_e": "Yalnızca 'dün'",
-    "correct_option": "D", "explanation": "'Dün sabah' zaman zarfı ve 'erken' durum zarfı olarak her ikisi de zarf tümleci işlevi görür. Zarf tümleçleri; eylemin zamanını, biçimini, yerini veya nedenini belirtir.", "difficulty": 2
+    "option_a": "Dün sabah",
+    "option_b": "Erken",
+    "option_c": "Kalktı",
+    "option_d": "Hem 'dün sabah' hem 'erken'",
+    "option_e": "Yalnızca 'dün'",
+    "correct_option": "D",
+    "explanation": "'Dün sabah' zaman zarfı ve 'erken' durum zarfı olarak her ikisi de zarf tümleci işlevi görür. Zarf tümleçleri; eylemin zamanını, biçimini, yerini veya nedenini belirtir.",
+    "difficulty": 2
   }
 ]
