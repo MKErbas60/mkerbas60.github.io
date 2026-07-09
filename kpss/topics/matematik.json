@@ -1,114 +1,443 @@
-[
-  {
-    "id": 14,
-    "subject_id": 2,
-    "name": "Temel Kavramlar",
-    "order_index": 1,
-    "content": "# Temel Kavramlar\n\nMatematiğin temeli olan sayı kümeleri ve sayıların özelliklerini kapsar.\n\n## 1. Sayı Kümeleri\n* **Rakamlar:** {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}\n* **Doğal Sayılar (N):** {0, 1, 2, ...}\n* **Tam Sayılar (Z):** {..., -2, -1, 0, 1, 2, ...}\n* **Rasyonel Sayılar (Q):** a/b şeklinde yazılabilen sayılar.\n\n## 2. Tek ve Çift Sayılar\n* **Çift Sayılar:** 2n formundadır (..., -2, 0, 2, ...).\n* **Tek Sayılar:** 2n-1 formundadır (..., -1, 1, 3, ...).\n* **Kural:** T + T = Ç, T + Ç = T, Ç + Ç = Ç, T . T = T, T . Ç = Ç\n\n## 3. Pozitif ve Negatif Sayılar\n* (+).(+) = (+), (-).(-) = (+), (+).(-) = (-)\n* Negatif sayıların çift kuvvetleri pozitif, tek kuvvetleri negatiftir.\n\n## 4. Ardışık Sayılar\n* **Terim Sayısı:** (Son Terim - İlk Terim) / Artış Miktarı + 1\n* **Toplam:** (Son Terim + İlk Terim) / 2 . Terim Sayısı\n\n> **Örnek:** a ve b farklı rakamlardır. 3a + 2b'nin en büyük değeri kaçtır?\n> **Çözüm:** a=9, b=8 seçilirse; 3(9) + 2(8) = 27 + 16 = 43."
-  },
-  {
-    "id": 15,
-    "subject_id": 2,
-    "name": "Rasyonel Sayılar ve Ondalıklı Sayılar",
-    "order_index": 2,
-    "content": "# Rasyonel ve Ondalıklı Sayılar\n\n## 1. Rasyonel Sayılar\na/b (b ≠ 0) şeklindeki ifadelerdir.\n* **Toplama/Çıkarma:** Paydalar eşitlenir.\n* **Çarpma:** Paylar kendi arasında, paydalar kendi arasında çarpılır.\n* **Bölme:** İlk kesir aynen kalır, ikincisi ters çevrilip çarpılır.\n\n## 2. Ondalıklı Sayılar\nPaydası 10'un kuvveti olan kesirlerdir.\n* **Örnek:** 0,25 = 25/100 = 1/4\n* **Devirli Ondalık:** (Sayının tamamı - Devretmeyen kısım) / (Virgülden sonra devreden kadar 9, devretmeyen kadar 0).\n\n> **Örnek:** 0,4 + 0,04 + 0,004 işleminin sonucu kaçtır?\n> **Çözüm:** Alt alta toplarsak 0,444 sonucuna ulaşırız."
-  },
-  {
-    "id": 16,
-    "subject_id": 2,
-    "name": "Basit Eşitsizlikler",
-    "order_index": 3,
-    "content": "# Basit Eşitsizlikler\n\n<, >, ≤, ≥ sembolleri ile ifade edilen bağıntılardır.\n\n## Özellikler\n1. Eşitsizliğin her iki tarafına aynı sayı eklenip çıkarılabilir.\n2. Pozitif bir sayı ile çarpılırsa veya bölünürse eşitsizlik yön değiştirmez.\n3. **Kritik:** Negatif bir sayı ile çarpılırsa veya bölünürse eşitsizlik **YÖN DEĞİŞTİRİR**.\n\n> **Örnek:** -2x < 10 ise x kaçtır?\n> **Çözüm:** Her iki tarafı -2'ye bölersek x > -5 olur (Yön değişti)."
-  },
-  {
-    "id": 17,
-    "subject_id": 2,
-    "name": "Mutlak Değer",
-    "order_index": 4,
-    "content": "# Mutlak Değer\n\nBir sayının başlangıç noktasına (0) olan uzaklığıdır. Sonuç asla negatif olamaz.\n\n## Özellikler\n* |x| = x (x ≥ 0 ise)\n* |x| = -x (x < 0 ise)\n* |x.y| = |x|.|y|\n* |x| = a ise x = a veya x = -a.\n\n> **Örnek:** |2x - 4| = 6 denkleminin çözüm kümesi?\n> **Çözüm:** \n> 2x - 4 = 6 => 2x = 10 => x = 5\n> 2x - 4 = -6 => 2x = -2 => x = -1\n> Ç.K = {-1, 5}"
-  },
-  {
-    "id": 18,
-    "subject_id": 2,
-    "name": "Üslü Sayılar",
-    "order_index": 5,
-    "content": "# Üslü Sayılar\n\naⁿ şeklindeki ifadelerdir. a taban, n üstür.\n\n## Özellikler\n* a⁰ = 1 (a ≠ 0)\n* aᵐ . aⁿ = aᵐ⁺ⁿ\n* aᵐ / aⁿ = aᵐ⁻ⁿ\n* (aᵐ)ⁿ = aᵐⁿ\n* (a.b)ⁿ = aⁿ.bⁿ\n* a⁻ⁿ = 1/aⁿ\n\n> **Örnek:** 2⁵ . 2³ / 2⁴ işleminin sonucu?\n> **Çözüm:** 2⁸ / 2⁴ = 2⁸⁻⁴ = 2⁴ = 16."
-  },
-  {
-    "id": 19,
-    "subject_id": 2,
-    "name": "Köklü Sayılar",
-    "order_index": 6,
-    "content": "# Köklü Sayılar\n\nⁿ√a şeklindeki ifadelerdir.\n\n## Özellikler\n* √a . √b = √(a.b)\n* √a / √b = √(a/b)\n* ⁿ√aᵐ = aᵐ/ⁿ\n* Kök dışına çıkarma: √a²b = a√b\n* Eşlenik ile çarpma: 1 / (√2-1) ifadesi (√2+1) ile çarpılır.\n\n> **Örnek:** √75 + √12 - √27 = ?\n> **Çözüm:** 5√3 + 2√3 - 3√3 = (5+2-3)√3 = 4√3."
-  },
-  {
-    "id": 20,
-    "subject_id": 2,
-    "name": "Çarpanlara Ayırma",
-    "order_index": 7,
-    "content": "# Çarpanlara Ayırma\n\nİfadeleri daha sade hale getirmek için kullanılır.\n\n## Önemli Özdeşlikler\n* **Tam Kare:** (a+b)² = a² + 2ab + b²\n* **Tam Kare:** (a-b)² = a² - 2ab + b²\n* **İki Kare Farkı:** a² - b² = (a-b)(a+b)\n* **Ortak Çarpan Parantezi:** ax + ay = a(x+y)\n\n> **Örnek:** x² - 9 / x-3 ifadesinin en sade hali?\n> **Çözüm:** (x-3)(x+3) / (x-3) = x+3."
-  },
-  {
-    "id": 21,
-    "subject_id": 2,
-    "name": "Oran-Orantı",
-    "order_index": 8,
-    "content": "# Oran-Orantı\n\n* **Oran:** a/b\n* **Orantı:** a/b = c/d = k\n\n## Orantı Türleri\n* **Doğru Orantı:** Biri artarken diğeri de artar (y/x = k).\n* **Ters Orantı:** Biri artarken diğeri azalır (y.x = k).\n\n> **Örnek:** 3 musluk bir havuzu 10 saatte doldurursa, 5 musluk kaç saatte doldurur?\n> **Çözüm:** Musluk sayısı artarsa süre azalır (Ters orantı).\n> 3 . 10 = 5 . x => 30 = 5x => x = 6 saat."
-  },
-  {
-    "id": 22,
-    "subject_id": 2,
-    "name": "Denklem Çözme",
-    "order_index": 9,
-    "content": "# Denklem Çözme\n\nBirinci dereceden bir bilinmeyenli denklemler: ax + b = 0.\n\n## Adımlar\n1. Bilinenler bir tarafa, bilinmeyenler diğer tarafa toplanır.\n2. Eşitliğin diğer tarafına geçen terim işaret değiştirir.\n3. Her iki taraf bilinmeyenin katsayısına bölünür.\n\n> **Örnek:** 3x - 5 = x + 7 ise x kaçtır?\n> **Çözüm:** 3x - x = 7 + 5 => 2x = 12 => x = 6."
-  },
-  {
-    "id": 23,
-    "subject_id": 2,
-    "name": "Problemler",
-    "order_index": 10,
-    "content": "# Problemler\n\nKPSS'nin en çok soru gelen bölümüdür (10-12 soru).\n\n## Başlıca Problem Türleri\n* **Sayı-Kesir:** Denkleme dökme becerisi gerektirir.\n* **Yaş:** Kişilerin yaş farkı sabittir.\n* **Yüzde / Kar-Zarar:** Temel formül: Satış = Maliyet + Kar.\n* **Hız-Zaman:** Yol = Hız . Zaman (x = V.t)\n\n> **Örnek:** Bir sınıftaki erkeklerin sayısı kızların 2 katıdır. Sınıf 30 kişi ise kaç kız vardır?\n> **Çözüm:** Kız=x, Erkek=2x. Toplam 3x = 30 => x = 10 kız."
-  },
-  {
-    "id": 24,
-    "subject_id": 2,
-    "name": "Kümeler",
-    "order_index": 11,
-    "content": "# Kümeler\n\nİyi tanımlanmış nesneler topluluğudur.\n\n## İşlemler\n* **Birleşim (A ∪ B):** Her iki kümedeki tüm elemanlar.\n* **Kesişim (A ∩ B):** Sadece ortak elemanlar.\n* **Fark (A \\ B):** A'da olup B'de olmayanlar.\n* **Eleman Sayısı:** s(A ∪ B) = s(A) + s(B) - s(A ∩ B)\n\n> **Örnek:** s(A)=10, s(B)=8, s(A∩B)=3 ise s(A∪B) = ?\n> **Çözüm:** 10 + 8 - 3 = 15."
-  },
-  {
-    "id": 25,
-    "subject_id": 2,
-    "name": "Fonksiyonlar",
-    "order_index": 12,
-    "content": "# Fonksiyonlar\n\nA kümesinden B kümesine her elemanı yalnız bir elemanla eşleyen bağıntıdır f: A -> B.\n\n## Kavramlar\n* **Tanım Kümesi (A), Değer Kümesi (B), Görüntü Kümesi (f(A))**\n* **Birim Fonksiyon:** f(x) = x\n* **Sabit Fonksiyon:** f(x) = c\n* **Ters Fonksiyon:** f⁻¹(x)\n\n> **Örnek:** f(x) = 2x + 3 ise f(5) = ?\n> **Çözüm:** f(5) = 2(5) + 3 = 10 + 3 = 13."
-  },
-  {
-    "id": 26,
-    "subject_id": 2,
-    "name": "İşlem",
-    "order_index": 13,
-    "content": "# İşlem\n\nÖzel tanımlanmış matematiksel kurallardır.\n\n## Özellikler\n* Tanımlanan kurala göre sayılar yerleştirilir.\n* İşlem sembolü (Δ, *, o vb.) kuralı temsil eder.\n\n> **Örnek:** a Δ b = 2a + 3b - 1 olarak tanımlanıyor. 4 Δ 2 = ?\n> **Çözüm:** a=4, b=2 için; 2(4) + 3(2) - 1 = 8 + 6 - 1 = 13."
-  },
-  {
-    "id": 27,
-    "subject_id": 2,
-    "name": "Permütasyon ve Kombinasyon",
-    "order_index": 14,
-    "content": "# Permütasyon ve Kombinasyon\n\n* **Permütasyon (Sıralama):** P(n, r) = n! / (n-r)!\n* **Kombinasyon (Seçme):** C(n, r) = n! / [r! . (n-r)!]\n\n> **Örnek:** 5 kişi yan yana kaç farklı şekilde sıralanır?\n> **Çözüm:** 5! = 120 (Permütasyon).\n\n> **Örnek:** 5 kişi arasından 2 kişilik bir ekip kaç farklı şekilde seçilir?\n> **Çözüm:** C(5, 2) = 10 (Kombinasyon)."
-  },
-  {
-    "id": 28,
-    "subject_id": 2,
-    "name": "Olasılık",
-    "order_index": 15,
-    "content": "# Olasılık\n\nBir olayın olma ihtimalidir.\n\n## Formül\nOlasılık = (İstenen Durum Sayısı) / (Tüm Durumların Sayısı)\n* Sonuç 0 ile 1 arasındadır. 0 imkansız, 1 kesin olaydır.\n\n> **Örnek:** Bir zar atıldığında üst yüze çift sayı gelme olasılığı?\n> **Çözüm:** Tüm durumlar = {1, 2, 3, 4, 5, 6} (6 tane). İstenen = {2, 4, 6} (3 tane). \n> Sonuç = 3/6 = 1/2."
-  },
-  {
-    "id": 29,
-    "subject_id": 2,
-    "name": "Sayısal Mantık",
-    "order_index": 16,
-    "content": "# Sayısal Mantık\n\nAkıl yürütme, grafik yorumlama ve şekil yeteneği sorularıdır.\n\n## Soru Tipleri\n* **Sayı Dizileri:** Belirli bir kurala göre ilerleyen diziler.\n* **Şekil Yeteneği:** Küp açılımları, döndürme, örüntü tamamlama.\n* **Grafik Yorumlama:** Sütun, çizgi ve daire grafiklerini okuma.\n* **Sözel Mantık Benzeri Sayısal Kurgular.**"
-  }
+﻿[
+    {
+        "id":  368,
+        "subject_id":  2,
+        "name":  "Temel Kavramlar",
+        "order_index":  1,
+        "content":  "# Temel Kavramlar\n\nMatematiğin temeli olan sayı kümeleri ve sayıların özelliklerini kapsar.\n\n## 1. Sayı Kümeleri\n* **Rakamlar:** {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}\n* **Doğal Sayılar (N):** {0, 1, 2, ...}\n* **Tam Sayılar (Z):** {..., -2, -1, 0, 1, 2, ...}\n* **Rasyonel Sayılar (Q):** a/b şeklinde yazılabilen sayılar.\n\n## 2. Tek ve Çift Sayılar\n* **Çift Sayılar:** 2n formundadır (..., -2, 0, 2, ...).\n* **Tek Sayılar:** 2n-1 formundadır (..., -1, 1, 3, ...).\n* **Kural:** T + T = Ç, T + Ç = T, Ç + Ç = Ç, T . T = T, T . Ç = Ç\n\n## 3. Pozitif ve Negatif Sayılar\n* (+).(+) = (+), (-).(-) = (+), (+).(-) = (-)\n* Negatif sayıların çift kuvvetleri pozitif, tek kuvvetleri negatiftir.\n\n## 4. Ardışık Sayılar\n* **Terim Sayısı:** (Son Terim - İlk Terim) / Artış Miktarı + 1\n* **Toplam:** (Son Terim + İlk Terim) / 2 . Terim Sayısı\n\n\u003e **Örnek:** a ve b farklı rakamlardır. 3a + 2b\u0027nin en büyük değeri kaçtır?\n\u003e **Çözüm:** a=9, b=8 seçilirse; 3(9) + 2(8) = 27 + 16 = 43."
+    },
+    {
+        "id":  369,
+        "subject_id":  2,
+        "name":  "Rasyonel Sayılar",
+        "order_index":  2,
+        "content":  "# Rasyonel Sayılar\n\na/b (b ≠ 0) şeklindeki ifadelerdir.\n* **Toplama/Çıkarma:** Paydalar eşitlenir.\n* **Çarpma:** Paylar kendi arasında, paydalar kendi arasında çarpılır.\n* **Bölme:** İlk kesir aynen kalır, ikincisi ters çevrilip çarpılır.\n\n\u003e **Örnek:** 1/2 + 1/3 = ?\n\u003e **Çözüm:** (3+2)/6 = 5/6."
+    },
+    {
+        "id":  370,
+        "subject_id":  2,
+        "name":  "Köklü Sayılar",
+        "order_index":  3,
+        "content":  "# Köklü Sayılar\n\nⁿ√a şeklindeki ifadelerdir.\n\n## Özellikler\n* √a . √b = √(a.b)\n* √a / √b = √(a/b)\n* ⁿ√aᵐ = aᵐ/ⁿ\n* Kök dışına çıkarma: √a²b = a√b\n* Eşlenik ile çarpma: 1 / (√2-1) ifadesi (√2+1) ile çarpılır.\n\n\u003e **Örnek:** √75 + √12 - √27 = ?\n\u003e **Çözüm:** 5√3 + 2√3 - 3√3 = (5+2-3)√3 = 4√3."
+    },
+    {
+        "id":  371,
+        "subject_id":  2,
+        "name":  "Üslü Sayılar",
+        "order_index":  4,
+        "content":  "# Üslü Sayılar\n\naⁿ şeklindeki ifadelerdir. a taban, n üstür.\n\n## Özellikler\n* a⁰ = 1 (a ≠ 0)\n* aᵐ . aⁿ = aᵐ⁺ⁿ\n* aᵐ / aⁿ = aᵐ⁻ⁿ\n* (aᵐ)ⁿ = aᵐⁿ\n* (a.b)ⁿ = aⁿ.bⁿ\n* a⁻ⁿ = 1/aⁿ\n\n\u003e **Örnek:** 2⁵ . 2³ / 2⁴ işleminin sonucu?\n\u003e **Çözüm:** 2⁸ / 2⁴ = 2⁸⁻⁴ = 2⁴ = 16."
+    },
+    {
+        "id":  372,
+        "subject_id":  2,
+        "name":  "Matematiksel İlişkilerden Yararlanma",
+        "order_index":  5,
+        "content":  "# Matematiksel İlişkilerden Yararlanma\n\nVerilen değişkenler, semboller veya sözel ifadeler arasındaki mantıksal ve sayısal bağları kurma becerisidir.\n\n## Temel Yaklaşımlar\n* **Değer Verme:** Koşulları sağlayan en küçük veya en büyük değerler seçilerek ilişki test edilir.\n* **Taraf Tarafa İşlemler:** Eşitlik veya eşitsizlikler taraf tarafa toplanarak, çıkarılarak veya oranlanarak yeni ilişkiler elde edilir.\n* **Örüntü Yakalama:** Sayı dizilerindeki artış veya azalış kuralları tespit edilir.\n\n\u003e **Örnek:** a + b = 12 ve b + c = 15 ise c - a farkı kaçtır?\n\u003e **Çözüm:** İkinci denklemden birinci denklem çıkarılırsa; (b + c) - (a + b) = 15 - 12 =\u003e c - a = 3 bulunur."
+    },
+    {
+        "id":  373,
+        "subject_id":  2,
+        "name":  "Problemler",
+        "order_index":  6,
+        "content":  "# Problemler\n\nKPSS\u0027nin en çok soru gelen bölümüdür (10-12 soru).\n\n## Başlıca Problem Türleri\n* **Sayı-Kesir:** Denkleme dökme becerisi gerektirir.\n* **Yaş:** Kişilerin yaş farkı sabittir.\n* **Yüzde / Kar-Zarar:** Temel formül: Satış = Maliyet + Kar.\n* **Hız-Zaman:** Yol = Hız . Zaman (x = V.t)\n\n\u003e **Örnek:** Bir sınıftaki erkeklerin sayısı kızların 2 katıdır. Sınıf 30 kişi ise kaç kız vardır?\n\u003e **Çözüm:** Kız=x, Erkek=2x. Toplam 3x = 30 =\u003e x = 10 kız."
+    },
+    {
+        "id":  374,
+        "subject_id":  2,
+        "name":  "Tablo, Grafik Okuma ve Yorumlama",
+        "order_index":  7,
+        "content":  "# Tablo, Grafik Okuma ve Yorumlama\n\nİstatistiksel verilerin görselleştirilmiş hallerini analiz etme ve doğru çıkarımlar yapma sürecidir.\n\n## Dikkat Edilecek Unsurlar\n* **Sütun Grafiği:** Farklı kategorilerin miktarlarını karşılaştırmak için kullanılır. Eksen adlandırmalarına dikkat edilmelidir.\n* **Çizgi Grafiği:** Verilerin zaman içerisindeki artış ve azalış trendlerini (değişimlerini) gözlemlemek için idealdir.\n* **Daire Grafiği:** Bir bütünün parçalarını oran olarak gösterir. Merkez açı (360°) ve yüzde (%100) oranlaması kurulur.\n\n\u003e **Örnek:** Bir daire grafiğinde A ürününün merkez açısı 90° ise bu ürün tüm üretimin yüzde kaçıdır?\n\u003e **Çözüm:** 360° tamamı (%100) ise; 90° bunun 1/4\u0027üdür. Yani %25\u0027idir."
+    },
+    {
+        "id":  375,
+        "subject_id":  2,
+        "name":  "Sayısal Mantık Soruları",
+        "order_index":  8,
+        "content":  "# Sayısal Mantık Soruları\n\nKlasik müfredat formüllerinden ziyade analiz, akıl yürütme, dikkat ve mantıksal çıkarım gücünü ölçen sorulardır.\n\n## Temel Soru Tarzları\n* **Sayı Dizileri ve Örüntüler:** Belirli bir kurala göre ardışık dizilen sayılarda kuralı keşfetme.\n* **Sihirli Kareler ve Tablo Yerleştirme:** Satır ve sütun toplamları eşit olacak şekilde sayı yerleştirme bulmacaları.\n* **Tanımlı Özel Düzenekler:** Soruda ilk kez tanımlanan kurallara veya oyun şemalarına göre işlem yapma.\n\n\u003e **Örnek:** Her terimi bir önceki terimin 2 katının 1 eksiği olan bir dizide 1. terim 3 ise 3. terim kaçtır?\n\u003e **Çözüm:** 1. Terim = 3; 2. Terim = 2.3 - 1 = 5; 3. Terim = 2.5 - 1 = 9 olur."
+    },
+    {
+        "id":  376,
+        "subject_id":  2,
+        "name":  "Temel Geometri",
+        "order_index":  9,
+        "content":  "# Temel Geometri\n\nDüzlemsel şekillerin açı, uzunluk, alan ve hacim özelliklerini inceleyen matematik dalıdır.\n\n## Temel Formüller\n* **Üçgende Alan:** (Taban . Yükseklik) / 2\n* **Dikdörtgende Alan / Çevre:** Alan = a.b , Çevre = 2(a+b)\n* **Karede Alan / Çevre:** Alan = a² , Çevre = 4a\n* **Çemberin Çevresi / Dairenin Alanı:** Çevre = 2πr , Alan = πr²\n* **İç Açılar Toplamı:** Üçgende 180°, Dörtgende 360°\n\n\u003e **Örnek:** Kenar uzunlukları 6 cm ve 8 cm olan bir dik üçgenin hipotenüs uzunluğu kaç cm\u0027dir?\n\u003e **Çözüm:** Pisagor teoreminden (3-4-5 üçgeninin 2 katı); 6² + 8² = x² =\u003e 36 + 64 = 100 =\u003e x = 10 cm."
+    },
+    {
+        "id":  378,
+        "subject_id":  2,
+        "name":  "Sayılar",
+        "order_index":  2,
+        "content":  "# Sayılar\n\nSayıların yapısal özelliklerini, sınıflandırılmasını ve basamak kavramını ele alan konudur.\n\n## Basamak Analizi (Çözümleme)\nAB ve ABC iki ve üç basamaklı sayılar olmak üzere:\n* **AB** = 10A + B\n* **ABC** = 100A + 10B + C\n\n## Asal Sayılar ve Aralarında Asallık\n* Sadece 1\u0027e ve kendisine bölünebilen 1\u0027den büyük doğal sayılara **asal sayı** denir (2, 3, 5, 7...).\n* 1\u0027den başka ortak böleni olmayan sayılara **aralarında asal sayılar** denir (Örn: 8 ve 9).\n\n\u003e **Örnek:** AB + BA = 132 ise A + B toplamı kaçtır?\n\u003e **Çözüm:** (10A + B) + (10B + A) = 132 =\u003e 11A + 11B = 132 =\u003e 11(A + B) = 132 =\u003e A + B = 12."
+    },
+    {
+        "id":  379,
+        "subject_id":  2,
+        "name":  "Bölme ve Bölünebilme Kuralları",
+        "order_index":  3,
+        "content":  "# Bölme ve Bölünebilme Kuralları\n\n* **2 ile:** Son basamak çift.\n* **3 ile:** Rakamlar toplamı 3\u0027ün katı.\n* **4 ile:** Son iki basamak 4\u0027ün katı.\n* **5 ile:** Son basamak 0 veya 5.\n* **9 ile:** Rakamlar toplamı 9\u0027un katı.\n* **11 ile:** +-+- kuralı."
+    },
+    {
+        "id":  380,
+        "subject_id":  2,
+        "name":  "Asal Çarpanlara Ayırma",
+        "order_index":  4,
+        "content":  "# Asal Çarpanlara Ayırma\n\nBir sayıyı asal sayıların çarpımı şeklinde yazmaktır.\n* **Asal Sayılar:** 2, 3, 5, 7, 11, 13...\n* **PBS (Pozitif Bölen Sayısı):** Üstlerin bir fazlasının çarpımıdır."
+    },
+    {
+        "id":  381,
+        "subject_id":  2,
+        "name":  "EBOB-EKOK",
+        "order_index":  5,
+        "content":  "# EBOB ve EKOK\n\n* **EBOB:** En Büyük Ortak Bölen. Ortak asallardan üssü küçük olanlar çarpılır.\n* **EKOK:** En Küçük Ortak Kat. Ortak asallardan üssü büyük olanlar ve ortak olmayanlar çarpılır."
+    },
+    {
+        "id":  382,
+        "subject_id":  2,
+        "name":  "Birinci Dereceden Denklemler",
+        "order_index":  6,
+        "content":  "# Birinci Dereceden Denklemler\n\nax + b = 0 formundaki denklemlerdir. Bilinenler bir tarafa, bilinmeyenler diğer tarafa toplanır."
+    },
+    {
+        "id":  384,
+        "subject_id":  2,
+        "name":  "Ondalıklı Sayılar",
+        "order_index":  8,
+        "content":  "# Ondalıklı Sayılar\n\nPaydası 10\u0027un kuvveti olan kesirlerdir. \n* 0,5 = 5/10 = 1/2.\n* **Devirli Ondalık:** (Tümü - Devretmeyen) / (90...)"
+    },
+    {
+        "id":  385,
+        "subject_id":  2,
+        "name":  "Eşitsizlik",
+        "order_index":  9,
+        "content":  "# Basit Eşitsizlikler\n\n\u003c, \u003e, ≤, ≥ sembolleri. Negatif sayı ile çarpma/bölme işleminde eşitsizlik yön değiştirir."
+    },
+    {
+        "id":  386,
+        "subject_id":  2,
+        "name":  "Mutlak Değer",
+        "order_index":  10,
+        "content":  "# Mutlak Değer\n\nBir sayının başlangıç noktasına (0) olan uzaklığıdır. Sonuç asla negatif olamaz.\n\n## Özellikler\n* |x| = x (x ≥ 0 ise)\n* |x| = -x (x \u003c 0 ise)\n* |x.y| = |x|.|y|\n* |x| = a ise x = a veya x = -a.\n\n\u003e **Örnek:** |2x - 4| = 6 denkleminin çözüm kümesi?\n\u003e **Çözüm:** \n\u003e 2x - 4 = 6 =\u003e 2x = 10 =\u003e x = 5\n\u003e 2x - 4 = -6 =\u003e 2x = -2 =\u003e x = -1\n\u003e Ç.K = {-1, 5}"
+    },
+    {
+        "id":  389,
+        "subject_id":  2,
+        "name":  "Faktöriyel",
+        "order_index":  13,
+        "content":  "# Faktöriyel\n\nn! = n . (n-1) . ... . 1\n* 0! = 1\n* 1! = 1\n* 5! = 120"
+    },
+    {
+        "id":  390,
+        "subject_id":  2,
+        "name":  "Çarpanlara Ayırma",
+        "order_index":  14,
+        "content":  "# Çarpanlara Ayırma\n\nİfadeleri daha sade hale getirmek için kullanılır.\n\n## Önemli Özdeşlikler\n* **Tam Kare:** (a+b)² = a² + 2ab + b²\n* **Tam Kare:** (a-b)² = a² - 2ab + b²\n* **İki Kare Farkı:** a² - b² = (a-b)(a+b)\n* **Ortak Çarpan Parantezi:** ax + ay = a(x+y)\n\n\u003e **Örnek:** x² - 9 / x-3 ifadesinin en sade hali?\n\u003e **Çözüm:** (x-3)(x+3) / (x-3) = x+3."
+    },
+    {
+        "id":  391,
+        "subject_id":  2,
+        "name":  "Oran-Orantı",
+        "order_index":  15,
+        "content":  "# Oran-Orantı\n\n* **Oran:** a/b\n* **Orantı:** a/b = c/d = k\n\n## Orantı Türleri\n* **Doğru Orantı:** Biri artarken diğeri de artar (y/x = k).\n* **Ters Orantı:** Biri artarken diğeri azalır (y.x = k).\n\n\u003e **Örnek:** 3 musluk bir havuzu 10 saatte doldurursa, 5 musluk kaç saatte doldurur?\n\u003e **Çözüm:** Musluk sayısı artarsa süre azalır (Ters orantı).\n\u003e 3 . 10 = 5 . x =\u003e 30 = 5x =\u003e x = 6 saat."
+    },
+    {
+        "id":  392,
+        "subject_id":  2,
+        "name":  "Denklem Çözme",
+        "order_index":  16,
+        "content":  "# Denklem Çözme\n\nBirinci dereceden bir bilinmeyenli denklemler: ax + b = 0.\n\n## Adımlar\n1. Bilinenler bir tarafa, bilinmeyenler diğer tarafa toplanır.\n2. Eşitliğin diğer tarafına geçen terim işaret değiştirir.\n3. Her iki taraf bilinmeyenin katsayısına bölünür.\n\n\u003e **Örnek:** 3x - 5 = x + 7 ise x kaçtır?\n\u003e **Çözüm:** 3x - x = 7 + 5 =\u003e 2x = 12 =\u003e x = 6."
+    },
+    {
+        "id":  394,
+        "subject_id":  2,
+        "name":  "Sayı Problemleri",
+        "order_index":  18,
+        "content":  "# Sayı Problemleri\n\nVerilen sözel ifadeyi denkleme dökme işidir.\n* Bir sayının 3 katı: 3x\n* 5 fazlası: x+5"
+    },
+    {
+        "id":  395,
+        "subject_id":  2,
+        "name":  "Kesir Problemleri",
+        "order_index":  19,
+        "content":  "# Kesir Problemleri\n\nBilinmeyene paydaların çarpımını (EKOK) vermek işlem kolaylığı sağlar."
+    },
+    {
+        "id":  396,
+        "subject_id":  2,
+        "name":  "Yaş Problemleri",
+        "order_index":  20,
+        "content":  "# Yaş Problemleri\n\n* Kişilerin yaş farkı asla değişmez.\n* T yıl sonra herkesin yaşı T kadar artar."
+    },
+    {
+        "id":  397,
+        "subject_id":  2,
+        "name":  "İşçi ve Havuz Problemleri",
+        "order_index":  21,
+        "content":  "# İşçi Problemleri\n\n* Bir işçi işi \u0027a\u0027 günde bitirirse 1 günde 1/a\u0027sını yapar.\n* Beraber çalışma: 1/a + 1/b = 1/t"
+    },
+    {
+        "id":  398,
+        "subject_id":  2,
+        "name":  "Hareket-Hız Problemleri",
+        "order_index":  22,
+        "content":  "# Hareket (Hız) Problemleri\n\nYol = Hız . Zaman (x = V.t)\n* Karşılaşma: x = (V1+V2).t\n* Yetişme: x = (V1-V2).t"
+    },
+    {
+        "id":  399,
+        "subject_id":  2,
+        "name":  "Yüzde-Kar-Zarar Problemleri",
+        "order_index":  23,
+        "content":  "# Yüzde, Kar ve Zarar\n\n* Kar/Zarar daima **maliyet** üzerinden hesaplanır.\n* Satış = Maliyet + Kar\n* İndirim etiket fiyatı üzerinden yapılır."
+    },
+    {
+        "id":  400,
+        "subject_id":  2,
+        "name":  "Karışım Problemleri",
+        "order_index":  24,
+        "content":  "# Karışım Problemleri\n\n(Miktar1 . Yüzde1) + (Miktar2 . Yüzde2) = (Toplam Miktar . Yeni Yüzde)"
+    },
+    {
+        "id":  401,
+        "subject_id":  2,
+        "name":  "Grafik Problemleri",
+        "order_index":  25,
+        "content":  "# Grafik ve Tablo Okuma\n\nSütun, çizgi ve daire grafiklerindeki verilerin oran-orantı ile yorumlanmasıdır."
+    },
+    {
+        "id":  402,
+        "subject_id":  2,
+        "name":  "Kümeler ve Problemleri",
+        "order_index":  26,
+        "content":  "# Kümeler\n\n* s(A∪B) = s(A) + s(B) - s(A∩B)\n* Venn şeması çizerek çözmek en kolay yoldur."
+    },
+    {
+        "id":  403,
+        "subject_id":  2,
+        "name":  "Kümeler",
+        "order_index":  27,
+        "content":  "# Kümeler\n\nİyi tanımlanmış nesneler topluluğudur.\n\n## İşlemler\n* **Birleşim (A ∪ B):** Her iki kümedeki tüm elemanlar.\n* **Kesişim (A ∩ B):** Sadece ortak elemanlar.\n* **Fark (A \\ B):** A\u0027da olup B\u0027de olmayanlar.\n* **Eleman Sayısı:** s(A ∪ B) = s(A) + s(B) - s(A ∩ B)\n\n\u003e **Örnek:** s(A)=10, s(B)=8, s(A∩B)=3 ise s(A∪B) = ?\n\u003e **Çözüm:** 10 + 8 - 3 = 15."
+    },
+    {
+        "id":  404,
+        "subject_id":  2,
+        "name":  "İşlem ve Modüler Aritmetik",
+        "order_index":  28,
+        "content":  "# İşlem ve Modüler Aritmetik\n\n* İşlem: Tanımlanan kurala göre sayıları yerleştirme.\n* Mod: Kalan bulma işlemidir. a ≡ b (mod m)"
+    },
+    {
+        "id":  405,
+        "subject_id":  2,
+        "name":  "Fonksiyonlar",
+        "order_index":  29,
+        "content":  "# Fonksiyonlar\n\nA kümesinden B kümesine her elemanı yalnız bir elemanla eşleyen bağıntıdır f: A -\u003e B.\n\n## Kavramlar\n* **Tanım Kümesi (A), Değer Kümesi (B), Görüntü Kümesi (f(A))**\n* **Birim Fonksiyon:** f(x) = x\n* **Sabit Fonksiyon:** f(x) = c\n* **Ters Fonksiyon:** f⁻¹(x)\n\n\u003e **Örnek:** f(x) = 2x + 3 ise f(5) = ?\n\u003e **Çözüm:** f(5) = 2(5) + 3 = 10 + 3 = 13."
+    },
+    {
+        "id":  406,
+        "subject_id":  2,
+        "name":  "Permütasyon",
+        "order_index":  30,
+        "content":  "# Permütasyon (Sıralama)\n\nP(n, r) = n! / (n-r)!"
+    },
+    {
+        "id":  407,
+        "subject_id":  2,
+        "name":  "Kombinasyon",
+        "order_index":  31,
+        "content":  "# Kombinasyon (Seçme)\n\nC(n, r) = n! / [r! . (n-r)!]"
+    },
+    {
+        "id":  408,
+        "subject_id":  2,
+        "name":  "Olasılık",
+        "order_index":  32,
+        "content":  "# Olasılık\n\nBir olayın olma ihtimalidir.\n\n## Formül\nOlasılık = (İstenen Durum Sayısı) / (Tüm Durumların Sayısı)\n* Sonuç 0 ile 1 arasındadır. 0 imkansız, 1 kesin olaydır.\n\n\u003e **Örnek:** Bir zar atıldığında üst yüze çift sayı gelme olasılığı?\n\u003e **Çözüm:** Tüm durumlar = {1, 2, 3, 4, 5, 6} (6 tane). İstenen = {2, 4, 6} (3 tane). \n\u003e Sonuç = 3/6 = 1/2."
+    },
+    {
+        "id":  409,
+        "subject_id":  2,
+        "name":  "Sayısal Mantık",
+        "order_index":  33,
+        "content":  "# Sayısal Mantık\n\nAkıl yürütme, grafik yorumlama ve şekil yeteneği sorularıdır.\n\n## Soru Tipleri\n* **Sayı Dizileri:** Belirli bir kurala göre ilerleyen diziler.\n* **Şekil Yeteneği:** Küp açılımları, döndürme, örüntü tamamlama.\n* **Grafik Yorumlama:** Sütun, çizgi ve daire grafiklerini okuma.\n* **Sözel Mantık Benzeri Sayısal Kurgular.**"
+    },
+    {
+        "id":  410,
+        "subject_id":  2,
+        "name":  "Şekil Yetenek",
+        "order_index":  34,
+        "content":  "# Şekil Yetenek\n\nNesnelerin düzlemsel veya uzaysal konumlarını, dönme hareketlerini ve açınımlarını zihinsel olarak görselleştirme adımlarıdır.\n\n## Önemli Soru Başlıkları\n* **Küp Sayma ve Görünüm:** Üst üste dizilmiş blokların toplam sayısını bulma veya arkadan/yandan görünüşünü çıkarma.\n* **Küp Açınımı:** Açık hali verilen bir küp kapatıldığında hangi yüzlerin karşılıklı geleceğini tespit etme.\n* **Şekil Örüntüleri:** Belirli bir dereceyle dönen ya da simetrisi alınan şekillerin bir sonraki adımını tahmin etme.\n\n\u003e **Örnek:** Bir küpün karşılıklı yüzlerinin toplamı 7 ise, açık halinde komşu olmayan yüzler eşleştirilir.\n\u003e **Çözüm:** Karşılıklı yüzler; 1-6, 2-5 ve 3-4 şeklinde çiftler oluşturur."
+    },
+    {
+        "id":  411,
+        "subject_id":  2,
+        "name":  "Tablo ve Grafikler",
+        "order_index":  35,
+        "content":  "# Tablo ve Grafikler\n\nVerilerin matris (tablo) biçiminde düzenlenmesi ve grafik analiz yöntemleriyle çözümlenmesidir.\n\n## Problem Çözme Adımları\n1. Tablodaki satır ve sütun kesişimlerinin neyi ifade ettiği net anlaşılmalıdır.\n2. Birden fazla grafik türü bir arada verildiyse (Örn: Hem daire hem sütun), ortak bir değişken üzerinden köprü (oran) kurulur.\n\n\u003e **Örnek:** Bir tablodaki X ve Y değerleri sırasıyla 4 ve 12\u0027dir. Bu veriler daire grafiğine aktarılırsa X\u0027e ait merkez açı kaç derece olur?\n\u003e **Çözüm:** Toplam miktar = 4 + 12 = 16. Orantı kurulursa; 16\u0027da 4 ise (yani 1/4), 360°\u0027nin 1/4\u0027ü 90° olur."
+    },
+    {
+        "id":  414,
+        "subject_id":  2,
+        "name":  "Ebob - Ekok",
+        "order_index":  3,
+        "content":  "# EBOB ve EKOK\n\n* **EBOB:** En Büyük Ortak Bölen. Ortak asallardan üssü küçük olanlar çarpılır.\n* **EKOK:** En Küçük Ortak Kat. Ortak asallardan üssü büyük olanlar ve ortak olmayanlar çarpılır."
+    },
+    {
+        "id":  416,
+        "subject_id":  2,
+        "name":  "Denklemler",
+        "order_index":  5,
+        "content":  "# Denklemler\n\nİçinde bilinmeyen bulunan ve bu bilinmeyenin belirli değerleri için sağlanan matematiksel eşitliklerdir.\n\n## Çözüm Kümesi Durumları (ax + b = cx + d)\n* **Tek Çözüm:** x\u0027in katsayıları farklı ise (a ≠ c).\n* **Sonsuz Çözüm (Ç.K = R):** İki taraf birebir eşit ise (a = c ve b = d).\n* **Boş Küme (Ç.K = ∅):** x\u0027ler birbirini yok ediyor ama sabit sayılar eşit değilse (a = c ve b ≠ d).\n\n\u003e **Örnek:** 2x + 6 = 2(x + 3) denkleminin çözüm kümesi nedir?\n\u003e **Çözüm:** 2x + 6 = 2x + 6 =\u003e 0 = 0 olduğundan Ç.K = R (Tüm reel sayılar)."
+    },
+    {
+        "id":  419,
+        "subject_id":  2,
+        "name":  "Eşitsizlik - Mutlak Değer",
+        "order_index":  8,
+        "content":  "# Eşitsizlik - Mutlak Değer\n\nHem mutlak değer içeren hem de eşitsizlik sembollerine (<, >, ≤, ≥) sahip olan karma ifadelerdir.\n\n## Temel Kurallar\n* |x| ≤ a ise; -a ≤ x ≤ a aralığı yazılır.\n* |x| ≥ a ise; x ≥ a VEYA x ≤ -a aralıkları birleştirilir.\n\n\u003e **Örnek:** |x - 2| < 5 eşitsizliğini sağlayan tam sayıların aralığı nedir?\n\u003e **Çözüm:** -5 < x - 2 < 5 =\u003e Her tarafa +2 eklersek; -3 < x < 7 elde edilir."
+    },
+    {
+        "id":  423,
+        "subject_id":  2,
+        "name":  "Oran - Orantı",
+        "order_index":  12,
+        "content":  "# Oran - Orantı\n\nEn az iki oranın eşitliğine orantı denir. a/b = c/d = k (k: orantı sabiti).\n\n## Özellikler\n* İçler dışlar çarpımı eşittir: a . d = b . c\n* Paylar kendi arasında, paydalar kendi arasında toplanırsa orantı sabiti (k) değişmez: (a+c) / (b+d) = k\n\n\u003e **Örnek:** a/b = 2/3 ve b/c = 3/5 ise a/c oranı kaçtır?\n\u003e **Çözüm:** b\u0027ler iki tarafta da 3\u0027ün katı olarak dengededir. Doğrudan a=2, c=5 alınabilir. Cevap: 2/5."
+    },
+    {
+        "id":  428,
+        "subject_id":  2,
+        "name":  "İşlem",
+        "order_index":  17,
+        "content":  "# İşlem\n\nÖzel tanımlanmış matematiksel kurallardır.\n\n## Özellikler\n* Tanımlanan kurala göre sayılar yerleştirilir.\n* İşlem sembolü (Δ, *, o vb.) kuralı temsil eder.\n\n\u003e **Örnek:** a Δ b = 2a + 3b - 1 olarak tanımlanıyor. 4 Δ 2 = ?\n\u003e **Çözüm:** a=4, b=2 için; 2(4) + 3(2) - 1 = 8 + 6 - 1 = 13."
+    },
+    {
+        "id":  429,
+        "subject_id":  2,
+        "name":  "Modüler Aritmetik",
+        "order_index":  18,
+        "content":  "# Modüler Aritmetik\n\nSayıların belirli bir tam sayıya bölünmesiyle elde edilen kalanlarla yapılan aritmetiktir. Z_m kümesinde işlemler mod değerine göre yürütülür.\n\n## Temel Özellikler\n* Kalanlar daima bölenden (moddan) küçük ve sıfırdan büyük/eşit olmalıdır.\n* Periyodik tekrar eden sorularda (gün, saat, nöbet soruları) kullanılır.\n\n\u003e **Örnek:** Bugün günlerden Salı ise 23 gün sonra hangi gündür?\n\u003e **Çözüm:** Günler 7 günde bir tekrar eder. 23 ≡ 2 (mod 7). Salı gününün üzerine 2 gün sayarsak; Çarşamba, Perşembe olur."
+    },
+    {
+        "id":  435,
+        "subject_id":  2,
+        "name":  "Sayı Kümeleri",
+        "order_index":  1,
+        "content":  "# Sayı Kümeleri\n\n* **Rakamlar:** {0...9}\n* **Doğal Sayılar (N):** {0, 1...}\n* **Tam Sayılar (Z):** {..., -1, 0, 1...}"
+    },
+    {
+        "id":  436,
+        "subject_id":  2,
+        "name":  "Doğal Sayılar",
+        "order_index":  2,
+        "content":  "# Doğal Sayılar\n\n0\u0027dan başlayıp sonsuza giden sayılardır. N = {0, 1, 2, ...}"
+    },
+    {
+        "id":  437,
+        "subject_id":  2,
+        "name":  "Tam Sayılar",
+        "order_index":  3,
+        "content":  "# Tam Sayılar\n\nNegatif tam sayılar, sıfır ve pozitif tam sayılardan oluşur. Z = {..., -2, -1, 0, 1, 2, ...}"
+    },
+    {
+        "id":  439,
+        "subject_id":  2,
+        "name":  "Sayma Sistemleri",
+        "order_index":  5,
+        "content":  "# Sayma Sistemleri\n\nSayıların basamak değerlerini ve hangi tabanda yazıldıklarını belirleyen kurallar bütünüdür. Günlük hayatta 10\u0027luk (Onluk) sayma sistemi kullanılır.\n\n## Yapısal Kurallar\n* Bir tabandaki sayıyı oluşturan rakamlar, taban değerinden daima küçük olmak zorundadır.\n* Sayının basamak değerleri sağdan sola doğru tabanın sıfırıncı kuvvetinden başlayarak artar.\n\n\u003e **Örnek:** Onluk sistemdeki 25 sayısının basamak analizi nedir?\n\u003e **Çözüm:** 25 = 2.10¹ + 5.10⁰ = 20 + 5."
+    },
+    {
+        "id":  440,
+        "subject_id":  2,
+        "name":  "Bölme",
+        "order_index":  6,
+        "content":  "# Bölme\n\nA = B.C + K kuralı geçerlidir. Kalan (K), daima bölenden (B) küçük olmalıdır."
+    },
+    {
+        "id":  441,
+        "subject_id":  2,
+        "name":  "Bölünebilme Kuralları",
+        "order_index":  7,
+        "content":  "# Bölünebilme Kuralları\n\n* **2:** Son rakam çift.\n* **3:** Rakamlar toplamı 3\u0027ün katı.\n* **4:** Son iki basamak 00 veya 4\u0027ün katı.\n* **5:** Son rakam 0 veya 5.\n* **9:** Rakamlar toplamı 9\u0027un katı."
+    },
+    {
+        "id":  442,
+        "subject_id":  2,
+        "name":  "Kesir ve Kesir Türleri",
+        "order_index":  1,
+        "content":  "# Kesir ve Kesir Türleri\n\nBir bütünün eş parçalarından birini veya birkaçını gösteren ifadelere kesir denir. a/b biçiminde yazılır.\n\n## Kesir Çeşitleri\n* **Basit Kesir:** Payı paydasından mutlak değerce küçük olan kesirlerdir (Örn: 2/3, -1/5).\n* **Bileşik Kesir:** Payı paydasından mutlak değerce büyük veya eşit olan kesirlerdir (Örn: 4/3, 7/7).\n* **Tam Sayılı Kesir:** Bir sayma sayısı ve bir basit kesirden oluşan kesirlerdir (Örn: 1 tam 2/3).\n\n\u003e **Örnek:** (x + 2) / 5 ifadesi bir basit kesir ise x yerine gelebilecek en büyük pozitif tam sayı kaçtır?\n\u003e **Çözüm:** x + 2 < 5 olmalıdır. Buradan x < 3 bulunur. En büyük pozitif tam sayı değeri x = 2 olur."
+    },
+    {
+        "id":  443,
+        "subject_id":  2,
+        "name":  "Rasyonel Sayılarda Dört İşlem",
+        "order_index":  2,
+        "content":  "# Rasyonel Sayılarda Dört İşlem\n\nRasyonel sayılar kümesinde matematiksel operasyonların hiyerarşik kurallarıdır.\n\n## İşlem Kuralları\n* **Toplama / Çıkarma:** Paydalar eşit değilse genişletme yöntemiyle eşitlenir, ardından paylar toplanır/çıkarılır.\n* **Çarpma:** Paylar kendi arasında çarpılıp paya, paydalar kendi arasında çarpılıp paydaya yazılır.\n* **Bölme:** Birinci kesir aynen korunur, ikinci kesir ters çevrilerek çarpma işlemine dönüştürülür.\n\n\u003e **Örnek:** (3/4) / (1/2) işleminin sonucu kaçtır?\n\u003e **Çözüm:** İlk kesri aynen yazıp ikinciyi ters çeviriyoruz: 3/4 . 2/1 = 6/4 = 3/2."
+    },
+    {
+        "id":  444,
+        "subject_id":  2,
+        "name":  "Basit Eşitsizlikler",
+        "order_index":  1,
+        "content":  "# Basit Eşitsizlikler\n\n\u003e, \u003e, ≤, ≥ sembolleri ile ifade edilen bağıntılardır.\n\n## Özellikler\n1. Eşitsizliğin her iki tarafına aynı sayı eklenip çıkarılabilir.\n2. Pozitif bir sayı ile çarpılırsa veya bölünürse eşitsizlik yön değiştirmez.\n3. **Kritik:** Negatif bir sayı ile çarpılırsa veya bölünürse eşitsizlik **YÖN DEĞİŞTİRİR**.\n\n\u003e **Örnek:** -2x \u003c 10 ise x kaçtır?\n\u003e **Çözüm:** Her iki tarafı -2\u0027ye bölersek x \u003e -5 olur (Yön değişti)."
+    },
+    {
+        "id":  446,
+        "subject_id":  2,
+        "name":  "Denklem Kurma Problemleri",
+        "order_index":  1,
+        "content":  "# Denklem Kurma Problemleri\n\nSözel ifadeleri x, y gibi bilinmeyenler kullanarak matematiksel eşitliklere dönüştürme işlemidir."
+    },
+    {
+        "id":  448,
+        "subject_id":  2,
+        "name":  "Yüzde Problemleri",
+        "order_index":  3,
+        "content":  "# Yüzde Problemleri\n\nA sayısının %x\u0027i = A . (x/100) formülü ile hesaplanır."
+    },
+    {
+        "id":  449,
+        "subject_id":  2,
+        "name":  "Faiz Problemleri",
+        "order_index":  4,
+        "content":  "# Faiz Problemleri\n\nAnaparanın belirli bir faiz oranıyla belirli bir süre işletilmesi sonucu getirdiği kazanç problemleridir. (A: Anapara, n: Faiz Oranı, t: Süre)\n\n## Temel Formüller\n* **Yıllık Faiz:** F = (A . n . t) / 100\n* **Aylık Faiz:** F = (A . n . t) / 1200\n* **Günlük Faiz:** F = (A . n . t) / 36000\n\n\u003e **Örnek:** 500 TL para, yıllık %10 faiz oranıyla 2 yıllığına bankaya yatırılırsa kaç TL faiz getirir?\n\u003e **Çözüm:** F = (500 . 10 . 2) / 100 = 10000 / 100 = 100 TL faiz geliri elde edilir."
+    },
+    {
+        "id":  450,
+        "subject_id":  2,
+        "name":  "Kâr - Zarar Problemleri",
+        "order_index":  5,
+        "content":  "# Kar ve Zarar Problemleri\n\n* **Satış** = Maliyet + Kar\n* **Zarar** = Maliyet - Satış\n* Kar/Zarar oranı daima maliyet üzerinden hesaplanır."
+    },
+    {
+        "id":  452,
+        "subject_id":  2,
+        "name":  "İşçi Problemleri",
+        "order_index":  7,
+        "content":  "# İşçi Problemleri\n\nBelirli bir işin, işçilerin çalışma hızları ve sayılarına göre ne kadar sürede biteceğini hesaplayan problem türüdür.\n\n## Formül Kuralları\n* Bir işçi işin tamamını tek başına 'x' günde bitiriyorsa, 1 günde işin 1/x kadarını yapar.\n* İki işçi birlikte çalışıyorsa denklem: (1/x + 1/y) . t = 1 (t: işin bitme süresi, 1: işin tamamı).\n\n\u003e **Örnek:** Ali bir işi 6 günde, Can ise aynı işi 12 günde bitiriyor. İkisi birlikte bu işi kaç günde bitirir?\n\u003e **Çözüm:** (1/6 + 1/12) . t = 1 =\u003e (2/12 + 1/12) . t = 1 =\u003e (3/12) . t = 1 =\u003e t = 4 gün."
+    },
+    {
+        "id":  453,
+        "subject_id":  2,
+        "name":  "Havuz Problemleri",
+        "order_index":  8,
+        "content":  "# Havuz Problemleri\n\nHavuzu dolduran musluklar ile havuzun tabanında yer alan ve havuzu boşaltan muslukların zamana bağlı debi ilişkileridir.\n\n## Formül Kuralları\n* Dolduran musluklar pozitif (+), boşaltan musluklar ise negatif (-) işarete sahiptir.\n* Denklem modeli: (1/M1 + 1/M2 - 1/M3) . t = 1 biçimindedir.\n\n\u003e **Örnek:** A musluğu havuzu 4 saatte dolduruyor, tabandaki B musluğu ise dolu havuzu 12 saatte boşaltıyor. İki musluk aynı anda açılırsa boş havuz kaç saatte dolar?\n\u003e **Çözüm:** (1/4 - 1/12) . t = 1 =\u003e (3/12 - 1/12) . t = 1 =\u003e (2/12) . t = 1 =\u003e t = 6 saat."
+    },
+    {
+        "id":  454,
+        "subject_id":  2,
+        "name":  "Hareket Problemleri",
+        "order_index":  9,
+        "content":  "# Hareket Problemleri\n\nHareketlilerin hız, zaman ve aldıkları mesafe arasındaki lineer ilişkileri inceler.\n\n## Formüller\n* **Temel Formül:** Yol = Hız . Zaman (x = V . t)\n* **Ortalama Hız:** V_ort = Toplam Yol / Toplam Zaman\n* **Zıt Yönlü Hareket (Karşılaşma):** x = (V1 + V2) . t\n* **Aynı Yönlü Hareket (Yetişme):** x = (V1 - V2) . t\n\n\u003e **Örnek:** Aralarında 400 km mesafe bulunan iki araç saatte 60 km ve 40 km hızlarla birbirlerine doğru hareket ediyorlar. Kaç saat sonra karşılaşırlar?\n\u003e **Çözüm:** 400 = (60 + 40) . t =\u003e 400 = 100 . t =\u003e t = 4 saat."
+    },
+    {
+        "id":  455,
+        "subject_id":  2,
+        "name":  "Tablo ve Yorumlama",
+        "order_index":  1,
+        "content":  "# Tablo ve Yorumlama\n\nVerilerin satır ve sütunlar halinde organize edildiği listelerin mantıksal kurallarla okunması işlemidir.\n\n## İpuçları\n* Tablo sorularında genellikle oran-orantı, yüzde hesabı ve dört işlem bir arada sorulur.\n* Satır ve sütunların kesiştiği hücrelerdeki mutlak değerler ile toplam sütunları arasındaki geçişlere dikkat edilmelidir.\n\n\u003e **Örnek:** Bir kurstaki öğrencilerin cinsiyet dağılım tablosunda 15 erkek ve 25 kız öğrenci vardır. Kursun yüzde kaçı erkektir?\n\u003e **Çözüm:** Toplam öğrenci sayısı = 15 + 25 = 40. 40 öğrencide 15 erkek varsa; %x orantısından x = (15 . 100) / 40 = %37,5 bulunur."
+    },
+    {
+        "id":  456,
+        "subject_id":  2,
+        "name":  "Grafik ve Yorumlama",
+        "order_index":  2,
+        "content":  "# Grafik ve Yorumlama\n\nSayısal verilerin çizgi, sütun veya dairesel şemalar üzerinden okunarak matematiksel denklemlere dökülmesidir.\n\n## Grafik Tipleri ve Pratik Çözüm Yolları\n* **Daire Grafiği:** Süreç daima oran kurarak çözülür. 360 derecelik tam açı verinin tamamına eşdeğerdir.\n* **Sütun Grafiği:** Dikdörtgenlerin boyları (yükseklikleri) ilgili kategorinin miktarını gösterir.\n* **Çizgi Grafiği:** Zamana bağlı sürekli verilerin (sıcaklık değişimi, boy uzaması vb.) takibinde kullanılır.\n\n\u003e **Örnek:** Sütun grafiğinde bir şirketin 3 aylık karı sırasıyla 10, 20 ve 30 bin TL olarak gösterilmiştir. Ortalama aylık kar kaç bin TL\u0027dir?\n\u003e **Çözüm:** Toplam kar = 10 + 20 + 30 = 60 bin TL. Ortalama = 60 / 3 = 20 bin TL."
+    }
 ]

@@ -1,58 +1,569 @@
-[
-  {
-    "id": 59,
-    "subject_id": 6,
-    "name": "Temel Hukuk Kavramları",
-    "order_index": 1,
-    "content": "# Temel Hukuk Kavramları\n\nHukuk, toplum yaşamını düzenleyen ve devlet gücüyle desteklenen kurallar bütünüdür.\n\n## 1. Sosyal Hayatı Düzenleyen Kurallar\n* **Din Kuralları:** Uhrevi (manevi) yaptırımlıdır.\n* **Ahlak Kuralları:** Kişinin vicdanıyla ilgilidir (Manevi yaptırım).\n* **Görgü Kuralları:** Adab-ı muaşeret (Manevi yaptırım).\n* **Hukuk Kuralları:** Diğerlerinden farkı **MADDİ YAPTIRIMLI** (devlet gücü) olmasıdır.\n\n## 2. Hukukun Yaptırımları (Müeyyideleri)\n* **Ceza:** Kanuna aykırı fiillere hapis veya adli para cezası.\n* **Cebri İcra:** Borcunu yerine getirmeyeni devlet gücüyle zorlamak.\n* **Tazminat:** Verilen zararın maddi/manevi ödetilmesi.\n* **Hükümsüzlük:** Yokluk (kurucu unsur eksikliği), Butlan (geçersizlik), Tek taraflı bağlamazlık.\n* **İptal:** İdari işlemlerin yargı yoluyla geçersiz kılınması.\n\n## 3. Normlar Hiyerarşisi\n1. Anayasa (En üst)\n2. Kanunlar / Milletlerarası Antlaşmalar / CB Kararnameleri\n3. Yönetmelikler\n4. Diğer Adsız Düzenleyici İşlemler\n\n## 4. Ehliyet Kavramı\n* **Hak Ehliyeti:** Sağ ve tam doğmak şartıyla ana rahmine düştüğü an başlar.\n* **Fiil Ehliyeti:** Ayırt etme gücü, erginlik (18 yaş) ve kısıtlı olmamayı gerektirir."
-  },
-  {
-    "id": 60,
-    "subject_id": 6,
-    "name": "Anayasal Kavramlar",
-    "order_index": 2,
-    "content": "# Anayasal Kavramlar\n\n1982 Anayasası'nın ilk üç maddesi değiştirilemez ve değiştirilmesi teklif dahi edilemez.\n\n## 1. Değişmez Maddeler\n* **Madde 1:** Türkiye Devleti bir Cumhuriyettir.\n* **Madde 2:** Cumhuriyetin nitelikleri (Demokratik, laik, sosyal, hukuk devleti; insan haklarına saygılı; Atatürk milliyetçiliğine bağlı).\n* **Madde 3:** Devletin bütünlüğü, resmi dili (Türkçe), bayrağı, milli marşı ve başkenti (Ankara).\n\n## 2. Temel İlkeler\n* **Hukuk Devleti:** Faaliyetlerinde hukuk kurallarına bağlı olan devlet.\n* **Sosyal Devlet:** Bireylere asgari yaşam standardı sağlayan, fırsat eşitliği sunan devlet.\n* **Laiklik:** Din ve devlet işlerinin ayrılması, inanç hürriyeti.\n* **Egemenlik:** Kayıtsız şartsız Milletindir. Millet bu egemenliği Anayasa'nın koyduğu esaslara göre yetkili organlar eliyle kullanır."
-  },
-  {
-    "id": 61,
-    "subject_id": 6,
-    "name": "Türk Anayasa Tarihi",
-    "order_index": 3,
-    "content": "# Türk Anayasa Tarihi\n\nTürk anayasacılık süreci 19. yüzyılda başlamıştır.\n\n## 1. Osmanlı Dönemi\n* **Sened-i İttifak (1808):** Padişahın yetkilerini kısıtlayan ilk belge (Anayasa değildir).\n* **Tanzimat Fermanı (1839):** Kanun üstünlüğü ilkesi ilk kez vurgulandı.\n* **Kanun-i Esasi (1876):** Türk tarihinin ilk anayasası.\n\n## 2. Cumhuriyet Dönemi\n* **1921 Anayasası (Teşkilat-ı Esasiye):** Tek yumuşak ve çerçeve anayasa. Meclis hükümeti sistemi.\n* **1924 Anayasası:** Karma hükümet sistemi. Çoğunlukçu demokrasi.\n* **1961 Anayasası:** En özgürlükçü anayasa. Anayasa Mahkemesi kuruldu. Kuvvetler ayrılığı sertleşti.\n* **1982 Anayasası:** Halen yürürlüktedir. Sert ve kazuistik (ayrıntılı). Rasyonelleştirilmiş parlamentarizmden 2017 değişikliği ile Cumhurbaşkanlığı Hükümet Sistemine geçilmiştir."
-  },
-  {
-    "id": 62,
-    "subject_id": 6,
-    "name": "Temel Hak Ödevler",
-    "order_index": 4,
-    "content": "# Temel Hak ve Ödevler\n\nHaklar, Jellinek'in sınıflandırmasına göre üç grupta toplanır.\n\n## 1. Kişi Hak ve Ödevleri (Negatif Statü)\nDevletin müdahale edemeyeceği dokunulmaz alanlardır.\n* Özel hayatın gizliliği, konut dokunulmazlığı.\n* Din ve vicdan hürriyeti, mülkiyet hakkı.\n* Kişi hürriyeti ve güvenliği.\n\n## 2. Sosyal ve Ekonomik Haklar (Pozitif Statü)\nBireyin devletten talep ettiği haklardır.\n* Eğitim ve öğrenim hakkı, konut hakkı.\n* Çalışma hakkı, grev ve toplu iş sözleşmesi.\n* Sosyal güvenlik hakkı.\n\n## 3. Siyasi Hak ve Ödevler (Aktif Statü)\nDevlet yönetimine katılmayı sağlayan haklardır.\n* Türk vatandaşlığı, seçme ve seçilme hakkı.\n* Vergi ödevi, vatan hizmeti (askerlik).\n* Siyasi parti kurma, kamu hizmetlerine girme (memuriyet).\n\n## Sert Çekirdek Haklar\nSavaş durumunda dahi dokunulamayan haklardır: Yaşama hakkı, masumiyet karinesi, suç ve cezaların geçmişe yürümemesi, din/vicdan/düşünce açıklanmasına zorlanamama."
-  },
-  {
-    "id": 63,
-    "subject_id": 6,
-    "name": "Yasama",
-    "order_index": 5,
-    "content": "# Yasama (TBMM)\n\nYasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisi'nindir. Bu yetki devredilemez.\n\n## 1. Milletvekili Seçilme Yeterliliği\n* 18 yaşını doldurmuş olmak.\n* En az ilkokul mezunu olmak.\n* Askerlikle ilişiği olmamak.\n* Kısıtlı olmamak, kamu hizmetinden yasaklı olmamak.\n\n## 2. Seçimler ve Dönemler\n* TBMM seçimleri 5 yılda bir Cumhurbaşkanı seçimi ile aynı gün yapılır.\n* Savaş sebebiyle seçimler en fazla 1 yıl geri bırakılabilir (Kararı TBMM alır).\n\n## 3. TBMM'nin Görevleri\n* Kanun koymak, değiştirmek ve kaldırmak.\n* Bütçe ve kesin hesap kanun tekliflerini görüşmek ve kabul etmek.\n* Para basılmasına ve savaş ilanına karar vermek.\n* Milletlerarası andlaşmaların onaylanmasını uygun bulmak.\n* Üye tam sayısının 3/5 çoğunluğu ile genel ve özel af ilanı."
-  },
-  {
-    "id": 64,
-    "subject_id": 6,
-    "name": "Yürütme",
-    "order_index": 6,
-    "content": "# Yürütme (Cumhurbaşkanı)\n\nYürütme yetkisi ve görevi Cumhurbaşkanı tarafından yerine getirilir.\n\n## 1. Cumhurbaşkanı Seçimi\n* 40 yaşını doldurmuş olmak.\n* Yükseköğrenim yapmış olmak.\n* Milletvekili seçilme yeterliliğine sahip olmak.\n* Halk tarafından seçilir, görev süresi 5 yıldır. Bir kimse en fazla 2 kez seçilebilir.\n\n## 2. Cumhurbaşkanının Yetkileri\n* Devletin başıdır, TSK'nın başkomutanlığını temsil eder.\n* Bakanları ve Cumhurbaşkanı yardımcılarını atar ve görevden alır.\n* Kanunları yayımlar, gerekli gördüğünde TBMM'ye geri gönderir (Veto).\n* Anayasa Mahkemesi, Danıştay, Yargıtay ve HSK'ya üye seçer.\n* Cumhurbaşkanlığı Kararnamesi çıkarır.\n\n## 3. Olağanüstü Hal (OHAL)\nCumhurbaşkanı; savaş, seferberlik, ayaklanma, tabii afet veya ağır ekonomik bunalım durumlarında süresi 6 ayı geçmemek üzere OHAL ilan edebilir. Karar Resmi Gazete'de yayımlanır ve TBMM onayına sunulur."
-  },
-  {
-    "id": 65,
-    "subject_id": 6,
-    "name": "Yargı",
-    "order_index": 7,
-    "content": "# Yargı\n\nYargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.\n\n## 1. Yüksek Mahkemeler\n* **Anayasa Mahkemesi:** Kanunların Anayasa'ya uygunluğunu denetler. 15 üyeden oluşur.\n* **Yargıtay:** Adliye mahkemelerince verilen karar ve hükümlerin son inceleme merciidir (Adli yargı).\n* **Danıştay:** İdari davaların son inceleme merciidir (İdari yargı).\n* **Uyuşmazlık Mahkemesi:** Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını çözer.\n\n## 2. Hakimler ve Savcılar Kurulu (HSK)\n* 13 üyeden oluşur. Başkanı Adalet Bakanı'dır. \n* Adalet Bakanı Müsteşarı (Yardımcısı) doğal üyedir.\n* Hakim ve savcıların özlük işlerini (atama, terfi, disiplin) yürütür.\n\n## 3. Sayıştay\nKamu idarelerinin gelir, gider ve mallarını TBMM adına denetler. Kararları kesindir ancak bir yüksek mahkeme değildir."
-  },
-  {
-    "id": 66,
-    "subject_id": 6,
-    "name": "İdare Hukuku",
-    "order_index": 8,
-    "content": "# İdare Hukuku\n\nİdare hukukunun amacı kamu yararını sağlamaktır. İdare, kuruluşu ve görevleriyle bir bütündür.\n\n## 1. İdarenin Teşkilat Yapısı\n* **Merkezden Yönetim:** \n    * **Başkent:** Cumhurbaşkanı, Bakanlıklar, Yardımcı Kuruluşlar (MGK, Danıştay, Sayıştay).\n    * **Taşra:** İl (Vali), İlçe (Kaymakam), Bölge Kuruluşları.\n* **Yerinden Yönetim (Mahalli İdareler):**\n    * İl Özel İdaresi (Vali - Karar organı İl Genel Meclisi).\n    * Belediye (Belediye Başkanı).\n    * Büyükşehir Belediyesi.\n    * Köy (Muhtar - Karar organı Köy Derneği ve İhtiyar Heyeti).\n\n## 2. Denetim İlkeleri\n* **Hiyerarşi:** Aynı kurum içindeki üstün ast üzerindeki denetim yetkisidir (Örn: Vali-Kaymakam).\n* **İdari Vesayet:** Merkezi yönetimin, yerinden yönetim kuruluşları üzerindeki denetim yetkisidir (Örn: İçişleri Bakanı-Belediye Başkanı).\n\n## 3. Kamu Görevlileri\nDevlet memurluğu ilkeleri: Kariyer, Liyakat ve Sınıflandırmadır."
-  }
+﻿[
+    {
+        "id":  57,
+        "subject_id":  6,
+        "name":  "Temel Hukuk Kavramları",
+        "order_index":  1,
+        "content":  "# Temel Hukuk Kavramları\n\nHukuk, toplum yaşamını düzenleyen ve devlet gücüyle desteklenen kurallar bütünüdür.\n\n## 1. Sosyal Hayatı Düzenleyen Kurallar\n* **Din Kuralları:** Uhrevi (manevi) yaptırımlıdır.\n* **Ahlak Kuralları:** Kişinin vicdanıyla ilgilidir (Manevi yaptırım).\n* **Görgü Kuralları:** Adab-ı muaşeret (Manevi yaptırım).\n* **Hukuk Kuralları:** Diğerlerinden farkı **MADDİ YAPTIRIMLI** (devlet gücü) olmasıdır.\n\n## 2. Hukukun Yaptırımları (Müeyyideleri)\n* **Ceza:** Kanuna aykırı fiillere hapis veya adli para cezası.\n* **Cebri İcra:** Borcunu yerine getirmeyeni devlet gücüyle zorlamak.\n* **Tazminat:** Verilen zararın maddi/manevi ödetilmesi.\n* **Hükümsüzlük:** Yokluk (kurucu unsur eksikliği), Butlan (geçersizlik), Tek taraflı bağlamazlık.\n* **İptal:** İdari işlemlerin yargı yoluyla geçersiz kılınması.\n\n## 3. Normlar Hiyerarşisi\n1. Anayasa (En üst)\n2. Kanunlar / Milletlerarası Antlaşmalar / CB Kararnameleri\n3. Yönetmelikler\n4. Diğer Adsız Düzenleyici İşlemler\n\n## 4. Ehliyet Kavramı\n* **Hak Ehliyeti:** Sağ ve tam doğmak şartıyla ana rahmine düştüğü an başlar.\n* **Fiil Ehliyeti:** Ayırt etme gücü, erginlik (18 yaş) ve kısıtlı olmamayı gerektirir."
+    },
+    {
+        "id":  58,
+        "subject_id":  6,
+        "name":  "Yasama, Yürütme, Yargı",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  59,
+        "subject_id":  6,
+        "name":  "Hukukun Temel Kavramları",
+        "order_index":  1,
+        "content":  "# Temel Hukuk Kavramları\n\nHukuk, toplum yaşamını düzenleyen ve devlet gücüyle desteklenen kurallar bütünüdür.\n\n## 1. Sosyal Hayatı Düzenleyen Kurallar\n* **Din Kuralları:** Uhrevi (manevi) yaptırımlıdır.\n* **Ahlak Kuralları:** Kişinin vicdanıyla ilgilidir (Manevi yaptırım).\n* **Görgü Kuralları:** Adab-ı muaşeret (Manevi yaptırım).\n* **Hukuk Kuralları:** Diğerlerinden farkı **MADDİ YAPTIRIMLI** (devlet gücü) olmasıdır.\n\n## 2. Hukukun Yaptırımları (Müeyyideleri)\n* **Ceza:** Kanuna aykırı fiillere hapis veya adli para cezası.\n* **Cebri İcra:** Borcunu yerine getirmeyeni devlet gücüyle zorlamak.\n* **Tazminat:** Verilen zararın maddi/manevi ödetilmesi.\n* **Hükümsüzlük:** Yokluk (kurucu unsur eksikliği), Butlan (geçersizlik), Tek taraflı bağlamazlık.\n* **İptal:** İdari işlemlerin yargı yoluyla geçersiz kılınması.\n\n## 3. Normlar Hiyerarşisi\n1. Anayasa (En üst)\n2. Kanunlar / Milletlerarası Antlaşmalar / CB Kararnameleri\n3. Yönetmelikler\n4. Diğer Adsız Düzenleyici İşlemler\n\n## 4. Ehliyet Kavramı\n* **Hak Ehliyeti:** Sağ ve tam doğmak şartıyla ana rahmine düştüğü an başlar.\n* **Fiil Ehliyeti:** Ayırt etme gücü, erginlik (18 yaş) ve kısıtlı olmamayı gerektirir."
+    },
+    {
+        "id":  60,
+        "subject_id":  6,
+        "name":  "Genel Esaslar",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  61,
+        "subject_id":  6,
+        "name":  "Temel Haklar",
+        "order_index":  3,
+        "content":  "# Temel Haklar\n\nKişi hakları (Koruyucu), Sosyal-Ekonomik haklar (İsteme) ve Siyasi haklar (Katılma) olarak üçe ayrılır."
+    },
+    {
+        "id":  62,
+        "subject_id":  6,
+        "name":  "Yasama",
+        "order_index":  4,
+        "content":  "# Yasama (TBMM)\n\nYasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisi\u0027nindir. Bu yetki devredilemez.\n\n## 1. Milletvekili Seçilme Yeterliliği\n* 18 yaşını doldurmuş olmak.\n* En az ilkokul mezunu olmak.\n* Askerlikle ilişiği olmamak.\n* Kısıtlı olmamak, kamu hizmetinden yasaklı olmamak.\n\n## 2. Seçimler ve Dönemler\n* TBMM seçimleri 5 yılda bir Cumhurbaşkanı seçimi ile aynı gün yapılır.\n* Savaş sebebiyle seçimler en fazla 1 yıl geri bırakılabilir (Kararı TBMM alır).\n\n## 3. TBMM\u0027nin Görevleri\n* Kanun koymak, değiştirmek ve kaldırmak.\n* Bütçe ve kesin hesap kanun tekliflerini görüşmek ve kabul etmek.\n* Para basılmasına ve savaş ilanına karar vermek.\n* Milletlerarası andlaşmaların onaylanmasını uygun bulmak.\n* Üye tam sayısının 3/5 çoğunluğu ile genel ve özel af ilanı."
+    },
+    {
+        "id":  63,
+        "subject_id":  6,
+        "name":  "Yürütme",
+        "order_index":  5,
+        "content":  "# Yürütme (Cumhurbaşkanı)\n\nYürütme yetkisi ve görevi Cumhurbaşkanı tarafından yerine getirilir.\n\n## 1. Cumhurbaşkanı Seçimi\n* 40 yaşını doldurmuş olmak.\n* Yükseköğrenim yapmış olmak.\n* Milletvekili seçilme yeterliliğine sahip olmak.\n* Halk tarafından seçilir, görev süresi 5 yıldır. Bir kimse en fazla 2 kez seçilebilir.\n\n## 2. Cumhurbaşkanının Yetkileri\n* Devletin başıdır, TSK\u0027nın başkomutanlığını temsil eder.\n* Bakanları ve Cumhurbaşkanı yardımcılarını atar ve görevden alır.\n* Kanunları yayımlar, gerekli gördüğünde TBMM\u0027ye geri gönderir (Veto).\n* Anayasa Mahkemesi, Danıştay, Yargıtay ve HSK\u0027ya üye seçer.\n* Cumhurbaşkanlığı Kararnamesi çıkarır.\n\n## 3. Olağanüstü Hal (OHAL)\nCumhurbaşkanı; savaş, seferberlik, ayaklanma, tabii afet veya ağır ekonomik bunalım durumlarında süresi 6 ayı geçmemek üzere OHAL ilan edebilir. Karar Resmi Gazete\u0027de yayımlanır ve TBMM onayına sunulur."
+    },
+    {
+        "id":  64,
+        "subject_id":  6,
+        "name":  "Yargı",
+        "order_index":  6,
+        "content":  "# Yargı\n\nYargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.\n\n## 1. Yüksek Mahkemeler\n* **Anayasa Mahkemesi:** Kanunların Anayasa\u0027ya uygunluğunu denetler. 15 üyeden oluşur.\n* **Yargıtay:** Adliye mahkemelerince verilen karar ve hükümlerin son inceleme merciidir (Adli yargı).\n* **Danıştay:** İdari davaların son inceleme merciidir (İdari yargı).\n* **Uyuşmazlık Mahkemesi:** Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını çözer.\n\n## 2. Hakimler ve Savcılar Kurulu (HSK)\n* 13 üyeden oluşur. Başkanı Adalet Bakanı\u0027dır. \n* Adalet Bakanı Müsteşarı (Yardımcısı) doğal üyedir.\n* Hakim ve savcıların özlük işlerini (atama, terfi, disiplin) yürütür.\n\n## 3. Sayıştay\nKamu idarelerinin gelir, gider ve mallarını TBMM adına denetler. Kararları kesindir ancak bir yüksek mahkeme değildir."
+    },
+    {
+        "id":  65,
+        "subject_id":  6,
+        "name":  "Anayasal Gelişmeler",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  66,
+        "subject_id":  6,
+        "name":  "İdare Hukuku",
+        "order_index":  8,
+        "content":  "# İdare Hukuku\n\nİdare hukukunun amacı kamu yararını sağlamaktır. İdare, kuruluşu ve görevleriyle bir bütündür.\n\n## 1. İdarenin Teşkilat Yapısı\n* **Merkezden Yönetim:** \n    * **Başkent:** Cumhurbaşkanı, Bakanlıklar, Yardımcı Kuruluşlar (MGK, Danıştay, Sayıştay).\n    * **Taşra:** İl (Vali), İlçe (Kaymakam), Bölge Kuruluşları.\n* **Yerinden Yönetim (Mahalli İdareler):**\n    * İl Özel İdaresi (Vali - Karar organı İl Genel Meclisi).\n    * Belediye (Belediye Başkanı).\n    * Büyükşehir Belediyesi.\n    * Köy (Muhtar - Karar organı Köy Derneği ve İhtiyar Heyeti).\n\n## 2. Denetim İlkeleri\n* **Hiyerarşi:** Aynı kurum içindeki üstün ast üzerindeki denetim yetkisidir (Örn: Vali-Kaymakam).\n* **İdari Vesayet:** Merkezi yönetimin, yerinden yönetim kuruluşları üzerindeki denetim yetkisidir (Örn: İçişleri Bakanı-Belediye Başkanı).\n\n## 3. Kamu Görevlileri\nDevlet memurluğu ilkeleri: Kariyer, Liyakat ve Sınıflandırmadır."
+    },
+    {
+        "id":  67,
+        "subject_id":  6,
+        "name":  "Uluslararası Örgütler",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  68,
+        "subject_id":  6,
+        "name":  "Güncel Bilgiler",
+        "order_index":  10,
+        "content":  null
+    },
+    {
+        "id":  70,
+        "subject_id":  6,
+        "name":  "Devlet Biçimleri ve Hükümet Sistemleri",
+        "order_index":  2,
+        "content":  "# Devlet Biçimleri\n\n* **Yapısına Göre:** Üniter, Federal.\n* **Sisteme Göre:** Parlamenter, Başkanlık, CB Hükümet Sistemi."
+    },
+    {
+        "id":  71,
+        "subject_id":  6,
+        "name":  "Anayasa Hukukuna Giriş, Temel Kavramlar ve Türk Anayasa Tarihi",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  75,
+        "subject_id":  6,
+        "name":  "Temel Hak ve Hürriyetler",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  77,
+        "subject_id":  6,
+        "name":  "Uluslararası Kuruluşlar ve Güncel Olaylar",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  78,
+        "subject_id":  6,
+        "name":  "1982 Anayasası Tam Metni",
+        "order_index":  10,
+        "content":  null
+    },
+    {
+        "id":  79,
+        "subject_id":  6,
+        "name":  "Hukukun Tanımı",
+        "order_index":  1,
+        "content":  "# Hukukun Tanımı\n\nToplumu düzenleyen maddi yaptırımlı kurallar bütünüdür."
+    },
+    {
+        "id":  80,
+        "subject_id":  6,
+        "name":  "Hukuk Kaynaklarıyla İlgili Kavramlar",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  81,
+        "subject_id":  6,
+        "name":  "Yazısız Kaynaklar (Örf ve Adet Hukuku)",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  82,
+        "subject_id":  6,
+        "name":  "Yardımcı Kaynaklar",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  83,
+        "subject_id":  6,
+        "name":  "Hukuk Kurallarının Yaptırımları",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  84,
+        "subject_id":  6,
+        "name":  "Kamu Hukuku Dalları",
+        "order_index":  6,
+        "content":  "# Kamu Hukuku\n\nDevlet ile birey arasındaki ilişkileri düzenler. Anayasa, İdare, Ceza, Vergi ve Devletler Umumi hukuku bu daldadır."
+    },
+    {
+        "id":  85,
+        "subject_id":  6,
+        "name":  "Ceza ve Ehliyet",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  86,
+        "subject_id":  6,
+        "name":  "Özel Hukuk Dalları",
+        "order_index":  8,
+        "content":  "# Özel Hukuk\n\nEşit statüdeki bireyler arası ilişkileri düzenler. Medeni, Borçlar, Ticaret ve Devletler Hususi hukuku."
+    },
+    {
+        "id":  87,
+        "subject_id":  6,
+        "name":  "Hakkın Tanımı ve Türleri",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  88,
+        "subject_id":  6,
+        "name":  "Devlet Kavramı",
+        "order_index":  1,
+        "content":  "# Devlet Kavramı\n\nBelirli bir toprak (vatan) üzerinde yaşayan insan topluluğunun, siyasi bir otorite (egemenlik) altında örgütlenmesidir."
+    },
+    {
+        "id":  89,
+        "subject_id":  6,
+        "name":  "Devlet Kurucu Unsurları",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  90,
+        "subject_id":  6,
+        "name":  "Devlet Kavramına İlişkin Ayrımlar",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  91,
+        "subject_id":  6,
+        "name":  "Yapılarına Göre Devlet Şekilleri",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  92,
+        "subject_id":  6,
+        "name":  "Egemenliğin Kaynağına Göre Devlet Şekilleri",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  93,
+        "subject_id":  6,
+        "name":  "Hükümet Sistemleri",
+        "order_index":  6,
+        "content":  "# Hükümet Sistemleri\n\nKuvvetler birliği ve ayrılığına göre ayrılır. Türkiye CB Hükümet Sistemini kullanır."
+    },
+    {
+        "id":  94,
+        "subject_id":  6,
+        "name":  "Anayasa",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  95,
+        "subject_id":  6,
+        "name":  "Anayasa Kavramına İlişkin Ayrımlar",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  96,
+        "subject_id":  6,
+        "name":  "Yazılı Anayasa - Yazısız Anayasa Ayrımı",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  97,
+        "subject_id":  6,
+        "name":  "Türk Anayasa Tarihi",
+        "order_index":  4,
+        "content":  "# Türk Anayasa Tarihi\n\nTürk anayasacılık süreci 19. yüzyılda başlamıştır.\n\n## 1. Osmanlı Dönemi\n* **Sened-i İttifak (1808):** Padişahın yetkilerini kısıtlayan ilk belge (Anayasa değildir).\n* **Tanzimat Fermanı (1839):** Kanun üstünlüğü ilkesi ilk kez vurgulandı.\n* **Kanun-i Esasi (1876):** Türk tarihinin ilk anayasası.\n\n## 2. Cumhuriyet Dönemi\n* **1921 Anayasası (Teşkilat-ı Esasiye):** Tek yumuşak ve çerçeve anayasa. Meclis hükümeti sistemi.\n* **1924 Anayasası:** Karma hükümet sistemi. Çoğunlukçu demokrasi.\n* **1961 Anayasası:** En özgürlükçü anayasa. Anayasa Mahkemesi kuruldu. Kuvvetler ayrılığı sertleşti.\n* **1982 Anayasası:** Halen yürürlüktedir. Sert ve kazuistik (ayrıntılı). Rasyonelleştirilmiş parlamentarizmden 2017 değişikliği ile Cumhurbaşkanlığı Hükümet Sistemine geçilmiştir."
+    },
+    {
+        "id":  98,
+        "subject_id":  6,
+        "name":  "Kanun-u Esasî (1876)",
+        "order_index":  5,
+        "content":  "# Kanun-u Esasi (1876)\n\nTürk tarihinin ilk anayasasıdır. Meşrutiyet dönemine geçilmiştir. Padişahın yetkileri ilk kez bir belgeyle kısıtlanmıştır (Yazılı anayasa)."
+    },
+    {
+        "id":  99,
+        "subject_id":  6,
+        "name":  "Kanun-u Esasî\u0027de 1909 Değişiklikleri (İkinci Meşrutiyet)",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  100,
+        "subject_id":  6,
+        "name":  "1921 Teşkilât-ı Esasiye Kanunu",
+        "order_index":  7,
+        "content":  "# 1921 Anayasası\n\nMilli Mücadele döneminin \u0027yumuşak\u0027 ve \u0027çerçeve\u0027 anayasasıdır. Meclis hükümeti sistemi hakimdir. \u0027Egemenlik kayıtsız şartsız milletindir\u0027 ilkesi gelmiştir."
+    },
+    {
+        "id":  101,
+        "subject_id":  6,
+        "name":  "Teşkilat-ı Esasiye Kanunu\u0027nda 29 Ekim 1923 Tarihli Değişiklikler",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  102,
+        "subject_id":  6,
+        "name":  "1924 Anayasası",
+        "order_index":  9,
+        "content":  "# 1924 Anayasası\n\nKarma hükümet sistemi. Çoğunlukçu demokrasi. Devletin dini İslam\u0027dır maddesi 1928\u0027de çıkarılmıştır."
+    },
+    {
+        "id":  103,
+        "subject_id":  6,
+        "name":  "1961 Anayasası",
+        "order_index":  10,
+        "content":  "# 1961 Anayasası\n\nEn özgürlükçü anayasa. Anayasa Mahkemesi ve Senato kuruldu. Güçler ayrılığı sertleşti."
+    },
+    {
+        "id":  104,
+        "subject_id":  6,
+        "name":  "1971-1973 Anayasa Değişiklikleri",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  105,
+        "subject_id":  6,
+        "name":  "1982 Anayasası",
+        "order_index":  12,
+        "content":  "# 1982 Anayasası\n\nHalen yürürlükte olan, sert ve ayrıntılı (kazuistik) anayasadır. 2017\u0027de CB Hükümet Sistemine geçilmiştir."
+    },
+    {
+        "id":  106,
+        "subject_id":  6,
+        "name":  "1982 Anayasasının Temel Özellikleri",
+        "order_index":  13,
+        "content":  null
+    },
+    {
+        "id":  107,
+        "subject_id":  6,
+        "name":  "2017 Anayasasının Temel Özellikleri",
+        "order_index":  14,
+        "content":  null
+    },
+    {
+        "id":  108,
+        "subject_id":  6,
+        "name":  "Türk Tarihindeki Referandumlar",
+        "order_index":  15,
+        "content":  null
+    },
+    {
+        "id":  109,
+        "subject_id":  6,
+        "name":  "1982 Anayasası\u0027nın Temel İlkeleri",
+        "order_index":  16,
+        "content":  null
+    },
+    {
+        "id":  110,
+        "subject_id":  6,
+        "name":  "Yasama Organı",
+        "order_index":  1,
+        "content":  "# Yasama Organı (TBMM)\n\n600 milletvekilinden oluşur. Görev süresi 5 yıldır. Kanun yapma yetkisine sahiptir."
+    },
+    {
+        "id":  111,
+        "subject_id":  6,
+        "name":  "Yasama İşlemleri",
+        "order_index":  2,
+        "content":  "# Yasama İşlemleri\n\n* **Kanun:** TBMM tarafından yapılır.\n* **Parlamento Kararı:** Meclis içtüzüğü, dokunulmazlığın kaldırılması vb. (Yargı yolu genellikle kapalıdır)."
+    },
+    {
+        "id":  112,
+        "subject_id":  6,
+        "name":  "TBMM İç Yapı ve Çalışma Düzeni",
+        "order_index":  3,
+        "content":  "# Yasama (TBMM)\n\nYasama yetkisi Türk Milleti adına Türkiye Büyük Millet Meclisi\u0027nindir. Bu yetki devredilemez.\n\n## 1. Milletvekili Seçilme Yeterliliği\n* 18 yaşını doldurmuş olmak.\n* En az ilkokul mezunu olmak.\n* Askerlikle ilişiği olmamak.\n* Kısıtlı olmamak, kamu hizmetinden yasaklı olmamak.\n\n## 2. Seçimler ve Dönemler\n* TBMM seçimleri 5 yılda bir Cumhurbaşkanı seçimi ile aynı gün yapılır.\n* Savaş sebebiyle seçimler en fazla 1 yıl geri bırakılabilir (Kararı TBMM alır).\n\n## 3. TBMM\u0027nin Görevleri\n* Kanun koymak, değiştirmek ve kaldırmak.\n* Bütçe ve kesin hesap kanun tekliflerini görüşmek ve kabul etmek.\n* Para basılmasına ve savaş ilanına karar vermek.\n* Milletlerarası andlaşmaların onaylanmasını uygun bulmak.\n* Üye tam sayısının 3/5 çoğunluğu ile genel ve özel af ilanı."
+    },
+    {
+        "id":  113,
+        "subject_id":  6,
+        "name":  "Toplantı ve Karar Yeter Sayısı",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  114,
+        "subject_id":  6,
+        "name":  "TBMM Görev ve Yetkileri",
+        "order_index":  5,
+        "content":  "# TBMM\u0027nin Görevleri\n\n* Kanun yapmak, değiştirmek.\n* Bütçeyi kabul etmek.\n* Para basılmasına karar vermek.\n* Savaş ilan etmek.* Af ilan etmek (3/5 çoğunluk)."
+    },
+    {
+        "id":  115,
+        "subject_id":  6,
+        "name":  "TBMM Bilgi Edinme ve Denetim Yolları",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  117,
+        "subject_id":  6,
+        "name":  "Kanun Hükmünde Kararnameler",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  118,
+        "subject_id":  6,
+        "name":  "Cumhurbaşkanlığı Kararnamesi",
+        "order_index":  3,
+        "content":  "# CB Kararnamesi (CBK)\n\nYürütme yetkisine ilişkin konularda çıkarılır. Temel haklar olağan dönemde CBK ile düzenlenemez."
+    },
+    {
+        "id":  119,
+        "subject_id":  6,
+        "name":  "Yönetmelik",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  120,
+        "subject_id":  6,
+        "name":  "Cumhurbaşkanı\u0027nın Görev ve Yetkileri",
+        "order_index":  5,
+        "content":  "# CB Görev ve Yetkileri\n\n* Devletin başıdır.\n* TSK\u0027nın başkomutanlığını temsil eder.\n* Bakanları atar/görevden alır.\n* Kanunları yayımlar veya veto eder."
+    },
+    {
+        "id":  122,
+        "subject_id":  6,
+        "name":  "Yargı Organı",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  123,
+        "subject_id":  6,
+        "name":  "Hâkimler ve Savcılar Kurulu",
+        "order_index":  3,
+        "content":  "# HSK\n\n13 üyeden oluşur. Başkanı Adalet Bakanı\u0027dır. Mahkeme değildir, idari bir kuruluştur."
+    },
+    {
+        "id":  124,
+        "subject_id":  6,
+        "name":  "Yüksek Mahkemeler",
+        "order_index":  4,
+        "content":  "# Yargı\n\nYargı yetkisi, Türk Milleti adına bağımsız ve tarafsız mahkemelerce kullanılır.\n\n## 1. Yüksek Mahkemeler\n* **Anayasa Mahkemesi:** Kanunların Anayasa\u0027ya uygunluğunu denetler. 15 üyeden oluşur.\n* **Yargıtay:** Adliye mahkemelerince verilen karar ve hükümlerin son inceleme merciidir (Adli yargı).\n* **Danıştay:** İdari davaların son inceleme merciidir (İdari yargı).\n* **Uyuşmazlık Mahkemesi:** Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını çözer.\n\n## 2. Hakimler ve Savcılar Kurulu (HSK)\n* 13 üyeden oluşur. Başkanı Adalet Bakanı\u0027dır. \n* Adalet Bakanı Müsteşarı (Yardımcısı) doğal üyedir.\n* Hakim ve savcıların özlük işlerini (atama, terfi, disiplin) yürütür.\n\n## 3. Sayıştay\nKamu idarelerinin gelir, gider ve mallarını TBMM adına denetler. Kararları kesindir ancak bir yüksek mahkeme değildir."
+    },
+    {
+        "id":  125,
+        "subject_id":  6,
+        "name":  "Anayasa Mahkemesi",
+        "order_index":  5,
+        "content":  "# Anayasa Mahkemesi\n\n15 üyeden oluşur. Kanunların anayasaya uygunluğunu denetler. Bireysel başvuruları karara bağlar."
+    },
+    {
+        "id":  126,
+        "subject_id":  6,
+        "name":  "Yargıtay",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  127,
+        "subject_id":  6,
+        "name":  "Danıştay",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  128,
+        "subject_id":  6,
+        "name":  "Uyuşmazlık Mahkemesi",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  129,
+        "subject_id":  6,
+        "name":  "Sayıştay",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  131,
+        "subject_id":  6,
+        "name":  "Temel Hakların Türleri",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  133,
+        "subject_id":  6,
+        "name":  "İdare (Kamu Yönetimi)",
+        "order_index":  2,
+        "content":  "# İdare Hukuku\n\nKamu yararını sağlamak amacıyla idarenin teşkilat ve işleyişini düzenler. Hiyerarşi ve İdari Vesayet temel denetim yollarıdır."
+    },
+    {
+        "id":  134,
+        "subject_id":  6,
+        "name":  "Yerel Yönetim Organları",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  135,
+        "subject_id":  6,
+        "name":  "Kamu Kuruluşları",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  137,
+        "subject_id":  6,
+        "name":  "Uluslararası Örgüt ve Kuruluşlar",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  138,
+        "subject_id":  6,
+        "name":  "KPSS Güncel Bilgiler",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  139,
+        "subject_id":  6,
+        "name":  "Türkiye\u0027ye Vize Uygulamayan Ülkeler",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  140,
+        "subject_id":  6,
+        "name":  "UNESCO\u0027nun Dünya Mirası Listesindeki Doğal ve Kültürel Varlıklarımız",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  141,
+        "subject_id":  6,
+        "name":  "T.C. Anayasası Madde Dizini",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  142,
+        "subject_id":  6,
+        "name":  "1982 Anayasasında 2007 Değişiklikleri",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  143,
+        "subject_id":  6,
+        "name":  "1982 Anayasasında 2010 Değişiklikleri",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  144,
+        "subject_id":  6,
+        "name":  "1982 Anayasasında 2017 Değişiklikleri",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  671,
+        "subject_id":  6,
+        "name":  "Seçim Sistemleri ve Türk Seçim Sistemi",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  672,
+        "subject_id":  6,
+        "name":  "Siyasi Partiler Hukuku",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  673,
+        "subject_id":  6,
+        "name":  "Bölge Adliye Mahkemeleri (İstinaf)",
+        "order_index":  10,
+        "content":  null
+    }
 ]

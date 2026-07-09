@@ -1,9 +1,212 @@
-[
-  {
-    "id": 83,
-    "subject_id": 7,
-    "name": "Güncel Bilgiler ve Genel Kültür",
-    "order_index": 1,
-    "content": "# Güncel Bilgiler ve Genel Kültür (2024 - 2025)\n\nBu bölüm, KPSS sınavında en belirleyici alanlardan biridir. Hem son iki yılın önemli olaylarını hem de temel genel kültür bilgilerini kapsar.\n\n## 1. Türkiye Gündemi (2024-2025)\n* **İlk Türk Astronotlar:** Alper Gezeravcı (Ocak 2024 - Axiom-3) uzaya çıkan ilk Türk oldu. Tuva Cihangir Atasever ise Haziran 2024'te yörünge altı uçuş gerçekleştirdi.\n* **Savunma ve Uzay:** Türkiye'nin ilk yerli haberleşme uydusu **Türksat 6A** Temmuz 2024'te fırlatıldı. Togg'un sedan modeli **T10F** tanıtıldı.\n* **UNESCO:** Türkiye'nin listedeki varlık sayısı 21'e çıktı. Son eklenenler: **Gordion Antik Kenti** ve **Anadolu'nun Ortaçağ Dönemi Ahşap Hipostil Camileri**.\n* **TÜİK (2024):** Türkiye nüfusu yaklaşık 85.3 milyon. Nüfusu en az olan il **Bayburt**.\n\n## 2. Dünya Gündemi ve Kuruluşlar\n* **Paris 2024:** Yaz Olimpiyat Oyunları Fransa'nın başkenti Paris'te düzenlendi.\n* **NATO Genişlemesi:** **İsveç**, 2024'te NATO'nun 32. üyesi oldu.\n* **Türk Dünyası:** 2025 Türk Dünyası Kültür Başkenti Kazakistan'ın **Aktau** şehri seçildi.\n* **BRICS:** 2024 itibarıyla Mısır, Etiyopya, İran, Suudi Arabistan ve BAE topluluğa katıldı.\n\n## 3. Kültür, Sanat ve Ödüller\n* **Nobel (2023):** Edebiyat ödülü **Jon Fosse**'ye (Norveç), Barış ödülü **Nergis Muhammedi**'ye (İran) verildi.\n* **Oscar (2024):** En İyi Film ödülünü **Oppenheimer** kazandı.\n* **Müzik:** 2024 Eurovision Şarkı Yarışması'nı **İsviçre** (Nemo - The Code) kazandı.\n\n## 4. Sabit Genel Kültür (\"En\"ler ve \"İlk\"ler)\n* **Coğrafya:** En yüksek dağ **Ağrı**, en büyük göl **Van**, en uzun nehir **Kızılırmak**.\n* **Doğa:** İlk milli park **Yozgat Çamlığı**, ilk sakin şehir (Cittaslow) **Seferihisar**.\n* **Tarih:** İlk anayasa **Kanun-i Esasi**, ilk kadın bakan **Türkan Akyol**, ilk kadın başbakan **Tansu Çiller**.\n\n## 5. Önemli Uluslararası Kuruluşlar\n* **BM (Birleşmiş Milletler):** 5 daimi üye (FİRÇA: Fransa, İngiltere, Rusya, Çin, ABD).\n* **G-20:** 2024 dönem başkanı **Brezilya**, 2025 dönem başkanı **Güney Afrika**."
-  }
+﻿[
+    {
+        "id":  625,
+        "subject_id":  7,
+        "name":  "Türkiye Gündemi",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  626,
+        "subject_id":  7,
+        "name":  "Dünya Gündemi",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  627,
+        "subject_id":  7,
+        "name":  "Uluslararası Kuruluşlar",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  628,
+        "subject_id":  7,
+        "name":  "Bilim ve Teknoloji",
+        "order_index":  4,
+        "content":  "# Bilim ve Teknoloji (2024)\n\n* **Alper Gezeravcı:** İlk Türk astronot.\n* **KAAN:** Milli Muharip Uçak (İlk uçuş: Şubat 2024).\n* **Türksat 6A:** İlk yerli haberleşme uydusu."
+    },
+    {
+        "id":  629,
+        "subject_id":  7,
+        "name":  "Kültür ve Sanat",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  630,
+        "subject_id":  7,
+        "name":  "Spor",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  631,
+        "subject_id":  7,
+        "name":  "Ödüller ve Zirveler",
+        "order_index":  7,
+        "content":  "# Ödüller (2023-2024)\n\n* **Nobel Barış:** Narges Mohammadi.\n* **Oscar En İyi Film:** Oppenheimer.\n* **Cannes En İyi Kadın Oyuncu:** Merve Dizdar."
+    },
+    {
+        "id":  632,
+        "subject_id":  7,
+        "name":  "Atamalar ve Kurumsal Gelişmeler",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  649,
+        "subject_id":  7,
+        "name":  "Siyasi Gelişmeler",
+        "order_index":  1,
+        "content":  "# Siyasi Gelişmeler\n\nNATO\u0027nun 32. üyesi **İsveç** olmuştur. Türk Dünyası 2024 Kültür Başkenti **Anev** (Türkmenistan) seçilmiştir."
+    },
+    {
+        "id":  650,
+        "subject_id":  7,
+        "name":  "Ekonomik Gelişmeler",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  651,
+        "subject_id":  7,
+        "name":  "Toplumsal Gelişmeler",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  652,
+        "subject_id":  7,
+        "name":  "Uluslararası İlişkiler",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  653,
+        "subject_id":  7,
+        "name":  "Çatışmalar ve Anlaşmalar",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  654,
+        "subject_id":  7,
+        "name":  "Seçimler ve Liderlik Değişimleri",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  655,
+        "subject_id":  7,
+        "name":  "Birleşmiş Milletler (BM)",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  656,
+        "subject_id":  7,
+        "name":  "NATO",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  657,
+        "subject_id":  7,
+        "name":  "Avrupa Birliği (AB)",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  658,
+        "subject_id":  7,
+        "name":  "İslam İşbirliği Teşkilatı (İİT)",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  659,
+        "subject_id":  7,
+        "name":  "Şanghay İşbirliği Örgütü (ŞİÖ)",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  660,
+        "subject_id":  7,
+        "name":  "Savunma Sanayi Gelişmeleri",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  661,
+        "subject_id":  7,
+        "name":  "Uzay ve Havacılık",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  662,
+        "subject_id":  7,
+        "name":  "Yapay Zeka ve Dijitalleşme",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  663,
+        "subject_id":  7,
+        "name":  "Ödüllü Eserler ve Sanatçılar",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  664,
+        "subject_id":  7,
+        "name":  "UNESCO Kültürel Miras Kararları",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  665,
+        "subject_id":  7,
+        "name":  "Şampiyonalar ve Turnuvalar",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  666,
+        "subject_id":  7,
+        "name":  "Sporcu Başarıları",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  667,
+        "subject_id":  7,
+        "name":  "Nobel Ödülleri",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  668,
+        "subject_id":  7,
+        "name":  "Uluslararası Zirveler ve Toplantılar",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  669,
+        "subject_id":  7,
+        "name":  "Yeni Atamalar",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  670,
+        "subject_id":  7,
+        "name":  "Coğrafi İşaret Tescilleri",
+        "order_index":  2,
+        "content":  null
+    }
 ]

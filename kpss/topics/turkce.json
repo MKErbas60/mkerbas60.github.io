@@ -1,93 +1,1458 @@
-[
-  {
-    "id": 1,
-    "subject_id": 1,
-    "name": "Sözcükte Anlam",
-    "order_index": 1,
-    "content": "# Sözcükte Anlam\n\nSözcükte anlam konusu, KPSS Türkçe testinin temelini oluşturur ve her yıl 3-4 soru ile karşımıza çıkar.\n\n## Anlam Özellikleri\n\n### 1. Gerçek (Temel) Anlam\nBir sözcüğün söylendiğinde akla gelen ilk anlamıdır. Sözlükteki birinci anlamdır.\n* **Örnek:** \"Gözüme toz kaçtı.\"\n\n### 2. Yan Anlam\nSözcüğün gerçek anlamından kopmadan, şekil veya işlev benzerliğiyle kazandığı yeni anlamdır.\n* **Örnek:** \"Masanın gözü.\", \"Uçağın kanadı.\"\n\n### 3. Mecaz Anlam\nSözcüğün gerçek anlamından tamamen uzaklaşarak kazandığı soyut anlamdır.\n* **Örnek:** \"Bu olayda onun da parmağı var.\", \"Bize çok soğuk davrandı.\"\n\n### 4. Terim Anlam\nBilim, sanat, spor veya meslek dallarına özgü kavramları karşılayan sözcüklerdir.\n* **Örnek:** \"Sıfat\", \"Penaltı\", \"Nota\", \"Işık hızı\".\n\n## Söz Öbekleri\n* **Deyimler:** Genellikle mecaz anlamlı, kalıplaşmış söz öbekleridir.\n* **Atasözleri:** Tecrübelere dayanan, öğüt verici kalıplaşmış cümlelerdir.\n* **İkilemeler:** Anlamı pekiştirmek için kullanılan tekrarlardır (Yavaş yavaş, iyi kötü)."
-  },
-  {
-    "id": 2,
-    "subject_id": 1,
-    "name": "Cümlede Anlam",
-    "order_index": 2,
-    "content": "# Cümlede Anlam\n\nCümlede anlam konusu, yargıların birbirleriyle olan ilişkilerini ve anlatım özelliklerini kapsar.\n\n## Anlatım Özelliklerine Göre Cümleler\n\n### 1. Öznel ve Nesnel Anlatım\n* **Öznel:** Kişisel görüş, beğeni ve yorum içerir. Kanıtlanamaz.\n* **Nesnel:** Herkesçe kabul edilen, kişisel yorum içermeyen, kanıtlanabilir yargılardır.\n\n### 2. Doğrudan ve Dolaylı Anlatım\n* **Doğrudan:** Başkasının sözünü olduğu gibi aktarmaktır.\n* **Dolaylı:** Başkasının sözünü kendi cümlelerimizle, anlamı bozmadan aktarmaktır (Genelde \"söyledi\", \"belirtti\" ile biter).\n\n## Cümleler Arasındaki Anlam İlişkileri\n\n* **Neden-Sonuç (Sebep-Sonuç):** Bir eylemin hangi gerekçeyle yapıldığını bildirir. \"-diği için, -den dolayı\" gibi ekler kullanılır.\n* **Amaç-Sonuç:** Eylemin hangi hedefle yapıldığını bildirir. \"-mek için, -mek üzere\" gibi ekler kullanılır.\n* **Koşul (Şart):** Bir eylemin gerçekleşmesinin başka bir duruma bağlı olmasıdır. \"-se, -sa, dikçe\" gibi ekler kullanılır.\n\n## Kavramlar ve Duygular\n* **Tanım:** \"Nedir?\" sorusuna cevap veren cümlelerdir.\n* **Sitem, Hayıflanma, Pişmanlık, Kanıksama, Yadsıma** gibi duyguların cümledeki karşılıkları sıkça sorulur."
-  },
-  {
-    "id": 3,
-    "subject_id": 1,
-    "name": "Sözcük Türleri",
-    "order_index": 3,
-    "content": "# Sözcük Türleri\n\nTürkçede sözcükler görevlerine göre isim soylu sözcükler ve fiiller olmak üzere ikiye ayrılır.\n\n## İsim Soylu Sözcükler\n\n### 1. İsim (Ad)\nVarlıkları, kavramları ve durumları karşılayan sözcüklerdir (Kitap, sevgi, İstanbul).\n\n### 2. Sıfat (Ön Ad)\nİsimleri niteleyen veya belirten, mutlaka ismin önünde yer alan sözcüklerdir.\n* **Niteleme Sıfatı:** Renk, durum, biçim bildirir (Güzel ev).\n* **Belirtme Sıfatları:** İşaret (bu), Sayı (üç), Belgisiz (bazı), Soru (nasıl) sıfatları.\n\n### 3. Zamir (Adıl)\nİsmin yerini tutan sözcüklerdir. Kişi (ben), İşaret (bu), Belgisiz (bazısı) ve Soru (kim) zamirleri.\n\n### 4. Zarf (Belirteç)\nFiilleri, fiilimsileri, sıfatları etkileyen sözcüklerdir. Durum (hızlı), Zaman (yarın), Miktar (çok), Yer-Yön (içeri) ve Soru zarfları.\n\n### 5. Edat, Bağlaç, Ünlem\n* **Edat (İlgeç):** Tek başına anlamı olmayan, cümle içinde anlam kazanan (gibi, kadar, için).\n* **Bağlaç:** Sözcükleri veya cümleleri bağlayan (ve, ama, de, ki).\n* **Ünlem:** Duygu veya seslenme bildiren (Eyvah, Hey).\n\n## Fiiller (Eylemler)\nİş, oluş, hareket bildiren sözcüklerdir. Kip ve kişi ekleri alarak çekimlenirler."
-  },
-  {
-    "id": 4,
-    "subject_id": 1,
-    "name": "Sözcükte Yapı",
-    "order_index": 4,
-    "content": "# Sözcükte Yapı\n\nSözcüğün yapısı incelenirken kökler, ekler ve gövde yapısı dikkate alınır.\n\n## 1. Kök Bilgisi\nSözcüğün anlamlı en küçük parçasıdır. İsim kökü ve fiil kökü olarak ikiye ayrılır.\n\n## 2. Ekler\n* **Yapım Ekleri:** Eklendiği sözcüğün anlamını veya türünü değiştirir. Yeni bir sözcük türetir (Göz-lük, Sev-gi).\n* **Çekim Ekleri:** Sözcüğün anlamını değiştirmeyen, cümle içindeki görevini belirleyen eklerdir (Çoğul ekleri, Hal ekleri, İyelik ekleri, Kip ekleri).\n\n## 3. Yapı Bakımından Sözcükler\n\n### A. Basit Sözcük\nHiç yapım eki almamış sözcüktür. Çekim eki alabilir (Kitaplar, Evimizden).\n\n### B. Türemiş Sözcük\nEn az bir yapım eki almış sözcüktür. Buna \"gövde\" de denir (Yaz-gı, Yol-cu, Baş-la-).\n\n### C. Birleşik Sözcük\nEn az iki sözcüğün birleşmesiyle oluşur.\n* **Birleşik İsim:** Hanımeli, gecekondu.\n* **Birleşik Fiil:** Teşekkür etmek (Yardımcı fiil), Yapabilmek (Kurallı birleşik), Göz atmak (Anlamca kaynaşmış)."
-  },
-  {
-    "id": 5,
-    "subject_id": 1,
-    "name": "Cümlenin Ögeleri",
-    "order_index": 5,
-    "content": "# Cümlenin Ögeleri\n\nCümleyi ögelerine ayırırken önce temel ögeler, sonra yardımcı ögeler bulunur. Sıralama: **Yönt** (Yüklem-Özne-Nesne-Tümleç).\n\n## 1. Temel Ögeler\n* **Yüklem:** Cümlenin yargı bildiren ana ögesidir. Genellikle sondadır.\n* **Özne:** Yükleme sorulan \"Kim?\" veya \"Ne?\" sorularının cevabıdır. Gerçek, gizli veya sözde özne olabilir.\n\n## 2. Yardımcı Ögeler\n* **Nesne:** Öznenin yaptığı işten etkilenen ögedir.\n    * **Belirtili Nesne:** \"Neyi?\", \"Kimi?\" sorularına cevap verir.\n    * **Belirtisiz Nesne:** Özne bulunduktan sonra sorulan \"Ne?\" sorusuna cevap verir.\n* **Dolaylı Tümleç (Yer Tamlayıcısı):** \"-e, -de, -den\" eklerini alan, yer bildiren ögedir (Kime, nerede, nereden vb.).\n* **Zarf Tümleci:** Yüklemi zaman, durum, miktar, sebep yönünden tamamlar (Nasıl, ne zaman, ne kadar vb.).\n\n## Kritik Notlar\n* Tamlamalar, deyimler, birleşik fiiller ve söz öbekleri asla bölünmez.\n* Hitaplar ve ara cümleler cümle dışı unsurdur."
-  },
-  {
-    "id": 6,
-    "subject_id": 1,
-    "name": "Cümle Türleri",
-    "order_index": 6,
-    "content": "# Cümle Türleri\n\nCümleler dört farklı açıdan sınıflandırılır:\n\n## 1. Yüklemin Türüne Göre\n* **Fiil Cümlesi:** Yüklemi çekimli bir fiil olan cümlelerdir.\n* **İsim Cümlesi:** Yüklemi ek-fiil almış isim soylu bir sözcük olan cümlelerdir.\n\n## 2. Yüklemin Yerine Göre\n* **Kurallı Cümle:** Yüklemi sonda olan cümle.\n* **Devrik Cümle:** Yüklemi sonda olmayan cümle.\n* **Eksiltili Cümle:** Yüklemi söylenmemiş cümle.\n\n## 3. Anlamına Göre\n* **Olumlu Cümle:** Eylemin yapıldığını veya durumun var olduğunu bildirir.\n* **Olumsuz Cümle:** \"-ma, -maz, yok, değil\" gibi unsurlarla kurulur.\n* **Soru Cümlesi:** Bilgi almak veya onaylatmak için kurulan cümleler.\n\n## 4. Yapısına Göre\n* **Basit Cümle:** Tek yüklemi olan ve içinde fiilimsi bulunmayan cümle.\n* **Birleşik Cümle:** Tek yüklemi olan ve içinde en az bir fiilimsi bulunan (Girişik birleşik) cümle.\n* **Sıralı Cümle:** Birden fazla yüklemin virgül veya noktalı virgülle bağlanması.\n* **Bağlı Cümle:** Birden fazla yüklemin bağlaçlarla bağlanması."
-  },
-  {
-    "id": 7,
-    "subject_id": 1,
-    "name": "Dil Bilgisi Ses Olayları",
-    "order_index": 7,
-    "content": "# Dil Bilgisi Ses Olayları\n\nSes olayları, sözcüklerin ek alırken veya birleşirken uğradıkları ses değişimleridir.\n\n## Ünlü Ses Olayları\n* **Ünlü Düşmesi:** İkinci hecesinde dar ünlü (ı, i, u, ü) olan sözcük ünlüyle başlayan ek alınca dar ünlü düşer (Ağız -> Ağzı).\n* **Ünlü Daralması:** \"-a, -e\" ile biten fiillere \"-yor\" eki gelince bu sesler \"ı, i, u, ü\"ye dönüşür (Bekle-yor -> Bekliyor).\n* **Ünlü Türemesi:** Bazı sözcükler \"-cik\" ekini alırken araya ünlü girer (Az-cık -> Azıcık).\n\n## Ünsüz Ses Olayları\n* **Ünsüz Yumuşaması (Değişimi):** \"p, ç, t, k\" ile biten sözcük ünlüyle başlayan ek alınca \"b, c, d, g/ğ\"ye dönüşür (Kitap -> Kitabı).\n* **Ünsüz Benzeşmesi (Sertleşme):** Sert ünsüzle (f, s, t, k, ç, ş, h, p) biten söze yumuşak ünsüzle başlayan ek gelince sertleşir (Sınıf-da -> Sınıfta).\n* **Ünsüz Türemesi:** Kelimenin aslındaki ünsüzün ikizleşmesidir (His-et -> Hisset).\n* **Ünsüz Düşmesi:** Genelde \"k\" sesiyle biten kelimeler \"-cik\" ekini alınca görülür (Küçük-cük -> Küçücük)."
-  },
-  {
-    "id": 8,
-    "subject_id": 1,
-    "name": "Yazım Kuralları",
-    "order_index": 8,
-    "content": "# Yazım Kuralları\n\nDoğru bir anlatım için Türk Dil Kurumu'nun (TDK) belirlediği kurallara uyulmalıdır.\n\n## Büyük Harflerin Kullanımı\n* Cümleler, özel adlar, unvanlar, kurum ve kuruluş adları büyük harfle başlar.\n* Yön adları özel isimden önce gelirse büyük (Kuzey Anadolu), sonra gelirse küçük (Anadolu'nun kuzeyi) yazılır.\n\n## \"de\", \"ki\" ve \"mi\"nin Yazımı\n* **Bağlaç olan \"de\" ve \"ki\":** Her zaman ayrı yazılır. Cümleden çıkarıldığında anlam tamamen bozulmaz.\n* **Ek olan \"-de\" (bulunma) ve \"-ki\" (ilgi/sıfat):** Sözcüğe bitişik yazılır.\n* **Soru eki \"mi\":** Her zaman ayrı yazılır ve kendisinden sonraki eklerle bitişir (Gelecek misin?).\n\n## Sayıların Yazımı\n* Sayılar metin içerisinde genellikle harfle yazılır. Saat, para, ölçü, istatistik verilerinde rakam kullanılır.\n* Üleştirme sayıları her zaman harfle yazılır (2'şer değil, ikişer).\n\n## Birleşik Sözcüklerin Yazımı\n* Ses düşmesi veya türemesi varsa bitişik yazılır (Kaybolmak, Affetmek).\n* Kelimelerden her ikisi veya ikincisi anlam değişikliğine uğramışsa bitişik yazılır (Hanımeli)."
-  },
-  {
-    "id": 9,
-    "subject_id": 1,
-    "name": "Noktalama İşaretleri",
-    "order_index": 9,
-    "content": "# Noktalama İşaretleri\n\nNoktalama işaretleri, okumayı kolaylaştırmak ve anlam karışıklığını önlemek için kullanılır.\n\n## Sık Kullanılan İşaretler\n\n### 1. Virgül (,)\n* Eş görevli sözcükleri ayırır.\n* Sıralı cümleleri ayırır.\n* Yüklemden uzak düşmüş özneyi belirtmek için kullanılır.\n\n### 2. Noktalı Virgül (;)\n* Cümle içinde virgüllerle ayrılmış tür veya grupları birbirinden ayırmak için kullanılır.\n* Ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için kullanılır.\n\n### 3. İki Nokta (:)\n* Kendisiyle ilgili örnek verilecek veya açıklama yapılacak cümlenin sonuna konur.\n* Karşılıklı konuşmalarda konuşan kişiyi belirten sözlerden sonra konur.\n\n### 4. Kesme İşareti (')\n* Özel adlara getirilen iyelik, durum ve bildirme eklerini ayırmak için kullanılır.\n* **Dikkat:** Kurum, kuruluş ve kurul adlarına gelen ekler kesme işaretiyle ayrılmaz.\n\n### 5. Üç Nokta (...)\n* Tamamlanmamış cümlelerin sonuna konur.\n* Alıntılarda atlanan yerleri göstermek için kullanılır."
-  },
-  {
-    "id": 10,
-    "subject_id": 1,
-    "name": "Anlatım Bozuklukları",
-    "order_index": 10,
-    "content": "# Anlatım Bozuklukları\n\nAnlatım bozuklukları anlamsal (bağdaşıklık) ve yapısal (bağlaşıklık) olmak üzere iki ana başlıkta incelenir.\n\n## 1. Anlamsal (Anlamsal) Bozukluklar\n* **Gereksiz Sözcük Kullanımı:** Cümleden çıkarıldığında anlam değişmiyorsa o sözcük gereksizdir.\n* **Sözcüğün Yanlış Anlamda Kullanımı:** Anlamca birbiriyle karıştırılan sözcüklerin kullanılması (Örn: ekmek - dikmek).\n* **Anlamca Çelişen Sözcüklerin Kullanılması:** Kesinlik ve ihtimal bildiren sözlerin bir arada olması.\n* **Sözcüğün Yanlış Yerde Kullanımı:** Zarfın sıfat gibi veya sıfatın zarf gibi konumlandırılması.\n* **Deyim Yanlışları:** Deyimin anlamına uygun kullanılmaması veya kalıbının bozulması.\n\n## 2. Yapısal (Dil Bilgisi) Bozukluklar\n* **Özne-Yüklem Uyumsuzluğu:** Tekillik-çoğulluk, şahıs ve olumluluk-olumsuzluk yönünden uyum.\n* **Öge Eksiklikleri:** Cümlede nesne, dolaylı tümleç, zarf tümleci veya yüklem eksikliğinin anlam karışıklığına yol açması.\n* **Tamlama Yanlışları:** İsim ve sıfat tamlamalarının ortak tamlanana bağlanması hataları.\n* **Ek Yanlışlıkları:** Gereksiz veya yanlış ek kullanımı."
-  },
-  {
-    "id": 11,
-    "subject_id": 1,
-    "name": "Paragrafta Anlam",
-    "order_index": 11,
-    "content": "# Paragrafta Anlam\n\nKPSS Türkçe testinin yaklaşık yarısını oluşturan, okuduğunu anlama ve yorumlama becerisini ölçen bölümdür.\n\n## Paragrafın Bölümleri\n* **Giriş:** Konunun tanıtıldığı, genellikle kısa ve bağımsız cümledir.\n* **Gelişme:** Konunun detaylandırıldığı, örneklerin ve yardımcı düşüncelerin verildiği bölümdür.\n* **Sonuç:** Ana düşüncenin vurgulandığı, toparlayıcı bölümdür.\n\n## Temel Kavramlar\n* **Ana Düşünce:** Yazarın okura vermek istediği asıl mesajdır. \"Asıl vurgulanmak istenen nedir?\" sorusuna cevap verir.\n* **Yardımcı Düşünceler:** Ana düşünceyi destekleyen yan yargılardır. Genelde \"değinilmemiştir\", \"çıkarılamaz\" gibi olumsuz soru tipleriyle sorulur.\n* **Konu:** Paragrafta üzerinde durulan olay, durum veya kavramdır.\n* **Başlık:** Konuyu ve ana düşünceyi en iyi özetleyen, ilgi çekici söz grubudur.\n\n## Paragraf Yapısı Soruları\n* Paragrafı ikiye bölme.\n* Akışı bozan cümleyi bulma.\n* Cümlelerin yerini değiştirerek anlamlı bir bütün oluşturma.\n* Boşluk doldurma (Giriş, gelişme veya sonuç bölümüne uygun cümleyi getirme)."
-  },
-  {
-    "id": 12,
-    "subject_id": 1,
-    "name": "Paragrafta Anlatım Biçimi",
-    "order_index": 12,
-    "content": "# Paragrafta Anlatım Biçimi ve Düşünceyi Geliştirme Yolları\n\nYazarın duygu ve düşüncelerini aktarırken kullandığı yöntemlerdir.\n\n## 1. Anlatım Biçimleri\n* **Açıklama:** Bilgi vermek, öğretmek amacıyla kullanılır. Nesnel bir dil hakimdir.\n* **Tartışma:** Bir görüşü çürütmek, okurun fikrini değiştirmek için kullanılır. Soru-cevaplı, samimi bir dili vardır.\n* **Öyküleme:** Olay akışı vardır. Kişi, yer, zaman unsurları bulunur (Hareketli video gibi).\n* **Betimleme:** Varlıkları kelimelerle resmetmektir. Sıfatlar çokça kullanılır (Durgun fotoğraf gibi).\n\n## 2. Düşünceyi Geliştirme Yolları\n* **Tanımlama:** \"Bu nedir?\" sorusuna cevap verir.\n* **Örneklendirme:** Soyut bir düşünceyi somutlaştırmak için örnekler verilir.\n* **Tanık Gösterme:** Alanında uzman birinin görüşüne ve ismine yer verilir (Tırnak içinde aktarılır).\n* **Karşılaştırma:** En az iki varlık veya kavram arasındaki benzerlik ve farklar ortaya konur.\n* **Sayısal Verilerden Yararlanma:** İstatistiki bilgiler, anketler ve sayılar kullanılır.\n* **Benzetme:** Aralarında ilgi bulunan iki şeyden zayıf olanı güçlü olana benzetmektir."
-  },
-  {
-    "id": 13,
-    "subject_id": 1,
-    "name": "Sözel Mantık",
-    "order_index": 13,
-    "content": "# Sözel Mantık\n\nSözel mantık, verilen karmaşık bilgileri analiz etme, sınıflandırma ve doğru çıkarımlar yapma becerisini ölçer. Genelde 4 soru olarak karşımıza çıkar.\n\n## Çözüm Stratejileri\n\n### 1. Tablo Oluşturma\nSorudaki verileri (kişiler, nesneler, yerler, zamanlar) ilişkilendirmek için mutlaka bir tablo çizilmelidir. Tablo, karmaşık bilgileri görselleştirir ve hatayı önler.\n\n### 2. Öncülleri Gruplandırma\n* **Kesin Bilgiler:** Tabloya doğrudan yerleştirilecek bilgilerdir.\n* **Değişken Bilgiler (İhtimaller):** Kesin olmayan, birkaç farklı duruma göre değişebilen bilgilerdir. Oklarla veya \"/\" işaretiyle belirtilmelidir.\n\n### 3. Soru Köklerine Dikkat\n* **\"Kesinlikle doğrudur/yanlıştır\"** sorularında ihtimallerin tamamı göz önünde bulundurulmalıdır.\n* **\"Olabilir\"** sorularında ise bir ihtimalin gerçekleşme payı yeterlidir.\n\n## Önemli İpuçları\n* Soruyu çözerken asla kendi yorumunuzu katmayın. Sadece verilen öncülleri kullanın.\n* \"En az\", \"En çok\", \"Sadece\", \"Biri dışında\" gibi kısıtlayıcı ifadelere çok dikkat edin.\n* Tabloyu kurmak zaman alsa da, doğru kurulmuş bir tablo ile 4 soruyu birden saniyeler içinde çözebilirsiniz."
-  }
+﻿[
+    {
+        "id":  146,
+        "subject_id":  1,
+        "name":  "Sözcükte Anlam",
+        "order_index":  1,
+        "content":  "# Sözcükte Anlam\n\nSözcükte anlam konusu, KPSS Türkçe testinin temelini oluşturur ve her yıl 3-4 soru ile karşımıza çıkar.\n\n## Anlam Özellikleri\n\n### 1. Gerçek (Temel) Anlam\nBir sözcüğün söylendiğinde akla gelen ilk anlamıdır. Sözlükteki birinci anlamdır.\n* **Örnek:** \"Gözüme toz kaçtı.\"\n\n### 2. Yan Anlam\nSözcüğün gerçek anlamından kopmadan, şekil veya işlev benzerliğiyle kazandığı yeni anlamdır.\n* **Örnek:** \"Masanın gözü.\", \"Uçağın kanadı.\"\n\n### 3. Mecaz Anlam\nSözcüğün gerçek anlamından tamamen uzaklaşarak kazandığı soyut anlamdır.\n* **Örnek:** \"Bu olayda onun da parmağı var.\", \"Bize çok soğuk davrandı.\"\n\n### 4. Terim Anlam\nBilim, sanat, spor veya meslek dallarına özgü kavramları karşılayan sözcüklerdir.\n* **Örnek:** \"Sıfat\", \"Penaltı\", \"Nota\", \"Işık hızı\".\n\n## Söz Öbekleri\n* **Deyimler:** Genellikle mecaz anlamlı, kalıplaşmış söz öbekleridir.\n* **Atasözleri:** Tecrübelere dayanan, öğüt verici kalıplaşmış cümlelerdir.\n* **İkilemeler:** Anlamı pekiştirmek için kullanılan tekrarlardır (Yavaş yavaş, iyi kötü)."
+    },
+    {
+        "id":  147,
+        "subject_id":  1,
+        "name":  "Cümlede Anlam",
+        "order_index":  2,
+        "content":  "# Cümlede Anlam\n\nCümlede anlam konusu, yargıların birbirleriyle olan ilişkilerini ve anlatım özelliklerini kapsar.\n\n## Anlatım Özelliklerine Göre Cümleler\n\n### 1. Öznel ve Nesnel Anlatım\n* **Öznel:** Kişisel görüş, beğeni ve yorum içerir. Kanıtlanamaz.\n* **Nesnel:** Herkesçe kabul edilen, kişisel yorum içermeyen, kanıtlanabilir yargılardır.\n\n### 2. Doğrudan ve Dolaylı Anlatım\n* **Doğrudan:** Başkasının sözünü olduğu gibi aktarmaktır.\n* **Dolaylı:** Başkasının sözünü kendi cümlelerimizle, anlamı bozmadan aktarmaktır (Genelde \"söyledi\", \"belirtti\" ile biter).\n\n## Cümleler Arasındaki Anlam İlişkileri\n\n* **Neden-Sonuç (Sebep-Sonuç):** Bir eylemin hangi gerekçeyle yapıldığını bildirir. \"-diği için, -den dolayı\" gibi ekler kullanılır.\n* **Amaç-Sonuç:** Eylemin hangi hedefle yapıldığını bildirir. \"-mek için, -mek üzere\" gibi ekler kullanılır.\n* **Koşul (Şart):** Bir eylemin gerçekleşmesinin başka bir duruma bağlı olmasıdır. \"-se, -sa, dikçe\" gibi ekler kullanılır.\n\n## Kavramlar ve Duygular\n* **Tanım:** \"Nedir?\" sorusuna cevap veren cümlelerdir.\n* **Sitem, Hayıflanma, Pişmanlık, Kanıksama, Yadsıma** gibi duyguların cümledeki karşılıkları sıkça sorulur."
+    },
+    {
+        "id":  148,
+        "subject_id":  1,
+        "name":  "Paragraf",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  149,
+        "subject_id":  1,
+        "name":  "Dil Bilgisi",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  150,
+        "subject_id":  1,
+        "name":  "Ses Bilgisi",
+        "order_index":  5,
+        "content":  "# Ses Bilgisi\n\n* **Ünlü Düşmesi:** ağız-ı -\u003e ağzı\n* **Sertleşme:** kitap-cı -\u003e kitapçı\n* **Yumuşama:** ağaç-ı -\u003e ağacı\n* **Daralma:** başlıyor (başla-yor)"
+    },
+    {
+        "id":  151,
+        "subject_id":  1,
+        "name":  "Anlatım Bozuklukları",
+        "order_index":  6,
+        "content":  "# Anlatım Bozuklukları\n\nAnlatım bozuklukları anlamsal (bağdaşıklık) ve yapısal (bağlaşıklık) olmak üzere iki ana başlıkta incelenir.\n\n## 1. Anlamsal (Anlamsal) Bozukluklar\n* **Gereksiz Sözcük Kullanımı:** Cümleden çıkarıldığında anlam değişmiyorsa o sözcük gereksizdir.\n* **Sözcüğün Yanlış Anlamda Kullanımı:** Anlamca birbiriyle karıştırılan sözcüklerin kullanılması (Örn: ekmek - dikmek).\n* **Anlamca Çelişen Sözcüklerin Kullanılması:** Kesinlik ve ihtimal bildiren sözlerin bir arada olması.\n* **Sözcüğün Yanlış Yerde Kullanımı:** Zarfın sıfat gibi veya sıfatın zarf gibi konumlandırılması.\n* **Deyim Yanlışları:** Deyimin anlamına uygun kullanılmaması veya kalıbının bozulması.\n\n## 2. Yapısal (Dil Bilgisi) Bozukluklar\n* **Özne-Yüklem Uyumsuzluğu:** Tekillik-çoğulluk, şahıs ve olumluluk-olumsuzluk yönünden uyum.\n* **Öge Eksiklikleri:** Cümlede nesne, dolaylı tümleç, zarf tümleci veya yüklem eksikliğinin anlam karışıklığına yol açması.\n* **Tamlama Yanlışları:** İsim ve sıfat tamlamalarının ortak tamlanana bağlanması hataları.\n* **Ek Yanlışlıkları:** Gereksiz veya yanlış ek kullanımı."
+    },
+    {
+        "id":  152,
+        "subject_id":  1,
+        "name":  "Yazım Yanlışları",
+        "order_index":  7,
+        "content":  "# Yazım Kuralları\n\n* Kurum adlarına gelen ekler ayrılmaz.\n* Bağlaç olan \u0027de\u0027 ve \u0027ki\u0027 ayrı yazılır.\n* Soru eki \u0027mi\u0027 daima ayrıdır."
+    },
+    {
+        "id":  153,
+        "subject_id":  1,
+        "name":  "Noktalama İşaretleri",
+        "order_index":  8,
+        "content":  "# Noktalama İşaretleri\n\nNoktalama işaretleri, okumayı kolaylaştırmak ve anlam karışıklığını önlemek için kullanılır.\n\n## Sık Kullanılan İşaretler\n\n### 1. Virgül (,)\n* Eş görevli sözcükleri ayırır.\n* Sıralı cümleleri ayırır.\n* Yüklemden uzak düşmüş özneyi belirtmek için kullanılır.\n\n### 2. Noktalı Virgül (;)\n* Cümle içinde virgüllerle ayrılmış tür veya grupları birbirinden ayırmak için kullanılır.\n* Ögeleri arasında virgül bulunan sıralı cümleleri birbirinden ayırmak için kullanılır.\n\n### 3. İki Nokta (:)\n* Kendisiyle ilgili örnek verilecek veya açıklama yapılacak cümlenin sonuna konur.\n* Karşılıklı konuşmalarda konuşan kişiyi belirten sözlerden sonra konur.\n\n### 4. Kesme İşareti (\u0027)\n* Özel adlara getirilen iyelik, durum ve bildirme eklerini ayırmak için kullanılır.\n* **Dikkat:** Kurum, kuruluş ve kurul adlarına gelen ekler kesme işaretiyle ayrılmaz.\n\n### 5. Üç Nokta (...)\n* Tamamlanmamış cümlelerin sonuna konur.\n* Alıntılarda atlanan yerleri göstermek için kullanılır."
+    },
+    {
+        "id":  154,
+        "subject_id":  1,
+        "name":  "Sözel Mantık Soruları",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  157,
+        "subject_id":  1,
+        "name":  "Paragrafta Anlam",
+        "order_index":  3,
+        "content":  "# Paragrafta Anlam\n\nKPSS Türkçe testinin yaklaşık yarısını oluşturan, okuduğunu anlama ve yorumlama becerisini ölçen bölümdür.\n\n## Paragrafın Bölümleri\n* **Giriş:** Konunun tanıtıldığı, genellikle kısa ve bağımsız cümledir.\n* **Gelişme:** Konunun detaylandırıldığı, örneklerin ve yardımcı düşüncelerin verildiği bölümdür.\n* **Sonuç:** Ana düşüncenin vurgulandığı, toparlayıcı bölümdür.\n\n## Temel Kavramlar\n* **Ana Düşünce:** Yazarın okura vermek istediği asıl mesajdır. \"Asıl vurgulanmak istenen nedir?\" sorusuna cevap verir.\n* **Yardımcı Düşünceler:** Ana düşünceyi destekleyen yan yargılardır. Genelde \"değinilmemiştir\", \"çıkarılamaz\" gibi olumsuz soru tipleriyle sorulur.\n* **Konu:** Paragrafta üzerinde durulan olay, durum veya kavramdır.\n* **Başlık:** Konuyu ve ana düşünceyi en iyi özetleyen, ilgi çekici söz grubudur.\n\n## Paragraf Yapısı Soruları\n* Paragrafı ikiye bölme.\n* Akışı bozan cümleyi bulma.\n* Cümlelerin yerini değiştirerek anlamlı bir bütün oluşturma.\n* Boşluk doldurma (Giriş, gelişme veya sonuç bölümüne uygun cümleyi getirme)."
+    },
+    {
+        "id":  159,
+        "subject_id":  1,
+        "name":  "Yapı Bilgisi",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  161,
+        "subject_id":  1,
+        "name":  "Sözcük Bilgisi",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  162,
+        "subject_id":  1,
+        "name":  "Cümle Bilgisi",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  163,
+        "subject_id":  1,
+        "name":  "Yazım Kuralları",
+        "order_index":  9,
+        "content":  "# Yazım Kuralları\n\nDoğru bir anlatım için Türk Dil Kurumu\u0027nun (TDK) belirlediği kurallara uyulmalıdır.\n\n## Büyük Harflerin Kullanımı\n* Cümleler, özel adlar, unvanlar, kurum ve kuruluş adları büyük harfle başlar.\n* Yön adları özel isimden önce gelirse büyük (Kuzey Anadolu), sonra gelirse küçük (Anadolu\u0027nun kuzeyi) yazılır.\n\n## \"de\", \"ki\" ve \"mi\"nin Yazımı\n* **Bağlaç olan \"de\" ve \"ki\":** Her zaman ayrı yazılır. Cümleden çıkarıldığında anlam tamamen bozulmaz.\n* **Ek olan \"-de\" (bulunma) ve \"-ki\" (ilgi/sıfat):** Sözcüğe bitişik yazılır.\n* **Soru eki \"mi\":** Her zaman ayrı yazılır ve kendisinden sonraki eklerle bitişir (Gelecek misin?).\n\n## Sayıların Yazımı\n* Sayılar metin içerisinde genellikle harfle yazılır. Saat, para, ölçü, istatistik verilerinde rakam kullanılır.\n* Üleştirme sayıları her zaman harfle yazılır (2\u0027şer değil, ikişer).\n\n## Birleşik Sözcüklerin Yazımı\n* Ses düşmesi veya türemesi varsa bitişik yazılır (Kaybolmak, Affetmek).\n* Kelimelerden her ikisi veya ikincisi anlam değişikliğine uğramışsa bitişik yazılır (Hanımeli)."
+    },
+    {
+        "id":  165,
+        "subject_id":  1,
+        "name":  "Sözel Mantık ve Akıl Yürütme",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  171,
+        "subject_id":  1,
+        "name":  "Sözcük Türleri",
+        "order_index":  6,
+        "content":  "# Sözcük Türleri\n\nTürkçede sözcükler görevlerine göre isim soylu sözcükler ve fiiller olmak üzere ikiye ayrılır.\n\n## İsim Soylu Sözcükler\n\n### 1. İsim (Ad)\nVarlıkları, kavramları ve durumları karşılayan sözcüklerdir (Kitap, sevgi, İstanbul).\n\n### 2. Sıfat (Ön Ad)\nİsimleri niteleyen veya belirten, mutlaka ismin önünde yer alan sözcüklerdir.\n* **Niteleme Sıfatı:** Renk, durum, biçim bildirir (Güzel ev).\n* **Belirtme Sıfatları:** İşaret (bu), Sayı (üç), Belgisiz (bazı), Soru (nasıl) sıfatları.\n\n### 3. Zamir (Adıl)\nİsmin yerini tutan sözcüklerdir. Kişi (ben), İşaret (bu), Belgisiz (bazısı) ve Soru (kim) zamirleri.\n\n### 4. Zarf (Belirteç)\nFiilleri, fiilimsileri, sıfatları etkileyen sözcüklerdir. Durum (hızlı), Zaman (yarın), Miktar (çok), Yer-Yön (içeri) ve Soru zarfları.\n\n### 5. Edat, Bağlaç, Ünlem\n* **Edat (İlgeç):** Tek başına anlamı olmayan, cümle içinde anlam kazanan (gibi, kadar, için).\n* **Bağlaç:** Sözcükleri veya cümleleri bağlayan (ve, ama, de, ki).\n* **Ünlem:** Duygu veya seslenme bildiren (Eyvah, Hey).\n\n## Fiiller (Eylemler)\nİş, oluş, hareket bildiren sözcüklerdir. Kip ve kişi ekleri alarak çekimlenirler."
+    },
+    {
+        "id":  176,
+        "subject_id":  1,
+        "name":  "Sözcüğün Anlam Özellikleri",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  177,
+        "subject_id":  1,
+        "name":  "Gerçek Anlam",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  178,
+        "subject_id":  1,
+        "name":  "Mecaz Anlam",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  179,
+        "subject_id":  1,
+        "name":  "Terimsel Anlam",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  180,
+        "subject_id":  1,
+        "name":  "Sözcükte Anlam Olayları",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  181,
+        "subject_id":  1,
+        "name":  "Benzetme (Teşbih)",
+        "order_index":  6,
+        "content":  "# Benzetme (Teşbih)\n\nZayıf olanı güçlü olana benzetmektir. \n* Örnek: \u0027Keçi gibi inatçı\u0027."
+    },
+    {
+        "id":  182,
+        "subject_id":  1,
+        "name":  "Eğretileme (İstiare)",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  183,
+        "subject_id":  1,
+        "name":  "Kişileştirme (Teşhis)",
+        "order_index":  8,
+        "content":  "# Kişileştirme (Teşhis)\n\nİnsan dışı varlıklara insani özellik verme.\n* Örnek: \u0027Güneş bize gülümsüyordu\u0027."
+    },
+    {
+        "id":  184,
+        "subject_id":  1,
+        "name":  "Kinaye (Değinmece)",
+        "order_index":  9,
+        "content":  "# Kinaye (Değinmece)\n\nSözün hem gerçek hem mecaz anlama gelecek şekilde kullanılması (Asıl kastedilen mecazdır).\n* Örnek: \u0027Ateş olmayan yerden duman çıkmaz\u0027."
+    },
+    {
+        "id":  185,
+        "subject_id":  1,
+        "name":  "Mecazımürsel (Ad Aktarması)",
+        "order_index":  10,
+        "content":  "# Mecazımürsel (Ad Aktarması)\n\nBenzetme amacı gütmeden bir sözün başka bir söz yerine kullanılması.\n* Örnek: \u0027Seni cepten aradım\u0027 (Cihaz kastedilir)."
+    },
+    {
+        "id":  186,
+        "subject_id":  1,
+        "name":  "Dokundurma (Tariz)",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  187,
+        "subject_id":  1,
+        "name":  "Mübalağa (Abartma)",
+        "order_index":  12,
+        "content":  null
+    },
+    {
+        "id":  188,
+        "subject_id":  1,
+        "name":  "Dolaylama",
+        "order_index":  13,
+        "content":  null
+    },
+    {
+        "id":  189,
+        "subject_id":  1,
+        "name":  "Güzel Adlandırma",
+        "order_index":  14,
+        "content":  null
+    },
+    {
+        "id":  190,
+        "subject_id":  1,
+        "name":  "Sözcükler Arası Anlam İlişkileri",
+        "order_index":  15,
+        "content":  null
+    },
+    {
+        "id":  191,
+        "subject_id":  1,
+        "name":  "Eş - Yakın Anlamlı Sözcükler",
+        "order_index":  16,
+        "content":  null
+    },
+    {
+        "id":  192,
+        "subject_id":  1,
+        "name":  "Karşıt (Zıt) Anlamlı Sözcükler",
+        "order_index":  17,
+        "content":  null
+    },
+    {
+        "id":  193,
+        "subject_id":  1,
+        "name":  "Eş Sesli (Sesteş) Sözcükler",
+        "order_index":  18,
+        "content":  null
+    },
+    {
+        "id":  194,
+        "subject_id":  1,
+        "name":  "Somut - Soyut Anlamlı Sözcükler",
+        "order_index":  19,
+        "content":  null
+    },
+    {
+        "id":  195,
+        "subject_id":  1,
+        "name":  "Nitel-Nicel Anlamlı Sözcükler",
+        "order_index":  20,
+        "content":  null
+    },
+    {
+        "id":  196,
+        "subject_id":  1,
+        "name":  "Genel-Özel Anlamlı Sözcükler",
+        "order_index":  21,
+        "content":  null
+    },
+    {
+        "id":  197,
+        "subject_id":  1,
+        "name":  "Yansıma Sözcükler",
+        "order_index":  22,
+        "content":  null
+    },
+    {
+        "id":  198,
+        "subject_id":  1,
+        "name":  "Kalıplaşmış Söz Öbekleri",
+        "order_index":  23,
+        "content":  null
+    },
+    {
+        "id":  199,
+        "subject_id":  1,
+        "name":  "İkilemeler",
+        "order_index":  24,
+        "content":  null
+    },
+    {
+        "id":  200,
+        "subject_id":  1,
+        "name":  "Pekiştirmeler",
+        "order_index":  25,
+        "content":  null
+    },
+    {
+        "id":  201,
+        "subject_id":  1,
+        "name":  "Deyimler",
+        "order_index":  26,
+        "content":  null
+    },
+    {
+        "id":  202,
+        "subject_id":  1,
+        "name":  "Atasözleri",
+        "order_index":  27,
+        "content":  null
+    },
+    {
+        "id":  203,
+        "subject_id":  1,
+        "name":  "Kalıplaşmamış Söz Öbekleri",
+        "order_index":  28,
+        "content":  null
+    },
+    {
+        "id":  204,
+        "subject_id":  1,
+        "name":  "Cümlenin Yorumu",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  205,
+        "subject_id":  1,
+        "name":  "Cümlenin İletisi",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  206,
+        "subject_id":  1,
+        "name":  "Cümleden Çıkarılacak Kesin Yargı",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  207,
+        "subject_id":  1,
+        "name":  "Cümlede Vurgu",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  208,
+        "subject_id":  1,
+        "name":  "Eş - Yakın Anlamlı Cümleler",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  209,
+        "subject_id":  1,
+        "name":  "Anlamca Çelişen Cümleler",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  210,
+        "subject_id":  1,
+        "name":  "Anlamlarına Göre Cümleler",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  211,
+        "subject_id":  1,
+        "name":  "Olumlu Cümleler",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  212,
+        "subject_id":  1,
+        "name":  "Olumsuz Cümleler",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  213,
+        "subject_id":  1,
+        "name":  "Soru Cümleleri",
+        "order_index":  10,
+        "content":  null
+    },
+    {
+        "id":  214,
+        "subject_id":  1,
+        "name":  "Ünlem Cümleleri",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  215,
+        "subject_id":  1,
+        "name":  "Emir Cümleleri",
+        "order_index":  12,
+        "content":  null
+    },
+    {
+        "id":  216,
+        "subject_id":  1,
+        "name":  "İçerdiği Duygu, Düşünce ve Duruma Göre Cümleler",
+        "order_index":  13,
+        "content":  null
+    },
+    {
+        "id":  217,
+        "subject_id":  1,
+        "name":  "Çıkarım",
+        "order_index":  14,
+        "content":  null
+    },
+    {
+        "id":  218,
+        "subject_id":  1,
+        "name":  "Kanıksama",
+        "order_index":  15,
+        "content":  null
+    },
+    {
+        "id":  219,
+        "subject_id":  1,
+        "name":  "Saptama",
+        "order_index":  16,
+        "content":  null
+    },
+    {
+        "id":  220,
+        "subject_id":  1,
+        "name":  "Değerlendirme",
+        "order_index":  17,
+        "content":  null
+    },
+    {
+        "id":  221,
+        "subject_id":  1,
+        "name":  "Yakınma - Sitem",
+        "order_index":  18,
+        "content":  null
+    },
+    {
+        "id":  222,
+        "subject_id":  1,
+        "name":  "Pişmanlık",
+        "order_index":  19,
+        "content":  null
+    },
+    {
+        "id":  223,
+        "subject_id":  1,
+        "name":  "Ön Yargı",
+        "order_index":  20,
+        "content":  null
+    },
+    {
+        "id":  224,
+        "subject_id":  1,
+        "name":  "Olasılık",
+        "order_index":  21,
+        "content":  "# Olasılık\n\nBir olayın olma ihtimalidir.\n\n## Formül\nOlasılık = (İstenen Durum Sayısı) / (Tüm Durumların Sayısı)\n* Sonuç 0 ile 1 arasındadır. 0 imkansız, 1 kesin olaydır.\n\n\u003e **Örnek:** Bir zar atıldığında üst yüze çift sayı gelme olasılığı?\n\u003e **Çözüm:** Tüm durumlar = {1, 2, 3, 4, 5, 6} (6 tane). İstenen = {2, 4, 6} (3 tane). \n\u003e Sonuç = 3/6 = 1/2."
+    },
+    {
+        "id":  225,
+        "subject_id":  1,
+        "name":  "Varsayım",
+        "order_index":  22,
+        "content":  null
+    },
+    {
+        "id":  226,
+        "subject_id":  1,
+        "name":  "Tahmin",
+        "order_index":  23,
+        "content":  null
+    },
+    {
+        "id":  227,
+        "subject_id":  1,
+        "name":  "Şaşırma",
+        "order_index":  24,
+        "content":  null
+    },
+    {
+        "id":  228,
+        "subject_id":  1,
+        "name":  "Kuşku",
+        "order_index":  25,
+        "content":  null
+    },
+    {
+        "id":  229,
+        "subject_id":  1,
+        "name":  "Uyarı",
+        "order_index":  26,
+        "content":  null
+    },
+    {
+        "id":  230,
+        "subject_id":  1,
+        "name":  "Öneri",
+        "order_index":  27,
+        "content":  null
+    },
+    {
+        "id":  231,
+        "subject_id":  1,
+        "name":  "Anlam İlişkilerine Göre Cümleler",
+        "order_index":  28,
+        "content":  null
+    },
+    {
+        "id":  232,
+        "subject_id":  1,
+        "name":  "Neden - Sonuç (Gerekçe) İlişkisi",
+        "order_index":  29,
+        "content":  null
+    },
+    {
+        "id":  233,
+        "subject_id":  1,
+        "name":  "Amaç - Sonuç İlişkisi",
+        "order_index":  30,
+        "content":  null
+    },
+    {
+        "id":  234,
+        "subject_id":  1,
+        "name":  "Koşul (Şart) Cümleleri",
+        "order_index":  31,
+        "content":  null
+    },
+    {
+        "id":  235,
+        "subject_id":  1,
+        "name":  "Anlatım Özelliklerine Göre Cümleler",
+        "order_index":  32,
+        "content":  null
+    },
+    {
+        "id":  236,
+        "subject_id":  1,
+        "name":  "Öznel ve Nesnel Anlatım",
+        "order_index":  33,
+        "content":  null
+    },
+    {
+        "id":  237,
+        "subject_id":  1,
+        "name":  "Tanım Cümleleri",
+        "order_index":  34,
+        "content":  null
+    },
+    {
+        "id":  238,
+        "subject_id":  1,
+        "name":  "Karşılaştırma Cümleleri",
+        "order_index":  35,
+        "content":  null
+    },
+    {
+        "id":  239,
+        "subject_id":  1,
+        "name":  "İçerik ve Üslup (Biçem) Bildiren Cümleler",
+        "order_index":  36,
+        "content":  null
+    },
+    {
+        "id":  240,
+        "subject_id":  1,
+        "name":  "Doğrudan Anlatım (Aktarma) Cümleleri",
+        "order_index":  37,
+        "content":  null
+    },
+    {
+        "id":  241,
+        "subject_id":  1,
+        "name":  "Dolaylı Anlatım (Aktarma) Cümleleri",
+        "order_index":  38,
+        "content":  null
+    },
+    {
+        "id":  242,
+        "subject_id":  1,
+        "name":  "Cümle Analizi (Cümle Değerlendirme)",
+        "order_index":  39,
+        "content":  null
+    },
+    {
+        "id":  243,
+        "subject_id":  1,
+        "name":  "Cümlenin Yapısı",
+        "order_index":  40,
+        "content":  null
+    },
+    {
+        "id":  244,
+        "subject_id":  1,
+        "name":  "Cümle Tamamlama",
+        "order_index":  41,
+        "content":  null
+    },
+    {
+        "id":  245,
+        "subject_id":  1,
+        "name":  "Cümle Oluşturma",
+        "order_index":  42,
+        "content":  null
+    },
+    {
+        "id":  246,
+        "subject_id":  1,
+        "name":  "Paragrafın Yapısı",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  247,
+        "subject_id":  1,
+        "name":  "Paragrafın Bölümleri ve Boşluk Tamamlama",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  248,
+        "subject_id":  1,
+        "name":  "Düşüncenin Akışını Bozan Cümleler",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  249,
+        "subject_id":  1,
+        "name":  "Paragrafı İkiye Bölme",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  250,
+        "subject_id":  1,
+        "name":  "Paragraf Oluşturma",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  251,
+        "subject_id":  1,
+        "name":  "Paragrafta Yer Değiştirme",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  252,
+        "subject_id":  1,
+        "name":  "Paragrafın İçeriği",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  253,
+        "subject_id":  1,
+        "name":  "Ana Düşünce",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  254,
+        "subject_id":  1,
+        "name":  "Yardımcı Düşünceler",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  255,
+        "subject_id":  1,
+        "name":  "Paragrafta Anlatım Biçimleri",
+        "order_index":  10,
+        "content":  null
+    },
+    {
+        "id":  256,
+        "subject_id":  1,
+        "name":  "Açıklayıcı Anlatım",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  257,
+        "subject_id":  1,
+        "name":  "Tartışmacı Anlatım",
+        "order_index":  12,
+        "content":  null
+    },
+    {
+        "id":  258,
+        "subject_id":  1,
+        "name":  "Öyküleyici Anlatım",
+        "order_index":  13,
+        "content":  null
+    },
+    {
+        "id":  259,
+        "subject_id":  1,
+        "name":  "Betimleyici Anlatım",
+        "order_index":  14,
+        "content":  null
+    },
+    {
+        "id":  260,
+        "subject_id":  1,
+        "name":  "Düşünceyi Geliştirme Yolları",
+        "order_index":  15,
+        "content":  null
+    },
+    {
+        "id":  261,
+        "subject_id":  1,
+        "name":  "Tanımlama",
+        "order_index":  16,
+        "content":  "# Tanımlama\n\n\u0027Bu nedir?\u0027 sorusuna cevap verir. Genelde \u0027...-dır\u0027 ile biter."
+    },
+    {
+        "id":  262,
+        "subject_id":  1,
+        "name":  "Karşılaştırma",
+        "order_index":  17,
+        "content":  "# Karşılaştırma\n\nEn az iki varlık arasındaki benzerlik veya farkların ortaya konmasıdır. \u0027En, daha, kadar, ise\u0027 kelimeleri kullanılır."
+    },
+    {
+        "id":  263,
+        "subject_id":  1,
+        "name":  "Örnekleme",
+        "order_index":  18,
+        "content":  "# Örnekleme\n\nSoyut bir düşünceyi somutlaştırmak için örnekler verilmesidir."
+    },
+    {
+        "id":  264,
+        "subject_id":  1,
+        "name":  "Sesler",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  265,
+        "subject_id":  1,
+        "name":  "Ünlü Sesler ve Ünlü Uyumları",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  266,
+        "subject_id":  1,
+        "name":  "Ünsüz Sesler",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  267,
+        "subject_id":  1,
+        "name":  "Ses Olayları",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  268,
+        "subject_id":  1,
+        "name":  "Ünsüz Değişimi - Yumuşama",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  269,
+        "subject_id":  1,
+        "name":  "Ünsüz Benzeşmesi (Sertleşme)",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  270,
+        "subject_id":  1,
+        "name":  "Ses Düşmesi",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  271,
+        "subject_id":  1,
+        "name":  "Ses Türemesi",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  272,
+        "subject_id":  1,
+        "name":  "Ulama",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  273,
+        "subject_id":  1,
+        "name":  "Dudak Ünsüzlerinin Benzeşmesi",
+        "order_index":  10,
+        "content":  null
+    },
+    {
+        "id":  274,
+        "subject_id":  1,
+        "name":  "Ünlü Daralması",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  275,
+        "subject_id":  1,
+        "name":  "Kökte Ünlü Değişimi",
+        "order_index":  12,
+        "content":  null
+    },
+    {
+        "id":  276,
+        "subject_id":  1,
+        "name":  "Yardımcı Sesler",
+        "order_index":  13,
+        "content":  null
+    },
+    {
+        "id":  277,
+        "subject_id":  1,
+        "name":  "Kök ve Gövde",
+        "order_index":  1,
+        "content":  "# Kök ve Gövde\n\n* **Kök:** Sözcüğün anlamlı en küçük parçasıdır.\n* **Gövde:** En az bir yapım eki almış halidir."
+    },
+    {
+        "id":  278,
+        "subject_id":  1,
+        "name":  "Ekler",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  279,
+        "subject_id":  1,
+        "name":  "Yapım Ekleri",
+        "order_index":  3,
+        "content":  "# Yapım Ekleri\n\nEklendiği sözcüğün anlamını veya türünü değiştirir. Yeni bir sözcük türetir."
+    },
+    {
+        "id":  280,
+        "subject_id":  1,
+        "name":  "Çekim Ekleri",
+        "order_index":  4,
+        "content":  "# Çekim Ekleri\n\nSözcüğün anlamını değiştirmeyen, sadece cümledeki görevini belirleyen eklerdir."
+    },
+    {
+        "id":  281,
+        "subject_id":  1,
+        "name":  "Yapılarına Göre Sözcükler",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  282,
+        "subject_id":  1,
+        "name":  "İsim (Ad)",
+        "order_index":  1,
+        "content":  "# İsim (Ad)\n\nVarlıkları ve kavramları karşılayan sözcüklerdir. Özel, cins, somut, soyut olarak ayrılırlar."
+    },
+    {
+        "id":  283,
+        "subject_id":  1,
+        "name":  "Varlıkların Türüne Göre İsimler",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  284,
+        "subject_id":  1,
+        "name":  "Varlıkların Sayılarına Göre İsimler",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  285,
+        "subject_id":  1,
+        "name":  "İsmin Hâlleri",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  286,
+        "subject_id":  1,
+        "name":  "İsim Tamlamaları",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  287,
+        "subject_id":  1,
+        "name":  "Zamir (Adıl)",
+        "order_index":  6,
+        "content":  "# Zamir (Adıl)\n\nİsimlerin yerini tutan sözcüklerdir. Kişi, işaret, belgisiz ve soru zamirleri mevcuttur."
+    },
+    {
+        "id":  288,
+        "subject_id":  1,
+        "name":  "Kişi Zamirleri",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  289,
+        "subject_id":  1,
+        "name":  "İşaret Zamirleri",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  290,
+        "subject_id":  1,
+        "name":  "Belgisiz Zamirler",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  291,
+        "subject_id":  1,
+        "name":  "Soru Zamirleri",
+        "order_index":  10,
+        "content":  null
+    },
+    {
+        "id":  292,
+        "subject_id":  1,
+        "name":  "İlgi Zamiri (Aitlik Eki)",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  293,
+        "subject_id":  1,
+        "name":  "Sıfat (Ön Ad)",
+        "order_index":  12,
+        "content":  "# Sıfat (Ön Ad)\n\nİsimlerin önüne gelerek onları niteleyen veya belirten sözcüklerdir. Niteleme ve belirtme sıfatları olarak ikiye ayrılır."
+    },
+    {
+        "id":  294,
+        "subject_id":  1,
+        "name":  "Niteleme Sıfatları",
+        "order_index":  13,
+        "content":  null
+    },
+    {
+        "id":  295,
+        "subject_id":  1,
+        "name":  "Belirtme Sıfatları",
+        "order_index":  14,
+        "content":  null
+    },
+    {
+        "id":  296,
+        "subject_id":  1,
+        "name":  "Adlaşmış Sıfatlar",
+        "order_index":  15,
+        "content":  null
+    },
+    {
+        "id":  297,
+        "subject_id":  1,
+        "name":  "Zarf (Belirteç)",
+        "order_index":  16,
+        "content":  "# Zarf (Belirteç)\n\nFiilleri, fiilimsileri, sıfatları veya kendi türünden sözcükleri etkileyen kelimelerdir (Durum, zaman, miktar, yer-yön, soru)."
+    },
+    {
+        "id":  298,
+        "subject_id":  1,
+        "name":  "Durum Zarfları",
+        "order_index":  17,
+        "content":  null
+    },
+    {
+        "id":  299,
+        "subject_id":  1,
+        "name":  "Yer-Yön Zarfları",
+        "order_index":  18,
+        "content":  null
+    },
+    {
+        "id":  300,
+        "subject_id":  1,
+        "name":  "Zaman Zarfları",
+        "order_index":  19,
+        "content":  null
+    },
+    {
+        "id":  301,
+        "subject_id":  1,
+        "name":  "Ölçü-Miktar Zarfları",
+        "order_index":  20,
+        "content":  null
+    },
+    {
+        "id":  302,
+        "subject_id":  1,
+        "name":  "Soru Zarfları",
+        "order_index":  21,
+        "content":  null
+    },
+    {
+        "id":  303,
+        "subject_id":  1,
+        "name":  "Edat (İlgeç)",
+        "order_index":  22,
+        "content":  "# Edat (İlgeç)\n\nTek başına anlamı olmayan, cümle içinde kelimeler arasında anlam ilgisi kuran sözcüklerdir (gibi, kadar, için vb.)."
+    },
+    {
+        "id":  304,
+        "subject_id":  1,
+        "name":  "Bağlaç",
+        "order_index":  23,
+        "content":  "# Bağlaç\n\nEş görevli kelimeleri veya cümleleri birbirine bağlayan sözcüklerdir (ve, ama, fakat, de, ki vb.)."
+    },
+    {
+        "id":  305,
+        "subject_id":  1,
+        "name":  "Ünlem",
+        "order_index":  24,
+        "content":  "# Ünlem\n\nSevinç, korku, şaşma gibi duyguları veya seslenmeleri ifade eden sözcüklerdir (Eyvah, Hey, Sakın!)."
+    },
+    {
+        "id":  306,
+        "subject_id":  1,
+        "name":  "Fiil (Eylem)",
+        "order_index":  25,
+        "content":  "# Fiil (Eylem)\n\nİş, oluş, hareket bildiren sözcüklerdir. Kip ve kişi ekleri alarak çekimlenirler."
+    },
+    {
+        "id":  307,
+        "subject_id":  1,
+        "name":  "İş (Kılış) Fiilleri",
+        "order_index":  26,
+        "content":  null
+    },
+    {
+        "id":  308,
+        "subject_id":  1,
+        "name":  "Oluş Fiileri",
+        "order_index":  27,
+        "content":  null
+    },
+    {
+        "id":  309,
+        "subject_id":  1,
+        "name":  "Durum Fiileri",
+        "order_index":  28,
+        "content":  null
+    },
+    {
+        "id":  310,
+        "subject_id":  1,
+        "name":  "Fiillerde Kip",
+        "order_index":  29,
+        "content":  null
+    },
+    {
+        "id":  311,
+        "subject_id":  1,
+        "name":  "Fiillerde Kişi",
+        "order_index":  30,
+        "content":  null
+    },
+    {
+        "id":  312,
+        "subject_id":  1,
+        "name":  "Fiillerde Olumsuzluk",
+        "order_index":  31,
+        "content":  null
+    },
+    {
+        "id":  313,
+        "subject_id":  1,
+        "name":  "Fiillerde Anlam (Zaman) Kayması",
+        "order_index":  32,
+        "content":  null
+    },
+    {
+        "id":  314,
+        "subject_id":  1,
+        "name":  "Fiillerde Çatı",
+        "order_index":  33,
+        "content":  null
+    },
+    {
+        "id":  315,
+        "subject_id":  1,
+        "name":  "Fiilimsiler",
+        "order_index":  34,
+        "content":  null
+    },
+    {
+        "id":  316,
+        "subject_id":  1,
+        "name":  "Fiilimsi Grupları",
+        "order_index":  35,
+        "content":  null
+    },
+    {
+        "id":  317,
+        "subject_id":  1,
+        "name":  "Yardımcı Fiiller",
+        "order_index":  36,
+        "content":  null
+    },
+    {
+        "id":  318,
+        "subject_id":  1,
+        "name":  "Ek Fiil (Ek-Eylem)",
+        "order_index":  37,
+        "content":  null
+    },
+    {
+        "id":  319,
+        "subject_id":  1,
+        "name":  "Cümle Türleri",
+        "order_index":  1,
+        "content":  "# Cümle Türleri\n\nCümleler dört farklı açıdan sınıflandırılır:\n\n## 1. Yüklemin Türüne Göre\n* **Fiil Cümlesi:** Yüklemi çekimli bir fiil olan cümlelerdir.\n* **İsim Cümlesi:** Yüklemi ek-fiil almış isim soylu bir sözcük olan cümlelerdir.\n\n## 2. Yüklemin Yerine Göre\n* **Kurallı Cümle:** Yüklemi sonda olan cümle.\n* **Devrik Cümle:** Yüklemi sonda olmayan cümle.\n* **Eksiltili Cümle:** Yüklemi söylenmemiş cümle.\n\n## 3. Anlamına Göre\n* **Olumlu Cümle:** Eylemin yapıldığını veya durumun var olduğunu bildirir.\n* **Olumsuz Cümle:** \"-ma, -maz, yok, değil\" gibi unsurlarla kurulur.\n* **Soru Cümlesi:** Bilgi almak veya onaylatmak için kurulan cümleler.\n\n## 4. Yapısına Göre\n* **Basit Cümle:** Tek yüklemi olan ve içinde fiilimsi bulunmayan cümle.\n* **Birleşik Cümle:** Tek yüklemi olan ve içinde en az bir fiilimsi bulunan (Girişik birleşik) cümle.\n* **Sıralı Cümle:** Birden fazla yüklemin virgül veya noktalı virgülle bağlanması.\n* **Bağlı Cümle:** Birden fazla yüklemin bağlaçlarla bağlanması."
+    },
+    {
+        "id":  320,
+        "subject_id":  1,
+        "name":  "Yüklemlerine Göre Cümleler",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  321,
+        "subject_id":  1,
+        "name":  "Öge Dizilişine Göre Cümleler",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  322,
+        "subject_id":  1,
+        "name":  "Yapılarına Göre Cümleler",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  323,
+        "subject_id":  1,
+        "name":  "Cümlenin Ögeleri",
+        "order_index":  5,
+        "content":  "# Cümlenin Ögeleri\n\nCümleyi ögelerine ayırırken önce temel ögeler, sonra yardımcı ögeler bulunur. Sıralama: **Yönt** (Yüklem-Özne-Nesne-Tümleç).\n\n## 1. Temel Ögeler\n* **Yüklem:** Cümlenin yargı bildiren ana ögesidir. Genellikle sondadır.\n* **Özne:** Yükleme sorulan \"Kim?\" veya \"Ne?\" sorularının cevabıdır. Gerçek, gizli veya sözde özne olabilir.\n\n## 2. Yardımcı Ögeler\n* **Nesne:** Öznenin yaptığı işten etkilenen ögedir.\n    * **Belirtili Nesne:** \"Neyi?\", \"Kimi?\" sorularına cevap verir.\n    * **Belirtisiz Nesne:** Özne bulunduktan sonra sorulan \"Ne?\" sorusuna cevap verir.\n* **Dolaylı Tümleç (Yer Tamlayıcısı):** \"-e, -de, -den\" eklerini alan, yer bildiren ögedir (Kime, nerede, nereden vb.).\n* **Zarf Tümleci:** Yüklemi zaman, durum, miktar, sebep yönünden tamamlar (Nasıl, ne zaman, ne kadar vb.).\n\n## Kritik Notlar\n* Tamlamalar, deyimler, birleşik fiiller ve söz öbekleri asla bölünmez.\n* Hitaplar ve ara cümleler cümle dışı unsurdur."
+    },
+    {
+        "id":  324,
+        "subject_id":  1,
+        "name":  "Yüklem",
+        "order_index":  6,
+        "content":  "# Yüklem\n\nCümlenin temel ögesidir. Yargı bildirir. Kip ve şahıs eki almış bir fiil veya ek-fiil almış bir isim olabilir."
+    },
+    {
+        "id":  325,
+        "subject_id":  1,
+        "name":  "Özne",
+        "order_index":  7,
+        "content":  "# Özne\n\nYüklemin bildirdiği işi yapan veya durumu üzerine alan ögedir. Yükleme sorulan \u0027Kim?\u0027 ve \u0027Ne?\u0027 sorularıyla bulunur."
+    },
+    {
+        "id":  326,
+        "subject_id":  1,
+        "name":  "Nesne",
+        "order_index":  8,
+        "content":  "# Nesne\n\nÖznenin yaptığı işten etkilenen ögedir.\n* **Belirtili Nesne:** Neyi? Kimi? sorularına cevap verir (-i halini alır).\n* **Belirtisiz Nesne:** Özne bulunduktan sonra sorulan \u0027Ne?\u0027 sorusuna cevap verir."
+    },
+    {
+        "id":  327,
+        "subject_id":  1,
+        "name":  "Dolaylı Tümleç",
+        "order_index":  9,
+        "content":  "# Dolaylı Tümleç (Yer Tamlayıcısı)\n\nYüklemi yer yönünden tamamlar. -e, -de, -den hal eklerini alan sözcüklerdir (Kime, nerede, nereden vb.)."
+    },
+    {
+        "id":  328,
+        "subject_id":  1,
+        "name":  "Zarf Tümleci",
+        "order_index":  10,
+        "content":  "# Zarf Tümleci\n\nYüklemi zaman, durum, miktar, sebep yönünden tamamlar (Nasıl, ne zaman, niçin vb.)."
+    },
+    {
+        "id":  329,
+        "subject_id":  1,
+        "name":  "Edat Tümleci",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  330,
+        "subject_id":  1,
+        "name":  "Büyük Harflerin Kullanıldığı Yerler",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  331,
+        "subject_id":  1,
+        "name":  "Kısaltmaların Yazımı",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  332,
+        "subject_id":  1,
+        "name":  "Sayıların Yazımı",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  333,
+        "subject_id":  1,
+        "name":  "Deyimlerin ve İkilemelerin Yazımı",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  334,
+        "subject_id":  1,
+        "name":  "Birleşik Kelimelerin Yazımı",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  335,
+        "subject_id":  1,
+        "name":  "Bitişik Yazılan Birleşik Kelimeler",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  336,
+        "subject_id":  1,
+        "name":  "Ayrı Yazılan Birleşik Kelimeler",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  337,
+        "subject_id":  1,
+        "name":  "Yabancı Özel Adların Yazımı",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  338,
+        "subject_id":  1,
+        "name":  "Ses Olaylarıyla İlgili Yazım Kuralları",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  339,
+        "subject_id":  1,
+        "name":  "Nokta ( . )",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  340,
+        "subject_id":  1,
+        "name":  "Virgül ( , )",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  341,
+        "subject_id":  1,
+        "name":  "Noktalı Virgül ( ; )",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  342,
+        "subject_id":  1,
+        "name":  "İki Nokta ( : )",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  343,
+        "subject_id":  1,
+        "name":  "Üç Nokta ( ... )",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  344,
+        "subject_id":  1,
+        "name":  "Soru İşareti ( ? )",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  345,
+        "subject_id":  1,
+        "name":  "Ünlem İşareti ( ! )",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  346,
+        "subject_id":  1,
+        "name":  "Kısa Çizgi ( - )",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  347,
+        "subject_id":  1,
+        "name":  "Uzun Çizgi (-)",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  348,
+        "subject_id":  1,
+        "name":  "Tırnak İşareti",
+        "order_index":  10,
+        "content":  null
+    },
+    {
+        "id":  349,
+        "subject_id":  1,
+        "name":  "Parantez",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  350,
+        "subject_id":  1,
+        "name":  "Kesme İşareti",
+        "order_index":  12,
+        "content":  null
+    },
+    {
+        "id":  351,
+        "subject_id":  1,
+        "name":  "Anlama Dayalı Anlatım Bozuklukları",
+        "order_index":  1,
+        "content":  null
+    },
+    {
+        "id":  352,
+        "subject_id":  1,
+        "name":  "Gereksiz Ek ve Sözcük Kullanımı",
+        "order_index":  2,
+        "content":  null
+    },
+    {
+        "id":  353,
+        "subject_id":  1,
+        "name":  "Çelişen Sözcüklerin Bir Arada Kullanımı",
+        "order_index":  3,
+        "content":  null
+    },
+    {
+        "id":  354,
+        "subject_id":  1,
+        "name":  "Yanlış Ek ve Sözcük Kullanımı",
+        "order_index":  4,
+        "content":  null
+    },
+    {
+        "id":  355,
+        "subject_id":  1,
+        "name":  "Sözcüğün Yanlış Yerde Kullanımı",
+        "order_index":  5,
+        "content":  null
+    },
+    {
+        "id":  356,
+        "subject_id":  1,
+        "name":  "Deyim-Atasözü Yanlışları",
+        "order_index":  6,
+        "content":  null
+    },
+    {
+        "id":  357,
+        "subject_id":  1,
+        "name":  "Anlam Belirsizliği",
+        "order_index":  7,
+        "content":  null
+    },
+    {
+        "id":  358,
+        "subject_id":  1,
+        "name":  "Mantık Hataları",
+        "order_index":  8,
+        "content":  null
+    },
+    {
+        "id":  359,
+        "subject_id":  1,
+        "name":  "Dil Bilgisine Dayalı Anlatım Bozuklukları",
+        "order_index":  9,
+        "content":  null
+    },
+    {
+        "id":  360,
+        "subject_id":  1,
+        "name":  "Fiil ve Yüklem Yanlışları",
+        "order_index":  10,
+        "content":  null
+    },
+    {
+        "id":  361,
+        "subject_id":  1,
+        "name":  "Özne - Yüklem Uyuşmazlığı",
+        "order_index":  11,
+        "content":  null
+    },
+    {
+        "id":  362,
+        "subject_id":  1,
+        "name":  "Özne Eksikliği",
+        "order_index":  12,
+        "content":  null
+    },
+    {
+        "id":  363,
+        "subject_id":  1,
+        "name":  "Nesne Eksikliği",
+        "order_index":  13,
+        "content":  null
+    },
+    {
+        "id":  364,
+        "subject_id":  1,
+        "name":  "Dolaylı Tümleç Eksikliği",
+        "order_index":  14,
+        "content":  null
+    },
+    {
+        "id":  365,
+        "subject_id":  1,
+        "name":  "Zarf ve Edat Tümleci Eksikliği",
+        "order_index":  15,
+        "content":  null
+    },
+    {
+        "id":  366,
+        "subject_id":  1,
+        "name":  "Tamlama Yanlışları",
+        "order_index":  16,
+        "content":  null
+    },
+    {
+        "id":  367,
+        "subject_id":  1,
+        "name":  "Çatı Uyuşmazlığı",
+        "order_index":  17,
+        "content":  null
+    }
 ]
