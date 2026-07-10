@@ -1,331 +1,410 @@
-﻿[
+[
     {
-        "id":  496,
-        "subject_id":  4,
-        "name":  "İlk Türk Devletleri",
-        "order_index":  1,
-        "content":  "# İlk Türk Devletleri\n\nAsya Hun, Avrupa Hun, Kök Türkler, Uygurlar. Kut inancı, Kurultay, Töre temel kavramlardır."
+        "id": 496,
+        "topic_id": 496,
+        "subject_id": 4,
+        "name": "İlk Türk Devletleri",
+        "order_index": 1,
+        "content": "# İlk Türk Devletleri\n\nAsya Hun, Avrupa Hun, Kök Türkler, Uygurlar. Kut inancı, Kurultay, Töre temel kavramlardır."
     },
     {
-        "id":  497,
-        "subject_id":  4,
-        "name":  "Türk-İslam Devletleri",
-        "order_index":  2,
-        "content":  "# Türk-İslam Devletleri\n\nKarahanlılar (İlk), Gazneliler, Selçuklular. Talas Savaşı ile geçiş başladı."
+        "id": 497,
+        "topic_id": 497,
+        "subject_id": 4,
+        "name": "Türk-İslam Devletleri",
+        "order_index": 2,
+        "content": "# Türk-İslam Devletleri\n\nKarahanlılar (İlk), Gazneliler, Selçuklular. Talas Savaşı ile geçiş başladı."
     },
     {
-        "id":  498,
-        "subject_id":  4,
-        "name":  "Osmanlı Devleti",
-        "order_index":  3,
-        "content":  "# Osmanlı Devleti\n\n1299-1922. Kuruluş, Yükselme, Duraklama, Gerileme ve Dağılma dönemleri."
+        "id": 498,
+        "topic_id": 498,
+        "subject_id": 4,
+        "name": "Osmanlı Devleti",
+        "order_index": 3,
+        "content": "# Osmanlı Devleti\n\n1299-1922. Kuruluş, Yükselme, Duraklama, Gerileme ve Dağılma dönemleri."
     },
     {
-        "id":  499,
-        "subject_id":  4,
-        "name":  "Kurtuluş Savaşı",
-        "order_index":  4,
-        "content":  "# Kurtuluş Savaşı\n\nMilli Mücadele\u0027nin hazırlık ve cepheler dönemi.\n\n## 1. Hazırlık Dönemi\n* **19 Mayıs 1919:** Mustafa Kemal\u0027in Samsun\u0027a çıkışı.\n* **Amasya Genelgesi:** Milli Mücadele\u0027nin amacı, gerekçesi ve yöntemi belirlendi.\n* **Erzurum ve Sivas Kongreleri:** Milli sınırlar ve tam bağımsızlık vurgulandı. Temsil Heyeti kuruldu.\n* **23 Nisan 1920:** TBMM\u0027nin açılışı.\n\n## 2. Cepheler Dönemi\n* **Doğu Cephesi:** Kazım Karabekir komutasında Ermenilere karşı zafer kazanıldı (Gümrü Antlaşması).\n* **Güney Cephesi:** Kuva-yı Milliye birlikleri Fransız ve Ermenilere karşı direndi.\n* **Batı Cephesi:** Düzenli ordunun Yunanlılara karşı mücadelesi.\n    * I. ve II. İnönü Zaferleri.\n    * **Sakarya Meydan Muharebesi:** Türk ordusunun son savunma savaşı.\n    * **Büyük Taarruz:** Yunan ordusunun Anadolu\u0027dan tamamen atılması."
+        "id": 499,
+        "topic_id": 499,
+        "subject_id": 4,
+        "name": "Kurtuluş Savaşı",
+        "order_index": 4,
+        "content": "# Kurtuluş Savaşı\n\nMilli Mücadele'nin hazırlık ve cepheler dönemi.\n\n## 1. Hazırlık Dönemi\n* **19 Mayıs 1919:** Mustafa Kemal'in Samsun'a çıkışı.\n* **Amasya Genelgesi:** Milli Mücadele'nin amacı, gerekçesi ve yöntemi belirlendi.\n* **Erzurum ve Sivas Kongreleri:** Milli sınırlar ve tam bağımsızlık vurgulandı. Temsil Heyeti kuruldu.\n* **23 Nisan 1920:** TBMM'nin açılışı.\n\n## 2. Cepheler Dönemi\n* **Doğu Cephesi:** Kazım Karabekir komutasında Ermenilere karşı zafer kazanıldı (Gümrü Antlaşması).\n* **Güney Cephesi:** Kuva-yı Milliye birlikleri Fransız ve Ermenilere karşı direndi.\n* **Batı Cephesi:** Düzenli ordunun Yunanlılara karşı mücadelesi.\n    * I. ve II. İnönü Zaferleri.\n    * **Sakarya Meydan Muharebesi:** Türk ordusunun son savunma savaşı.\n    * **Büyük Taarruz:** Yunan ordusunun Anadolu'dan tamamen atılması."
     },
     {
-        "id":  500,
-        "subject_id":  4,
-        "name":  "Atatürk İlke ve İnkılapları",
-        "order_index":  5,
-        "content":  "# Atatürk İlkeleri\n\nCumhuriyetçilik, Milliyetçilik, Halkçılık, Laiklik, Devletçilik, İnkılapçılık."
+        "id": 500,
+        "topic_id": 500,
+        "subject_id": 4,
+        "name": "Atatürk İlke ve İnkılapları",
+        "order_index": 5,
+        "content": "# Atatürk İlkeleri\n\nCumhuriyetçilik, Milliyetçilik, Halkçılık, Laiklik, Devletçilik, İnkılapçılık."
     },
     {
-        "id":  501,
-        "subject_id":  4,
-        "name":  "Çağdaş Türk ve Dünya Tarihi",
-        "order_index":  6,
-        "content":  "# Çağdaş Türk ve Dünya Tarihi\n\n20. yüzyılın başından itibaren dünyada ve Türkiye\u0027de yaşanan küresel gelişmeler.\n\n## 1. I. ve II. Dünya Savaşları Arası Dönem\n* Sovyetler Birliği\u0027nin kuruluşu, Faşizm ve Nazizm\u0027in yükselişi.\n* 1929 Dünya Ekonomik Buhranı.\n\n## 2. II. Dünya Savaşı ve Sonrası\n* Savaşın nedenleri, bloklar ve Türkiye\u0027nin tarafsızlık politikası.\n* BM ve NATO\u0027nun kuruluşu, Soğuk Savaş dönemi.\n\n## 3. Türk Dünyası ve Orta Doğu\n* Türk Cumhuriyetlerinin bağımsızlık süreçleri.\n* Kıbrıs Meselesi ve Yunanistan ile olan ilişkiler.\n* Orta Doğu\u0027daki çatışmalar ve petrol sorunu."
+        "id": 501,
+        "topic_id": 501,
+        "subject_id": 4,
+        "name": "Çağdaş Türk ve Dünya Tarihi",
+        "order_index": 6,
+        "content": "# Çağdaş Türk ve Dünya Tarihi\n\n20. yüzyılın başından itibaren dünyada ve Türkiye'de yaşanan küresel gelişmeler.\n\n## 1. I. ve II. Dünya Savaşları Arası Dönem\n* Sovyetler Birliği'nin kuruluşu, Faşizm ve Nazizm'in yükselişi.\n* 1929 Dünya Ekonomik Buhranı.\n\n## 2. II. Dünya Savaşı ve Sonrası\n* Savaşın nedenleri, bloklar ve Türkiye'nin tarafsızlık politikası.\n* BM ve NATO'nun kuruluşu, Soğuk Savaş dönemi.\n\n## 3. Türk Dünyası ve Orta Doğu\n* Türk Cumhuriyetlerinin bağımsızlık süreçleri.\n* Kıbrıs Meselesi ve Yunanistan ile olan ilişkiler.\n* Orta Doğu'daki çatışmalar ve petrol sorunu."
     },
     {
-        "id":  502,
-        "subject_id":  4,
-        "name":  "İslamiyet Öncesi Türk Tarihi",
-        "order_index":  1,
-        "content":  "# İslamiyet Öncesi Türk Tarihi\n\nTürklerin tarih sahnesine çıkışından İslamiyet\u0027i kabul etmelerine kadar geçen süreci kapsar.\n\n## 1. İlk Türk Toplulukları ve Devletleri\n* **İskitler (Sakalar):** Bilinen ilk Türk topluluğudur. En önemli hükümdarı Alper Tunga\u0027dır. Bozkırın kuyumcuları olarak bilinirler.\n* **Asya Hun Devleti:** Bilinen ilk Türk devletidir. Kurucusu Teoman, en parlak dönemi Mete Han\u0027dır. Mete Han, onluk sistemi kurmuş ve tüm Türkleri tek çatı altında toplamıştır.\n* **Avrupa Hun Devleti:** Kavimler Göçü sonrası kurulmuştur. En parlak dönemi Attila (Tanrı\u0027nın Kırbacı) dönemidir.\n* **I. ve II. Kök Türk Devletleri:** Türk adını ilk kez resmi devlet adı olarak kullanmışlardır. II. Kök Türk (Kutluk) döneminde Orhun Abideleri dikilmiştir.\n* **Uygurlar:** Yerleşik hayata geçen, tarım ve ticaretle uğraşan, matbaayı kullanan ilk Türk devletidir.\n\n## 2. Diğer Devletler ve Topluluklar\n* **Hazarlar:** Museviliği benimseyen tek Türk devletidir.\n* **Avarlar:** Hem Asya\u0027da hem Avrupa\u0027da devlet kurmuş, İstanbul\u0027u kuşatan ilk Türk devletidir."
+        "id": 502,
+        "topic_id": 502,
+        "subject_id": 4,
+        "name": "İslamiyet Öncesi Türk Tarihi",
+        "order_index": 1,
+        "content": "# İslamiyet Öncesi Türk Tarihi\n\nTürklerin tarih sahnesine çıkışından İslamiyet'i kabul etmelerine kadar geçen süreci kapsar.\n\n## 1. İlk Türk Toplulukları ve Devletleri\n* **İskitler (Sakalar):** Bilinen ilk Türk topluluğudur. En önemli hükümdarı Alper Tunga'dır. Bozkırın kuyumcuları olarak bilinirler.\n* **Asya Hun Devleti:** Bilinen ilk Türk devletidir. Kurucusu Teoman, en parlak dönemi Mete Han'dır. Mete Han, onluk sistemi kurmuş ve tüm Türkleri tek çatı altında toplamıştır.\n* **Avrupa Hun Devleti:** Kavimler Göçü sonrası kurulmuştur. En parlak dönemi Attila (Tanrı'nın Kırbacı) dönemidir.\n* **I. ve II. Kök Türk Devletleri:** Türk adını ilk kez resmi devlet adı olarak kullanmışlardır. II. Kök Türk (Kutluk) döneminde Orhun Abideleri dikilmiştir.\n* **Uygurlar:** Yerleşik hayata geçen, tarım ve ticaretle uğraşan, matbaayı kullanan ilk Türk devletidir.\n\n## 2. Diğer Devletler ve Topluluklar\n* **Hazarlar:** Museviliği benimseyen tek Türk devletidir.\n* **Avarlar:** Hem Asya'da hem Avrupa'da devlet kurmuş, İstanbul'u kuşatan ilk Türk devletidir."
     },
     {
-        "id":  503,
-        "subject_id":  4,
-        "name":  "İslamiyet Öncesi Türk Devletlerinde Kültür Medeniyet",
-        "order_index":  2,
-        "content":  "# İslamiyet Öncesi Kültür Medeniyet\n\nKut inancı, Kurultay, Töre ve Ordu-Millet anlayışı temel taşlardır."
+        "id": 503,
+        "topic_id": 503,
+        "subject_id": 4,
+        "name": "İslamiyet Öncesi Türk Devletlerinde Kültür Medeniyet",
+        "order_index": 2,
+        "content": "# İslamiyet Öncesi Kültür Medeniyet\n\nKut inancı, Kurultay, Töre ve Ordu-Millet anlayışı temel taşlardır."
     },
     {
-        "id":  504,
-        "subject_id":  4,
-        "name":  "Türk-İslam Tarihi",
-        "order_index":  3,
-        "content":  null
+        "id": 504,
+        "topic_id": 504,
+        "subject_id": 4,
+        "name": "Türk-İslam Tarihi",
+        "order_index": 3,
+        "content": "# Türk-İslam Tarihi\n\nTürklerin İslamiyet'i kabulü, 751 Talas Savaşı ile hızlanmıştır. Karahanlılar, Orta Asya'da İslamiyet'i kabul eden ilk Türk devletidir."
     },
     {
-        "id":  505,
-        "subject_id":  4,
-        "name":  "İlk Müslüman Türk Devletleri",
-        "order_index":  4,
-        "content":  null
+        "id": 505,
+        "topic_id": 505,
+        "subject_id": 4,
+        "name": "İlk Müslüman Türk Devletleri",
+        "order_index": 4,
+        "content": "# İlk Müslüman Türk Devletleri\n\n* **Karahanlılar:** İlk Türk-İslam devletidir. Karluk, Yağma ve Çiğil boyları tarafından kurulmuştur.\n* **Gazneliler:** Afganistan'da kurulmuş, Gazneli Mahmut döneminde Hindistan'a 17 sefer düzenleyerek İslamiyet'i yaymışlardır.\n* **Büyük Selçuklu Devleti:** Tuğrul Bey döneminde Nişabur'da bağımsızlığını ilan etmiştir. 1071 Malazgirt Savaşı ile Anadolu'nun kapıları Türklere açılmıştır."
     },
     {
-        "id":  506,
-        "subject_id":  4,
-        "name":  "İlk Türk İslam Devletlerinde Kültür ve Medeniyet",
-        "order_index":  5,
-        "content":  null
+        "id": 506,
+        "topic_id": 506,
+        "subject_id": 4,
+        "name": "İlk Türk İslam Devletlerinde Kültür ve Medeniyet",
+        "order_index": 5,
+        "content": "# İlk Türk İslam Devletlerinde Kültür ve Medeniyet\n\n* **Devlet Yönetimi:** Kut inancı devam etmiş ancak 'Allah'ın nasibi' olarak yorumlanmıştır. Hükümdarlar halife tarafından onaylanmış (menşur).\n* **Divan Teşkilatı:** Devlet işlerinin görüşüldüğü büyük divana 'Divan-ı Saltanat' veya 'Divan-ı Ala' denilmiştir."
     },
     {
-        "id":  507,
-        "subject_id":  4,
-        "name":  "Anadolu Selçuklu Devleti Siyasi Tarihi",
-        "order_index":  6,
-        "content":  "# Anadolu Selçuklu Devleti (ASD)\n\nSüleyman Şah tarafından İznik\u0027te kuruldu.\n* **Kösedağ Savaşı (1243):** Moğollara karşı kaybedildi ve ASD yıkılış sürecine girdi.\n* **Kültür:** Ticareti geliştirmek için Kervansaraylar (Ribat) ve Sigortacılık sistemi uygulandı."
+        "id": 507,
+        "topic_id": 507,
+        "subject_id": 4,
+        "name": "Anadolu Selçuklu Devleti Siyasi Tarihi",
+        "order_index": 6,
+        "content": "# Anadolu Selçuklu Devleti (ASD)\n\nSüleyman Şah tarafından İznik'te kuruldu.\n* **Kösedağ Savaşı (1243):** Moğollara karşı kaybedildi ve ASD yıkılış sürecine girdi.\n* **Kültür:** Ticareti geliştirmek için Kervansaraylar (Ribat) ve Sigortacılık sistemi uygulandı."
     },
     {
-        "id":  508,
-        "subject_id":  4,
-        "name":  "Osmanlı Devleti Kültür ve Medeniyeti",
-        "order_index":  7,
-        "content":  "# Osmanlı Kültür ve Medeniyeti\n\nDivan-ı Hümayun, Tımar Sistemi, Kapıkulu Ordusu ve Millet Sistemi gibi yapılar mevcuttur."
+        "id": 508,
+        "topic_id": 508,
+        "subject_id": 4,
+        "name": "Osmanlı Devleti Kültür ve Medeniyeti",
+        "order_index": 7,
+        "content": "# Osmanlı Kültür ve Medeniyeti\n\nDivan-ı Hümayun, Tımar Sistemi, Kapıkulu Ordusu ve Millet Sistemi gibi yapılar mevcuttur."
     },
     {
-        "id":  509,
-        "subject_id":  4,
-        "name":  "Osmanlı Devleti Kuruluş Dönemi",
-        "order_index":  8,
-        "content":  "# Osmanlı Devleti Siyaseti\n\nOsmanlı Devleti\u0027nin kuruluşundan dağılmasına kadar olan ana siyasi olaylar.\n\n## 1. Kuruluş Dönemi (1299-1453)\n* Söğüt ve Domaniç çevresinde bir beylik olarak kuruldu.\n* Bizans ve Balkanlar yönünde büyüme politikası izlendi.\n* **Yıldırım Bayezid:** Anadolu Türk siyasi birliğini büyük ölçüde sağladı ancak Ankara Savaşı (1402) sonrası Fetret Devri yaşandı.\n\n## 2. Yükselme Dönemi (1453-1579)\n* **İstanbul\u0027un Fethi (1453):** Orta Çağ kapandı, Yeni Çağ başladı.\n* **Yavuz Sultan Selim:** Doğu siyaseti, Mısır Seferi ile halifelik Osmanlı\u0027ya geçti.\n* **Kanuni Sultan Süleyman:** İmparatorluğun en parlak dönemi. Avrupa üstünlüğü sağlandı.\n\n## 3. Gerileme ve Dağılma\n* **1699 Karlofça:** İlk büyük toprak kaybı.\n* **19. Yüzyıl:** Milliyetçilik akımları ve Avrupalı devletlerin baskısı ile toprak kayıpları hızlandı. Kırım Savaşı ve 93 Harbi önemli dönüm noktalarıdır."
+        "id": 509,
+        "topic_id": 509,
+        "subject_id": 4,
+        "name": "Osmanlı Devleti Kuruluş Dönemi",
+        "order_index": 8,
+        "content": "# Osmanlı Devleti Siyaseti\n\nOsmanlı Devleti'nin kuruluşundan dağılmasına kadar olan ana siyasi olaylar.\n\n## 1. Kuruluş Dönemi (1299-1453)\n* Söğüt ve Domaniç çevresinde bir beylik olarak kuruldu.\n* Bizans ve Balkanlar yönünde büyüme politikası izlendi.\n* **Yıldırım Bayezid:** Anadolu Türk siyasi birliğini büyük ölçüde sağladı ancak Ankara Savaşı (1402) sonrası Fetret Devri yaşandı.\n\n## 2. Yükselme Dönemi (1453-1579)\n* **İstanbul'un Fethi (1453):** Orta Çağ kapandı, Yeni Çağ başladı.\n* **Yavuz Sultan Selim:** Doğu siyaseti, Mısır Seferi ile halifelik Osmanlı'ya geçti.\n* **Kanuni Sultan Süleyman:** İmparatorluğun en parlak dönemi. Avrupa üstünlüğü sağlandı.\n\n## 3. Gerileme ve Dağılma\n* **1699 Karlofça:** İlk büyük toprak kaybı.\n* **19. Yüzyıl:** Milliyetçilik akımları ve Avrupalı devletlerin baskısı ile toprak kayıpları hızlandı. Kırım Savaşı ve 93 Harbi önemli dönüm noktalarıdır."
     },
     {
-        "id":  510,
-        "subject_id":  4,
-        "name":  "Osmanlı Devleti Yükselme Dönemi",
-        "order_index":  9,
-        "content":  "# Osmanlı Devleti Siyaseti\n\nOsmanlı Devleti\u0027nin kuruluşundan dağılmasına kadar olan ana siyasi olaylar.\n\n## 1. Kuruluş Dönemi (1299-1453)\n* Söğüt ve Domaniç çevresinde bir beylik olarak kuruldu.\n* Bizans ve Balkanlar yönünde büyüme politikası izlendi.\n* **Yıldırım Bayezid:** Anadolu Türk siyasi birliğini büyük ölçüde sağladı ancak Ankara Savaşı (1402) sonrası Fetret Devri yaşandı.\n\n## 2. Yükselme Dönemi (1453-1579)\n* **İstanbul\u0027un Fethi (1453):** Orta Çağ kapandı, Yeni Çağ başladı.\n* **Yavuz Sultan Selim:** Doğu siyaseti, Mısır Seferi ile halifelik Osmanlı\u0027ya geçti.\n* **Kanuni Sultan Süleyman:** İmparatorluğun en parlak dönemi. Avrupa üstünlüğü sağlandı.\n\n## 3. Gerileme ve Dağılma\n* **1699 Karlofça:** İlk büyük toprak kaybı.\n* **19. Yüzyıl:** Milliyetçilik akımları ve Avrupalı devletlerin baskısı ile toprak kayıpları hızlandı. Kırım Savaşı ve 93 Harbi önemli dönüm noktalarıdır."
+        "id": 510,
+        "topic_id": 510,
+        "subject_id": 4,
+        "name": "Osmanlı Devleti Yükselme Dönemi",
+        "order_index": 9,
+        "content": "# Osmanlı Devleti Siyaseti\n\nOsmanlı Devleti'nin kuruluşundan dağılmasına kadar olan ana siyasi olaylar.\n\n## 1. Kuruluş Dönemi (1299-1453)\n* Söğüt ve Domaniç çevresinde bir beylik olarak kuruldu.\n* Bizans ve Balkanlar yönünde büyüme politikası izlendi.\n* **Yıldırım Bayezid:** Anadolu Türk siyasi birliğini büyük ölçüde sağladı ancak Ankara Savaşı (1402) sonrası Fetret Devri yaşandı.\n\n## 2. Yükselme Dönemi (1453-1579)\n* **İstanbul'un Fethi (1453):** Orta Çağ kapandı, Yeni Çağ başladı.\n* **Yavuz Sultan Selim:** Doğu siyaseti, Mısır Seferi ile halifelik Osmanlı'ya geçti.\n* **Kanuni Sultan Süleyman:** İmparatorluğun en parlak dönemi. Avrupa üstünlüğü sağlandı.\n\n## 3. Gerileme ve Dağılma\n* **1699 Karlofça:** İlk büyük toprak kaybı.\n* **19. Yüzyıl:** Milliyetçilik akımları ve Avrupalı devletlerin baskısı ile toprak kayıpları hızlandı. Kırım Savaşı ve 93 Harbi önemli dönüm noktalarıdır."
     },
     {
-        "id":  511,
-        "subject_id":  4,
-        "name":  "17. Yüzyıl Osmanlı Devleti Duraklama Dönemi",
-        "order_index":  10,
-        "content":  "# 17. Yüzyıl (Duraklama)\n\nMerkezi otoritenin bozulması, isyanlar ve duraklamanın başladığı dönemdir. İlk ıslahatlar yapıldı."
+        "id": 511,
+        "topic_id": 511,
+        "subject_id": 4,
+        "name": "17. Yüzyıl Osmanlı Devleti Duraklama Dönemi",
+        "order_index": 10,
+        "content": "# 17. Yüzyıl (Duraklama)\n\nMerkezi otoritenin bozulması, isyanlar ve duraklamanın başladığı dönemdir. İlk ıslahatlar yapıldı."
     },
     {
-        "id":  512,
-        "subject_id":  4,
-        "name":  "18. Yüzyıl Osmanlı Devleti Gerileme Dönemi",
-        "order_index":  11,
-        "content":  "# 18. Yüzyıl (Gerileme)\n\nBatı\u0027nın üstünlüğü ilk kez kabul edildi (Lale Devri). Kaybedilen topraklar geri alınmaya çalışıldı."
+        "id": 512,
+        "topic_id": 512,
+        "subject_id": 4,
+        "name": "18. Yüzyıl Osmanlı Devleti Gerileme Dönemi",
+        "order_index": 11,
+        "content": "# 18. Yüzyıl (Gerileme)\n\nBatı'nın üstünlüğü ilk kez kabul edildi (Lale Devri). Kaybedilen topraklar geri alınmaya çalışıldı."
     },
     {
-        "id":  513,
-        "subject_id":  4,
-        "name":  "19. Yüzyıl Osmanlı Devleti Dağılma Dönemi",
-        "order_index":  12,
-        "content":  "# 19. Yüzyıl (Dağılma)\n\nMilliyetçilik akımları ve isyanlar sonucu büyük toprak kayıpları yaşandı. Tanzimat ve Islahat fermanları ilan edildi."
+        "id": 513,
+        "topic_id": 513,
+        "subject_id": 4,
+        "name": "19. Yüzyıl Osmanlı Devleti Dağılma Dönemi",
+        "order_index": 12,
+        "content": "# 19. Yüzyıl (Dağılma)\n\nMilliyetçilik akımları ve isyanlar sonucu büyük toprak kayıpları yaşandı. Tanzimat ve Islahat fermanları ilan edildi."
     },
     {
-        "id":  514,
-        "subject_id":  4,
-        "name":  "20. Yüzyıl Osmanlı Devleti",
-        "order_index":  13,
-        "content":  "# 20. Yüzyıl Osmanlı Devleti\n\nİmparatorluğun son dönemindeki büyük savaşlar ve yıkılış süreci.\n\n## 1. Trablusgarp Savaşı (1911)\n* İtalya ile yapıldı. Mustafa Kemal ve arkadaşları gönüllü olarak katıldı (İlk askeri başarısı: Derne ve Tobruk).\n* **Uşi Antlaşması:** Osmanlı Kuzey Afrika\u0027daki son toprak parçasını kaybetti.\n\n## 2. Balkan Savaşları (1912-1913)\n* I. Balkan Savaşı\u0027nda büyük toprak kayıpları yaşandı. II. Balkan Savaşı\u0027nda Edirne geri alındı.\n* Osmanlıcılık akımı zayıfladı, Türkçülük önem kazandı.\n\n## 3. I. Dünya Savaşı (1914-1918)\n* Osmanlı, İttifak Devletleri safında savaşa girdi.\n* **Çanakkale Cephesi:** Tek başarılı olunan ve Mustafa Kemal\u0027in tanındığı cephe.\n* **Kafkas, Kanal, Filistin, Hicaz-Yemen** gibi cephelerde savaşıldı.\n* **Mondros Ateşkesi (1918):** Osmanlı Devleti fiilen sona erdi ve işgaller başladı."
+        "id": 514,
+        "topic_id": 514,
+        "subject_id": 4,
+        "name": "20. Yüzyıl Osmanlı Devleti",
+        "order_index": 13,
+        "content": "# 20. Yüzyıl Osmanlı Devleti\n\nİmparatorluğun son dönemindeki büyük savaşlar ve yıkılış süreci.\n\n## 1. Trablusgarp Savaşı (1911)\n* İtalya ile yapıldı. Mustafa Kemal ve arkadaşları gönüllü olarak katıldı (İlk askeri başarısı: Derne ve Tobruk).\n* **Uşi Antlaşması:** Osmanlı Kuzey Afrika'daki son toprak parçasını kaybetti.\n\n## 2. Balkan Savaşları (1912-1913)\n* I. Balkan Savaşı'nda büyük toprak kayıpları yaşandı. II. Balkan Savaşı'nda Edirne geri alındı.\n* Osmanlıcılık akımı zayıfladı, Türkçülük önem kazandı.\n\n## 3. I. Dünya Savaşı (1914-1918)\n* Osmanlı, İttifak Devletleri safında savaşa girdi.\n* **Çanakkale Cephesi:** Tek başarılı olunan ve Mustafa Kemal'in tanındığı cephe.\n* **Kafkas, Kanal, Filistin, Hicaz-Yemen** gibi cephelerde savaşıldı.\n* **Mondros Ateşkesi (1918):** Osmanlı Devleti fiilen sona erdi ve işgaller başladı."
     },
     {
-        "id":  515,
-        "subject_id":  4,
-        "name":  "Trablusgarp Savaşı (1911-1912)",
-        "order_index":  14,
-        "content":  null
+        "id": 515,
+        "topic_id": 515,
+        "subject_id": 4,
+        "name": "Trablusgarp Savaşı (1911-1912)",
+        "order_index": 14,
+        "content": "# Trablusgarp Savaşı (1911-1912)\n\n* İtalya'nın hammadde ve pazar arayışı nedeniyle Osmanlı'nın Kuzey Afrika'daki son toprağına saldırmasıdır.\n* Mustafa Kemal (Gazeteci Şerif Bey), Enver Paşa (Kuyumcu Hamdi) gibi subaylar yerel halkı örgütlemiştir.\n* **Uşi Antlaşması (1912):** Trablusgarp ve Bingazi İtalya'ya bırakıldı. On İki Ada geçici olarak İtalya'ya verildi."
     },
     {
-        "id":  516,
-        "subject_id":  4,
-        "name":  "I. ve II. Balkan Savaşları",
-        "order_index":  15,
-        "content":  null
+        "id": 516,
+        "topic_id": 516,
+        "subject_id": 4,
+        "name": "I. ve II. Balkan Savaşları",
+        "order_index": 15,
+        "content": "# Balkan Savaşları\n\n* **I. Balkan Savaşı:** Karadağ, Sırbistan, Bulgaristan ve Yunanistan'ın Osmanlı'ya saldırması. Osmanlı yenildi ve Midye-Enez hattının batısını kaybetti (Arnavutluk bağımsız oldu).\n* **II. Balkan Savaşı:** Bulgaristan'ın fazla toprak almasına diğer Balkan devletlerinin (ve Romanya'nın) tepkisiyle çıktı. Osmanlı fırsattan istifade Edirne ve Kırklareli'ni geri aldı."
     },
     {
-        "id":  517,
-        "subject_id":  4,
-        "name":  "I. Dünya Savaşı",
-        "order_index":  16,
-        "content":  "# I. Dünya Savaşı (1914-1918)\n\nOsmanlı İttifak grubunda savaştı.\n* **Cepheler:** Çanakkale (Tek zafer), Kafkas (Sarıkamış), Kanal, Filistin, Hicaz."
+        "id": 517,
+        "topic_id": 517,
+        "subject_id": 4,
+        "name": "I. Dünya Savaşı",
+        "order_index": 16,
+        "content": "# I. Dünya Savaşı (1914-1918)\n\nOsmanlı İttifak grubunda savaştı.\n* **Cepheler:** Çanakkale (Tek zafer), Kafkas (Sarıkamış), Kanal, Filistin, Hicaz."
     },
     {
-        "id":  518,
-        "subject_id":  4,
-        "name":  "Milli Mücadele Dönemi",
-        "order_index":  17,
-        "content":  "# Milli Mücadele (Kurtuluş Savaşı)\n\n19 Mayıs 1919\u0027da Samsun\u0027a çıkışla başlar. Kongreler, TBMM\u0027nin açılışı ve Cepheler sürecini kapsar."
+        "id": 518,
+        "topic_id": 518,
+        "subject_id": 4,
+        "name": "Milli Mücadele Dönemi",
+        "order_index": 17,
+        "content": "# Milli Mücadele (Kurtuluş Savaşı)\n\n19 Mayıs 1919'da Samsun'a çıkışla başlar. Kongreler, TBMM'nin açılışı ve Cepheler sürecini kapsar."
     },
     {
-        "id":  519,
-        "subject_id":  4,
-        "name":  "Kurtuluş Savaşına Hazırlık Dönemi",
-        "order_index":  18,
-        "content":  null
+        "id": 519,
+        "topic_id": 519,
+        "subject_id": 4,
+        "name": "Kurtuluş Savaşına Hazırlık Dönemi",
+        "order_index": 18,
+        "content": "# Kurtuluş Savaşına Hazırlık Dönemi\n\n* **Amasya Genelgesi:** Milli mücadelenin amacı, gerekçesi ve yöntemi belirtildi.\n* **Erzurum Kongresi:** Toplanış bakımından bölgesel, aldığı kararlar bakımından ulusal kongredir. İlk defa milli sınırlardan bahsedildi.\n* **Sivas Kongresi:** Tüm cemiyetler 'Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti' altında birleştirildi."
     },
     {
-        "id":  520,
-        "subject_id":  4,
-        "name":  "Kurtuluş Savaşı Muharebeler ve Antlaşmalar Dönemi",
-        "order_index":  19,
-        "content":  "# Muharebeler ve Antlaşmalar\n\nDoğu (Gümrü), Güney ve Batı (İnönü, Sakarya, Büyük Taarruz) cephelerinde kazanılan zaferler Lozan ile taçlanmıştır."
+        "id": 520,
+        "topic_id": 520,
+        "subject_id": 4,
+        "name": "Kurtuluş Savaşı Muharebeler ve Antlaşmalar Dönemi",
+        "order_index": 19,
+        "content": "# Muharebeler ve Antlaşmalar\n\nDoğu (Gümrü), Güney ve Batı (İnönü, Sakarya, Büyük Taarruz) cephelerinde kazanılan zaferler Lozan ile taçlanmıştır."
     },
     {
-        "id":  522,
-        "subject_id":  4,
-        "name":  "Atatürk Dönemi İç ve Dış Politikalar",
-        "order_index":  21,
-        "content":  "# Atatürk Dönemi İç ve Dış Politikalar\n\n## 1. İç Politika\n* Çok partili hayata geçiş denemeleri (Terakkiperver Cumhuriyet Fırkası, Serbest Cumhuriyet Fırkası).\n* Rejim karşıtı isyanlar (Şeyh Sait İsyanı, Menemen Olayı).\n\n## 2. Dış Politika\n* **1923-1930:** Lozan\u0027dan kalan sorunların çözümü (Nüfus mübadelesi, Musul, Borçlar).\n* **1930-1939:** Barışçı politikalar ve güvenliğin artırılması.\n    * Milletler Cemiyeti\u0027ne giriş (1932).\n    * Balkan Antantı ve Sadabat Paktı.\n    * **Montrö Boğazlar Sözleşmesi (1936):** Boğazlar üzerinde tam Türk hakimiyeti.\n    * **Hatay\u0027ın Anavatana Katılması (1939).**"
+        "id": 521,
+        "topic_id": 521,
+        "subject_id": 4,
+        "name": "Atatürk İlke ve İnkılapları",
+        "order_index": 20,
+        "content": "# Atatürk İlkeleri\n\nCumhuriyetçilik, Milliyetçilik, Halkçılık, Laiklik, Devletçilik, İnkılapçılık."
     },
     {
-        "id":  525,
-        "subject_id":  4,
-        "name":  "İlk ve Orta Çağda Türk Dünyası",
-        "order_index":  2,
-        "content":  null
+        "id": 522,
+        "topic_id": 522,
+        "subject_id": 4,
+        "name": "Atatürk Dönemi İç ve Dış Politikalar",
+        "order_index": 21,
+        "content": "# Atatürk Dönemi İç ve Dış Politikalar\n\n## 1. İç Politika\n* Çok partili hayata geçiş denemeleri (Terakkiperver Cumhuriyet Fırkası, Serbest Cumhuriyet Fırkası).\n* Rejim karşıtı isyanlar (Şeyh Sait İsyanı, Menemen Olayı).\n\n## 2. Dış Politika\n* **1923-1930:** Lozan'dan kalan sorunların çözümü (Nüfus mübadelesi, Musul, Borçlar).\n* **1930-1939:** Barışçı politikalar ve güvenliğin artırılması.\n    * Milletler Cemiyeti'ne giriş (1932).\n    * Balkan Antantı ve Sadabat Paktı.\n    * **Montrö Boğazlar Sözleşmesi (1936):** Boğazlar üzerinde tam Türk hakimiyeti.\n    * **Hatay'ın Anavatana Katılması (1939).**"
     },
     {
-        "id":  526,
-        "subject_id":  4,
-        "name":  "İlk Türk - İslam Devletleri ve Beylikleri",
-        "order_index":  3,
-        "content":  null
+        "id": 523,
+        "topic_id": 523,
+        "subject_id": 4,
+        "name": "Çağdaş Türk ve Dünya Tarihi",
+        "order_index": 22,
+        "content": "# Çağdaş Türk ve Dünya Tarihi\n\n20. yüzyılın başından itibaren dünyada ve Türkiye'de yaşanan küresel gelişmeler.\n\n## 1. I. ve II. Dünya Savaşları Arası Dönem\n* Sovyetler Birliği'nin kuruluşu, Faşizm ve Nazizm'in yükselişi.\n* 1929 Dünya Ekonomik Buhranı.\n\n## 2. II. Dünya Savaşı ve Sonrası\n* Savaşın nedenleri, bloklar ve Türkiye'nin tarafsızlık politikası.\n* BM ve NATO'nun kuruluşu, Soğuk Savaş dönemi.\n\n## 3. Türk Dünyası ve Orta Doğu\n* Türk Cumhuriyetlerinin bağımsızlık süreçleri.\n* Kıbrıs Meselesi ve Yunanistan ile olan ilişkiler.\n* Orta Doğu'daki çatışmalar ve petrol sorunu."
     },
     {
-        "id":  527,
-        "subject_id":  4,
-        "name":  "İlk Türk İslam Devletleri - Türklerin İslamiyeti Kabulü",
-        "order_index":  4,
-        "content":  null
+        "id": 524,
+        "topic_id": 524,
+        "subject_id": 4,
+        "name": "İslamiyet Öncesi Türk Tarihi",
+        "order_index": 1,
+        "content": "# İslamiyet Öncesi Türk Tarihi\n\nTürklerin tarih sahnesine çıkışından İslamiyet'i kabul etmelerine kadar geçen süreci kapsar.\n\n## 1. İlk Türk Toplulukları ve Devletleri\n* **İskitler (Sakalar):** Bilinen ilk Türk topluluğudur. En önemli hükümdarı Alper Tunga'dır. Bozkırın kuyumcuları olarak bilinirler.\n* **Asya Hun Devleti:** Bilinen ilk Türk devletidir. Kurucusu Teoman, en parlak dönemi Mete Han'dır. Mete Han, onluk sistemi kurmuş ve tüm Türkleri tek çatı altında toplamıştır.\n* **Avrupa Hun Devleti:** Kavimler Göçü sonrası kurulmuştur. En parlak dönemi Attila (Tanrı'nın Kırbacı) dönemidir.\n* **I. ve II. Kök Türk Devletleri:** Türk adını ilk kez resmi devlet adı olarak kullanmışlardır. II. Kök Türk (Kutluk) döneminde Orhun Abideleri dikilmiştir.\n* **Uygurlar:** Yerleşik hayata geçen, tarım ve ticaretle uğraşan, matbaayı kullanan ilk Türk devletidir.\n\n## 2. Diğer Devletler ve Topluluklar\n* **Hazarlar:** Museviliği benimseyen tek Türk devletidir.\n* **Avarlar:** Hem Asya'da hem Avrupa'da devlet kurmuş, İstanbul'u kuşatan ilk Türk devletidir."
     },
     {
-        "id":  528,
-        "subject_id":  4,
-        "name":  "İlk Türk İslam Devletlerinde Kültür ve Uygarlık",
-        "order_index":  5,
-        "content":  "# İlk Türk İslam Devletlerinde Kültür ve Uygarlık\n\n## 1. Devlet Yönetimi ve Hukuk\n* Hükümdarlık sembollerine hutbe okutmak ve para bastırmak eklenmiştir.\n* **Divan-ı Saltanat:** Devlet işlerinin görüşüldüğü ana meclis.\n* **Şer\u0027i Hukuk:** İslam hukuku. **Örfi Hukuk:** Geleneksel hukuk.\n\n## 2. Toprak Sistemi ve Ordu\n* **İkta Sistemi:** Toprakların hizmet karşılığı asker ve memurlara verilmesi.\n* **Gulam Sistemi:** Savaş esirlerinin eğitilerek orduya (Hassa ordusu) ve saraya alınması.\n\n## 3. Önemli Eserler ve Bilim\n* **Kutadgu Bilig (Yusuf Has Hacip):** İlk Türk-İslam siyasetnamesi.\n* **Divan-ı Lügati\u0027t-Türk (Kaşgarlı Mahmut):** İlk Türkçe sözlük.\n* **Atabetü\u0027l Hakayık (Edip Ahmet Yükneki):** Ahlak kitabı.\n* **Divan-ı Hikmet (Ahmet Yesevi):** İlk tasavvuf eseri.\n* **Bilim İnsanları:** Farabi (Muallim-i Sani), İbn-i Sina (Avicenna), Biruni, Harezmi."
+        "id": 525,
+        "topic_id": 525,
+        "subject_id": 4,
+        "name": "İlk ve Orta Çağda Türk Dünyası",
+        "order_index": 2,
+        "content": "# İlk ve Orta Çağda Türk Dünyası\n\n* **Asya Hun Devleti:** Bilinen ilk Türk devletidir (Teoman, Mete Han).\n* **Göktürkler:** Türk adıyla kurulan ilk devlettir. (Orhun Abideleri bu döneme aittir).\n* **Uygurlar:** Yerleşik hayata geçen ilk Türk devletidir. Tarım, mimari ve matbaada ileri gitmişlerdir."
     },
     {
-        "id":  529,
-        "subject_id":  4,
-        "name":  "Osmanlı Devleti Siyaseti",
-        "order_index":  6,
-        "content":  "# Osmanlı Devleti Siyaseti\n\nOsmanlı Devleti\u0027nin kuruluşundan dağılmasına kadar olan ana siyasi olaylar.\n\n## 1. Kuruluş Dönemi (1299-1453)\n* Söğüt ve Domaniç çevresinde bir beylik olarak kuruldu.\n* Bizans ve Balkanlar yönünde büyüme politikası izlendi.\n* **Yıldırım Bayezid:** Anadolu Türk siyasi birliğini büyük ölçüde sağladı ancak Ankara Savaşı (1402) sonrası Fetret Devri yaşandı.\n\n## 2. Yükselme Dönemi (1453-1579)\n* **İstanbul\u0027un Fethi (1453):** Orta Çağ kapandı, Yeni Çağ başladı.\n* **Yavuz Sultan Selim:** Doğu siyaseti, Mısır Seferi ile halifelik Osmanlı\u0027ya geçti.\n* **Kanuni Sultan Süleyman:** İmparatorluğun en parlak dönemi. Avrupa üstünlüğü sağlandı.\n\n## 3. Gerileme ve Dağılma\n* **1699 Karlofça:** İlk büyük toprak kaybı.\n* **19. Yüzyıl:** Milliyetçilik akımları ve Avrupalı devletlerin baskısı ile toprak kayıpları hızlandı. Kırım Savaşı ve 93 Harbi önemli dönüm noktalarıdır."
+        "id": 526,
+        "topic_id": 526,
+        "subject_id": 4,
+        "name": "İlk Türk - İslam Devletleri ve Beylikleri",
+        "order_index": 3,
+        "content": "# İlk Türk - İslam Devletleri ve Beylikleri\n\nBüyük Selçuklu, Gazneliler ve Karahanlıların yanı sıra Anadolu'da kurulan ilk beylikler (Saltuklular, Mengücekler, Danişmentliler, Artuklular ve Çaka Beyliği) Anadolu'nun Türkleşmesini sağlamıştır."
     },
     {
-        "id":  530,
-        "subject_id":  4,
-        "name":  "Osmanlı Devleti Kuruluş ve Yükselme Dönemleri",
-        "order_index":  7,
-        "content":  null
+        "id": 527,
+        "topic_id": 527,
+        "subject_id": 4,
+        "name": "İlk Türk İslam Devletleri - Türklerin İslamiyeti Kabulü",
+        "order_index": 4,
+        "content": "# Türklerin İslamiyeti Kabulü\n\n* **Talas Savaşı (751):** Araplar (Abbasiler) ile Çinliler arasında yapıldı. Karluklar Abbasileri destekledi ve Çin yenildi. Bu savaşla Türklerin İslamiyet'e geçiş süreci başladı. Kağıt, matbaa ve pusula Çin dışına çıktı."
     },
     {
-        "id":  531,
-        "subject_id":  4,
-        "name":  "Osmanlı Devleti\u0027nde Kültür ve Uygarlık",
-        "order_index":  8,
-        "content":  null
+        "id": 528,
+        "topic_id": 528,
+        "subject_id": 4,
+        "name": "İlk Türk İslam Devletlerinde Kültür ve Uygarlık",
+        "order_index": 5,
+        "content": "# İlk Türk İslam Devletlerinde Kültür ve Uygarlık\n\n## 1. Devlet Yönetimi ve Hukuk\n* Hükümdarlık sembollerine hutbe okutmak ve para bastırmak eklenmiştir.\n* **Divan-ı Saltanat:** Devlet işlerinin görüşüldüğü ana meclis.\n* **Şer'i Hukuk:** İslam hukuku. **Örfi Hukuk:** Geleneksel hukuk.\n\n## 2. Toprak Sistemi ve Ordu\n* **İkta Sistemi:** Toprakların hizmet karşılığı asker ve memurlara verilmesi.\n* **Gulam Sistemi:** Savaş esirlerinin eğitilerek orduya (Hassa ordusu) ve saraya alınması.\n\n## 3. Önemli Eserler ve Bilim\n* **Kutadgu Bilig (Yusuf Has Hacip):** İlk Türk-İslam siyasetnamesi.\n* **Divan-ı Lügati't-Türk (Kaşgarlı Mahmut):** İlk Türkçe sözlük.\n* **Atabetü'l Hakayık (Edip Ahmet Yükneki):** Ahlak kitabı.\n* **Divan-ı Hikmet (Ahmet Yesevi):** İlk tasavvuf eseri.\n* **Bilim İnsanları:** Farabi (Muallim-i Sani), İbn-i Sina (Avicenna), Biruni, Harezmi."
     },
     {
-        "id":  532,
-        "subject_id":  4,
-        "name":  "XVII. Yüzyılda Osmanlı Devleti (Duraklama Dönemi)",
-        "order_index":  9,
-        "content":  null
+        "id": 529,
+        "topic_id": 529,
+        "subject_id": 4,
+        "name": "Osmanlı Devleti Siyaseti",
+        "order_index": 6,
+        "content": "# Osmanlı Devleti Siyaseti\n\nOsmanlı Devleti'nin kuruluşundan dağılmasına kadar olan ana siyasi olaylar.\n\n## 1. Kuruluş Dönemi (1299-1453)\n* Söğüt ve Domaniç çevresinde bir beylik olarak kuruldu.\n* Bizans ve Balkanlar yönünde büyüme politikası izlendi.\n* **Yıldırım Bayezid:** Anadolu Türk siyasi birliğini büyük ölçüde sağladı ancak Ankara Savaşı (1402) sonrası Fetret Devri yaşandı.\n\n## 2. Yükselme Dönemi (1453-1579)\n* **İstanbul'un Fethi (1453):** Orta Çağ kapandı, Yeni Çağ başladı.\n* **Yavuz Sultan Selim:** Doğu siyaseti, Mısır Seferi ile halifelik Osmanlı'ya geçti.\n* **Kanuni Sultan Süleyman:** İmparatorluğun en parlak dönemi. Avrupa üstünlüğü sağlandı.\n\n## 3. Gerileme ve Dağılma\n* **1699 Karlofça:** İlk büyük toprak kaybı.\n* **19. Yüzyıl:** Milliyetçilik akımları ve Avrupalı devletlerin baskısı ile toprak kayıpları hızlandı. Kırım Savaşı ve 93 Harbi önemli dönüm noktalarıdır."
     },
     {
-        "id":  533,
-        "subject_id":  4,
-        "name":  "XVIII. Yüzyılda Osmanlı Devleti (Gerileme Dönemi)",
-        "order_index":  10,
-        "content":  null
+        "id": 530,
+        "topic_id": 530,
+        "subject_id": 4,
+        "name": "Osmanlı Devleti Kuruluş ve Yükselme Dönemleri",
+        "order_index": 7,
+        "content": "# Osmanlı Kuruluş ve Yükselme\n\n* **Kuruluş (1299-1453):** Ertuğrul Gazi ile başlayan uç beyliği süreci, Osman Bey ile bağımsızlığa kavuşmuştur.\n* **Yükselme (1453-1579):** Fatih Sultan Mehmet'in İstanbul'u fethiyle başlar, Sokullu Mehmet Paşa'nın ölümüyle sona erer. Yavuz Sultan Selim ve Kanuni Sultan Süleyman dönemleri zirvedir."
     },
     {
-        "id":  534,
-        "subject_id":  4,
-        "name":  "XIX. Yüzyılda Osmanlı Devleti (Dağılma Dönemi)",
-        "order_index":  11,
-        "content":  null
+        "id": 531,
+        "topic_id": 531,
+        "subject_id": 4,
+        "name": "Osmanlı Devleti'nde Kültür ve Uygarlık",
+        "order_index": 8,
+        "content": "# Osmanlı Devleti'nde Kültür ve Uygarlık\n\n* **Merkez Teşkilatı:** Padişah mutlak otoritedir. Sadrazam, padişahın mührünü taşır.\n* **Divan-ı Hümayun:** Orhan Bey döneminde kuruldu. Siyasi, askeri, adli ve mali işlerin görüşüldüğü en üst kuruldur.\n* **Toprak Sistemi:** Miri arazi (Dirlik, Mukataa, Paşmaklık) ve Mülk arazi (Öşri, Haraci) olarak ikiye ayrılır."
     },
     {
-        "id":  535,
-        "subject_id":  4,
-        "name":  "XX. Yüzyılda Osmanlı Devleti",
-        "order_index":  12,
-        "content":  "# 20. Yüzyıl Başları\n\nTrablusgarp, Balkan Savaşları ve I. Dünya Savaşı\u0027nın yaşandığı, imparatorluğun sona yaklaştığı dönemdir."
+        "id": 532,
+        "topic_id": 532,
+        "subject_id": 4,
+        "name": "XVII. Yüzyılda Osmanlı Devleti (Duraklama Dönemi)",
+        "order_index": 9,
+        "content": "# 17. Yüzyılda Osmanlı (Duraklama)\n\n* **İç Nedenler:** Merkezi otoritenin bozulması, yeniçeri isyanları, tımar sisteminin bozulması, sancağa çıkma usulünün kaldırılması (Kafes usulü).\n* **Dış Nedenler:** Coğrafi keşifler, doğal sınırlara ulaşılması, Avrupa'da Rönesans ve Reform hareketleri."
     },
     {
-        "id":  536,
-        "subject_id":  4,
-        "name":  "Kurtuluş Savaşı Hazırlık Dönemi",
-        "order_index":  13,
-        "content":  "# Kurtuluş Savaşı\n\nMilli Mücadele\u0027nin hazırlık ve cepheler dönemi.\n\n## 1. Hazırlık Dönemi\n* **19 Mayıs 1919:** Mustafa Kemal\u0027in Samsun\u0027a çıkışı.\n* **Amasya Genelgesi:** Milli Mücadele\u0027nin amacı, gerekçesi ve yöntemi belirlendi.\n* **Erzurum ve Sivas Kongreleri:** Milli sınırlar ve tam bağımsızlık vurgulandı. Temsil Heyeti kuruldu.\n* **23 Nisan 1920:** TBMM\u0027nin açılışı.\n\n## 2. Cepheler Dönemi\n* **Doğu Cephesi:** Kazım Karabekir komutasında Ermenilere karşı zafer kazanıldı (Gümrü Antlaşması).\n* **Güney Cephesi:** Kuva-yı Milliye birlikleri Fransız ve Ermenilere karşı direndi.\n* **Batı Cephesi:** Düzenli ordunun Yunanlılara karşı mücadelesi.\n    * I. ve II. İnönü Zaferleri.\n    * **Sakarya Meydan Muharebesi:** Türk ordusunun son savunma savaşı.\n    * **Büyük Taarruz:** Yunan ordusunun Anadolu\u0027dan tamamen atılması."
+        "id": 533,
+        "topic_id": 533,
+        "subject_id": 4,
+        "name": "XVIII. Yüzyılda Osmanlı Devleti (Gerileme Dönemi)",
+        "order_index": 10,
+        "content": "# 18. Yüzyılda Osmanlı (Gerileme)\n\n* Karlofça Antlaşması (1699) ile başlar, Yaş Antlaşması (1792) ile biter.\n* Avrupa'nın teknik ve askeri üstünlüğü kabul edilmiş ve Batı tarzı ıslahatlar yapılmıştır (Lale Devri, Nizam-ı Cedit)."
     },
     {
-        "id":  537,
-        "subject_id":  4,
-        "name":  "I. TBMM Dönemi",
-        "order_index":  14,
-        "content":  "# I. TBMM Dönemi\n\n23 Nisan 1920\u0027de açılmıştır. Kurucu meclistir. Meclis hükümeti sistemi uygulanmıştır."
+        "id": 534,
+        "topic_id": 534,
+        "subject_id": 4,
+        "name": "XIX. Yüzyılda Osmanlı Devleti (Dağılma Dönemi)",
+        "order_index": 11,
+        "content": "# 19. Yüzyılda Osmanlı (Dağılma)\n\n* Milliyetçilik akımının (Fransız İhtilali) etkisiyle azınlık isyanları başlamıştır (Sırp ve Yunan isyanları).\n* Denizaşırı sömürgecilik faaliyetleri Osmanlı topraklarını hedef almıştır.\n* Tanzimat Fermanı (1839), Islahat Fermanı (1856) ve I. Meşrutiyet (1876) ile devlet dağılmaktan kurtarılmaya çalışılmıştır."
     },
     {
-        "id":  538,
-        "subject_id":  4,
-        "name":  "Kurtuluş Savaşı Muharebeler Dönemi",
-        "order_index":  15,
-        "content":  "# Kurtuluş Savaşı Muharebeler\n\nI. İnönü, II. İnönü, Kütahya-Eskişehir, Sakarya ve Büyük Taarruz."
+        "id": 535,
+        "topic_id": 535,
+        "subject_id": 4,
+        "name": "XX. Yüzyılda Osmanlı Devleti",
+        "order_index": 12,
+        "content": "# 20. Yüzyıl Başları\n\nTrablusgarp, Balkan Savaşları ve I. Dünya Savaşı'nın yaşandığı, imparatorluğun sona yaklaştığı dönemdir."
     },
     {
-        "id":  539,
-        "subject_id":  4,
-        "name":  "Atatürk İnkılapları",
-        "order_index":  16,
-        "content":  "# İnkılap Tarihi\n\nTürkiye Cumhuriyeti\u0027nin çağdaşlaşma yolunda attığı temel adımlar.\n\n## 1. Siyasi Alanda İnkılaplar\n* **Saltanatın Kaldırılması (1922):** Milli egemenliğin önündeki engel kalktı.\n* **Cumhuriyetin İlanı (1923):** Rejim sorunu çözüldü.\n* **Halifeliğin Kaldırılması (1924):** Laikleşme yolunda en önemli adım.\n\n## 2. Toplumsal ve Hukuk Alanında İnkılaplar\n* **Medeni Kanun (1926):** Kadın-erkek eşitliği (sosyal ve ekonomik alanlarda).\n* **Şapka ve Kıyafet İnkılabı, Soyadı Kanunu.**\n* **Kadınlara Seçme ve Seçilme Hakkı (1930, 1933, 1934).**\n\n## 3. Eğitim ve Kültür Alanında\n* **Tevhid-i Tedrisat:** Eğitim birliği sağlandı.\n* **Harf İnkılabı (1928):** Okuma-yazma oranını artırmak hedeflendi.\n* **Türk Tarih ve Türk Dil Kurumlarının kurulması.**"
+        "id": 536,
+        "topic_id": 536,
+        "subject_id": 4,
+        "name": "Kurtuluş Savaşı Hazırlık Dönemi",
+        "order_index": 13,
+        "content": "# Kurtuluş Savaşı\n\nMilli Mücadele'nin hazırlık ve cepheler dönemi.\n\n## 1. Hazırlık Dönemi\n* **19 Mayıs 1919:** Mustafa Kemal'in Samsun'a çıkışı.\n* **Amasya Genelgesi:** Milli Mücadele'nin amacı, gerekçesi ve yöntemi belirlendi.\n* **Erzurum ve Sivas Kongreleri:** Milli sınırlar ve tam bağımsızlık vurgulandı. Temsil Heyeti kuruldu.\n* **23 Nisan 1920:** TBMM'nin açılışı.\n\n## 2. Cepheler Dönemi\n* **Doğu Cephesi:** Kazım Karabekir komutasında Ermenilere karşı zafer kazanıldı (Gümrü Antlaşması).\n* **Güney Cephesi:** Kuva-yı Milliye birlikleri Fransız ve Ermenilere karşı direndi.\n* **Batı Cephesi:** Düzenli ordunun Yunanlılara karşı mücadelesi.\n    * I. ve II. İnönü Zaferleri.\n    * **Sakarya Meydan Muharebesi:** Türk ordusunun son savunma savaşı.\n    * **Büyük Taarruz:** Yunan ordusunun Anadolu'dan tamamen atılması."
     },
     {
-        "id":  540,
-        "subject_id":  4,
-        "name":  "Atatürk İlkeleri",
-        "order_index":  17,
-        "content":  "# Atatürk İlkeleri\n\nCumhuriyetin temel niteliklerini belirleyen altı temel ilke.\n\n* **Cumhuriyetçilik:** Milli egemenlik ve seçim esastır.\n* **Milliyetçilik:** Milli birlik ve beraberlik, Türk kimliği üzerinde birleşme. Irkçı değil, kapsayıcıdır.\n* **Halkçılık:** Toplumda eşitlik, sosyal adalet ve ayrıcalıkların reddedilmesi.\n* **Laiklik:** Din ve devlet işlerinin ayrılması, akıl ve bilim rehberliği.\n* **Devletçilik:** Özellikle ekonomik alanda devletin öncü ve düzenleyici rolü.\n* **İnkılapçılık:** Sürekli çağdaşlaşma, yenilenme ve ilerleme anlayışı."
+        "id": 537,
+        "topic_id": 537,
+        "subject_id": 4,
+        "name": "I. TBMM Dönemi",
+        "order_index": 14,
+        "content": "# I. TBMM Dönemi\n\n23 Nisan 1920'de açılmıştır. Kurucu meclistir. Meclis hükümeti sistemi uygulanmıştır."
     },
     {
-        "id":  541,
-        "subject_id":  4,
-        "name":  "İnkılap Tarihi",
-        "order_index":  18,
-        "content":  "# İnkılap Tarihi\n\nTürkiye Cumhuriyeti\u0027nin çağdaşlaşma yolunda attığı temel adımlar.\n\n## 1. Siyasi Alanda İnkılaplar\n* **Saltanatın Kaldırılması (1922):** Milli egemenliğin önündeki engel kalktı.\n* **Cumhuriyetin İlanı (1923):** Rejim sorunu çözüldü.\n* **Halifeliğin Kaldırılması (1924):** Laikleşme yolunda en önemli adım.\n\n## 2. Toplumsal ve Hukuk Alanında İnkılaplar\n* **Medeni Kanun (1926):** Kadın-erkek eşitliği (sosyal ve ekonomik alanlarda).\n* **Şapka ve Kıyafet İnkılabı, Soyadı Kanunu.**\n* **Kadınlara Seçme ve Seçilme Hakkı (1930, 1933, 1934).**\n\n## 3. Eğitim ve Kültür Alanında\n* **Tevhid-i Tedrisat:** Eğitim birliği sağlandı.\n* **Harf İnkılabı (1928):** Okuma-yazma oranını artırmak hedeflendi.\n* **Türk Tarih ve Türk Dil Kurumlarının kurulması.**"
+        "id": 538,
+        "topic_id": 538,
+        "subject_id": 4,
+        "name": "Kurtuluş Savaşı Muharebeler Dönemi",
+        "order_index": 15,
+        "content": "# Kurtuluş Savaşı Muharebeler\n\nI. İnönü, II. İnönü, Kütahya-Eskişehir, Sakarya ve Büyük Taarruz."
     },
     {
-        "id":  542,
-        "subject_id":  4,
-        "name":  "Partiler ve Partileşme Dönemi (İç Politika)",
-        "order_index":  19,
-        "content":  null
+        "id": 539,
+        "topic_id": 539,
+        "subject_id": 4,
+        "name": "Atatürk İnkılapları",
+        "order_index": 16,
+        "content": "# Atatürk İnkılapları\n\nAtatürk İnkılapları; Osmanlı Devleti'nden kalan yıpranmış kurumları tasfiye ederek Türk toplumunu ve devletini çağdaş uygarlık düzeyine ulaştırmak amacıyla siyasi, hukuk, eğitim, toplumsal ve ekonomik alanlarda gerçekleştirilen köklü reform hareketleridir.\n\n## 1. Siyasi Alanda Yapılan İnkılaplar\n* **Saltanatın Kaldırılması (1 Kasım 1922):** Milli egemenliğin önündeki en büyük engel kaldırıldı. Osmanlı Devleti resmen sona erdi ve laikleşmenin ilk somut adımı atıldı. Lozan görüşmelerine ikilik çıkmasını önlemek amacıyla hızlandırılmıştır.\n* **Ankara'nın Başkent Oluşu (13 Ekim 1923):** Stratejik, askeri ve lojistik nedenlerle Milli Mücadele'nin merkezi resmileştirildi.\n* **Cumhuriyetin İlanı (29 Ekim 1923):** Devletin adı ve rejim şekli netleşti. Meclis Hükümeti Sistemi'nden Kabine Sistemi'ne geçilerek hükümet bunalımı çözüldü. İlk Cumhurbaşkanı M. Kemal Atatürk, ilk Başbakan İsmet İnönü, ilk Meclis Başkanı Fethi Okyar oldu.\n* **Halifeliğin Kaldırılması (3 Mart 1924):** Laikleşme, ulusallaşma ve rejim karşıtı oluşumların engellenmesi yolundaki en kritik adımdır. Aynı gün kabul edilen diğer kanunlar: *Şer'iyye ve Evkaf Vekaleti kaldırıldı*, *Erkan-ı Harbiye Vekaleti kaldırıldı*, *Tevhid-i Tedrisat Kanunu kabul edildi* ve *Osmanlı Hanedanı yurt dışına çıkarıldı*.\n* **Çok Partili Hayata Geçiş Denemeleri:** İlk muhalefet partisi Kazım Karabekir liderliğinde kurulan *Terakkiperver Cumhuriyet Fırkası*'dır (Şeyh Sait İsyanı sonrası kapatıldı). İkinci deneme ise Ali Fethi Okyar liderliğindeki *Serbest Cumhuriyet Fırkası*'dır (Menemen Olayı öncesi parti kendini feshetti).\n\n## 2. Hukuk Alanında Yapılan İnkılaplar\n* **1921 (Teşkilat-ı Esasiye) ve 1924 Anayasaları:** Yeni kurulan devletin hukuki ve demokratik temelleri atıldı.\n* **Türk Medeni Kanunu (17 Şubat 1926):** İsviçre Medeni Kanunu örnek alınarak hazırlandı. Mahkemelerin birleştirilmesiyle Mecelle yürürlükten kalktı. Aile hukukunda kadın-erkek arasında sosyal ve ekonomik eşitlik sağlandı (Resmi nikah zorunluluğu, tek eşlilik, mahkemede şahitlik eşitliği, mirasta eşitlik, kadına boşanma hakkı). **Kritik KPSS Notu:** 1926 Medeni Kanunu kadına SİYASİ (seçme-seçilme) haklar İÇERMEZ.\n* **Hukuk Mektebi'nin Açılması (1925):** İnkılapları uygulayacak, çağdaş ve seküler hukukçular yetiştirmek amaçlandı.\n* **Diğer Hukuk Kodifikasyonları:** İtalya'dan Ceza Kanunu, Almanya'dan Ticaret ve Ceza Muhakemeleri Kanunu uyarlandı.\n\n## 3. Eğitim ve Kültür Alanında Yapılan İnkılaplar\n* **Tevhid-i Tedrisat Kanunu (3 Mart 1924):** Eğitim ve öğretim birleştirilerek tüm okullar MEB'e bağlandı. Medreseler kapatıldı; eğitimde birlik, laiklik ve millilik sağlandı.\n* **Harf İnkılabı (1 Kasım 1928):** Arap alfabesi yerine Yeni Türk Harfleri (Latin kökenli) kabul edildi. Okuma-yazmanın kolaylaştırılması ve kültür seviyesinin artırılması hedeflendi.\n* **Millet Mektepleri (1928):** Harf İnkılabı'ndan sonra yetişkin nüfusa yeni alfabeyi hızlıca öğretmek amacıyla açılan yaygın eğitim kurumlarıdır. Atatürk'e \"Başöğretmen\" unvanı burada verilmiştir.\n* **Türk Tarih Kurumu (1931) ve Türk Dil Kurumu (1932):** Türk tarihinin sadece Osmanlı ve İslam tarihinden ibaret olmadığını ortaya koymak, Türk dilini yabancı dillerin boyunduruğundan kurtarmak ve milli bilinci güçlendirmek için kuruldu.\n* **Üniversite Reformu (1933):** İsviçreli Albert Malche'ın raporu doğrultusunda Osmanlı'dan kalan Darülfünun kapatılarak yerine modern kadrolarla İstanbul Üniversitesi kurulmuştur.\n\n## 4. Toplumsal Alanda Yapılan İnkılaplar\n* **Şapka Kanunu ve Kıyafet Düzenlemeleri (1925):** Toplumsal dış görünüşte modernleşme ve birlik hedeflendi. 1934'te hangi dine mensup olursa olsun din adamlarının mabetler dışında dini kıyafetle gezmesi yasaklandı (Diyanet İşleri Başkanı ve Patrik hariç).\n* **Tekke, Zaviye ve Türbelerin Kapatılması (1925):** Dini duyguların sömürülmesi, şeyhlik, dervişlik gibi unvanların suistimal edilmesi önlendi. Falcılık ve büyücülük yasaklandı.\n* **Takvim, Saat, Rakam ve Ölçülerin Kabulü:** Hicri ve Rumi takvim yerine Miladi Takvime (1925), alaturka saat yerine uluslararası saat sistemine, arşın-okka yerine metre-kilograma geçildi. Amaç, Batı dünyasıyla ticari, mali ve sosyal ilişkilerdeki karışıklıkları önlemektir.\n* **Soyadı Kanunu (1934):** Resmi işlemlerdeki (askerlik, vergi, tapu) büyük karışıklıkları gidermek ve paşa, ağa, bey gibi unvanların yarattığı sınıfsal ayrıcalıkları ortadan kaldırmak için çıkarıldı. TBMM, Mustafa Kemal'e \"Atatürk\" soyadını verdi.\n* **Kadınlara Siyasi Hakların Verilmesi:** Kadınlar sırasıyla **0-3-4** formülüyle haklarını aldı: 1930'da Belediye seçimlerine katılma, 1933'te Muhtarlık seçimlerine katılma, 1934'te Milletvekili seçme ve seçilme hakkı.\n\n## 5. Ekonomi Alanında Yapılan İnkılaplar\n* **İzmir İktisat Kongresi (1923):** Kazım Karabekir başkanlığında toplandı. Milli ekonominin bağımsızlık hedefleri (Misak-ı İktisadi) belirlendi. Yerli malı kullanımı teşvik edildi.\n* **Aşar Vergisinin Kaldırılması (1925):** Köylünün üzerindeki en ağır mali yük kaldırılarak tarımsal üretim desteklendi (Halkçılık ilkesinin en net uygulamasıdır).\n* **Kabotaj Kanunu (1 Red-1 Temmuz 1926):** Osmanlı'nın yabancılara verdiği deniz ticareti imtiyazları kaldırıldı. Türk karasularında yolcu ve yük taşıma hakkı sadece Türk gemilerine verildi.\n* **Teşvik-i Sanayi Kanunu (1927):** Özel sektörü sanayi yatırımlarına yönlendirmek için çıkarıldı ancak sermaye yetersizliği ve 1929 Dünya Ekonomik Buhranı nedeniyle başarısız oldu.\n* **Devletçilik Dönemi Yatırımları:** 1933'te Birinci Beş Yıllık Sanayi Planı devreye girdi. Sümerbank (tekstil) ve Etibank (madencilik) kuruldu. Fabrikalar bizzat devlet eliyle inşa edildi."
     },
     {
-        "id":  543,
-        "subject_id":  4,
-        "name":  "Atatürk Dönemi Türk Dış Politikası",
-        "order_index":  20,
-        "content":  null
+        "id": 540,
+        "topic_id": 540,
+        "subject_id": 4,
+        "name": "Atatürk İlkeleri",
+        "order_index": 17,
+        "content": "# Atatürk İlkeleri\n\nAtatürk İlkeleri, Türk İnkılabı'nın temel dayanaklarını oluşturan, çağdaşlaşma, ulusal egemenlik ve tam bağımsızlık hedefine odaklanan bir bütündür. Bu ilkeler 1931'de CHP programına alınmış, 5 Şubat 1937'de ise yapılan anayasa değişikliğiyle Türkiye Cumhuriyeti Anayasası'na dahil edilmiştir.\n\n## Temel Özellikler\n* **Akılcılık ve Bilimsellik:** Temel dayanağı dogmalar veya kalıplaşmış kurallar değil, akıl ve bilimdir.\n* **Tam Bağımsızlık:** Siyasi, ekonomik, adli ve kültürel her alanda kayıtsız şartsız bağımsızlığı esas alır.\n* **Milli Egemenlik:** Yönetim yetkisinin ve karar mekanizmasının doğrudan doğruya millete ait olmasıdır.\n* **Çağdaşlık:** Türk milletini çağdaş uygarlık düzeyinin üzerine çıkarmayı ve dinamik kalmayı hedefler.\n\n---\n\n## 1. Cumhuriyetçilik\nDevlet yönetiminde milli egemenliği, demokrasiyi, çok partili yaşamı ve seçim usulünü esas alan temel ilkedir. Devlet başkanlığının ve yönetim kadrolarının babadan oğula geçmesini (saltanatı) tamamen reddeder.\n\n* **KPSS Anahtar Kelimeler:** Milli egemenlik, milli irade, seçim, TBMM, demokrasi, seçme ve seçilme hakkı, çok partili hayat, rejim, meclis hükümeti sistemi.\n* **Yapılan Başlıca İnkılaplar:** \n    * Saltanatın kaldırılması (1922)\n    * Cumhuriyetin ilanı (1923)\n    * Halifeliğin kaldırılması (1924)\n    * 1921 ve 1924 anayasalarının hazırlanması\n    * Kadınlara seçme ve seçilme hakkı verilmesi (1930 Belediye, 1933 Muhtarlık, 1934 Milletvekili)\n    * Çok partili hayata geçiş denemeleri\n\n---\n\n## 2. Milliyetçilik\nMaddi ve manevi açılardan Türk milletinin çıkarlarını korumayı, milli birlik, beraberlik ve ortak ülkü etrafında toplanmayı esas alır. Irkçı, şovenist veya asimilasyoncu değil; kapsayıcı, barışçıl ve insancıldır (Kültür milliyetçiliği).\n\n* **KPSS Anahtar Kelimeler:** Milli bağımsızlık, milli benlik, ortak dil, ortak tarih, Türk kültürü, milli şuur, vatan sevgisi, bağımsız iktisat, yabancı tekelden kurtulma.\n* **Yapılan Başlıca İnkılaplar:** \n    * Türk Tarih Kurumu (TTK) ve Türk Dil Kurumu'nun (TDK) kurulması\n    * Kabotaj Kanunu'nun kabulü (Denizlerde bağımsızlık)\n    * Kapitülasyonların kaldırılması (Ekonomik bağımsızlık)\n    * Yabancı işletmelerin satın alınarak millileştirilmesi\n    * Yeni Türk devletinin kurulması ve Türk parasını koruma kanunları\n\n---\n\n## 3. Halkçılık\nToplumda hiçbir zümreye, aileye, sınıfa veya kişiye ayrıcalık tanınmamasını, herkesin kanun önünde eşit olmasını savunur. Sınıf çatışmasını reddeder; sosyal dayanışmayı ve \"Sosyal Devlet\" anlayışını temsil eder. Cumhuriyetçilik ve Milliyetçilik ilkelerinin doğal bir sonucudur.\n\n* **KPSS Anahtar Kelimeler:** Eşitlik, adalet, ayrıcalıkların reddi, sosyal dayanışma, sosyal devlet, halkın refahı, kanun önünde eşitlik, imtiyazsız toplum.\n* **Yapılan Başlıca İnkılaplar:** \n    * Aşar vergisinin kaldırılması (Köylünün rahatlatılması)\n    * Türk Medeni Kanunu'nun kabulü (Kadın-erkek eşitliği)\n    * Soyadı Kanunu'nun çıkarılması (Ayrıcalık bildiren unvanların yasaklanması)\n    * Kılık-kıyafet düzenlemeleri ve nişanların kaldırılması\n    * Millet Mektepleri'nin açılarak okuma yazmanın halka yayılması\n\n---\n\n## 4. Laiklik\nDin ve devlet işlerinin birbirinden ayrılması, devlet düzeninin, hukukun ve kamusal yaşamın dini kurallar yerine akıl, bilim ve modern hukuk kurallarına göre yürütülmesidir. Devletin tüm inançlara eşit mesafede durmasını ve vatandaşın din, vicdan ve ibadet özgürlüğünü güvence altına almasını sağlar.\n\n* **KPSS Anahtar Kelimeler:** Akılcılık, bilimsellik, din ve vicdan hürriyeti, inanç özgürlüğü, dogma karşıtlığı, din ve devlet işlerinin ayrılması, akıl rehberliği.\n* **Yapılan Başlıca İnkılaplar:** \n    * Saltanat (1922) ve Halifeliğin kaldırılması (1924)\n    * Tevhid-i Tedrisat Kanunu (1924 - Eğitimin laikleşmesi)\n    * Şer'iyye ve Evkaf Vekaleti'nin kaldırılması\n    * Tekke, zaviye ve türbelerin kapatılması (1925)\n    * Medeni Kanun'un kabulü (Hukukun laikleşmesi)\n    * \"Devletin dini İslam'dır\" ibaresinin anayasadan çıkarılması (1928)\n    * Milletvekili yemin şeklinin değiştirilmesi (Vallahi yerine namusum üzerine)\n    * Laikliğin anayasaya girmesi (1937)\n\n---\n\n## 5. Devletçilik\nEkonomik kalkınmanın devlet eliyle ve devlet planlamasıyla gerçekleştirilmesidir. Özellikle özel sektörün sermaye, teknik bilgi ve tecrübe açısından yetersiz kaldığı Milli Mücadele sonrası dönemde sanayileşmeyi hızlandırmak amacıyla zorunluluktan uygulanmıştır. Özel teşebbüsü tamamen reddetmez, karma ekonomi modelini benimser.\n\n* **KPSS Anahtar Kelimeler:** Ekonomi, yatırım, karma ekonomi, kalkınma planları, devlet bankaları, kamulaştırma, altyapı çalışmaları, sermaye yetersizliği, planlı iktisat.\n* **Yapılan Başlıca İnkılaplar:** \n    * Birinci Beş Yıllık Sanayi Planı'nın hazırlanması ve başarıyla uygulanması (1933)\n    * Etibank, Sümerbank ve Merkez Bankası gibi devlet bankalarının kurulması\n    * Maden Tetkik Arama (MTA) Enstitüsü'nün kurulması\n    * Devlet Demir Yolları'nın kurularak ulaşım altyapısının devletleştirilmesi\n    * Karabük Demir-Çelik Fabrikası başta olmak üzere yerli fabrikaların kurulması\n\n---\n\n## 6. İnkılapçılık\nYapılan yeniliklerin korunmasını, geliştirilmesini ve çağın gerisinde kalmamak için sürekli yenilenmeyi ifade eder. Türk İnkılabı'nın durağan (statik) değil, dinamik ve ileriye dönük olmasını sağlayan koruyucu ve motor güçteki çatı ilkedir.\n\n* **KPSS Anahtar Kelimeler:** Çağdaşlaşma, modernleşme, dinamizm, yenilik, batılılaşma, devrim, sürekli ilerleme, zamanın gerisinde kalmama.\n* **Yapılan Başlıca İnkılaplar:** \n    * Harf İnkılabı (1928)\n    * Takvim, saat, ölçü birimleri ve rakamlarda uluslararası sisteme geçiş\n    * Hafta tatilinin Cuma gününden Pazar gününe alınması (1935)\n    * Şapka İnkılabı ve modern kılık-kıyafetin benimsenmesi\n\n---\n\n## Atatürk'ün Bütünleyici İlkeleri\n* **Milli Egemenlik:** Doğrudan doğruya *Cumhuriyetçilik* ilkesinden doğar.\n* **Milli Bağımsızlık:** Doğrudan doğruya *Milliyetçilik* ilkesinin temel şartıdır.\n* **Milli Birlik ve Beraberlik:** *Milliyetçilik* ve *Halkçılık* ilkelerinin doğal bir sonucudur.\n* **Yurtta Sulh, Cihanda Sulh:** Hem iç hem dış politikada insancıl ve barışçıl dünya görüşü.\n* **Akılcılık ve Bilimsellik:** *Laiklik* ilkesinin düşünsel temelidir.\n* **Çağdaşlaşma ve Batılılaşma:** *İnkılapçılık* ilkesinin varmak istediği temel hedeftir.\n* **İnsan ve İnsanlık Sevgisi:** Irkçılığı reddeden evrensel değerlere saygı."
     },
     {
-        "id":  544,
-        "subject_id":  4,
-        "name":  "Atatürk Sonrası Dönem",
-        "order_index":  21,
-        "content":  null
+        "id": 541,
+        "topic_id": 541,
+        "subject_id": 4,
+        "name": "İnkılap Tarihi",
+        "order_index": 18,
+        "content": "# İnkılap Tarihi\n\nTürkiye Cumhuriyeti'nin çağdaşlaşma yolunda attığı temel adımlar.\n\n## 1. Siyasi Alanda İnkılaplar\n* **Saltanatın Kaldırılması (1922):** Milli egemenliğin önündeki engel kalktı.\n* **Cumhuriyetin İlanı (1923):** Rejim sorunu çözüldü.\n* **Halifeliğin Kaldırılması (1924):** Laikleşme yolunda en önemli adım.\n\n## 2. Toplumsal ve Hukuk Alanında İnkılaplar\n* **Medeni Kanun (1926):** Kadın-erkek eşitliği (sosyal ve ekonomik alanlarda).\n* **Şapka ve Kıyafet İnkılabı, Soyadı Kanunu.**\n* **Kadınlara Seçme ve Seçilme Hakkı (1930, 1933, 1934).**\n\n## 3. Eğitim ve Kültür Alanında\n* **Tevhid-i Tedrisat:** Eğitim birliği sağlandı.\n* **Harf İnkılabı (1928):** Okuma-yazma oranını artırmak hedeflendi.\n* **Türk Tarih ve Türk Dil Kurumlarının kurulması.**"
     },
     {
-        "id":  545,
-        "subject_id":  4,
-        "name":  "Atatürk\u0027ün Hayatı ve Kişiliği",
-        "order_index":  22,
-        "content":  "# İnkılap Tarihi\n\nTürkiye Cumhuriyeti\u0027nin çağdaşlaşma yolunda attığı temel adımlar.\n\n## 1. Siyasi Alanda İnkılaplar\n* **Saltanatın Kaldırılması (1922):** Milli egemenliğin önündeki engel kalktı.\n* **Cumhuriyetin İlanı (1923):** Rejim sorunu çözüldü.\n* **Halifeliğin Kaldırılması (1924):** Laikleşme yolunda en önemli adım.\n\n## 2. Toplumsal ve Hukuk Alanında İnkılaplar\n* **Medeni Kanun (1926):** Kadın-erkek eşitliği (sosyal ve ekonomik alanlarda).\n* **Şapka ve Kıyafet İnkılabı, Soyadı Kanunu.**\n* **Kadınlara Seçme ve Seçilme Hakkı (1930, 1933, 1934).**\n\n## 3. Eğitim ve Kültür Alanında\n* **Tevhid-i Tedrisat:** Eğitim birliği sağlandı.\n* **Harf İnkılabı (1928):** Okuma-yazma oranını artırmak hedeflendi.\n* **Türk Tarih ve Türk Dil Kurumlarının kurulması.**"
+        "id": 542,
+        "topic_id": 542,
+        "subject_id": 4,
+        "name": "Partiler ve Partileşme Dönemi (İç Politika)",
+        "order_index": 19,
+        "content": "# Çok Partili Hayata Geçiş Denemeleri\n\n* **Cumhuriyet Halk Fırkası:** İlk kurulan partidir (Mustafa Kemal Atatürk).\n* **Terakkiperver Cumhuriyet Fırkası:** Türkiye'nin ilk muhalefet partisidir (Kazım Karabekir). Şeyh Sait İsyanı sonrası kapatılmıştır.\n* **Serbest Cumhuriyet Fırkası:** İkinci muhalefet partisidir (Ali Fethi Okyar). Menemen Olayı öncesi kendini feshetmiştir."
+    },
+    {
+        "id": 543,
+        "topic_id": 543,
+        "subject_id": 4,
+        "name": "Atatürk Dönemi Türk Dış Politikası",
+        "order_index": 20,
+        "content": "# Atatürk Dönemi Türk Dış Politikası\n\nAtatürk dönemi dış politikası, \"Yurtta Sulh, Cihanda Sulh\" temel felsefesi doğrultusunda; tam bağımsızlık, egemenlik haklarına saygı, gerçekçilik ve mütekabiliyet (karşılıklılık) esaslarına dayanan, maceracılıktan uzak barışçıl bir diplomasi dönemidir.\n\n## Temel İlkeler\n* **Tam Bağımsızlık:** Siyasi, ekonomik, askeri ve hukuki alanlarda dışa bağımlılığı tamamen reddetmek.\n* **Gerçekçilik ve Akılcılık:** Gerçekleşmesi imkansız hayali ideolojilerin (Panislamizm, Pantürkizm vb.) peşinden gitmemek.\n* **Barışçılık:** Uluslararası sorunları savaşla değil, hukuk, diplomasi ve antlaşmalar yoluyla çözmeyi esas almak.\n* **Mütekabiliyet (Karşılıklılık):** Uluslararası ilişkilerde diğer devletlerle tamamen eşit statüde hareket etmek.\n\n---\n\n## 1. Dönem (1923-1930): Lozan Antlaşması'ndan Kalan Sorunların Çözümü\nBu dönem dış politikasının ana ekseni, Lozan'da tam olarak çözülemeyen veya uygulamada pürüz çıkaran konuları Türkiye'nin lehine netleştirmektir.\n\n* **Yabancı Okullar Sorunu (1924-1925):** Özellikle Fransa ve Papalık ile kriz yaşandı. Türkiye, yabancı okulların MEB müfredatına ve Türk kanunlarına uymasını zorunlu kıldı. Bu konuyu bir \"iç mesele\" sayarak dış müdahaleleri kesinlikle reddetti ve egemenlik tavizi vermedi.\n* **Musul Sorunu (Irak Sınırı - 1926):** İngiltere ile yaşandı. Konu Milletler Cemiyeti'ne taşındı ancak cemiyet İngiltere lehine karar verdi. O esnada Türkiye içinde çıkan Şeyh Sait İsyanı ve Nasturi Ayaklanması nedeniyle askeri müdahale yapılamadı. 1926 Ankara Antlaşması ile Musul, petrol gelirlerinin %10'unun 25 yıl süreyle Türkiye'ye verilmesi şartıyla Irak'a (İngiliz mandasına) bırakıldı. Misak-ı Milli'den taviz verilmiştir.\n* **Yabancı Borçlar Sorunu:** Osmanlı'dan kalan borçların ödenme takvimi Fransa ile kriz yarattı. 1929 Dünya Ekonomik Buhranı üzerine borçlar \"Hoover Moratoryumu\" kapsamında yeniden yapılandırılarak Türk lirası ve Fransız frangı olarak taksitle ödendi.\n* **Nüfus Mübadelesi (Etapli Sorunu - 1930):** Yunanistan ile yaşandı. Kimlerin \"yerleşik (etapli)\" sayılacağı krizi Ahali Antlaşması (1930) ile çözüldü. İstanbul Rumları ile Batı Trakya Türkleri hariç tüm Türk ve Yunan nüfusu karşılıklı yer değiştirdi. Bu çözümden sonra Atatürk ve Venizelos dostluğu başladı, Türkiye-Yunanistan ilişkileri yumuşadı.\n\n---\n\n## 2. Dönem (1932-1939): Yaklaşan II. Dünya Savaşı Tehlikesi ve Barışçı Kolektif Girişimler\nBu dönemde Almanya (Nazizm) ve İtalya'nın (Faşizm) saldırgan, yayılmacı politikaları karşısında Türkiye, statükoyu korumak ve sınır güvenliğini sağlamak için çok taraflı ittifaklara yönelmiştir.\n\n* **Milletler Cemiyeti'ne Giriş (18 Temmuz 1932):** Türkiye, davet üzerine (İspanya'nın teklifi, Yunanistan'ın desteğiyle) cemiyete katıldı. Bu durum Türkiye'nin uluslararası alanda barışçı bir aktör olarak kabul gördüğünün kanıtıdır.\n* **Balkan Antantı (9 Şubat 1934):** Batı sınırının güvenliğini sağlamak amacıyla; Türkiye, Yunanistan, Yugoslavya ve Romanya arasında Atina'da imzalandı. (İtalya'dan çekinen Arnavutluk ve revizyonist politika izleyen Bulgaristan katılmadı).\n* **Montrö Boğazlar Sözleşmesi (20 Temmuz 1936):** Lozan'da Boğazlar Komisyonu'nun varlığı ve Boğazların silahsız olması egemenliğimizi zedeliyordu. İtalya ve Almanya'nın yarattığı savaş tehdidini diplomatik koz olarak kullanan Türkiye, İsviçre'nin Montreux kentinde yeni bir sözleşme imzalattı. Boğazlar Komisyonu kaldırıldı, askeri sınırlar kaldırıldı ve Boğazların yönetimi ile savunması tamamen Türkiye'ye geçti. Misak-ı Milli'ye uygun tam egemenlik sağlandı.\n* **Sadabat Paktı (8 Temmuz 1937):** Doğu sınırının güvenliğini sağlamak amacıyla; Türkiye, İran, Irak ve Afganistan arasında Tahran'da imzalandı. (Sınır sorunları nedeniyle Irak ile gergin olan Suriye bu pakta katılmadı).\n* **Hatay'ın (Sancak) Ana Vatana Katılması:** Lozan'da Hatay, Fransız mandasındaki Suriye sınırları içinde kalmıştı (1921 Ankara Antlaşması gereği). Fransa'nın 1936'da Suriye'den çekilmesi üzerine Atatürk konuyu Milletler Cemiyeti'ne taşıdı. Sandlar Raporu doğrultusunda Hatay iç işlerinde bağımsız oldu (1938). Ardından Hatay Cumhuriyeti kuruldu (İlk Cumhurbaşkanı Tayfur Sökmen). Hatay Meclisi 23 Haziran 1939'da oy birliğiyle Türkiye'ye katılma kararı aldı. Atatürk'ün \"Şahsi meselem\" dediği Hatay, ne yazık ki vefatından sonra anavatana resmen katılmıştır."
+    },
+    {
+        "id": 544,
+        "topic_id": 544,
+        "subject_id": 4,
+        "name": "Atatürk Sonrası Dönem",
+        "order_index": 21,
+        "content": "# Atatürk Sonrası Dönem\n\n* 1938'de İsmet İnönü Cumhurbaşkanı seçildi (Milli Şef Dönemi).\n* II. Dünya Savaşı yılları bu döneme denk gelir. Türkiye savaşa fiilen girmemiş ancak ekonomik ve sosyal olarak büyük sıkıntılar yaşamıştır.\n* 1946'da Demokrat Parti'nin kurulmasıyla kesintisiz çok partili hayata geçilmiştir."
+    },
+    {
+        "id": 545,
+        "topic_id": 545,
+        "subject_id": 4,
+        "name": "Atatürk'ün Hayatı ve Kişiliği",
+        "order_index": 22,
+        "content": "# Atatürk'ün Hayatı ve Kişiliği\n\n## 1. Doğumu ve Öğrenim Hayatı\nMustafa Kemal Atatürk, 1881 yılında Osmanlı Devleti'nin önemli bir kültür ve ticaret merkezi olan Selanik'te doğdu. Annesi Zübeyde Hanım, babası Ali Rıza Efendi'dir.\n\n* **Eğitim Gördüğü Okullar (Kronolojik Sırayla):**\n    1. **Mahalle Mektebi:** Annesinin isteğiyle başladığı geleneksel dini eğitim veren okul.\n    2. **Şemsi Efendi İlkokulu:** Babasının isteğiyle geçtiği modern ve yeni yöntemlerle eğitim veren okul.\n    3. **Selanik Mülkiye Rüştiyesi:** Sivil ortaokul. Askerlik hevesi nedeniyle yarıda bıraktı.\n    4. **Selanik Askeri Rüştiyesi:** Gizlice girdiği sınavla kazandığı askeri ortaokul. Matematik öğretmeni Yüzbaşı Mustafa Bey tarafından kendisine \"Kemal\" ismi verildi.\n    5. **Manastır Askeri İdadisi:** Askeri lise. Burada Ömer Naci sayesinde edebiyat ve hitabete, tarih öğretmeni Tevfik Bey sayesinde tarihe ilgi duydu. Fransız aydınlanmacıları (Rousseau, Voltaire) tanıdı.\n    6. **İstanbul Harp Okulu:** İstanbul'a gelerek başladığı yükseköğrenim kurumu. Buradan **Teğmen** rütbesiyle mezun oldu.\n    7. **İstanbul Harp Akademisi:** Kurmaylık eğitimi aldığı okul. Gazete ve dergiler çıkararak ülke sorunlarıyla ilgilendi. Ocak 1905'te **Kurmay Yüzbaşı** rütbesiyle mezun olarak orduya katıldı.\n\n---\n\n## 2. Askerlik Hayatı ve Kronolojik Başarıları\n* **Şam 5. Ordu (1905):** İlk görev yeridir. Burada gizlice *Vatan ve Hürriyet Cemiyeti*'ni kurarak teşkilatçılık özelliğini göstermiştir.\n* **31 Mart Olayı (1909):** Meşrutiyet karşıtı isyanı bastırmak için Selanik'ten gelen *Hareket Ordusu*'nda Kurmay Başkanı olarak görev yaptı. Tarih sahnesine ilk çıkışıdır.\n* **Trablusgarp Savaşı (1911):** İtalya'nın işgaline karşı gazeteci \"Şerif Bey\" kılığıyla gizlice bölgeye gitti. Derne ve Tobruk'ta yerel halkı örgütleyerek başarılar kazandı. İlk askeri başarısıdır ve *Teşkilatçılık (Liderlik)* özelliğini kanıtlar. Savaş sürerken Binbaşılığa yükseldi.\n* **Balkan Savaşları (1912-1913):** I. Balkan Savaşı'nda Gelibolu'yu savunan kadroda yer aldı, bölge coğrafyasını tanıması ileride Çanakkale Savaşı'nda büyük avantaj sağladı. II. Balkan Savaşı'nda Edirne'nin geri alınmasında rol oynadı.\n* **Sofya Askeri Ateşeliği (1913):** Bulgaristan'da diplomatik görev yaptı. Batı dünyasını ve parlamenter sistemi yakından analiz etti.\n* **Çanakkale Savaşı (1915 - I. Dünya Savaşı):** 19. Tümen Komutanı olarak görev yaptı. Arıburnu, Conkbayırı ve Anafartalar'da düşman ilerleyişini durdurdu. \"Ben size taarruzu değil, ölmeyi emrediyorum!\" sözünü burada söylemiştir. \"Anafartalar Kahramanı\" olarak tanındı, albaylığa yükseldi ve Milli Mücadele'nin lideri olmasının önü açıldı.\n* **Kafkas Cephesi (1916):** Ruslara karşı mücadele ederek Muş ve Bitlis'i geri aldı. Tuğgeneralliğe (Paşa) terfi etti.\n* **Suriye Cephesi (1917-1918):** Yıldırım Orduları Grup Komutanlığı bünyesinde Halep'in kuzeyinde İngilizleri durdurarak bugünkü güney sınırımızın çizilmesini sağladı.\n\n---\n\n## 3. Kişisel Özellikleri (KPSS Soru Kalıpları)\n* **İleri Görüşlülüğü:** Çanakkale'de düşmanın nereden çıkarma yapacağını tahmin etmesi, I. Dünya Savaşı'nın sonuçlarını ve II. Dünya Savaşı'nın çıkacağını önceden sezmesi en net örnekleridir.\n* **Teşkilatçılığı (Birleştiriciliği):** Trablusgarp'ta yerli halkı İtalyanlara karşı örgütlemesi ve Sivas/Erzurum kongrelerinde dağınık cemiyetleri tek çatı altında toplaması.\n* **Çok Yönlülüğü (Çok Boyutluluğu):** İyi bir komutan olmasının yanında; devlet adamı, hukuk yapıcı, tarih araştırmacısı, geometri kitabı yazacak kadar matematik dehası olması.\n* **Vatan ve Millet Sevgisi:** Kişisel konforunu reddederek tüm ömrünü cephelerde ve halkının bağımsızlığı uğrunda harcaması.\n* **Mantıklılığı ve Akılcılığı:** Dogmalara inanmaması, kararlarında her zaman bilim ve akıl süzgecini kullanması.\n\n---\n\n## 4. Başlıca Eserleri\n* **Nutuk (1919-1927):** 19 Mayıs 1919'da Samsun'a çıkışıyla başlar, 1927'deki Gençliğe Hitabe ile biter. Dönemin tek partisi olan CHP'nin 2. Kurultayında bizzat Atatürk tarafından 6 günde okunmuştur. Elde edilen gelir Türk Tayyare Cemiyeti'ne bırakılmıştır.\n* **Geometri Kitabı (1937):** Savaşlardan sonra bizzat kaleme almış; Türkçe harflere uygun olarak *üçgen, açı, teğet, boyut, yüzey* gibi onlarca terimi Türkçeye kazandırmıştır.\n* **Vatandaş İçin Medeni Bilgiler (1930):** Afet İnan ile birlikte hazırladığı, vatandaşlık hak ve sorumluluklarını anlatan ders kitabıdır.\n* **Cumalı Ordugâhı, Zabit ve Kumandan ile Hasbihal:** Askeri taktik ve tecrübelerini içeren mesleki kitaplarıdır."
+    },
+    {
+        "id": 546,
+        "topic_id": 546,
+        "subject_id": 4,
+        "name": "Çağdaş Türk ve Dünya Tarihi",
+        "order_index": 23,
+        "content": "# Çağdaş Türk ve Dünya Tarihi\n\n20. yüzyılın başından itibaren dünyada ve Türkiye'de yaşanan küresel gelişmeler.\n\n## 1. I. ve II. Dünya Savaşları Arası Dönem\n* Sovyetler Birliği'nin kuruluşu, Faşizm ve Nazizm'in yükselişi.\n* 1929 Dünya Ekonomik Buhranı.\n\n## 2. II. Dünya Savaşı ve Sonrası\n* Savaşın nedenleri, bloklar ve Türkiye'nin tarafsızlık politikası.\n* BM ve NATO'nun kuruluşu, Soğuk Savaş dönemi.\n\n## 3. Türk Dünyası ve Orta Doğu\n* Türk Cumhuriyetlerinin bağımsızlık süreçleri.\n* Kıbrıs Meselesi ve Yunanistan ile olan ilişkiler.\n* Orta Doğu'daki çatışmalar ve petrol sorunu."
     }
 ]
