@@ -1,0 +1,618 @@
+[
+    {
+        "id": 547,
+        "topic_id": 547,
+        "subject_id": 5,
+        "name": "Türkiye'den Coğrafi Konumu",
+        "order_index": 1,
+        "content": "# Türkiye'nin Coğrafi Konumu\n\nTürkiye'nin dünya üzerindeki yeri, matematik (mutlak) ve özel (göreceli) konum özellikleri ile bu özelliklerin doğurduğu coğrafi, ekonomik ve siyasi sonuçları kapsar."
+    },
+    {
+        "id": 548,
+        "topic_id": 548,
+        "subject_id": 5,
+        "name": "Türkiye'nin İklimi ve Bitki Örtüsü",
+        "order_index": 2,
+        "content": "# Türkiye'nin İklimi ve Bitki Örtüsü\n\nTürkiye'de iklim çeşitliliğinin fazla olmasının temel nedenleri; çevresindeki denizler, denizelliğin içeri girmesini engelleyen dağ sıraları ve yükselti farklarıdır."
+    },
+    {
+        "id": 549,
+        "topic_id": 549,
+        "subject_id": 5,
+        "name": "Türkiye'nin Fiziki Özellikleri",
+        "order_index": 3,
+        "content": "# Türkiye'nin Fiziki Özellikleri (Yer Şekilleri)\n\nTürkiye, jeolojik olarak genç oluşumlu (III. ve IV. Jeolojik Zaman) bir ülke olduğu için yüksek, engebeli ve kırıklı bir topoğrafyaya sahiptir. Alp-Himalaya kıvrım kuşağında yer alır."
+    },
+    {
+        "id": 550,
+        "topic_id": 550,
+        "subject_id": 5,
+        "name": "Türkiye'nin Beşeri Özellikleri",
+        "order_index": 4,
+        "content": "# Türkiye'nin Beşeri Özellikleri (Nüfus ve Göç Yapısı)\n\nTürkiye'de nüfusun dağılışı düzensizdir. Nüfusun dağılışında fiziki faktörler (yer şekilleri, iklim, su kaynakları) ve beşeri faktörler (sanayi, tarım, ulaşım, ticaret, madencilik) etkilidir."
+    },
+    {
+        "id": 551,
+        "topic_id": 551,
+        "subject_id": 5,
+        "name": "Türkiye'nin Ekonomik Özellikleri",
+        "order_index": 5,
+        "content": "# Türkiye'nin Ekonomik Özellikleri\n\nTürkiye ekonomisi; gelişmekte olan, istihdamın ve milli gelirin en büyük kısmını hizmet ve sanayi sektörlerinde barındıran dinamik bir yapıya sahiptir."
+    },
+    {
+        "id": 552,
+        "topic_id": 552,
+        "subject_id": 5,
+        "name": "Türkiye'nin Coğrafi Konumu ve Yer Şekilleri",
+        "order_index": 1,
+        "content": "# Türkiye'nin Coğrafi Konumu ve Yer Şekilleri İlişkisi\n\nTürkiye, genç oluşumlu ve engebeli bir ülkedir. Ülkenin dağ sıralarının uzanış doğrultusu (Doğu-Batı) ve ortalama yükseltisinin fazla olması, iklim ve yer şekilleri üzerinde belirleyici bir rol oynar."
+    },
+    {
+        "id": 553,
+        "topic_id": 553,
+        "subject_id": 5,
+        "name": "Türkiye'nin İklimi ve Bitki Örtüsü",
+        "order_index": 2,
+        "content": "# Türkiye'nin İklimi ve Bitki Örtüsü\n\nTürkiye'de iklim çeşitliliğinin fazla olmasının temel nedenleri; çevresindeki denizler, denizelliğin içeri girmesini engelleyen dağ sıraları ve yükselti farklarıdır."
+    },
+    {
+        "id": 554,
+        "topic_id": 554,
+        "subject_id": 5,
+        "name": "Türkiye'nin Fiziki Özellikleri",
+        "order_index": 3,
+        "content": "# Türkiye'nin Fiziki Özellikleri (Yer Şekilleri)\n\nTürkiye, jeolojik olarak genç oluşumlu (III. ve IV. Jeolojik Zaman) bir ülke olduğu için yüksek, engebeli ve kırıklı bir topoğrafyaya sahiptir. Alp-Himalaya kıvrım kuşağında yer alır."
+    },
+    {
+        "id": 555,
+        "topic_id": 555,
+        "subject_id": 5,
+        "name": "Türkiye'de Nüfus, Yerleşme ve Göç",
+        "order_index": 4,
+        "content": "# Türkiye'de Nüfus, Yerleşme ve Göç\n\nTürkiye'de nüfusun dağılışı üzerinde fiziki (iklim, yer şekilleri, su kaynakları) ve beşeri (sanayileşme, tarım, ulaşım, ticaret) faktörler doğrudan etkilidir."
+    },
+    {
+        "id": 556,
+        "topic_id": 556,
+        "subject_id": 5,
+        "name": "Tarım",
+        "order_index": 5,
+        "content": "# Türkiye'de Tarım Coğrafyası\n\nTürkiye, iklim ve toprak çeşitliliği sayesinde tarımsal ürün yelpazesi son derece geniş bir ülkedir. Modern tarım (entansif) uygulamalarının yaygınlaşmasıyla üretimde iklime bağımlılık azalmaktadır."
+    },
+    {
+        "id": 557,
+        "topic_id": 557,
+        "subject_id": 5,
+        "name": "Hayvancılık",
+        "order_index": 6,
+        "content": "# Türkiye'de Hayvancılık Faaliyetleri\n\nTürkiye'de hayvancılık faaliyetlerinin coğrafi dağılışı; yer şekilleri, iklim özellikleri ve buna bağlı olarak şekillenen bitki örtüsü (vejetasyon) ile doğrudan ilişkilidir."
+    },
+    {
+        "id": 558,
+        "topic_id": 558,
+        "subject_id": 5,
+        "name": "Madenler ve Enerji Kaynakları",
+        "order_index": 7,
+        "content": "# Madenler ve Enerji Kaynakları\n\nTürkiye, jeolojik geçmişinde farklı dönemlere ait arazileri barındırdığı için maden çeşitliliği bakımından dünyada zengin bir konumdadır."
+    },
+    {
+        "id": 559,
+        "topic_id": 559,
+        "subject_id": 5,
+        "name": "Sanayi ve Endüstri",
+        "order_index": 8,
+        "content": "# Sanayi ve Endüstri Coğrafyası\n\nTürkiye'de sanayi tesislerinin kuruluş yeri seçiminde hammaddeye yakınlık, enerji kaynağına yakınlık, ulaşım-pazarlama kolaylığı ve iş gücü imkanları belirleyici kriterlerdir."
+    },
+    {
+        "id": 560,
+        "topic_id": 560,
+        "subject_id": 5,
+        "name": "Ulaşım",
+        "order_index": 9,
+        "content": "# Türkiye'de Ulaşım Sistemleri ve Özellikleri\n\nTürkiye'nin yer şekillerinin engebeli olması ve dağ sıralarının doğu-batı doğrultusunda uzanış göstermesi, ulaşım ağlarının yönünü ve maliyetini doğrudan etkilemiştir."
+    },
+    {
+        "id": 561,
+        "topic_id": 561,
+        "subject_id": 5,
+        "name": "Ticaret",
+        "order_index": 10,
+        "content": "# Türkiye'de Ticaret Coğrafyası\n\nTürkiye'nin dış ticareti, gelişen sanayisine paralel olarak hacimsel olarak büyümektedir. Ülkenin ithalat giderleri ihracattan fazla olduğu için dış ticaret açığı mevcuttur."
+    },
+    {
+        "id": 562,
+        "topic_id": 562,
+        "subject_id": 5,
+        "name": "Turizm",
+        "order_index": 11,
+        "content": "# Türkiye'de Turizm Coğrafyası\n\nTürkiye; zengin tarihi mirası, coğrafi konumu, kıyı şeritleri ve termal kaynakları sayesinde küresel turizmde dünyanın en çok turist çeken ülkeleri arasında yer almaktadır."
+    },
+    {
+        "id": 563,
+        "topic_id": 563,
+        "subject_id": 5,
+        "name": "Türkiye'nin Ekonomik Coğrafyası",
+        "order_index": 12,
+        "content": "# Türkiye'nin Ekonomik Coğrafyası\n\nTürkiye ekonomisi, ülkenin sahip olduğu zengin doğal kaynak potansiyeli, genç iş gücü ve stratejik coğrafi konumuyla şekillenmektedir."
+    },
+    {
+        "id": 564,
+        "topic_id": 564,
+        "subject_id": 5,
+        "name": "Türkiye'nin Coğrafi Bölgeleri",
+        "order_index": 13,
+        "content": "# Türkiye'nin Coğrafi Bölgeleri (Bölge Sınıflandırma Kriterleri)\n\nTürkiye, 1941 Coğrafya Kongresi kararlarıyla; yer şekilleri, iklim, konum ve ekonomik özellikler dikkate alınarak 7 ana coğrafi bölgeye ve 21 bölüme ayrılmıştır."
+    },
+    {
+        "id": 565,
+        "topic_id": 565,
+        "subject_id": 5,
+        "name": "Türkiye'nin Coğrafi Konumu",
+        "order_index": 1,
+        "content": "# Türkiye'nin Coğrafi Konumu\n\nTürkiye'nin dünya üzerindeki yeri, matematik (mutlak) ve özel (göreceli) konum özellikleri ile bu özelliklerin doğurduğu coğrafi, ekonomik ve siyasi sonuçları kapsar."
+    },
+    {
+        "id": 566,
+        "topic_id": 566,
+        "subject_id": 5,
+        "name": "Türkiye'nin Yerşekilleri ve Özellikleri",
+        "order_index": 2,
+        "content": "# Türkiye'nin Fiziki Özellikleri (Yer Şekilleri ve Oluşum Süreçleri)\n\nTürkiye, jeolojik olarak genç oluşumlu bir ülke olduğu için yüksek, engebeli ve kırıklı bir topoğrafyaya sahiptir. Alp-Himalaya kıvrım kuşağında yer alır."
+    },
+    {
+        "id": 567,
+        "topic_id": 567,
+        "subject_id": 5,
+        "name": "Türkiye'nin İklimi ve Bitki Örtüsü",
+        "order_index": 3,
+        "content": "# Türkiye'nin İklimi ve Bitki Örtüsü\n\nTürkiye'de iklim çeşitliliğinin fazla olmasının temel nedenleri; çevresindeki denizler, denizelliğin içeri girmesini engelleyen dağ sıraları ve yükselti farklarıdır."
+    },
+    {
+        "id": 568,
+        "topic_id": 568,
+        "subject_id": 5,
+        "name": "Türkiye'den Nüfus ve Yerleşme",
+        "order_index": 4,
+        "content": "# Türkiye'de Nüfus ve Yerleşme (Güncel Veriler)\n\nTürkiye'de nüfusun dağılışı düzensizdir. Nüfus yapısı her yıl Türkiye İstatistik Kurumu (TÜİK) tarafından Adrese Dayalı Nüfus Kayıt Sistemi (ADNKS) ile güncellenir."
+    },
+    {
+        "id": 569,
+        "topic_id": 569,
+        "subject_id": 5,
+        "name": "Türkiye'de Tarım, Hayvancılık ve Ormancılık",
+        "order_index": 5,
+        "content": "# Türkiye'de Tarım, Hayvancılık ve Ormancılık (Güncel Üretim Yapısı)\n\nTürkiye, sahip olduğu iklim çeşitliliği ve topoğrafik özellikleri sayesinde tarım, hayvancılık ve ormancılık faaliyetlerinde yüksek bir potansiyele ve ürün çeşitliliğine sahiptir."
+    },
+    {
+        "id": 570,
+        "topic_id": 570,
+        "subject_id": 5,
+        "name": "Türkiye'de Madenler, Enerji Kaynakları ve Sanayi",
+        "order_index": 6,
+        "content": "# Madenler, Enerji Kaynakları ve Sanayi\n\n* **Bor:** Dünya rezervinin %73'ü Türkiye'dedir (Balıkesir, Kütahya, Eskişehir).\n* **Kömür:** Linyit en yaygın enerji kaynağıdır (III. Jeolojik zaman). Taşkömürü sadece Zonguldak ve çevresinden çıkarılır (I. Jeolojik zaman).\n* **Yenilenebilir Enerji:** Hidroelektrikte Doğu Anadolu, Rüzgâr enerjisinde Ege (İzmir, Balıkesir), Jeotermalde Ege (Denizli) öndedir."
+    },
+    {
+        "id": 571,
+        "topic_id": 571,
+        "subject_id": 5,
+        "name": "Türkiye'de Ulaşım, Ticaret ve Turizm",
+        "order_index": 7,
+        "content": "# Türkiye'de Ulaşım, Ticaret ve Turizm Coğrafyası\n\nTürkiye; konumu, boğazları ve tarihi birikimiyle ulaşım, ticaret ve turizm sektörlerinde bölgesel ve küresel bir merkez konumundadır."
+    },
+    {
+        "id": 572,
+        "topic_id": 572,
+        "subject_id": 5,
+        "name": "Türkiye'nin Coğrafi Bölgeleri",
+        "order_index": 8,
+        "content": "# Türkiye'nin Coğrafi Bölgeleri (Bölge Sınıflandırma Kriterleri)\n\nTürkiye, 1941 Coğrafya Kongresi kararlarıyla; yer şekilleri, iklim, konum ve ekonomik özellikler dikkate alınarak 7 ana coğrafi bölgeye ve 21 bölüme ayrılmıştır."
+    },
+    {
+        "id": 573,
+        "topic_id": 573,
+        "subject_id": 5,
+        "name": "Matematik (Mutlak) Konum",
+        "order_index": 1,
+        "content": "# Matematik (Mutlak) Konum ve Coğrafi Koordinatlar\n\nTürkiye, kuzey yarım kürenin orta kuşağında, **36°-42° Kuzey enlemleri** ile **26°-45° Doğu boylamları** arasında yer alır. En güneyinden (Hatay) en kuzeyine (Sinop) 6 enlem derecesi (666 km), en batısından en doğusuna ise 19 boylam derecesi bulunur."
+    },
+    {
+        "id": 574,
+        "topic_id": 574,
+        "subject_id": 5,
+        "name": "Türkiye'nin Matematik (Mutlak) Konumu ve Sonuçları",
+        "order_index": 2,
+        "content": "# Türkiye'nin Matematik (Mutlak) Konumu ve Sonuçları\n\nTürkiye, 36° - 42° Kuzey enlemleri ile 26° - 45° Doğu boylamları arasında yer alır.\n* **Enlemin Sonuçları:** Orta Kuşak'ta yer alır. Dört mevsim belirgin yaşanır. Güneyden kuzeye gidildikçe sıcaklık düşer (Enlem etkisi). Güneş ışınları hiçbir zaman dik (90°) açıyla gelmez, gölge boyu hiçbir zaman sıfır olmaz.\n* **Boylamın Sonuçları:** Doğusu ile batısı arasında 76 dakikalık yerel saat farkı vardır. +2 ve +3. saat dilimlerinde yer alır (2016'dan beri sadece +3 Iğdır saati ulusal saat olarak kullanılır)."
+    },
+    {
+        "id": 575,
+        "topic_id": 575,
+        "subject_id": 5,
+        "name": "Türkiye'nin Özel (Göreceli) Konumu ve Sonuçları",
+        "order_index": 3,
+        "content": "# Türkiye'nin Özel (Göreceli) Konumu ve Sonuçları\n\nTürkiye'nin kıtalara, denizlere, dağlara ve yeraltı kaynaklarına göre konumudur.\n* Asya ve Avrupa'yı birbirine bağlayan bir köprü durumundadır.\n* Üç tarafı denizlerle çevrilidir ve Boğazlara (İstanbul ve Çanakkale) sahiptir.\n* Ortalama yükseltisi fazla (1132 m) ve dağlık bir ülkedir. Bu nedenle gerçek alanı ile izdüşüm alanı arasındaki fark büyüktür."
+    },
+    {
+        "id": 576,
+        "topic_id": 576,
+        "subject_id": 5,
+        "name": "Türkiye'nin Jeopolitiği",
+        "order_index": 4,
+        "content": "# Türkiye'nin Jeopolitiği\n\nAsya, Avrupa ve Afrika kıtalarının kesişim noktasındadır. İstanbul ve Çanakkale boğazlarına sahiptir. Enerji arz eden Orta Doğu/Hazar dünyası ile enerji talep eden Avrupa arasında stratejik bir **enerji koridoru** (TANAP, TürkAkım vb.) konumundadır."
+    },
+    {
+        "id": 577,
+        "topic_id": 577,
+        "subject_id": 5,
+        "name": "Türkiye'nin Yerşekillerinin Genel Özellikleri",
+        "order_index": 1,
+        "content": "# Türkiye'nin Yerşekillerinin Genel Özellikleri\n\n* **Yükselti:** Ortalama yükselti batıdan doğuya doğru artar.\n* **Dağların Uzanışı:** Dağlar genellikle doğu-batı doğrultusunda uzanır. Bu durum Ege'de dağların kıyıya dik, Karadeniz ve Akdeniz'de ise kıyıya paralel uzanmasına neden olur.\n* **Kıvrım ve Kırık Dağlar:** Alp-Himalaya orojenezine bağlı olarak Kuzey Anadolu Dağları ve Toroslar (Kıvrım), Ege Dağları ise (Kırık - Horst/Graben) oluşmuştur."
+    },
+    {
+        "id": 578,
+        "topic_id": 578,
+        "subject_id": 5,
+        "name": "Fiziki Haritalar",
+        "order_index": 2,
+        "content": "# Fiziki Haritalar\n\nYer şekillerini ve yükseltiyi renklerle gösteren haritalardır. \n* **Yeşil:** 0-500m (Ovalar/Alçak alanlar)\n* **Sarı:** 500-1000m\n* **Turuncu:** 1000-1500m\n* **Kahverengi:** 1500m+ (Dağlar ve yüksek platolar)"
+    },
+    {
+        "id": 579,
+        "topic_id": 579,
+        "subject_id": 5,
+        "name": "Türkiye'nin Jeolojik Geçmişi",
+        "order_index": 3,
+        "content": "# Türkiye'nin Jeolojik Geçmişi\n\nTürkiye genç oluşumlu bir ülkedir (3. ve 4. jeolojik zaman). Bu yüzden deprem riski (fay hatları), jeotermal kaynaklar, sıcak su kaplıcaları ve linyit, bor, tuz yatakları fazladır. I. Zaman kalıntısı olan masif arazilerde ise Taş kömürü (Zonguldak) yer alır."
+    },
+    {
+        "id": 580,
+        "topic_id": 580,
+        "subject_id": 5,
+        "name": "Türkiye'nin Platoları ve Ovaları",
+        "order_index": 4,
+        "content": "# Platolar ve Ovalar\n\n* **Platolar:** Erzurum-Kars (Volkanik/Lav), Teke ve Taşeli (Karstik), Çatalca-Kocaeli (Aşınım), Haymana ve Cihanbeyli (Tabaka düzlüğü).\n* **Ovalar:** Çukurova, Bafra, Çarşamba (Delta ovaları); Konya, Kayseri, Malatya (Tektonik çöküntü ovaları); TAKKEM (Karstik polye ovaları)."
+    },
+    {
+        "id": 581,
+        "topic_id": 581,
+        "subject_id": 5,
+        "name": "Türkiye'de Dış Güçlerin Oluşturduğu Yer Şekilleri",
+        "order_index": 5,
+        "content": "# Türkiye'de Dış Güçlerin Oluşturduğu Yer Şekilleri\n\n* **Akarsular:** Türkiye'de yer şekillerini şekillendiren en etkili dış kuvvettir (Vadiler, şelaleler, ovalar).\n* **Rüzgarlar:** En çok İç Anadolu ve Güneydoğu Anadolu gibi kurak/yarı kurak bölgelerde etkilidir.\n* **Buzullar:** Etkisi en az olan dış kuvvettir. Sadece yüksek dağ doruklarında görülür."
+    },
+    {
+        "id": 582,
+        "topic_id": 582,
+        "subject_id": 5,
+        "name": "Türkiye'nin Kıyı Tipleri",
+        "order_index": 6,
+        "content": "# Türkiye'nin Kıyı Tipleri\n\n* **Boyuna Kıyılar:** Karadeniz ve Akdeniz (Dağlar paralel, falez çok, hinterland dar).\n* **Enine Kıyılar:** Ege (Dağlar dik, girinti çok, hinterland geniş).\n* **Ria Kıyıları:** İstanbul ve Çanakkale boğazları.\n* **Dalmaçya Kıyıları:** Antalya-Kaş (Finike).\n* *KPSS Notu:* Türkiye'de **Fiyort, Skyer, Haliç ve Watt** kıyı tipleri **GÖRÜLMEZ**."
+    },
+    {
+        "id": 583,
+        "topic_id": 583,
+        "subject_id": 5,
+        "name": "Türkiye'de Toprak Oluşumu ve Tipleri",
+        "order_index": 7,
+        "content": "# Türkiye'de Toprak Oluşumu ve Tipleri\n\n* **Zonal Topraklar:** İklim ve bitki örtüsünün etkisiyle oluşur (Akdeniz'de Terra Rossa, Karadeniz'de Podzol ve Kahverengi Orman, İç Anadolu'da Kestane Rengi Bozkır toprakları).\n* **Azonal Topraklar:** Dış kuvvetlerin taşıdığı verimli topraklardır (Akarsuların oluşturduğu Alüvyal topraklar ovalarda görülür)."
+    },
+    {
+        "id": 584,
+        "topic_id": 584,
+        "subject_id": 5,
+        "name": "Türkiye'nin Su Varlığı",
+        "order_index": 8,
+        "content": "# Türkiye'nin Su Varlığı\n\nÜç tarafı denizlerle çevrili ülkemizde akarsu yatak eğimleri ve akış hızları fazladır (Hidroelektrik potansiyeli yüksek). En uzun nehir ülke sınırlarında **Kızılırmak**, en çok su taşıyan **Fırat**'tır. En büyük göl **Van Gölü** (Sodalı), en sığ göl **Tuz Gölü**'dür."
+    },
+    {
+        "id": 585,
+        "topic_id": 585,
+        "subject_id": 5,
+        "name": "Türkiye'de Doğal Afetler",
+        "order_index": 9,
+        "content": "# Türkiye'de Doğal Afetler\n\n* **Deprem:** Türkiye'de en çok can ve mal kaybına neden olan afettir (KAF, DAF ve BAF fay hatları).\n* **Heyelan (Toprak Kayması):** Eğimin ve yağışın (özellikle kar erimelerinin) fazla olduğu İlkbahar aylarında Doğu Karadeniz'de çok görülür.\n* **Erozyon:** Bitki örtüsünün cılız olduğu İç Anadolu ve Güneydoğu'da etkilidir (Ağaçlandırma ile önlenebilir)."
+    },
+    {
+        "id": 586,
+        "topic_id": 586,
+        "subject_id": 5,
+        "name": "Türkiye'nin İklimi",
+        "order_index": 1,
+        "content": "# Türkiye'nin İklim Kuralları\n\nTürkiye'de enlem nedeniyle Akdeniz iklim kuşağı ana eksendir. Ancak yer şekilleri, denizellik ve yükseltiden dolayı Karadeniz iklimi, Ilıman Karasal (Step) iklim ve Sert Karasal iklim tipleri de geniş alanlarda mikroklima ve makroklima özellikleri gösterir."
+    },
+    {
+        "id": 587,
+        "topic_id": 587,
+        "subject_id": 5,
+        "name": "Türkiye'de Sıcaklık",
+        "order_index": 2,
+        "content": "# Türkiye'de Sıcaklık Dağılışı\n\nSıcaklıklar enlem etkisiyle genel olarak güneyden kuzeye; yükselti etkisiyle batıdan doğuya doğru azalır. Yıllık ortalama sıcaklığı en yüksek yerler **Akdeniz kıyıları**, kışın en soğuk yerler **Erzurum-Kars**, yazın en sıcak yerler ise karasallık ve Basra etkisiyle **Güneydoğu Anadolu**'dur."
+    },
+    {
+        "id": 588,
+        "topic_id": 588,
+        "subject_id": 5,
+        "name": "Türkiye'de Nemlilik ve Yağış",
+        "order_index": 3,
+        "content": "# Türkiye'de Nemlilik ve Yağış\n\n* **Mutlak Nem:** En fazla yıl boyu Akdeniz kıyıları.\n* **Maksimum Nem:** Yazın Güneydoğu Anadolu, kışın Akdeniz.\n* **Bağıl Nem (Yağış ihtimali):** Yıl boyu en yüksek Karadeniz.\n* **Yağış Türleri:** Karadeniz ve Akdeniz kıyılarında *Yamaç (Orografik)*; İç Anadolu'da ilkbaharda *Konveksiyonel (Yükselim)*; Akdeniz ikliminde kışın *Cephesel (Frontal)* yağışlar görülür."
+    },
+    {
+        "id": 589,
+        "topic_id": 589,
+        "subject_id": 5,
+        "name": "Türkiye'de İklim Tipleri",
+        "order_index": 4,
+        "content": "# Türkiye'de İklim Tipleri Makro Belirteçleri\n\n* **Akdeniz İklimi:** Yazlar sıcak kurak, kışlar ılık yağışlı. En çok yağış kışın.\n* **Karadeniz İklimi:** Her mevsim yağışlı, nemli. En çok yağış sonbaharda.\n* **Ilıman Karasal:** Yazlar sıcak kurak, kışlar soğuk karlı. En çok yağış ilkbaharda.\n* **Sert Karasal:** Kışlar çok soğuk uzun, en çok yağış **yaz mevsiminde**."
+    },
+    {
+        "id": 590,
+        "topic_id": 590,
+        "subject_id": 5,
+        "name": "Türkiye'nin Bitki Örtüsü",
+        "order_index": 5,
+        "content": "# Bitki Örtüsü Türleri\n\n* **Maki:** Akdeniz iklimi çalı topluluğu (Zeytin, defne, mersin, zakkum).\n* **Orman:** Karadeniz iklimi gür ağaç topluluğu (Geniş ve iğne yapraklılar).\n* **Bozkır (Step):** Ilıman karasal otsu topluluğu (Geven, gelincik, çoban yastığı).\n* **Dağ Çayırları (Alpin):** Sert karasal iklim yaz yağışı otları (Büyükbaş hayvancılık temeli)."
+    },
+    {
+        "id": 591,
+        "topic_id": 591,
+        "subject_id": 5,
+        "name": "Türkiye'nin İklim Tipleri ve Bitki Örtüsü",
+        "order_index": 6,
+        "content": "# Türkiye'nin İklim Tipleri ve Bitki Örtüsü Korelasyonu\n\nİklim ve vejetasyon (bitki örtüsü) tam bir uyum içindedir. Akdeniz -> Maki, Karadeniz -> Orman, İç Anadolu -> Bozkır, Erzurum-Kars -> Çayır olarak eşleşir. Bu durum hayvancılık faaliyetlerini (küçükbaş/büyükbaş) doğrudan yönlendirir."
+    },
+    {
+        "id": 592,
+        "topic_id": 592,
+        "subject_id": 5,
+        "name": "Türkiye'de Nüfus Özellikleri",
+        "order_index": 1,
+        "content": "# Türkiye'de Nüfusun Genel Özellikleri\n\nTürkiye nüfusu dinamik yapısını korumakla birlikte, doğum oranlarının azalması ve ortalama yaşam süresinin uzamasıyla **yaşlanma sürecine** girmiştir. Okuma yazma oranı %97'nin üzerindedir. İstihdamın en büyük kısmı **Hizmet Sektöründedir**, tarım sektörü payı düşmektedir."
+    },
+    {
+        "id": 593,
+        "topic_id": 593,
+        "subject_id": 5,
+        "name": "Türkiye'de Nüfusun Dağılışı ve Nüfus Yoğunluğu",
+        "order_index": 2,
+        "content": "# Türkiye'de Nüfusun Dağılışı ve Yoğunluğu\n\nTürkiye'de nüfus kıyı bölgelerde (özellikle Marmara, Ege) sanayi, ticaret ve ılıman iklim nedeniyle yoğunlaşmıştır. İç kesimlerde, Doğu Anadolu'da ve engebeli yerlerde (Hakkari, Menteşe, Yıldız Dağları, Teke ve Taşeli platoları) nüfus seyrektir."
+    },
+    {
+        "id": 594,
+        "topic_id": 594,
+        "subject_id": 5,
+        "name": "Türkiye'nin Nüfusu ve Nüfus Sayımları",
+        "order_index": 3,
+        "content": "# Nüfus Sayımları Kronolojisi\n\n* **Osmanlı:** 1831 II. Mahmut (Sadece erkekler ve mülkler sayıldı - askeri/vergi amaçlı).\n* **Cumhuriyet:** İlk modern sayım 1927 yılında yapıldı.\n* **Güncel Sistem:** 2007 yılından itibaren geçilen **ADNKS (Adrese Dayalı Nüfus Kayıt Sistemi)** ile nüfus verileri her an elektronik ortamda güncellenmektedir. Sokağa çıkma yasağı yoktur."
+    },
+    {
+        "id": 595,
+        "topic_id": 595,
+        "subject_id": 5,
+        "name": "Türkiye'nin Nüfus Politikaları",
+        "order_index": 4,
+        "content": "# Nüfus Politikaları Dönemleri\n\n* **1923 - 1965:** Nüfus artış hızını **artırıcı** politika (Savaş sonrası iş gücü ve askeri savunma ihtiyacı).\n* **1965 - 2005:** Nüfus artış hızını **azaltıcı** nitelik artırıcı politika (Hızlı artışın işsizlik ve altyapı sorunları yaratması).\n* **2005 - Günümüz:** Nüfus artış hızını ve dinamizmini **koruma/artırma** politikası (Doğum oranlarının çok düşmesi ve yaşlanma riski)."
+    },
+    {
+        "id": 596,
+        "topic_id": 596,
+        "subject_id": 5,
+        "name": "Türkiye'de Nüfus Projeksiyonları: Türkiye Nüfusunun Geleceği",
+        "order_index": 5,
+        "content": "# Nüfus Projeksiyonları ve Gelecek\n\nTÜİK projeksiyonlarına göre Türkiye nüfusu önümüzdeki yıllarda durağanlaşacak, 90-95 milyon arasında zirve yaptıktan sonra düşüşe geçecektir. Çocuk nüfus oranı azalırken, 65 yaş üzeri **yaşlı nüfus oranı %20'leri aşarak** sosyal güvenlik sistemleri (SGK) ve sağlık harcamaları üzerinde mali yük oluşturacaktır."
+    },
+    {
+        "id": 597,
+        "topic_id": 597,
+        "subject_id": 5,
+        "name": "Türkiye'de Göçler",
+        "order_index": 6,
+        "content": "# Türkiye'de Göçler\n\n* **İç Göç:** Ülke içindeki nüfus hareketleridir. En çok köyden kente (geçmişte) ve kentten kente (günümüzde) göç görülür. Göç veren bölgeler genellikle Doğu ve Karadeniz, göç alan bölgeler Marmara ve Ege'dir.\n* **Nedenleri:** Tarımda makineleşme, iş bulma umudu, eğitim ve sağlık imkânları, terör veya doğal afetler."
+    },
+    {
+        "id": 598,
+        "topic_id": 598,
+        "subject_id": 5,
+        "name": "Türkiye'de Yerleşme",
+        "order_index": 7,
+        "content": "# Yerleşme Dokuları\n\n* **Dağınık Yerleşme:** Karadeniz (Engebe fazla, su bol).\n* **Toplu Yerleşme:** İç Anadolu ve Güneydoğu (Düzlük arazi, su kısıtlı).\n* **Köy Altı Sürekli:** Mezra, Mahalle, Divan, Çiftlik (Tarım odaklı).\n* **Köy Altı Geçici:** Yayla (En yaygını), Kom, Oba, Ağıl, Dam (Hayvancılık odaklı)."
+    },
+    {
+        "id": 599,
+        "topic_id": 599,
+        "subject_id": 5,
+        "name": "Türkiye'de Mesken Tipleri",
+        "order_index": 8,
+        "content": "# Geleneksel Kırsal Mesken Yapısı\n\nEvlerin yapım malzemesi coğrafi çevreye bağlıdır.\n* **Ahşap Evler:** Karadeniz (Gür orman varlığı ve yağış).\n* **Kerpiç (Toprak) Evler:** İç Anadolu ve Güneydoğu Anadolu (Kuraklık, bitki örtüsü azlığı).\n* **Taş Evler:** Akdeniz (Kalker yapı), Doğu Anadolu (Volkanik taşlar) ve Mardin çevresi."
+    },
+    {
+        "id": 601,
+        "topic_id": 601,
+        "subject_id": 5,
+        "name": "Türkiye'de Arazi Kullanımı",
+        "order_index": 1,
+        "content": "# Arazi Kullanımı ve Planlama Hataları\n\nToprakların yetenek sınıfına göre plansız kullanılması çevre sorunları yaratır. En büyük hatalar: Alüvyal verimli tarım ovalarının (Bursa Ovası, Adapazarı Ovası, Dilovası) sanayiye ve imara açılması; meraların aşırı otlatılması ve fay hatları zeminine yüksek katlı konut yapılmasıdır."
+    },
+    {
+        "id": 602,
+        "topic_id": 602,
+        "subject_id": 5,
+        "name": "Türkiye Ekonomisinin Sektörel Dağılımı",
+        "order_index": 2,
+        "content": "# Ekonominin Sektörel Yapısı\n\nTürkiye gayrisafi yurt içi hasılasında (GSYİH) ve istihdamda en büyük pay **Hizmet Sektöründedir** (%60 civarı). İkinci sırada Sanayi sektörü yer alırken, Tarım sektörü hasıla payı bakımından üçüncüdür. Tarım çalışan oranının düşmesi ülkenin geliştiğinin kanıtıdır."
+    },
+    {
+        "id": 603,
+        "topic_id": 603,
+        "subject_id": 5,
+        "name": "Türkiye Ekonomisini Etkileyen Faktörler",
+        "order_index": 3,
+        "content": "# Ekonomiyi Etkileyen Faktörler\n\n* **Doğal:** Üç kıtanın kavşağında olmak (Enerji koridoru rolü), iklim ve yer şekli çeşitliliği (Tarım ürün zenginliği ve turizm), zengen bor, mermer maden yatakları.\n* **Beşeri:** Genç ve geniş iç tüketici pazarı sunan nüfus potansiyeli, devletin yerli üretim (savunma, TOGG) ve bölgesel kalkınma teşvik politikaları."
+    },
+    {
+        "id": 604,
+        "topic_id": 604,
+        "subject_id": 5,
+        "name": "Türkiye'de Tarım",
+        "order_index": 4,
+        "content": "# Türkiye'de Tarım\n\n* **İntansif (Modern) Tarım:** Makine, gübre ve sulamanın çok kullanıldığı, verimi yüksek tarımdır (Kıyı bölgelerde yaygındır).\n* **Ekstansif (İlkel) Tarım:** Doğaya bağlılığın yüksek olduğu, verimi düşük tarım türüdür (İç ve Doğu bölgelerde).\n* İklim çeşitliliği sayesinde tarım ürünü çeşitliliği çok fazladır (Özellikle Marmara ve Ege)."
+    },
+    {
+        "id": 605,
+        "topic_id": 605,
+        "subject_id": 5,
+        "name": "Türkiye'de Hayvancılık",
+        "order_index": 5,
+        "content": "# Türkiye'de Hayvancılık\n\n* **Mera Hayvancılığı:** Doğal otlaklara dayalı, verimi düşük (Doğu Anadolu'da Büyükbaş, İç Anadolu'da Küçükbaş).\n* **Besi ve Ahır Hayvancılığı:** Modern yöntemlerle yapılır, verimi yüksektir (Marmara ve Ege gibi tüketimin fazla olduğu yerlerde yaygındır).\n* **Arıcılık:** Ege (Muğla), Karadeniz (Ordu) gibi dağlık ve bitki çeşitliliğinin çok olduğu yerlerde yaygındır."
+    },
+    {
+        "id": 606,
+        "topic_id": 606,
+        "subject_id": 5,
+        "name": "Türkiye'de Ormancılık",
+        "order_index": 6,
+        "content": "# Ormancılık İstatistikleri\n\nYağış ve neme bağlı olarak ormanların %25'i **Karadeniz Bölgesi**'ndedir (1. sıra). Orman oranı en düşük yer Güneydoğu'dur. İl bazında toplam orman alanı en geniş il **Antalya** iken, yüz ölçümüne göre orman oranı en yüksek (en yoğun ormanlık) ilimiz **Karabük**'tür. Meşe en yaygın ağaçtır."
+    },
+    {
+        "id": 607,
+        "topic_id": 607,
+        "subject_id": 5,
+        "name": "Türkiye'de Madenler",
+        "order_index": 1,
+        "content": "# Önemli Maden Havzaları\n\n* **Bor (%72 Dünya Payı):** Balıkesir-Bigadiç, Eskişehir-Kırka, Kütahya-Emet.\n* **Demir:** Sivas-Divriği, Malatya-Hekimhan.\n* **Bakır (KADER):** Kastamonu-Küre, Artvin-Murgul, Diyarbakır-Ergani, Elazığ-Maden, Rize-Çayeli (Samsun'da ulaşım/liman nedeniyle işlenir).\n* **Mermer:** İhracatta en çok gelir getiren madenimizdir."
+    },
+    {
+        "id": 608,
+        "topic_id": 608,
+        "subject_id": 5,
+        "name": "Türkiye'de Enerji Kaynakları",
+        "order_index": 2,
+        "content": "# Enerji Kaynakları ve Keşifler\n\n* **Petrol:** Şırnak Gabar Dağı (Günlük 70 bin varili aştı).\n* **Doğal Gaz:** Batı Karadeniz Sakarya Gaz Sahası (Filyos kıyıları).\n* **Nükleer:** Mersin-Akkuyu NGS projesi.\n* **Fosil/Yenilenebilir:** Taş kömürü sadece Zonguldak; Linyit her bölgede (Afşin-Elbistan en büyük); En büyük güneş santrali **Konya-Karapınar GES**'tir."
+    },
+    {
+        "id": 609,
+        "topic_id": 609,
+        "subject_id": 5,
+        "name": "Türkiye'de Sanayi",
+        "order_index": 3,
+        "content": "# Sanayi Kolları Kuruluş Kriterleri\n\n* **Otomotiv:** İhracat lideri (Bursa, Kocaeli, İstanbul, Sakarya - Ulaşım/Pazar).\n* **Demir-Çelik:** Karabük-Ereğli (Enerjiye yakınlık), İskenderun (Ulaşım/Liman), Sivas (Hammadde).\n* **Rafineriler:** İzmit, İzmir, Kırıkkale ve bizzat hammaddeye yakın kurulan **Batman Rafinerisi**.\n* **Şeker Fabrikaları:** Çabuk bozulan hammadde nedeniyle doğrudan **tarlaların içine (iç kesimlere)** kurulur."
+    },
+    {
+        "id": 610,
+        "topic_id": 610,
+        "subject_id": 5,
+        "name": "Türkiye'de Ulaşım",
+        "order_index": 1,
+        "content": "# Türkiye'de Ulaşım\n\n* **Kara Yolu:** En çok kullanılan ulaşım ağıdır. Dağların doğu-batı uzanışından dolayı kuzey-güney yönlü ulaşım geçitlerle (Tarsus-Gülek Boğazı vb.) sağlanır.\n* **Demir Yolu:** Doğu Karadeniz, Hakkari ve Çanakkale gibi çok engebeli yörelere demir yolu ağı ulaşmamıştır.\n* **Hava Yolu:** Son yıllarda en çok yatırım yapılan ve gelişen ulaşım sektörüdür."
+    },
+    {
+        "id": 611,
+        "topic_id": 611,
+        "subject_id": 5,
+        "name": "Türkiye'de Ticaret",
+        "order_index": 2,
+        "content": "# Dış Ticaret Matrisi\n\nTürkiye'nin en büyük gideri **Mineral yakıtlar (Enerji/Petrol/Gaz)** ithalatıdır, dış ticaret açığının ana sebebidir. \n* **İhracat (Sattıklarımız):** Otomotiv (1.), Kimyevi maddeler, Hazır giyim, Demir-çelik.\n* **Partnerler:** İhracatta en çok **Almanya**, ithalatta en çok **Rusya** ve **Çin**."
+    },
+    {
+        "id": 612,
+        "topic_id": 612,
+        "subject_id": 5,
+        "name": "Türkiye'de Turizm",
+        "order_index": 3,
+        "content": "# Türkiye'de Turizm\n\n* Turizm gelirlerinin ve turist sayısının en fazla olduğu bölge Marmara'dır.\n* **Yaz Turizmi:** Ege ve Akdeniz kıyılarında gelişmiştir.\n* **Kış Turizmi:** Uludağ, Palandöken, Erciyes, Sarıkamış.\n* **Kültür İnanç Turizmi:** İstanbul, Kapadokya, Efes, Göbeklitepe, Mevlana (Konya)."
+    },
+    {
+        "id": 613,
+        "topic_id": 613,
+        "subject_id": 5,
+        "name": "Türkiye'nin Millî Parkları",
+        "order_index": 4,
+        "content": "# Türkiye'nin Millî Parkları\n\n* **İlk Milli Park:** **Yozgat Çamlığı Millî Parkı (1958)**.\n* **Tarihi/Kültürel Önemli Parklar:** Gelibolu Yarımadası Tarihî Millî Parkı (Çanakkale), Göreme Tarihî Millî Parkı (Nevşehir Kapadokya).\n* **Güncel İlan Edilenler:** Derebucak Çamlık Mağaraları Millî Parkı (Konya) ve tabiat parkından yükseltilen **Abant Gölü Millî Parkı (Bolu)**."
+    },
+    {
+        "id": 614,
+        "topic_id": 614,
+        "subject_id": 5,
+        "name": "Türkiye'de Şehirler ve Özellikleri",
+        "order_index": 5,
+        "content": "# Şehirlerin Baskın Fonksiyonları\n\n* **İdari:** Ankara (Başkent fonksiyonu).\n* **Sanayi:** İstanbul, Kocaeli, Bursa, İzmir, Gaziantep.\n* **Tarım:** Konya, Şanlıurfa, Adana, Rize, Malatya.\n* **Maden:** Zonguldak (Kömür), Batman (Petrol), Soma (Linyit), Murgul (Bakır).\n* **Liman/Ticaret:** İstanbul, İzmir, Mersin (Serbest bölge avantajlı), Samsun (Demiryolu bağlantılı Karadeniz kapısı)."
+    },
+    {
+        "id": 615,
+        "topic_id": 615,
+        "subject_id": 5,
+        "name": "Türkiye'de Bölge Sınıflandırması",
+        "order_index": 1,
+        "content": "# Bölge Sınıflandırma Mantığı\n\n* **Fiziki (Doğal) Bölgeler:** İklim, yer şekli, bitki örtüsü kriterlidir. İnsan müdahalesiyle sınırları kolay değişmez, çok uzun zaman ister (Örn: Akdeniz iklim bölgesi, Dağlık bölge).\n* **Beşeri/Ekonomik Bölgeler:** Nüfus, tarım, sanayi, maden, siyasi ittifak kriterlidir. Sınırları yatırımlara bağlı olarak **hızla değişebilir** (Örn: Sanayi bölgesi, NATO bölgesi)."
+    },
+    {
+        "id": 616,
+        "topic_id": 616,
+        "subject_id": 5,
+        "name": "Türkiye'nin Bölgesel Kalkınma Projeleri",
+        "order_index": 2,
+        "content": "# Bölgesel Kalkınma Projeleri\n\nBölgeler arası gelişmişlik farkını azaltmak için uygulanır.\n* **GAP (Güneydoğu Anadolu Projesi):** En büyük projedir. Sulama ve hidroelektrik amaçlıdır.\n* **KOP (Konya Ovası Projesi):** Kuru tarım alanlarını sulamaya açmak.\n* **DOKAP (Doğu Karadeniz Projesi):** Yayla turizmi ve yeşil yol çalışmaları.\n* **ZBK (Zonguldak-Bartın-Karabük):** Kömür ve demir-çelik işletmelerini modernize etmek."
+    },
+    {
+        "id": 617,
+        "topic_id": 617,
+        "subject_id": 5,
+        "name": "Karadeniz Bölgesi",
+        "order_index": 3,
+        "content": "# Karadeniz Bölgesi Coğrafi Özeti\n\nDağlar kıyıya paralel uzandığı için **Boyuna kıyı tipi** ve **Falez** yaygındır. Sinop tek doğal limandır ancak hinterlandı dardır. Her mevsim yağışlıdır (Yıllık yağış ve bağıl nem en yüksek), bu yüzden **orman varlığında Türkiye birincisidir**. Kırsalda **Dağınık yerleşme** görülür. **Çay ve fındık** üretiminde tekeldir. Deniz balıkçılığında liderdir. Batı Karadeniz taş kömürü (Zonguldak) ve demir-çelik sanayisi (Karabük, Ereğli) merkezidir."
+    },
+    {
+        "id": 618,
+        "topic_id": 618,
+        "subject_id": 5,
+        "name": "Marmara Bölgesi",
+        "order_index": 4,
+        "content": "# Marmara Bölgesi Coğrafi Özeti\n\nOrtalama yükseltisi ve engebesi en az olan bölgedir (Fiziki haritada yeşil renk hakim). Üç farklı iklimin geçiş sahasındadır. **Nüfus, nüfus yoğunluğu (aritmetik/fizyolojik), kentleşme oranı, sanayi, ticaret ve enerji tüketiminde açık ara Türkiye birincisidir**. Otomotiv ve tekstilin kalbidir. Tüketici nüfusa yakınlıktan ötürü **Kümes ve Besi hayvancılığı** çok gelişmiştir. Ayçiçeği tarımı Ergene'de yoğundur."
+    },
+    {
+        "id": 619,
+        "topic_id": 619,
+        "subject_id": 5,
+        "name": "Ege Bölgesi",
+        "order_index": 5,
+        "content": "# Ege Bölgesi Coğrafi Özeti\n\nDağlar kıyıya dik uzandığı için **Enine kıyı tipi** görülür; denizel etki iç kesimlere kadar girer, girinti çıkıntı koy körfez çoktur. Kırıklı dağ yapısı (Horst-graben) ve fay hatları yaygın olduğundan **deprem riski ve jeotermal kaynak potansiyeli en yüksek bölgedir** (Denizli-Sarayköy, Aydın-Germencik santralleri). Menteşe yöresi dağlık olduğundan en seyrek nüfuslu yeridir. Tarımda **ZÜHTİ** (Zeytin, Üzüm, Haşhaş, Tütün, İncir) üretim lideridir."
+    },
+    {
+        "id": 620,
+        "topic_id": 620,
+        "subject_id": 5,
+        "name": "Akdeniz Bölgesi",
+        "order_index": 6,
+        "content": "# Akdeniz Bölgesi Coğrafi Özeti\n\nToroslar paralel uzandığı için Boyuna kıyı tipi ve falezler hakimdir. Karstik şekillerin ve polye ovalarının (*TAKKEM*) en yoğun olduğu bölgedir, yer altı sızdırması fazla olduğundan Teke ve Taşeli platoları su sıkıntısıyla en seyrek nüfuslu alanlardır. Kış ılıklığı ve güneşlenme süresinden ötürü **Seracılık ve turfandacılıkta Türkiye lideridir**, muz ve narenciye üretimi yaygındır. Dağlık yapıda kıl keçisi üretimi gelişmiştir. Deniz turizm sezonu en uzun bölgedir."
+    },
+    {
+        "id": 621,
+        "topic_id": 621,
+        "subject_id": 5,
+        "name": "İç Anadolu Bölgesi",
+        "order_index": 7,
+        "content": "# İç Anadolu Bölgesi Coğrafi Özeti\n\nEtrafı dağlarla çevrili dev bir çanak gibidir. Yıllık yağış miktarı en az olan **en kurak bölgemizdir**. Ilıman karasal (step) iklim ve **Bozkır** örtüsü hakimdir. Su az, arazi düz olduğundan kırsalda **Toplu yerleşme** görülür. Türkiye'nin **Tahıl Ambarıdır**; buğday, arpa, şeker pancarı, kuru fasulye ve mısır (Konya) üretiminde birincidir. Küçükbaş **koyun** ve ahır hayvancılığında (Konya) zirvededir. Başkent Ankara idari fonksiyonuyla en büyük nüfus odağıdır."
+    },
+    {
+        "id": 622,
+        "topic_id": 622,
+        "subject_id": 5,
+        "name": "Doğu Anadolu Bölgesi",
+        "order_index": 8,
+        "content": "# Doğu Anadolu Bölgesi Coğrafi Özeti\n\nYüz ölçümü en büyük, ortalama yükseltisi ve engebesi en fazla olan bölgedir. Kışlar çok soğuk uzun geçer. Erzurum-Kars yüksek platoları en çok yağışı **yaz mevsiminde** alır ve dağ çayırları sayesinde **Büyükbaş mera hayvancılığının merkezidir**. Karmaşık jeolojik yapısından ötürü **maden çeşitliliği ve rezervi en zengin olan** (Yukarı Fırat), akarsu eğimlerinden ötürü de **Hidroelektrik (HES) potansiyeli en yüksek** bölgedir. Sanayileşme en azdır."
+    },
+    {
+        "id": 623,
+        "topic_id": 623,
+        "subject_id": 5,
+        "name": "Güneydoğu Anadolu Bölgesi",
+        "order_index": 9,
+        "content": "# Güneydoğu Anadolu Bölgesi Coğrafi Özeti\n\nYüz ölçümü en küçük bölgedir. Arazi düzdür ancak enlem ve Samyeli etkisiyle **buharlaşma şiddeti ve kuraklığın en fazla yaşandığı yerdir**, orman oranı en düşüktür. **GAP projesi** sayesinde sulu tarıma geçilmiş; **Pamuk ve Kırmızı Mercimek** üretiminde Türkiye birincisi olmuştur. Antep fıstığı lideri de Şanlıurfa'dır. Türkiye'de ham **petrolün çıkarıldığı tek bölgedir** (Batman, Raman). Gaziantep bölgenin sanayi ve ticaret üssüdür."
+    },
+    {
+        "id": 624,
+        "topic_id": 624,
+        "subject_id": 5,
+        "name": "Bölgelerin Özelliklerinin Karşılaştırılması",
+        "order_index": 10,
+        "content": "# Coğrafi Bölgelerin Karşılaştırılması Matrisi\n\n* **Yüz Ölçümü ve Yükselti:** En büyük ve yüksek -> Doğu Anadolu; En alçak -> Marmara; En küçük -> Güneydoğu Anadolu.\n* **Nüfus ve Sanayi:** En fazla -> Marmara; Aritmetik yoğunluk en az -> Doğu Anadolu.\n* **Yağış ve Orman:** En fazla -> Karadeniz; En az yağış -> İç Anadolu; En az orman -> Güneydoğu Anadolu.\n* **Sıcaklık ve Buharlaşma:** Kışın en sıcak -> Akdeniz; Yazın en sıcak ve buharlaşma en şiddetli -> Güneydoğu Anadolu; En soğuk -> Doğu Anadolu.\n* **Maden ve HES Potansiyeli:** En zengin bölge -> Doğu Anadolu."
+    }
+]

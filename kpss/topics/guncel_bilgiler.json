@@ -1,0 +1,370 @@
+[
+    {
+        "id": 625,
+        "topic_id": 625,
+        "subject_id": 7,
+        "name": "Türkiye Gündemi",
+        "order_index": 1,
+        "content": "# Türkiye Gündemi (Ortaöğretim)\n\n* **Yerel Seçimler:** 31 Mart 2024 tarihinde Türkiye genelinde yerel seçimler yapılmıştır.\n* **Togg Gelişmeleri:** Türkiye'nin yerli otomobili Togg'un teslimatları ve yeni T10F modelinin tanıtımı gerçekleştirilmiştir."
+    },
+    {
+        "id": 626,
+        "topic_id": 626,
+        "subject_id": 7,
+        "name": "Dünya Gündemi",
+        "order_index": 2,
+        "content": "# Dünya Gündemi (Ortaöğretim)\n\n* **Şanghay İşbirliği Örgütü Zirvesi:** 2024 yılı Devlet Başkanları Zirvesi Kazakistan'ın başkenti Astana'da düzenlendi.\n* **G20 Dönem Başkanlığı:** 2024 Brezilya zirvesinin ardından, 2025 yılı dönem başkanlığı Güney Afrika Cumhuriyeti'ne devredildi.\n* **Türk Devletleri Teşkilatı:** 11. Zirve, Kırgızistan'ın ev sahipliğinde Bişkek şehrinde gerçekleştirildi."
+    },
+    {
+        "id": 627,
+        "topic_id": 627,
+        "subject_id": 7,
+        "name": "Uluslararası Kuruluşlar",
+        "order_index": 3,
+        "content": "# Uluslararası Kuruluşlar (Ortaöğretim)\n\n* **Birleşmiş Milletler (BM):** Küresel barış ve güvenliği sağlamak amacıyla kurulan en büyük uluslararası örgüttür.\n* **NATO:** Kuzey Atlantik Antlaşması Örgütü, üye ülkelerin ortak savunmasını esas alır.\n* **Avrupa Birliği (AB):** Avrupa devletlerinin ekonomik ve siyasi entegrasyonunu amaçlar."
+    },
+    {
+        "id": 628,
+        "topic_id": 628,
+        "subject_id": 7,
+        "name": "Bilim ve Teknoloji",
+        "order_index": 4,
+        "content": "# Bilim ve Teknoloji (Ortaöğretim)\n\n* **Alper Gezeravcı:** Türkiye'nin ilk astronotu Alper Gezeravcı, Axiom Mission 3 (Ax-3) göreviyle Uluslararası Uzay İstasyonu'na (ISS) giderek ilk uzay misyonumuzu başarıyla tamamladı.\n* **Türksat 6A:** Türkiye'nin ilk yerli ve millî haberleşme uydusu Türksat 6A, uzaya başarıyla fırlatıldı."
+    },
+    {
+        "id": 629,
+        "topic_id": 629,
+        "subject_id": 7,
+        "name": "Kültür ve Sanat",
+        "order_index": 5,
+        "content": "# Kültür ve Sanat (Ortaöğretim)\n\n* **UNESCO Kültürel Miras Listesi:** Türkiye'nin somut ve somut olmayan birçok kültürel değeri UNESCO listelerine dahil edilmeye devam etmektedir.\n* **Gordion Antik Kenti:** Ankara'da yer alan antik kent, UNESCO Dünya Mirası Listesi'ne tescil edilmiştir."
+    },
+    {
+        "id": 630,
+        "topic_id": 630,
+        "subject_id": 7,
+        "name": "Spor",
+        "order_index": 6,
+        "content": "# Spor Gelişmeleri (Ortaöğretim)\n\n* **A Milli Kadın Voleybol Takımı:** Filenin Sultanları, CEV Avrupa Şampiyonu ve Milletler Ligi Şampiyonu olarak tarihi başarılara imza attı.\n* **Mete Gazoz:** Olimpiyat şampiyonu okçumuz Mete Gazoz, Dünya ve Avrupa şampiyonluklarını da kazanarak başarısını sürdürdü."
+    },
+    {
+        "id": 631,
+        "topic_id": 631,
+        "subject_id": 7,
+        "name": "Ödüller ve Zirveler",
+        "order_index": 7,
+        "content": "# Ödüller ve Zirveler (Ortaöğretim)\n\n* **Nobel Ödülleri:** Her yıl bilim, edebiyat ve barış alanında uluslararası düzeyde verilen en prestijli ödüllerdir.\n* **Uluslararası Zirveler:** COP İklim Konferansları ve G7 Zirveleri küresel politikalara yön vermektedir."
+    },
+    {
+        "id": 632,
+        "topic_id": 632,
+        "subject_id": 7,
+        "name": "Atamalar ve Kurumsal Gelişmeler",
+        "order_index": 8,
+        "content": "# Atamalar ve Kurumsal Gelişmeler (Ortaöğretim)\n\n* **Bürokratik Atamalar:** Resmi Gazete'de yayımlanan yeni bakanlık, kurul ve üniversite rektörlüğü atamalarını kapsar.\n* **Coğrafi İşaretler:** Türk Patent ve Marka Kurumu tarafından tescillenen yerel ürünlerin listesidir."
+    },
+    {
+        "id": 633,
+        "topic_id": 633,
+        "subject_id": 7,
+        "name": "Türkiye Gündemi",
+        "order_index": 1,
+        "content": "# Türkiye Gündemi (Önlisans)\n\n* **Siyasi ve Ekonomik Gelişmeler:** Ülke genelindeki makroekonomik kararlar, yapısal reformlar ve yerel yönetim adımları.\n* **Milli Teknoloji Hamlesi:** Yerli üretim ekosisteminin güçlendirilmesine yönelik projeler."
+    },
+    {
+        "id": 634,
+        "topic_id": 634,
+        "subject_id": 7,
+        "name": "Dünya Gündemi",
+        "order_index": 2,
+        "content": "# Dünya Gündemi (Önlisans)\n\n* **Küresel Diploması:** Uluslararası liderler zirvesi kararları, iklim krizine karşı küresel taahhütler ve uluslararası ticaret koridorları."
+    },
+    {
+        "id": 635,
+        "topic_id": 635,
+        "subject_id": 7,
+        "name": "Uluslararası Kuruluşlar",
+        "order_index": 3,
+        "content": "# Uluslararası Kuruluşlar (Önlisans)\n\n* **İslam İşbirliği Teşkilatı (İİT):** İslam dünyasının haklarını korumak amacıyla kurulan hükümetlerarası yapı.\n* **Şanghay İşbirliği Örgütü (ŞİÖ):** Avrasya genelinde güvenlik ve ekonomik iş birliğini hedefleyen bölgesel ortaklık."
+    },
+    {
+        "id": 636,
+        "topic_id": 636,
+        "subject_id": 7,
+        "name": "Bilim ve Teknoloji",
+        "order_index": 4,
+        "content": "# Bilim ve Teknoloji (Önlisans)\n\n* **Savunma Sanayii:** KAAN Milli Muharip Uçak, ANKA-3 ve Bayraktar TB3 projelerinin test ve uçuş aşamaları.\n* **Yapay Zeka Dijitalleşme:** Kamu ve sanayide yapay zeka entegrasyonu, ulusal veri stratejileri."
+    },
+    {
+        "id": 637,
+        "topic_id": 637,
+        "subject_id": 7,
+        "name": "Kültür ve Sanat",
+        "order_index": 5,
+        "content": "# Kültür ve Sanat (Önlisans)\n\n* **Kültürel Miras Çalışmaları:** Koruma altına alınan tarihi yapılar, antik kazı alanlarındaki yeni keşifler ve uluslararası ödüllü sinema/tiyatro eserleri."
+    },
+    {
+        "id": 638,
+        "topic_id": 638,
+        "subject_id": 7,
+        "name": "Spor",
+        "order_index": 6,
+        "content": "# Spor Dünyası (Önlisans)\n\n* **Uluslararası Turnuvalar:** Avrupa Futbol Şampiyonası (EURO) ve Olimpiyat Oyunları'nda Türk sporcuların elde ettiği madalyalar ve dereceler."
+    },
+    {
+        "id": 639,
+        "topic_id": 639,
+        "subject_id": 7,
+        "name": "Ödüller ve Zirveler",
+        "order_index": 7,
+        "content": "# Ödüller ve Zirveler (Önlisans)\n\n* **Bilim ve Sanat Ödülleri:** Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri ile küresel çapta ses getiren ödül törenleri."
+    },
+    {
+        "id": 640,
+        "topic_id": 640,
+        "subject_id": 7,
+        "name": "Atamalar ve Kurumsal Gelişmeler",
+        "order_index": 8,
+        "content": "# Atamalar ve Kurumsal Gelişmeler (Önlisans)\n\n* **Anayasal Kurumlar:** Yüksek yargı organları ve merkez teşkilatlarındaki üst düzey başkanlık ve üye değişimleri."
+    },
+    {
+        "id": 641,
+        "topic_id": 641,
+        "subject_id": 7,
+        "name": "Türkiye Gündemi",
+        "order_index": 1,
+        "content": "# Türkiye Gündemi (Lisans)\n\nLisans düzeyinde Türkiye'nin iç ve dış siyasetini, sosyo-ekonomik hamlelerini ve stratejik planlamalarını içeren üst düzey başlık modülüdür."
+    },
+    {
+        "id": 642,
+        "topic_id": 642,
+        "subject_id": 7,
+        "name": "Dünya Gündemi",
+        "order_index": 2,
+        "content": "# Dünya Gündemi (Lisans)\n\nKüresel jeopolitik riskler, kıtasal ittifaklar, diplomatik krizler ve uluslararası anlaşmaların detay analizlerini barındıran üst modüldür."
+    },
+    {
+        "id": 643,
+        "topic_id": 643,
+        "subject_id": 7,
+        "name": "Uluslararası Kuruluşlar",
+        "order_index": 3,
+        "content": "# Uluslararası Kuruluşlar (Lisans)\n\nKüresel ve bölgesel entegrasyonların hukuki yapılarını, karar alma mekanizmalarını ve Türkiye'nin bu kurumlardaki temsiliyetini içeren üst kategoridir."
+    },
+    {
+        "id": 644,
+        "topic_id": 644,
+        "subject_id": 7,
+        "name": "Bilim ve Teknoloji",
+        "order_index": 4,
+        "content": "# Bilim ve Teknoloji (Lisans)\n\nAr-Ge yatırımları, dördüncü sanayi devrimi bileşenleri, siber vatan stratejileri ve kuantum bilgisayarlar gibi ileri teknoloji başlıklarının üst kümesidir."
+    },
+    {
+        "id": 645,
+        "topic_id": 645,
+        "subject_id": 7,
+        "name": "Kültür ve Sanat",
+        "order_index": 5,
+        "content": "# Kültür ve Sanat (Lisans)\n\nMedeniyet tarihini ilgilendiren arkeolojik çalışmalar, evrensel sanat akımları ve koruma kurulları kararlarının üst başlığıdır."
+    },
+    {
+        "id": 646,
+        "topic_id": 646,
+        "subject_id": 7,
+        "name": "Spor",
+        "order_index": 6,
+        "content": "# Spor (Lisans)\n\nSpor hukuku, federasyon yapıları, olimpiyat organizasyon şemaları ve branş başarılarının hiyerarşik ana başlığıdır."
+    },
+    {
+        "id": 647,
+        "topic_id": 647,
+        "subject_id": 7,
+        "name": "Ödüller ve Zirveler",
+        "order_index": 7,
+        "content": "# Ödüller ve Zirveler (Lisans)\n\nUluslararası akademiler, prestijli enstitü ödülleri ve küresel makro zirvelerin takip edildiği lisans ana kategorisidir."
+    },
+    {
+        "id": 648,
+        "topic_id": 648,
+        "subject_id": 7,
+        "name": "Atamalar ve Kurumsal Gelişmeler",
+        "order_index": 8,
+        "content": "# Atamalar ve Kurumsal Gelişmeler (Lisans)\n\nDevlet teşkilatlanması, kabine revizyonları, bürokratik yapı değişimleri ve idari tescillerin ana izleme modülüdür."
+    },
+    {
+        "id": 649,
+        "topic_id": 649,
+        "subject_id": 7,
+        "name": "Siyasi Gelişmeler",
+        "order_index": 1,
+        "content": "# Siyasi Gelişmeler (Lisans)\n\n* **Seçim Kanunu Düzenlemeleri:** Siyasi partiler ve seçim mevzuatında yapılan güncel değişiklikler.\n* **Yeni Yasama Yılı:** TBMM'nin gündemine gelen reform paketleri ve anayasa değişikliği çalışmaları."
+    },
+    {
+        "id": 650,
+        "topic_id": 650,
+        "subject_id": 7,
+        "name": "Ekonomik Gelişmeler",
+        "order_index": 2,
+        "content": "# Ekonomik Gelişmeler (Lisans)\n\n* **Orta Vadeli Program (OVP):** Türkiye'nin makroekonomik hedeflerini, büyüme, istihdam ve enflasyon tahminlerini içeren resmi program.\n* **Merkez Bankası Kararları:** Para Politikası Kurulu (PPK) faiz kararları ve sıkılaşma politikaları."
+    },
+    {
+        "id": 651,
+        "topic_id": 651,
+        "subject_id": 7,
+        "name": "Toplumsal Gelişmeler",
+        "order_index": 3,
+        "content": "# Toplumsal Gelişmeler (Lisans)\n\n* **Sosyal Güvenlik:** EYT süreçleri, iş gücü uyum programları ve sosyal yardım projeleri.\n* **Eğitim ve Gençlik:** Teknofest gibi gençlik organizasyonları ve burs programları."
+    },
+    {
+        "id": 652,
+        "topic_id": 652,
+        "subject_id": 7,
+        "name": "Uluslararası İlişkiler",
+        "order_index": 1,
+        "content": "# Uluslararası İlişkiler (Lisans)\n\n* **Mavi Vatan Stratejisi:** Türkiye'nin Doğu Akdeniz ve Ege'deki kıta sahanlığı ve deniz yetki alanları politikası.\n* **Tahıl Koridoru Anlaşması:** Türkiye'nin arabuluculuğunda yürütülen küresel gıda arzı güvenliği adımları."
+    },
+    {
+        "id": 653,
+        "topic_id": 653,
+        "subject_id": 7,
+        "name": "Çatışmalar ve Anlaşmalar",
+        "order_index": 2,
+        "content": "# Çatışmalar ve Anlaşmalar (Lisans)\n\n* **Bölgesel Gerilimler:** Rusya-Ukrayna savaşı ve Orta Doğu'daki güncel diplomatik kriz hatları.\n* **Ateşkes ve Arabuluculuk:** Türkiye'nin bölgedeki barış ve istikrarı sağlamaya yönelik garantörlük adımları."
+    },
+    {
+        "id": 654,
+        "topic_id": 654,
+        "subject_id": 7,
+        "name": "Seçimler ve Liderlik Değişimleri",
+        "order_index": 3,
+        "content": "# Seçimler ve Liderlik Değişimleri (Lisans)\n\n* **ABD Başkanlık Seçimleri:** Amerika Birleşik Devletleri'nde yapılan seçim sonuçları ve küresel siyasete etkileri.\n* **Avrupa'da Hükümet Değişimleri:** AB üyesi ülkelerdeki erken seçimler ve iktidar değişimleri."
+    },
+    {
+        "id": 655,
+        "topic_id": 655,
+        "subject_id": 7,
+        "name": "Birleşmiş Milletler (BM)",
+        "order_index": 1,
+        "content": "# Birleşmiş Milletler (BM)\n\n* **BM Genel Kurulu:** Her yıl New York'ta düzenlenen, küresel liderlerin katıldığı zirve kararları ve \"Dünya 5'ten Büyüktür\" doktrini.\n* **BM İklim Zirveleri:** Çevre ve sürdürülebilirlik fonlarının yönetimi."
+    },
+    {
+        "id": 656,
+        "topic_id": 656,
+        "subject_id": 7,
+        "name": "NATO",
+        "order_index": 2,
+        "content": "# NATO Gelişmeleri\n\n* **Genişleme Politikası:** Finlandiya ve İsveç'in resmi katılım süreçlerinin tamamlanması.\n* **NATO Liderler Zirvesi:** Caydırıcılık ve savunma planlarının güncellenmesi, Vilnius ve Washington zirve çıktıları."
+    },
+    {
+        "id": 657,
+        "topic_id": 657,
+        "subject_id": 7,
+        "name": "Avrupa Birliği (AB)",
+        "order_index": 3,
+        "content": "# Avrupa Birliği (AB)\n\n* **Yeşil Mutabakat:** AB'nin 2050 karbon nötr hedefi ve sınırda karbon düzenlemesi mekanizmaları.\n* **Genişleme ve Adaylık:** Balkan ülkeleri ve Ukrayna'nın AB adaylık süreçlerindeki yeni fasıllar."
+    },
+    {
+        "id": 658,
+        "topic_id": 658,
+        "subject_id": 7,
+        "name": "İslam İşbirliği Teşkilatı (İİT)",
+        "order_index": 4,
+        "content": "# İslam İşbirliği Teşkilatı (İİT)\n\n* **Olağanüstü Zirveler:** Kudüs ve Gazze gündemli düzenlenen liderler toplantıları ve ortak deklarasyonlar.\n* **Kültürel İş Birliği:** İslam dünyası kültür başkentleri tescil adımları."
+    },
+    {
+        "id": 659,
+        "topic_id": 659,
+        "subject_id": 7,
+        "name": "Şanghay İşbirliği Örgütü (ŞİÖ)",
+        "order_index": 5,
+        "content": "# Şanghay İşbirliği Örgütü (ŞİÖ)\n\n* **Genişleme:** İran ve Belarus'un örgüte tam üye olarak kabul edilmesi.\n* **Enerji ve Ticaret:** Üye ülkeler arasında yerel para birimleriyle ticaret ve enerji koridorları oluşturulması adımları."
+    },
+    {
+        "id": 660,
+        "topic_id": 660,
+        "subject_id": 7,
+        "name": "Savunma Sanayi Gelişmeleri",
+        "order_index": 1,
+        "content": "# Savunma Sanayii Gelişmeleri\n\n* **Milli Projeler:** TCG Anadolu gemisinin envantere girmesi, HÜRJET ve GÖKBEY projelerinin seri üretim aşamaları.\n* **Hava Savunma:** Çelik Kubbe projesi ile yerli hava savunma katmanlarının birleştirilmesi."
+    },
+    {
+        "id": 661,
+        "topic_id": 661,
+        "subject_id": 7,
+        "name": "Uzay ve Havacılık",
+        "order_index": 2,
+        "content": "# Uzay ve Havacılık Çalışmaları\n\n* **Milli Uzay Programı:** Ay Misyonu ve sert iniş projelerinin alt yapı çalışmaları, ikinci astronotumuz Tuva Cihangir Atasever'in yörünge altı araştırma uçuşu.\n* **Uzay Limanı:** Roket fırlatma üssü kurulumu fizibilite çalışmaları."
+    },
+    {
+        "id": 662,
+        "topic_id": 662,
+        "subject_id": 7,
+        "name": "Yapay Zeka ve Dijitalleşme",
+        "order_index": 3,
+        "content": "# Yapay Zeka ve Dijitalleşme\n\n* **Ulusal Yapay Zeka Stratejisi:** Cumhurbaşkanlığı Dijital Dönüşüm Ofisi öncülüğünde Türkçe Büyük Dil Modeli (LLM) geliştirme projeleri.\n* **Dijital Kamu:** E-Devlet kapısına eklenen yeni nesil yapay zeka entegrasyonları."
+    },
+    {
+        "id": 663,
+        "topic_id": 663,
+        "subject_id": 7,
+        "name": "Ödüllü Eserler ve Sanatçılar",
+        "order_index": 1,
+        "content": "# Ödüllü Eserler ve Sanatçılar\n\n* **Cannes Film Festivali:** Türk sinemasının uluslararası festivallerde aldığı en iyi yönetmen ve en iyi oyuncu ödülleri.\n* **Altın Portakal ve Adana Altın Koza:** Ulusal film festivallerinde en iyi film ödülüne layık görülen güncel yapımlar."
+    },
+    {
+        "id": 664,
+        "topic_id": 664,
+        "subject_id": 7,
+        "name": "UNESCO Kültürel Miras Kararları",
+        "order_index": 2,
+        "content": "# UNESCO Kültürel Miras Kararları\n\n* **Somut Olmayan Kültürel Miras:** İftar geleneği ve tezhip sanatı gibi unsurların UNESCO insanlığın somut olmayan kültürel mirası temsilî listesine kaydedilmesi."
+    },
+    {
+        "id": 665,
+        "topic_id": 665,
+        "subject_id": 7,
+        "name": "Şampiyonalar ve Turnuvalar",
+        "order_index": 1,
+        "content": "# Şampiyonalar ve Turnuvalar\n\n* **Akdeniz Oyunları ve İslam Dayanışma Oyunları:** Türkiye'nin ev sahipliği yaptığı ya da rekor madalya ile döndüğü uluslararası organizasyonlar.\n* **Süper Lig ve Ziraat Türkiye Kupası:** Futbol ve basketbol lig şampiyonları."
+    },
+    {
+        "id": 666,
+        "topic_id": 666,
+        "subject_id": 7,
+        "name": "Sporcu Başarıları",
+        "order_index": 2,
+        "content": "# Sporcu Başarıları\n\n* **Rıza Kayaalp ve Taha Akgül:** Güreşte kazanılan üst üste Avrupa ve Dünya şampiyonlukları.\n* **Şahika Ercümen:** Serbest dalışta kırılan yeni dünya ve Türkiye rekorları."
+    },
+    {
+        "id": 667,
+        "topic_id": 667,
+        "subject_id": 7,
+        "name": "Nobel Ödülleri",
+        "order_index": 1,
+        "content": "# Nobel Ödülleri\n\n* **Nobel Barış Ödülü:** Narges Mohammadi'ye (İran) verilmiştir.\n* **Nobel Edebiyat Ödülü:** Norveçli yazar Jon Fosse'ye takdim edilmiştir.\n* **Bilim Ödülleri:** Fizik, Kimya ve Tıp alanında çığır açan keşiflere verilen güncel ödüller."
+    },
+    {
+        "id": 668,
+        "topic_id": 668,
+        "subject_id": 7,
+        "name": "Uluslararası Zirveler ve Toplantılar",
+        "order_index": 2,
+        "content": "# Uluslararası Zirveler ve Toplantılar\n\n* **COP28 / COP29:** BM İklim Değişikliği Konferansları kapsamında alınan küresel emisyon azaltım kararları.\n* **50. G7 Zirvesi:** İtalya'nın ev sahipliğinde Borgo Egnazia'da düzenlenen, yapay zeka ve küresel güvenlik temalı zirve."
+    },
+    {
+        "id": 669,
+        "topic_id": 669,
+        "subject_id": 7,
+        "name": "Yeni Atamalar",
+        "order_index": 1,
+        "content": "# Yeni Atamalar\n\n* **Kabine ve Bürokrasi:** Cumhurbaşkanlığı Kararnameleri doğrultusunda göreve getirilen yeni bakanlar, bakan yardımcıları ve üst düzey genel müdürler.\n* **Merkez Bankası:** TCMB Başkanlığı ve Para Politikası Kurulu üyeliklerindeki değişimler."
+    },
+    {
+        "id": 670,
+        "topic_id": 670,
+        "subject_id": 7,
+        "name": "Coğrafi İşaret Tesciller",
+        "order_index": 2,
+        "content": "# Coğrafi İşaret Tescilleri\n\n* **AB Tescilli Ürünlerimiz:** Aydın İnciri, Gaziantep Baklavası, Malatya Kayısısı'nın yanına eklenen en son AB tescilli Türk lezzetleri (Örn: Çağlayancerit Cevizi, Maraş Tarhanası, Gemlik Zeytini).\n* **Yerli Tescil:** Türk Patent Enstitüsü tarafından koruma altına alınan yerel ürün sayısının artışı."
+    }
+]
