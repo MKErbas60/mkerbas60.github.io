@@ -1,5 +1,0 @@
-[
-  { "id": 1, "key": "ortaogretim", "name": "Ortaöğretim", "order_index": 1 },
-  { "id": 2, "key": "onlisans", "name": "Ön Lisans", "order_index": 2 },
-  { "id": 3, "key": "lisans", "name": "Lisans", "order_index": 3 }
-]
