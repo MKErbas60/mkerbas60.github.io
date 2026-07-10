@@ -4,168 +4,168 @@
         "subject_id": 7,
         "name": "Türkiye Gündemi",
         "order_index": 1,
-        "content": "# Türkiye Gündemi (Ortaöğretim)\n\n* **Yerel Seçimler:** 31 Mart 2024 tarihinde Türkiye genelinde yerel seçimler yapılmıştır.\n* **Togg Gelişmeleri:** Türkiye'nin yerli otomobili Togg'un teslimatları ve yeni T10F modelinin tanıtımı gerçekleştirilmiştir."
+        "content": "# Türkiye Gündemi\n\n* **Cumhuriyet'in 100. Yılı:** 29 Ekim 2023'te Cumhuriyet'in ilanının 100. yıl dönümü **Türkiye Yüzyılı** vizyonuyla kutlanmıştır.\n* **Yerel Seçimler:** 31 Mart 2024'te Türkiye genelinde mahalli idareler seçimleri yapılmıştır.\n* **Togg:** Yerli otomobil Togg'un T10X modelinin ardından sedan modeli **T10F** tanıtılmıştır.\n* **Enerji Keşifleri:** Karadeniz **Sakarya Gaz Sahası**'nda doğal gaz üretimi sürmekte; Şırnak **Gabar Dağı**'ndaki petrol sahasında günlük üretim rekorları kırılmaktadır.\n* **Milli Teknoloji Hamlesi:** TEKNOFEST festivalleri ve savunma sanayii projeleriyle yerli üretim ekosistemi güçlendirilmektedir."
     },
     {
         "id": 626,
         "subject_id": 7,
         "name": "Dünya Gündemi",
         "order_index": 2,
-        "content": "# Dünya Gündemi (Ortaöğretim)\n\n* **Şanghay İşbirliği Örgütü Zirvesi:** 2024 yılı Devlet Başkanları Zirvesi Kazakistan'ın başkenti Astana'da düzenlendi.\n* **G20 Dönem Başkanlığı:** 2024 Brezilya zirvesinin ardından, 2025 yılı dönem başkanlığı Güney Afrika Cumhuriyeti'ne devredildi.\n* **Türk Devletleri Teşkilatı:** 11. Zirve, Kırgızistan'ın ev sahipliğinde Bişkek şehrinde gerçekleştirildi."
+        "content": "# Dünya Gündemi\n\n* **Rusya-Ukrayna Savaşı:** 2022'de başlayan savaş küresel enerji ve gıda güvenliğini etkilemeye devam etmektedir; Türkiye taraflar arasında arabuluculuk yürütmüş ve **Tahıl Koridoru** girişimine öncülük etmiştir.\n* **ABD Başkanlık Seçimi:** Kasım 2024 seçimlerini **Donald Trump** kazanmış ve Ocak 2025'te 47. Başkan olarak göreve başlamıştır.\n* **Şanghay İşbirliği Örgütü:** 2024 Devlet Başkanları Zirvesi Kazakistan'ın başkenti **Astana**'da düzenlenmiştir.\n* **G20:** 2024 zirvesi Brezilya'da (Rio de Janeiro) yapılmış; 2025 dönem başkanlığı **Güney Afrika**'ya geçmiştir.\n* **Türk Devletleri Teşkilatı:** 11. Zirve, Kırgızistan'ın başkenti **Bişkek**'te gerçekleştirilmiştir.\n* **BRICS Genişlemesi:** Örgüte Mısır, Etiyopya, İran ve BAE gibi yeni üyelerin katılmasıyla küresel ekonomideki ağırlığı artmıştır."
     },
     {
         "id": 627,
         "subject_id": 7,
         "name": "Uluslararası Kuruluşlar",
         "order_index": 3,
-        "content": "# Uluslararası Kuruluşlar (Ortaöğretim)\n\n* **Birleşmiş Milletler (BM):** Küresel barış ve güvenliği sağlamak amacıyla kurulan en büyük uluslararası örgüttür.\n* **NATO:** Kuzey Atlantik Antlaşması Örgütü, üye ülkelerin ortak savunmasını esas alır.\n* **Avrupa Birliği (AB):** Avrupa devletlerinin ekonomik ve siyasi entegrasyonunu amaçlar."
+        "content": "# Uluslararası Kuruluşlar\n\n* **Birleşmiş Milletler (BM):** 1945'te kurulmuştur; merkezi New York'tadır. Güvenlik Konseyi'nin 5 daimi üyesi (ABD, Rusya, Çin, İngiltere, Fransa) veto hakkına sahiptir. Türkiye'nin **Dünya 5'ten büyüktür** söylemi Konsey reformunu hedefler.\n* **NATO (1949):** Türkiye 1952'de üye olmuştur. **Finlandiya 2023'te, İsveç 2024'te** ittifaka katılmıştır.\n* **Avrupa Birliği (AB):** Türkiye 1999 Helsinki Zirvesi'nde aday ülke ilan edilmiştir; 1996'dan beri Gümrük Birliği yürürlüktedir.\n* **Türk Devletleri Teşkilatı (TDT):** Üyeleri Türkiye, Azerbaycan, Kazakistan, Kırgızistan ve Özbekistan'dır; Türkmenistan, Macaristan ve KKTC gözlemci statüsündedir.\n* **İslam İşbirliği Teşkilatı (İİT):** 1969'da kurulmuştur; merkezi Cidde'dedir. BM'den sonra en çok üyeye sahip uluslararası kuruluştur.\n* **Şanghay İşbirliği Örgütü (ŞİÖ):** İran (2023) ve Belarus (2024) örgüte tam üye olarak katılmıştır."
     },
     {
         "id": 628,
         "subject_id": 7,
         "name": "Bilim ve Teknoloji",
         "order_index": 4,
-        "content": "# Bilim ve Teknoloji (Ortaöğretim)\n\n* **Alper Gezeravcı:** Türkiye'nin ilk astronotu Alper Gezeravcı, Axiom Mission 3 (Ax-3) göreviyle Uluslararası Uzay İstasyonu'na (ISS) giderek ilk uzay misyonumuzu başarıyla tamamladı.\n* **Türksat 6A:** Türkiye'nin ilk yerli ve millî haberleşme uydusu Türksat 6A, uzaya başarıyla fırlatıldı."
+        "content": "# Bilim ve Teknoloji\n\n* **İlk Türk Astronot:** **Alper Gezeravcı**, Ocak 2024'te Axiom-3 (Ax-3) göreviyle Uluslararası Uzay İstasyonu'na giderek Türkiye'nin ilk insanlı uzay misyonunu tamamlamıştır.\n* **İkinci Uzay Yolcusu:** **Tuva Cihangir Atasever**, Haziran 2024'te yörünge altı araştırma uçuşu gerçekleştirmiştir.\n* **Türksat 6A:** Türkiye'nin **ilk yerli ve millî haberleşme uydusu**, Temmuz 2024'te uzaya fırlatılmıştır.\n* **KAAN:** Millî Muharip Uçak KAAN, ilk uçuşunu Şubat 2024'te başarıyla gerçekleştirmiştir; ANKA-3 ve Bayraktar TB3 test uçuşlarını sürdürmektedir.\n* **Yapay Zeka:** Ulusal Yapay Zeka Stratejisi kapsamında Türkçe büyük dil modeli çalışmaları ve kamuda dijitalleşme projeleri yürütülmektedir."
     },
     {
         "id": 629,
         "subject_id": 7,
         "name": "Kültür ve Sanat",
         "order_index": 5,
-        "content": "# Kültür ve Sanat (Ortaöğretim)\n\n* **UNESCO Kültürel Miras Listesi:** Türkiye'nin somut ve somut olmayan birçok kültürel değeri UNESCO listelerine dahil edilmeye devam etmektedir.\n* **Gordion Antik Kenti:** Ankara'da yer alan antik kent, UNESCO Dünya Mirası Listesi'ne tescil edilmiştir."
+        "content": "# Kültür ve Sanat\n\n* **UNESCO Dünya Mirası:** 2023'te **Gordion Antik Kenti** (Ankara) ve **Anadolu'nun Ortaçağ Dönemi Ahşap Direkli Camileri** Dünya Mirası Listesi'ne eklenmiştir.\n* **Somut Olmayan Kültürel Miras:** İftar geleneği ve tezhip sanatı gibi unsurlar UNESCO temsilî listesine kaydedilmiştir.\n* **Arkeoloji:** Göbeklitepe ve Karahantepe'yi kapsayan **Taş Tepeler Projesi** kazıları, insanlık tarihinin bilinen en eski yerleşik yaşam izlerine ışık tutmaktadır.\n* **Festivaller:** Antalya Altın Portakal ve Adana Altın Koza ulusal sinemanın; Cannes ve Venedik uluslararası sinemanın en prestijli ödül merkezleridir."
     },
     {
         "id": 630,
         "subject_id": 7,
         "name": "Spor",
         "order_index": 6,
-        "content": "# Spor Gelişmeleri (Ortaöğretim)\n\n* **A Milli Kadın Voleybol Takımı:** Filenin Sultanları, CEV Avrupa Şampiyonu ve Milletler Ligi Şampiyonu olarak tarihi başarılara imza attı.\n* **Mete Gazoz:** Olimpiyat şampiyonu okçumuz Mete Gazoz, Dünya ve Avrupa şampiyonluklarını da kazanarak başarısını sürdürdü."
+        "content": "# Spor\n\n* **Filenin Sultanları:** A Millî Kadın Voleybol Takımı, 2023'te hem **Milletler Ligi** hem de **CEV Avrupa Şampiyonası** şampiyonu olarak tarihi bir başarıya imza atmıştır.\n* **Paris 2024 Olimpiyatları:** Havalı tabancada **Yusuf Dikeç - Şevval İlayda Tarhan** karışık takımı gümüş madalya kazanmıştır.\n* **Okçuluk:** Tokyo 2020 olimpiyat şampiyonu **Mete Gazoz**, Dünya ve Avrupa şampiyonlukları da kazanarak başarısını sürdürmüştür.\n* **Güreş:** Taha Akgül ve Rıza Kayaalp, Avrupa ve Dünya şampiyonluklarıyla Türk güreşinin madalya geleneğini devam ettirmiştir.\n* **EURO 2024:** A Millî Futbol Takımı, Almanya'da düzenlenen Avrupa Şampiyonası'nda çeyrek finale yükselmiştir."
     },
     {
         "id": 631,
         "subject_id": 7,
         "name": "Ödüller ve Zirveler",
         "order_index": 7,
-        "content": "# Ödüller ve Zirveler (Ortaöğretim)\n\n* **Nobel Ödülleri:** Her yıl bilim, edebiyat ve barış alanında uluslararası düzeyde verilen en prestijli ödüllerdir.\n* **Uluslararası Zirveler:** COP İklim Konferansları ve G7 Zirveleri küresel politikalara yön vermektedir."
+        "content": "# Ödüller ve Zirveler\n\n* **Nobel 2023:** Barış Ödülü İranlı aktivist **Narges Mohammadi**'ye, Edebiyat Ödülü Norveçli yazar **Jon Fosse**'ye verilmiştir.\n* **Nobel 2024:** Barış Ödülü Japon atom bombası mağdurları örgütü **Nihon Hidankyo**'ya, Edebiyat Ödülü Güney Koreli yazar **Han Kang**'a verilmiştir; Fizik ve Kimya ödülleri yapay zeka alanındaki çalışmalara gitmiştir.\n* **İklim Zirveleri:** COP28 Dubai'de (fosil yakıtlardan geçiş kararı), **COP29 Bakü'de** (iklim finansmanı hedefi) düzenlenmiştir.\n* **G7:** 50. Zirve, 2024'te İtalya'nın ev sahipliğinde yapılmıştır.\n* **Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri:** Her yıl kültür-sanat insanlarına verilen ulusal düzeydeki en prestijli ödüldür."
     },
     {
         "id": 632,
         "subject_id": 7,
         "name": "Atamalar ve Kurumsal Gelişmeler",
         "order_index": 8,
-        "content": "# Atamalar ve Kurumsal Gelişmeler (Ortaöğretim)\n\n* **Bürokratik Atamalar:** Resmi Gazete'de yayımlanan yeni bakanlık, kurul ve üniversite rektörlüğü atamalarını kapsar.\n* **Coğrafi İşaretler:** Türk Patent ve Marka Kurumu tarafından tescillenen yerel ürünlerin listesidir."
+        "content": "# Atamalar ve Kurumsal Gelişmeler\n\n* **Kabine ve Bürokrasi:** Cumhurbaşkanlığı Kararnameleriyle yapılan bakan, vali, rektör ve üst düzey bürokrat atamaları **Resmî Gazete**'de yayımlanır.\n* **Merkez Bankası:** TCMB Başkanlığı ve Para Politikası Kurulu (PPK) üyeliklerindeki değişimler para politikasının seyrini doğrudan etkiler.\n* **Yüksek Yargı:** Anayasa Mahkemesi, Yargıtay ve Danıştay başkanlık seçimleri ile üye atamaları sınavlarda sorulan başlıklardandır.\n* **Coğrafi İşaretler:** Türk Patent ve Marka Kurumu'nun tescillediği yerel ürünlerin (AB tescilli Malatya Kayısısı, Aydın İnciri, Gaziantep Baklavası gibi) sayısı her yıl artmaktadır."
     },
     {
         "id": 633,
         "subject_id": 7,
         "name": "Türkiye Gündemi",
         "order_index": 1,
-        "content": "# Türkiye Gündemi (Önlisans)\n\n* **Siyasi ve Ekonomik Gelişmeler:** Ülke genelindeki makroekonomik kararlar, yapısal reformlar ve yerel yönetim adımları.\n* **Milli Teknoloji Hamlesi:** Yerli üretim ekosisteminin güçlendirilmesine yönelik projeler."
+        "content": "# Türkiye Gündemi\n\n* **Cumhuriyet'in 100. Yılı:** 29 Ekim 2023'te Cumhuriyet'in ilanının 100. yıl dönümü **Türkiye Yüzyılı** vizyonuyla kutlanmıştır.\n* **Yerel Seçimler:** 31 Mart 2024'te Türkiye genelinde mahalli idareler seçimleri yapılmıştır.\n* **Togg:** Yerli otomobil Togg'un T10X modelinin ardından sedan modeli **T10F** tanıtılmıştır.\n* **Enerji Keşifleri:** Karadeniz **Sakarya Gaz Sahası**'nda doğal gaz üretimi sürmekte; Şırnak **Gabar Dağı**'ndaki petrol sahasında günlük üretim rekorları kırılmaktadır.\n* **Milli Teknoloji Hamlesi:** TEKNOFEST festivalleri ve savunma sanayii projeleriyle yerli üretim ekosistemi güçlendirilmektedir."
     },
     {
         "id": 634,
         "subject_id": 7,
         "name": "Dünya Gündemi",
         "order_index": 2,
-        "content": "# Dünya Gündemi (Önlisans)\n\n* **Küresel Diploması:** Uluslararası liderler zirvesi kararları, iklim krizine karşı küresel taahhütler ve uluslararası ticaret koridorları."
+        "content": "# Dünya Gündemi\n\n* **Rusya-Ukrayna Savaşı:** 2022'de başlayan savaş küresel enerji ve gıda güvenliğini etkilemeye devam etmektedir; Türkiye taraflar arasında arabuluculuk yürütmüş ve **Tahıl Koridoru** girişimine öncülük etmiştir.\n* **ABD Başkanlık Seçimi:** Kasım 2024 seçimlerini **Donald Trump** kazanmış ve Ocak 2025'te 47. Başkan olarak göreve başlamıştır.\n* **Şanghay İşbirliği Örgütü:** 2024 Devlet Başkanları Zirvesi Kazakistan'ın başkenti **Astana**'da düzenlenmiştir.\n* **G20:** 2024 zirvesi Brezilya'da (Rio de Janeiro) yapılmış; 2025 dönem başkanlığı **Güney Afrika**'ya geçmiştir.\n* **Türk Devletleri Teşkilatı:** 11. Zirve, Kırgızistan'ın başkenti **Bişkek**'te gerçekleştirilmiştir.\n* **BRICS Genişlemesi:** Örgüte Mısır, Etiyopya, İran ve BAE gibi yeni üyelerin katılmasıyla küresel ekonomideki ağırlığı artmıştır."
     },
     {
         "id": 635,
         "subject_id": 7,
         "name": "Uluslararası Kuruluşlar",
         "order_index": 3,
-        "content": "# Uluslararası Kuruluşlar (Önlisans)\n\n* **İslam İşbirliği Teşkilatı (İİT):** İslam dünyasının haklarını korumak amacıyla kurulan hükümetlerarası yapı.\n* **Şanghay İşbirliği Örgütü (ŞİÖ):** Avrasya genelinde güvenlik ve ekonomik iş birliğini hedefleyen bölgesel ortaklık."
+        "content": "# Uluslararası Kuruluşlar\n\n* **Birleşmiş Milletler (BM):** 1945'te kurulmuştur; merkezi New York'tadır. Güvenlik Konseyi'nin 5 daimi üyesi (ABD, Rusya, Çin, İngiltere, Fransa) veto hakkına sahiptir. Türkiye'nin **Dünya 5'ten büyüktür** söylemi Konsey reformunu hedefler.\n* **NATO (1949):** Türkiye 1952'de üye olmuştur. **Finlandiya 2023'te, İsveç 2024'te** ittifaka katılmıştır.\n* **Avrupa Birliği (AB):** Türkiye 1999 Helsinki Zirvesi'nde aday ülke ilan edilmiştir; 1996'dan beri Gümrük Birliği yürürlüktedir.\n* **Türk Devletleri Teşkilatı (TDT):** Üyeleri Türkiye, Azerbaycan, Kazakistan, Kırgızistan ve Özbekistan'dır; Türkmenistan, Macaristan ve KKTC gözlemci statüsündedir.\n* **İslam İşbirliği Teşkilatı (İİT):** 1969'da kurulmuştur; merkezi Cidde'dedir. BM'den sonra en çok üyeye sahip uluslararası kuruluştur.\n* **Şanghay İşbirliği Örgütü (ŞİÖ):** İran (2023) ve Belarus (2024) örgüte tam üye olarak katılmıştır."
     },
     {
         "id": 636,
         "subject_id": 7,
         "name": "Bilim ve Teknoloji",
         "order_index": 4,
-        "content": "# Bilim ve Teknoloji (Önlisans)\n\n* **Savunma Sanayii:** KAAN Milli Muharip Uçak, ANKA-3 ve Bayraktar TB3 projelerinin test ve uçuş aşamaları.\n* **Yapay Zeka Dijitalleşme:** Kamu ve sanayide yapay zeka entegrasyonu, ulusal veri stratejileri."
+        "content": "# Bilim ve Teknoloji\n\n* **İlk Türk Astronot:** **Alper Gezeravcı**, Ocak 2024'te Axiom-3 (Ax-3) göreviyle Uluslararası Uzay İstasyonu'na giderek Türkiye'nin ilk insanlı uzay misyonunu tamamlamıştır.\n* **İkinci Uzay Yolcusu:** **Tuva Cihangir Atasever**, Haziran 2024'te yörünge altı araştırma uçuşu gerçekleştirmiştir.\n* **Türksat 6A:** Türkiye'nin **ilk yerli ve millî haberleşme uydusu**, Temmuz 2024'te uzaya fırlatılmıştır.\n* **KAAN:** Millî Muharip Uçak KAAN, ilk uçuşunu Şubat 2024'te başarıyla gerçekleştirmiştir; ANKA-3 ve Bayraktar TB3 test uçuşlarını sürdürmektedir.\n* **Yapay Zeka:** Ulusal Yapay Zeka Stratejisi kapsamında Türkçe büyük dil modeli çalışmaları ve kamuda dijitalleşme projeleri yürütülmektedir."
     },
     {
         "id": 637,
         "subject_id": 7,
         "name": "Kültür ve Sanat",
         "order_index": 5,
-        "content": "# Kültür ve Sanat (Önlisans)\n\n* **Kültürel Miras Çalışmaları:** Koruma altına alınan tarihi yapılar, antik kazı alanlarındaki yeni keşifler ve uluslararası ödüllü sinema/tiyatro eserleri."
+        "content": "# Kültür ve Sanat\n\n* **UNESCO Dünya Mirası:** 2023'te **Gordion Antik Kenti** (Ankara) ve **Anadolu'nun Ortaçağ Dönemi Ahşap Direkli Camileri** Dünya Mirası Listesi'ne eklenmiştir.\n* **Somut Olmayan Kültürel Miras:** İftar geleneği ve tezhip sanatı gibi unsurlar UNESCO temsilî listesine kaydedilmiştir.\n* **Arkeoloji:** Göbeklitepe ve Karahantepe'yi kapsayan **Taş Tepeler Projesi** kazıları, insanlık tarihinin bilinen en eski yerleşik yaşam izlerine ışık tutmaktadır.\n* **Festivaller:** Antalya Altın Portakal ve Adana Altın Koza ulusal sinemanın; Cannes ve Venedik uluslararası sinemanın en prestijli ödül merkezleridir."
     },
     {
         "id": 638,
         "subject_id": 7,
         "name": "Spor",
         "order_index": 6,
-        "content": "# Spor Dünyası (Önlisans)\n\n* **Uluslararası Turnuvalar:** Avrupa Futbol Şampiyonası (EURO) ve Olimpiyat Oyunları'nda Türk sporcuların elde ettiği madalyalar ve dereceler."
+        "content": "# Spor\n\n* **Filenin Sultanları:** A Millî Kadın Voleybol Takımı, 2023'te hem **Milletler Ligi** hem de **CEV Avrupa Şampiyonası** şampiyonu olarak tarihi bir başarıya imza atmıştır.\n* **Paris 2024 Olimpiyatları:** Havalı tabancada **Yusuf Dikeç - Şevval İlayda Tarhan** karışık takımı gümüş madalya kazanmıştır.\n* **Okçuluk:** Tokyo 2020 olimpiyat şampiyonu **Mete Gazoz**, Dünya ve Avrupa şampiyonlukları da kazanarak başarısını sürdürmüştür.\n* **Güreş:** Taha Akgül ve Rıza Kayaalp, Avrupa ve Dünya şampiyonluklarıyla Türk güreşinin madalya geleneğini devam ettirmiştir.\n* **EURO 2024:** A Millî Futbol Takımı, Almanya'da düzenlenen Avrupa Şampiyonası'nda çeyrek finale yükselmiştir."
     },
     {
         "id": 639,
         "subject_id": 7,
         "name": "Ödüller ve Zirveler",
         "order_index": 7,
-        "content": "# Ödüller ve Zirveler (Önlisans)\n\n* **Bilim ve Sanat Ödülleri:** Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri ile küresel çapta ses getiren ödül törenleri."
+        "content": "# Ödüller ve Zirveler\n\n* **Nobel 2023:** Barış Ödülü İranlı aktivist **Narges Mohammadi**'ye, Edebiyat Ödülü Norveçli yazar **Jon Fosse**'ye verilmiştir.\n* **Nobel 2024:** Barış Ödülü Japon atom bombası mağdurları örgütü **Nihon Hidankyo**'ya, Edebiyat Ödülü Güney Koreli yazar **Han Kang**'a verilmiştir; Fizik ve Kimya ödülleri yapay zeka alanındaki çalışmalara gitmiştir.\n* **İklim Zirveleri:** COP28 Dubai'de (fosil yakıtlardan geçiş kararı), **COP29 Bakü'de** (iklim finansmanı hedefi) düzenlenmiştir.\n* **G7:** 50. Zirve, 2024'te İtalya'nın ev sahipliğinde yapılmıştır.\n* **Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri:** Her yıl kültür-sanat insanlarına verilen ulusal düzeydeki en prestijli ödüldür."
     },
     {
         "id": 640,
         "subject_id": 7,
         "name": "Atamalar ve Kurumsal Gelişmeler",
         "order_index": 8,
-        "content": "# Atamalar ve Kurumsal Gelişmeler (Önlisans)\n\n* **Anayasal Kurumlar:** Yüksek yargı organları ve merkez teşkilatlarındaki üst düzey başkanlık ve üye değişimleri."
+        "content": "# Atamalar ve Kurumsal Gelişmeler\n\n* **Kabine ve Bürokrasi:** Cumhurbaşkanlığı Kararnameleriyle yapılan bakan, vali, rektör ve üst düzey bürokrat atamaları **Resmî Gazete**'de yayımlanır.\n* **Merkez Bankası:** TCMB Başkanlığı ve Para Politikası Kurulu (PPK) üyeliklerindeki değişimler para politikasının seyrini doğrudan etkiler.\n* **Yüksek Yargı:** Anayasa Mahkemesi, Yargıtay ve Danıştay başkanlık seçimleri ile üye atamaları sınavlarda sorulan başlıklardandır.\n* **Coğrafi İşaretler:** Türk Patent ve Marka Kurumu'nun tescillediği yerel ürünlerin (AB tescilli Malatya Kayısısı, Aydın İnciri, Gaziantep Baklavası gibi) sayısı her yıl artmaktadır."
     },
     {
         "id": 641,
         "subject_id": 7,
         "name": "Türkiye Gündemi",
         "order_index": 1,
-        "content": "# Türkiye Gündemi (Lisans)\n\nLisans düzeyinde Türkiye'nin iç ve dış siyasetini, sosyo-ekonomik hamlelerini ve stratejik planlamalarını içeren üst düzey başlık modülüdür."
+        "content": "# Türkiye Gündemi\n\n* **Cumhuriyet'in 100. Yılı:** 29 Ekim 2023'te Cumhuriyet'in ilanının 100. yıl dönümü **Türkiye Yüzyılı** vizyonuyla kutlanmıştır.\n* **Yerel Seçimler:** 31 Mart 2024'te Türkiye genelinde mahalli idareler seçimleri yapılmıştır.\n* **Togg:** Yerli otomobil Togg'un T10X modelinin ardından sedan modeli **T10F** tanıtılmıştır.\n* **Enerji Keşifleri:** Karadeniz **Sakarya Gaz Sahası**'nda doğal gaz üretimi sürmekte; Şırnak **Gabar Dağı**'ndaki petrol sahasında günlük üretim rekorları kırılmaktadır.\n* **Milli Teknoloji Hamlesi:** TEKNOFEST festivalleri ve savunma sanayii projeleriyle yerli üretim ekosistemi güçlendirilmektedir."
     },
     {
         "id": 642,
         "subject_id": 7,
         "name": "Dünya Gündemi",
         "order_index": 2,
-        "content": "# Dünya Gündemi (Lisans)\n\nKüresel jeopolitik riskler, kıtasal ittifaklar, diplomatik krizler ve uluslararası anlaşmaların detay analizlerini barındıran üst modüldür."
+        "content": "# Dünya Gündemi\n\n* **Rusya-Ukrayna Savaşı:** 2022'de başlayan savaş küresel enerji ve gıda güvenliğini etkilemeye devam etmektedir; Türkiye taraflar arasında arabuluculuk yürütmüş ve **Tahıl Koridoru** girişimine öncülük etmiştir.\n* **ABD Başkanlık Seçimi:** Kasım 2024 seçimlerini **Donald Trump** kazanmış ve Ocak 2025'te 47. Başkan olarak göreve başlamıştır.\n* **Şanghay İşbirliği Örgütü:** 2024 Devlet Başkanları Zirvesi Kazakistan'ın başkenti **Astana**'da düzenlenmiştir.\n* **G20:** 2024 zirvesi Brezilya'da (Rio de Janeiro) yapılmış; 2025 dönem başkanlığı **Güney Afrika**'ya geçmiştir.\n* **Türk Devletleri Teşkilatı:** 11. Zirve, Kırgızistan'ın başkenti **Bişkek**'te gerçekleştirilmiştir.\n* **BRICS Genişlemesi:** Örgüte Mısır, Etiyopya, İran ve BAE gibi yeni üyelerin katılmasıyla küresel ekonomideki ağırlığı artmıştır."
     },
     {
         "id": 643,
         "subject_id": 7,
         "name": "Uluslararası Kuruluşlar",
         "order_index": 3,
-        "content": "# Uluslararası Kuruluşlar (Lisans)\n\nKüresel ve bölgesel entegrasyonların hukuki yapılarını, karar alma mekanizmalarını ve Türkiye'nin bu kurumlardaki temsiliyetini içeren üst kategoridir."
+        "content": "# Uluslararası Kuruluşlar\n\n* **Birleşmiş Milletler (BM):** 1945'te kurulmuştur; merkezi New York'tadır. Güvenlik Konseyi'nin 5 daimi üyesi (ABD, Rusya, Çin, İngiltere, Fransa) veto hakkına sahiptir. Türkiye'nin **Dünya 5'ten büyüktür** söylemi Konsey reformunu hedefler.\n* **NATO (1949):** Türkiye 1952'de üye olmuştur. **Finlandiya 2023'te, İsveç 2024'te** ittifaka katılmıştır.\n* **Avrupa Birliği (AB):** Türkiye 1999 Helsinki Zirvesi'nde aday ülke ilan edilmiştir; 1996'dan beri Gümrük Birliği yürürlüktedir.\n* **Türk Devletleri Teşkilatı (TDT):** Üyeleri Türkiye, Azerbaycan, Kazakistan, Kırgızistan ve Özbekistan'dır; Türkmenistan, Macaristan ve KKTC gözlemci statüsündedir.\n* **İslam İşbirliği Teşkilatı (İİT):** 1969'da kurulmuştur; merkezi Cidde'dedir. BM'den sonra en çok üyeye sahip uluslararası kuruluştur.\n* **Şanghay İşbirliği Örgütü (ŞİÖ):** İran (2023) ve Belarus (2024) örgüte tam üye olarak katılmıştır."
     },
     {
         "id": 644,
         "subject_id": 7,
         "name": "Bilim ve Teknoloji",
         "order_index": 4,
-        "content": "# Bilim ve Teknoloji (Lisans)\n\nAr-Ge yatırımları, dördüncü sanayi devrimi bileşenleri, siber vatan stratejileri ve kuantum bilgisayarlar gibi ileri teknoloji başlıklarının üst kümesidir."
+        "content": "# Bilim ve Teknoloji\n\n* **İlk Türk Astronot:** **Alper Gezeravcı**, Ocak 2024'te Axiom-3 (Ax-3) göreviyle Uluslararası Uzay İstasyonu'na giderek Türkiye'nin ilk insanlı uzay misyonunu tamamlamıştır.\n* **İkinci Uzay Yolcusu:** **Tuva Cihangir Atasever**, Haziran 2024'te yörünge altı araştırma uçuşu gerçekleştirmiştir.\n* **Türksat 6A:** Türkiye'nin **ilk yerli ve millî haberleşme uydusu**, Temmuz 2024'te uzaya fırlatılmıştır.\n* **KAAN:** Millî Muharip Uçak KAAN, ilk uçuşunu Şubat 2024'te başarıyla gerçekleştirmiştir; ANKA-3 ve Bayraktar TB3 test uçuşlarını sürdürmektedir.\n* **Yapay Zeka:** Ulusal Yapay Zeka Stratejisi kapsamında Türkçe büyük dil modeli çalışmaları ve kamuda dijitalleşme projeleri yürütülmektedir."
     },
     {
         "id": 645,
         "subject_id": 7,
         "name": "Kültür ve Sanat",
         "order_index": 5,
-        "content": "# Kültür ve Sanat (Lisans)\n\nMedeniyet tarihini ilgilendiren arkeolojik çalışmalar, evrensel sanat akımları ve koruma kurulları kararlarının üst başlığıdır."
+        "content": "# Kültür ve Sanat\n\n* **UNESCO Dünya Mirası:** 2023'te **Gordion Antik Kenti** (Ankara) ve **Anadolu'nun Ortaçağ Dönemi Ahşap Direkli Camileri** Dünya Mirası Listesi'ne eklenmiştir.\n* **Somut Olmayan Kültürel Miras:** İftar geleneği ve tezhip sanatı gibi unsurlar UNESCO temsilî listesine kaydedilmiştir.\n* **Arkeoloji:** Göbeklitepe ve Karahantepe'yi kapsayan **Taş Tepeler Projesi** kazıları, insanlık tarihinin bilinen en eski yerleşik yaşam izlerine ışık tutmaktadır.\n* **Festivaller:** Antalya Altın Portakal ve Adana Altın Koza ulusal sinemanın; Cannes ve Venedik uluslararası sinemanın en prestijli ödül merkezleridir."
     },
     {
         "id": 646,
         "subject_id": 7,
         "name": "Spor",
         "order_index": 6,
-        "content": "# Spor (Lisans)\n\nSpor hukuku, federasyon yapıları, olimpiyat organizasyon şemaları ve branş başarılarının hiyerarşik ana başlığıdır."
+        "content": "# Spor\n\n* **Filenin Sultanları:** A Millî Kadın Voleybol Takımı, 2023'te hem **Milletler Ligi** hem de **CEV Avrupa Şampiyonası** şampiyonu olarak tarihi bir başarıya imza atmıştır.\n* **Paris 2024 Olimpiyatları:** Havalı tabancada **Yusuf Dikeç - Şevval İlayda Tarhan** karışık takımı gümüş madalya kazanmıştır.\n* **Okçuluk:** Tokyo 2020 olimpiyat şampiyonu **Mete Gazoz**, Dünya ve Avrupa şampiyonlukları da kazanarak başarısını sürdürmüştür.\n* **Güreş:** Taha Akgül ve Rıza Kayaalp, Avrupa ve Dünya şampiyonluklarıyla Türk güreşinin madalya geleneğini devam ettirmiştir.\n* **EURO 2024:** A Millî Futbol Takımı, Almanya'da düzenlenen Avrupa Şampiyonası'nda çeyrek finale yükselmiştir."
     },
     {
         "id": 647,
         "subject_id": 7,
         "name": "Ödüller ve Zirveler",
         "order_index": 7,
-        "content": "# Ödüller ve Zirveler (Lisans)\n\nUluslararası akademiler, prestijli enstitü ödülleri ve küresel makro zirvelerin takip edildiği lisans ana kategorisidir."
+        "content": "# Ödüller ve Zirveler\n\n* **Nobel 2023:** Barış Ödülü İranlı aktivist **Narges Mohammadi**'ye, Edebiyat Ödülü Norveçli yazar **Jon Fosse**'ye verilmiştir.\n* **Nobel 2024:** Barış Ödülü Japon atom bombası mağdurları örgütü **Nihon Hidankyo**'ya, Edebiyat Ödülü Güney Koreli yazar **Han Kang**'a verilmiştir; Fizik ve Kimya ödülleri yapay zeka alanındaki çalışmalara gitmiştir.\n* **İklim Zirveleri:** COP28 Dubai'de (fosil yakıtlardan geçiş kararı), **COP29 Bakü'de** (iklim finansmanı hedefi) düzenlenmiştir.\n* **G7:** 50. Zirve, 2024'te İtalya'nın ev sahipliğinde yapılmıştır.\n* **Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri:** Her yıl kültür-sanat insanlarına verilen ulusal düzeydeki en prestijli ödüldür."
     },
     {
         "id": 648,
         "subject_id": 7,
         "name": "Atamalar ve Kurumsal Gelişmeler",
         "order_index": 8,
-        "content": "# Atamalar ve Kurumsal Gelişmeler (Lisans)\n\nDevlet teşkilatlanması, kabine revizyonları, bürokratik yapı değişimleri ve idari tescillerin ana izleme modülüdür."
+        "content": "# Atamalar ve Kurumsal Gelişmeler\n\n* **Kabine ve Bürokrasi:** Cumhurbaşkanlığı Kararnameleriyle yapılan bakan, vali, rektör ve üst düzey bürokrat atamaları **Resmî Gazete**'de yayımlanır.\n* **Merkez Bankası:** TCMB Başkanlığı ve Para Politikası Kurulu (PPK) üyeliklerindeki değişimler para politikasının seyrini doğrudan etkiler.\n* **Yüksek Yargı:** Anayasa Mahkemesi, Yargıtay ve Danıştay başkanlık seçimleri ile üye atamaları sınavlarda sorulan başlıklardandır.\n* **Coğrafi İşaretler:** Türk Patent ve Marka Kurumu'nun tescillediği yerel ürünlerin (AB tescilli Malatya Kayısısı, Aydın İnciri, Gaziantep Baklavası gibi) sayısı her yıl artmaktadır."
     },
     {
         "id": 649,
@@ -207,7 +207,7 @@
         "subject_id": 7,
         "name": "Seçimler ve Liderlik Değişimleri",
         "order_index": 3,
-        "content": "# Seçimler ve Liderlik Değişimleri (Lisans)\n\n* **ABD Başkanlık Seçimleri:** Amerika Birleşik Devletleri'nde yapılan seçim sonuçları ve küresel siyasete etkileri.\n* **Avrupa'da Hükümet Değişimleri:** AB üyesi ülkelerdeki erken seçimler ve iktidar değişimleri."
+        "content": "# Seçimler ve Liderlik Değişimleri\n\n* **ABD Başkanlık Seçimi:** Kasım 2024'te yapılan seçimi **Donald Trump** kazanmış ve Ocak 2025'te 47. Başkan olarak göreve başlamıştır.\n* **Birleşik Krallık:** Temmuz 2024 genel seçimlerini İşçi Partisi kazanmış, **Keir Starmer** başbakan olmuştur.\n* **Avrupa Parlamentosu:** Haziran 2024'te AB genelinde Avrupa Parlamentosu seçimleri yapılmış; Ursula von der Leyen ikinci kez Komisyon Başkanı seçilmiştir.\n* **Rusya:** Mart 2024 seçimleriyle Vladimir Putin yeniden devlet başkanı seçilmiştir."
     },
     {
         "id": 655,
@@ -277,7 +277,7 @@
         "subject_id": 7,
         "name": "UNESCO Kültürel Miras Kararları",
         "order_index": 2,
-        "content": "# UNESCO Kültürel Miras Kararları\n\n* **Somut Olmayan Kültürel Miras:** İftar geleneği ve tezhip sanatı gibi unsurların UNESCO insanlığın somut olmayan kültürel mirası temsilî listesine kaydedilmesi."
+        "content": "# UNESCO Kültürel Miras Kararları\n\n* **Somut Olmayan Kültürel Miras:** İftar geleneği (2023) ve çok uluslu dosya kapsamında **tezhip sanatı** (2023) UNESCO temsilî listesine kaydedilmiştir. Türkiye; ebru, hüsn-i hat, çini ustalığı ve Nasreddin Hoca fıkraları gibi çok sayıda unsurla listede yer alır.\n* **Dünya Mirası Listesi:** 2023'te **Gordion Antik Kenti** (Ankara) ve **Anadolu'nun Ortaçağ Dönemi Ahşap Direkli Camileri** eklenmiştir; listede Göbeklitepe, Efes, Ayasofya gibi varlıklar da bulunur.\n* **Geçici Liste:** Türkiye'nin çok sayıda kültürel ve doğal varlığı, asıl listeye alınmak üzere geçici listede beklemektedir."
     },
     {
         "id": 665,
@@ -291,14 +291,14 @@
         "subject_id": 7,
         "name": "Sporcu Başarıları",
         "order_index": 2,
-        "content": "# Sporcu Başarıları\n\n* **Rıza Kayaalp ve Taha Akgül:** Güreşte kazanılan üst üste Avrupa ve Dünya şampiyonlukları.\n* **Şahika Ercümen:** Serbest dalışta kırılan yeni dünya ve Türkiye rekorları."
+        "content": "# Sporcu Başarıları\n\n* **Güreş:** **Rıza Kayaalp ve Taha Akgül**, üst üste kazandıkları Avrupa ve Dünya şampiyonluklarıyla Türk güreşinin en madalyalı isimleri arasındadır.\n* **Atıcılık:** **Yusuf Dikeç**, Paris 2024 Olimpiyatları'nda havalı tabanca karışık takımda (Şevval İlayda Tarhan ile) gümüş madalya kazanarak dünya gündemine oturmuştur.\n* **Okçuluk:** **Mete Gazoz**, Tokyo 2020 olimpiyat şampiyonluğunun ardından Dünya ve Avrupa şampiyonlukları da elde etmiştir.\n* **Serbest Dalış:** **Şahika Ercümen**, yeni dünya ve Türkiye rekorları kırmaya devam etmektedir.\n* **Halter ve Boks:** Avrupa ve Dünya şampiyonalarında Türk sporcular çok sayıda madalya kazanmıştır; **Busenaz Sürmeneli** Tokyo 2020 olimpiyat şampiyonudur."
     },
     {
         "id": 667,
         "subject_id": 7,
         "name": "Nobel Ödülleri",
         "order_index": 1,
-        "content": "# Nobel Ödülleri\n\n* **Nobel Barış Ödülü:** Narges Mohammadi'ye (İran) verilmiştir.\n* **Nobel Edebiyat Ödülü:** Norveçli yazar Jon Fosse'ye takdim edilmiştir.\n* **Bilim Ödülleri:** Fizik, Kimya ve Tıp alanında çığır açan keşiflere verilen güncel ödüller."
+        "content": "# Nobel Ödülleri\n\n* **2023 Barış Ödülü:** İranlı insan hakları aktivisti **Narges Mohammadi**'ye verilmiştir.\n* **2023 Edebiyat Ödülü:** Norveçli yazar **Jon Fosse**'ye takdim edilmiştir.\n* **2024 Barış Ödülü:** Japon atom bombası mağdurları örgütü **Nihon Hidankyo**'ya verilmiştir.\n* **2024 Edebiyat Ödülü:** Güney Koreli yazar **Han Kang** kazanmıştır (ülkesine ilk Edebiyat Nobeli).\n* **2024 Bilim Ödülleri:** Fizik Ödülü yapay sinir ağları çalışmalarıyla **Hopfield ve Hinton**'a; Kimya Ödülü protein yapısı tahmini (AlphaFold) çalışmalarıyla **Baker, Hassabis ve Jumper**'a verilmiştir — her ikisi de yapay zeka alanındadır.\n* **Türkiye'nin Nobelleri:** Orhan Pamuk (2006, Edebiyat) ve Aziz Sancar (2015, Kimya)."
     },
     {
         "id": 668,
@@ -317,7 +317,7 @@
     {
         "id": 670,
         "subject_id": 7,
-        "name": "Coğrafi İşaret Tesciller",
+        "name": "Coğrafi İşaret Tescilleri",
         "order_index": 2,
         "content": "# Coğrafi İşaret Tescilleri\n\n* **AB Tescilli Ürünlerimiz:** Aydın İnciri, Gaziantep Baklavası, Malatya Kayısısı'nın yanına eklenen en son AB tescilli Türk lezzetleri (Örn: Çağlayancerit Cevizi, Maraş Tarhanası, Gemlik Zeytini).\n* **Yerli Tescil:** Türk Patent Enstitüsü tarafından koruma altına alınan yerel ürün sayısının artışı."
     }
