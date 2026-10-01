@@ -3,6 +3,7 @@
 > **Son Güncelleme:** 2026-09-28  
 > **Durum:** Aktif Proje Takip Belgesi  
 > **İlgili Depo:** `d:\Projects\web\site\mkerbas60.github.io` (GitHub Pages Yayını)
+> **Ekosistem önceliği:** bkz. `D:\Projects\docs\yapılanlar_yapılacaklar.md` (konsolide durum) ve `D:\Projects\docs\oncelikli_gelistirme_planı.md` (öncelik sırası).  
 
 ---
 
