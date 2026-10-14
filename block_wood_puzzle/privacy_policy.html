@@ -387,6 +387,12 @@
       .wrapper { padding: 40px 16px 80px; }
       .toc { padding: 20px; }
     }
+    /* ── TABLE ── */
+    .section table { width: 100%; border-collapse: collapse; margin: 12px 0 20px; font-size: 15px; }
+    .section th, .section td { border: 1px solid var(--border); padding: 10px 12px; text-align: left; vertical-align: top; color: var(--text); }
+    .section th { background: var(--surface2); color: var(--cream); }
+    .section code { color: var(--gold); font-size: 13px; word-break: break-all; }
+    .section a { color: var(--gold); }
   </style>
 </head>
 <body class="tr">
@@ -406,7 +412,8 @@
   <br>
   <div class="date-badge">
     📅 <span class="lang-tr">Son Güncelleme:</span><span class="lang-en" style="display:none">Last Updated:</span>
-    &nbsp;<span>6 Mart 2026</span>
+    &nbsp;<span class="lang-tr">14 Ekim 2026</span><span class="lang-en" style="display:none">October 14, 2026</span>
+    &nbsp;·&nbsp; v1.1.3
   </div>
 </header>
 
@@ -414,157 +421,132 @@
 <div class="lang-tr">
 <div class="wrapper">
 
-  <!-- TOC -->
   <nav class="toc">
     <div class="toc-title">İçindekiler</div>
     <ol>
-      <li><a href="#tr-1">Toplanan Veriler</a></li>
-      <li><a href="#tr-2">İzinler</a></li>
-      <li><a href="#tr-3">Üçüncü Taraflar</a></li>
-      <li><a href="#tr-4">Çocukların Gizliliği</a></li>
-      <li><a href="#tr-5">Güvenlik</a></li>
-      <li><a href="#tr-6">Değişiklikler</a></li>
-      <li><a href="#tr-7">Haklarınız</a></li>
-      <li><a href="#tr-8">İletişim</a></li>
+      <li><a href="#tr-1">Özet</a></li>
+      <li><a href="#tr-2">Toplanan Veriler</a></li>
+      <li><a href="#tr-3">Reklamlar ve Onay</a></li>
+      <li><a href="#tr-4">İzinler</a></li>
+      <li><a href="#tr-5">Üçüncü Taraflar</a></li>
+      <li><a href="#tr-6">Bildirimler</a></li>
+      <li><a href="#tr-7">Paylaşım ve Yedekleme</a></li>
+      <li><a href="#tr-8">Çocukların Gizliliği</a></li>
+      <li><a href="#tr-9">Saklama ve Güvenlik</a></li>
+      <li><a href="#tr-10">Haklarınız</a></li>
+      <li><a href="#tr-11">Değişiklikler</a></li>
+      <li><a href="#tr-12">İletişim</a></li>
     </ol>
   </nav>
 
-  <!-- Intro -->
   <div class="section">
     <div class="highlight">
-      <p>Bu Gizlilik Politikası, <strong>Block Wood Puzzle</strong> uygulamasının kişisel verilerinizi nasıl ele aldığını açıklar. Uygulamamızı kullanarak bu politikayı kabul etmiş sayılırsınız.</p>
+      <p>Bu Gizlilik Politikası, <strong>Block Wood Puzzle</strong> oyununun (“Uygulama”) verileri nasıl işlediğini açıklar. Uygulamayı kullanarak burada anlatılan işlemeyi kabul etmiş olursunuz.</p>
     </div>
   </div>
 
-  <!-- 1 -->
   <div class="section" id="tr-1">
-    <div class="section-header">
-      <div class="section-num">1</div>
-      <h2>Toplanan Veriler</h2>
-    </div>
-    <div class="no-data">Block Wood Puzzle hiçbir kişisel veri toplamaz.</div>
-    <p>Uygulamamız tamamen çevrimdışı çalışır. Aşağıdaki bilgilerin hiçbiri toplanmaz, iletilmez veya depolanmaz:</p>
+    <div class="section-header"><div class="section-num">1</div><h2>Özet</h2></div>
     <ul>
-      <li>Ad, soyad, e-posta veya telefon numarası</li>
-      <li>Konum bilgisi (GPS, ağ tabanlı veya IP)</li>
-      <li>Cihaz kimliği veya reklam tanımlayıcılar</li>
-      <li>Kullanım istatistikleri veya analitik veriler</li>
-      <li>Kamera, mikrofon veya galeri içeriği</li>
+      <li>Hesap/üyelik yoktur; ad, e-posta, telefon gibi bilgi istemeyiz.</li>
+      <li>Oyun verileriniz (skorlar, jetonlar, görevler, ayarlar) <strong>yalnızca cihazınızda</strong> saklanır; bizim işlettiğimiz bir sunucuya gönderilmez.</li>
+      <li>Uygulamada <strong>Google AdMob</strong> reklamları gösterilir; reklam için Google bazı cihaz verilerini (ör. Reklam Kimliği) işleyebilir.</li>
+      <li>Konum, kamera, mikrofon, kişiler veya dosya/depolama izni istemeyiz.</li>
     </ul>
-    <p>Oyun yalnızca <strong>yüksek skoru</strong> cihazınızın yerel deposuna (SharedPreferences) kaydeder. Bu veri cihazınızdan hiçbir zaman ayrılmaz.</p>
   </div>
 
-  <!-- 2 -->
   <div class="section" id="tr-2">
-    <div class="section-header">
-      <div class="section-num">2</div>
-      <h2>Uygulama İzinleri</h2>
-    </div>
-    <p>Block Wood Puzzle herhangi bir sistem izni talep etmez:</p>
+    <div class="section-header"><div class="section-num">2</div><h2>Toplanan Veriler</h2></div>
+    <p><strong>Cihazda yerel olarak saklananlar</strong> (SQLite ve SharedPreferences; bize iletilmez):</p>
     <ul>
-      <li>❌ İnternet erişimi gerekmez</li>
-      <li>❌ Konum izni istenmez</li>
-      <li>❌ Kamera veya mikrofon kullanılmaz</li>
-      <li>❌ Kişiler veya takvim erişimi yoktur</li>
-      <li>❌ Bildirim izni talep edilmez</li>
+      <li>Skorlar ve skor geçmişi — uygulamadaki “skor tablosu” yalnızca bu cihazdaki sonuçları gösterir, çevrim içi bir sıralama değildir,</li>
+      <li>Kayıtlı oyun, istatistikler, başarımlar, macera ilerlemesi, günlük bulmaca, görevler, günlük bonus/seri, şans çarkı, jeton ve kumbara bakiyesi,</li>
+      <li>Açılan kozmetik öğeler (görünüm, oda eşyaları vb.),</li>
+      <li>Ayarlar: dil, tema, ses/titreşim, bildirim tercihleri, ilk açılış durumu, reklam sayaçları ve reklam onay tercihiniz.</li>
     </ul>
+    <p>Bu veriler, hileyi zorlaştırmak için cihazda bir bütünlük imzasıyla (HMAC) korunabilir; bu bir kişisel veri toplama işlemi değildir.</p>
+    <p><strong>Reklam hizmeti tarafından işlenenler:</strong> Google AdMob, kendi politikaları uyarınca Reklam Kimliği, IP adresi ve buna bağlı yaklaşık konum, cihaz/uygulama bilgileri (model, işletim sistemi, dil, uygulama sürümü), reklam etkileşim ve performans verileri ile sahtekârlık önleme/tanılama sinyallerini toplayabilir. Biz bu verilere kişisel olarak erişemeyiz.</p>
+    <p><strong>Güncelleme kontrolü:</strong> Yeni sürüm olup olmadığını anlamak için <code>mkerbas60.github.io</code> (GitHub Pages) üzerindeki herkese açık bir <code>version.json</code> dosyası indirilir ve Google Play uygulama içi güncelleme özelliği kullanılabilir. Her internet isteğinde olduğu gibi IP adresiniz ilgili sağlayıcıya (GitHub, Google) ulaşır; biz bunu kaydetmeyiz.</p>
   </div>
 
-  <!-- 3 -->
   <div class="section" id="tr-3">
-    <div class="section-header">
-      <div class="section-num">3</div>
-      <h2>Üçüncü Taraf Hizmetler</h2>
-    </div>
-    <div class="no-data">Hiçbir üçüncü taraf SDK veya reklam ağı kullanılmamaktadır.</div>
-    <p>Uygulamamız şunları içermez:</p>
+    <div class="section-header"><div class="section-num">3</div><h2>Reklamlar ve Onay (GDPR / KVKK)</h2></div>
+    <p>Uygulama; açılış, banner, geçiş, ödüllü, ödüllü geçiş ve yerel (native) reklamlar için Google AdMob kullanır.</p>
     <ul>
-      <li>Reklam ağları (AdMob, Facebook Ads vb.)</li>
-      <li>Analitik araçlar (Firebase, Mixpanel vb.)</li>
-      <li>Kilitlenme raporlama servisleri</li>
-      <li>Sosyal medya entegrasyonları</li>
-      <li>Ödeme sistemleri veya uygulama içi satın alma</li>
+      <li><strong>AB/AEA ve Birleşik Krallık:</strong> Google’ın Kullanıcı Mesajlaşma Platformu (UMP) ile bir onay formu gösterilir. Onay vermezseniz kişiselleştirilmiş reklam gösterilmez veya reklamlar sınırlı sunulur. Tercihinizi Ayarlar’daki gizlilik seçeneğinden (bölgenizde gerekliyse) değiştirebilirsiniz.</li>
+      <li><strong>Android:</strong> <em>Ayarlar → Google → Reklamlar</em> bölümünden Reklam Kimliğinizi sıfırlayabilir veya kişiselleştirmeyi kapatabilirsiniz.</li>
+      <li><strong>iOS:</strong> <em>Ayarlar → Gizlilik ve Güvenlik → İzleme</em> bölümünden izleme iznini yönetebilirsiniz.</li>
+      <li>Ayrıntılar: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Gizlilik Politikası</a>, <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Google’ın iş ortağı uygulamalarda veri kullanımı</a>.</li>
+      <li>Reklam verilerinin yurt dışına (Google altyapısına) aktarımı reklam hizmetinin doğası gereğidir; Türkiye’de 6698 sayılı KVKK, Avrupa’da GDPR kapsamında yürütülür.</li>
     </ul>
   </div>
 
-  <!-- 4 -->
   <div class="section" id="tr-4">
-    <div class="section-header">
-      <div class="section-num">4</div>
-      <h2>Çocukların Gizliliği</h2>
-    </div>
-    <p>Block Wood Puzzle, <strong>PEGI 3 / Everyone</strong> derecelendirmesine sahip olup tüm yaş gruplarına yöneliktir. Uygulama, 13 yaşın altındaki çocuklar da dahil olmak üzere hiçbir kullanıcıdan kişisel veri toplamaz.</p>
-    <p>COPPA (Çocukların Çevrimiçi Gizliliğini Koruma Yasası) ve GDPR'nin çocuklar hakkındaki hükümlerine tam uyum sağlanmaktadır.</p>
+    <div class="section-header"><div class="section-num">4</div><h2>Uygulama İzinleri</h2></div>
+    <table>
+      <tr><th>İzin</th><th>Neden?</th></tr>
+      <tr><td><code>INTERNET</code>, <code>ACCESS_NETWORK_STATE</code></td><td>Reklamların yüklenmesi ve güncelleme kontrolü.</td></tr>
+      <tr><td><code>AD_ID</code> (Reklam Kimliği)</td><td>Reklam hizmetinin Reklam Kimliği’ne erişmesi. Cihaz ayarlarından sıfırlanabilir/kapatılabilir.</td></tr>
+      <tr><td><code>POST_NOTIFICATIONS</code></td><td>Günlük bonus, görev, seri vb. yerel hatırlatmalar. İsteğe bağlıdır.</td></tr>
+      <tr><td><code>RECEIVE_BOOT_COMPLETED</code></td><td>Cihaz yeniden başladıktan sonra zamanlanmış yerel hatırlatmaların yeniden kurulması.</td></tr>
+    </table>
+    <p>Konum, kişiler, kamera, mikrofon, takvim, SMS veya genel depolama izni istenmez. Kesin alarm izinleri bilinçli olarak devre dışıdır.</p>
   </div>
 
-  <!-- 5 -->
   <div class="section" id="tr-5">
-    <div class="section-header">
-      <div class="section-num">5</div>
-      <h2>Veri Güvenliği</h2>
-    </div>
-    <p>Uygulamamız veri toplamadığından, veri ihlali riski sıfırdır. Yüksek skor bilgisi yalnızca cihazınızda saklanır ve yalnızca siz erişebilirsiniz.</p>
-    <p>Uygulamayı cihazınızdan kaldırdığınızda, kayıtlı tüm yerel veriler (yüksek skor dahil) otomatik olarak silinir.</p>
+    <div class="section-header"><div class="section-num">5</div><h2>Üçüncü Taraf Hizmetler</h2></div>
+    <p>Veri alan tek üçüncü taraf, reklam sağlayıcısı <strong>Google (AdMob / Google Mobile Ads SDK)</strong>’dır. Güncelleme kontrolü için <strong>GitHub Pages</strong> ve <strong>Google Play</strong> kullanılır. Uygulamada Firebase, kendi analitik/çökme raporlama servisimiz, sosyal medya girişi veya uygulama içi satın alma bulunmaz.</p>
   </div>
 
-  <!-- 6 -->
   <div class="section" id="tr-6">
-    <div class="section-header">
-      <div class="section-num">6</div>
-      <h2>Politika Değişiklikleri</h2>
-    </div>
-    <p>Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişiklik bu sayfada yayınlanacak ve yürürlük tarihi güncellenecektir.</p>
-    <p>Önemli değişiklikler için Google Play mağaza açıklamasına bir bildirim eklenecektir. Uygulamayı kullanmaya devam etmeniz güncellenmiş politikayı kabul ettiğiniz anlamına gelir.</p>
+    <div class="section-header"><div class="section-num">6</div><h2>Bildirimler</h2></div>
+    <p>Hatırlatmalar <strong>yerel</strong> bildirimlerdir: cihazınızda zamanlanır, herhangi bir sunucudan (push) gönderilmez. Sistem ayarlarından veya uygulama ayarlarından kapatabilirsiniz.</p>
   </div>
 
-  <!-- 7 -->
   <div class="section" id="tr-7">
-    <div class="section-header">
-      <div class="section-num">7</div>
-      <h2>Haklarınız</h2>
-    </div>
-    <p>KVKK ve GDPR kapsamında aşağıdaki haklara sahipsiniz:</p>
-    <ul>
-      <li>Verilerinize erişim hakkı</li>
-      <li>Verilerinizi düzeltme veya silme hakkı</li>
-      <li>Veri işlemeye itiraz etme hakkı</li>
-      <li>Veri taşınabilirliği hakkı</li>
-    </ul>
-    <div class="highlight">
-      <p>Herhangi bir veri toplamadığımızdan, bu hakların uygulanması gerekmemektedir. Bununla birlikte herhangi bir sorunuz için aşağıdaki iletişim kanallarından bize ulaşabilirsiniz.</p>
-    </div>
+    <div class="section-header"><div class="section-num">7</div><h2>Paylaşım ve Yedekleme</h2></div>
+    <p><strong>Skor paylaşımı:</strong> Rekor paylaştığınızda uygulama bir skor görseli oluşturur ve cihazın paylaşım menüsünü açar. Görselin nereye gideceğine siz karar verirsiniz; bize gönderilmez.</p>
+    <p><strong>Yedekleme/geri yükleme:</strong> Oyun veritabanınızı yedek dosyası olarak dışa aktarabilir ve geri yükleyebilirsiniz. İşlem sizin tarafınızdan başlatılır; dosyayı nereye kaydettiğiniz (Drive, e-posta vb.) size aittir ve o hizmetlerin gizlilik uygulamaları ilgili sağlayıcıya aittir. Yedek dosyalarınıza erişmeyiz.</p>
   </div>
 
-  <!-- 8 -->
   <div class="section" id="tr-8">
-    <div class="section-header">
-      <div class="section-num">8</div>
-      <h2>İletişim</h2>
-    </div>
-    <p>Bu gizlilik politikası hakkında sorularınız için:</p>
+    <div class="section-header"><div class="section-num">8</div><h2>Çocukların Gizliliği</h2></div>
+    <p>Block Wood Puzzle genel kitleye yönelik bir bulmaca oyunudur ve özellikle 13 yaşın (veya ülkenizdeki dijital rıza yaşının) altındaki çocuklara yönelik <strong>değildir</strong>. Çocuklardan bilerek kişisel veri toplamayız. Reklamlar Google tarafından sunulur ve içerik kısıtlamaları Google politikalarına tabidir. Bir çocuğun kişisel veri verdiğini düşünüyorsanız bize ulaşın.</p>
+  </div>
+
+  <div class="section" id="tr-9">
+    <div class="section-header"><div class="section-num">9</div><h2>Saklama, Silme ve Güvenlik</h2></div>
+    <ul>
+      <li>Yerel veriler cihazınızda kalır. Uygulamayı kaldırarak veya Android’de <em>Ayarlar → Uygulamalar → Block Wood Puzzle → Depolama → Verileri temizle</em> ile hepsini silebilirsiniz; skor geçmişi uygulama içinden de silinebilir.</li>
+      <li>Oluşturduğunuz yedek dosyaları kaydettiğiniz yerde kalır; silmek size aittir.</li>
+      <li>Bizde sunucu tarafında kişisel veriniz tutulmadığından silinecek bir kayıt yoktur. Reklam verileri için <a href="https://myadcenter.google.com/" target="_blank" rel="noopener">Google Reklam Merkezim</a> araçlarını kullanabilirsiniz.</li>
+      <li>Verileriniz üçüncü taraflara satılmaz. Hiçbir elektronik saklama yöntemi %100 güvenli değildir; cihazınızı ekran kilidi ve güncel işletim sistemiyle korumanızı öneririz.</li>
+    </ul>
+  </div>
+
+  <div class="section" id="tr-10">
+    <div class="section-header"><div class="section-num">10</div><h2>Haklarınız</h2></div>
+    <p>KVKK (m. 11) ve GDPR kapsamında verilerinize erişme, düzeltme, silme, işlemeye itiraz etme, taşınabilirlik ve onayı geri çekme haklarına sahipsiniz. Yerel verileriniz tamamen sizin kontrolünüzdedir; reklam verilerine ilişkin talepler için Bölüm 3’teki ayarları kullanabilir ya da bize yazabilirsiniz.</p>
+  </div>
+
+  <div class="section" id="tr-11">
+    <div class="section-header"><div class="section-num">11</div><h2>Politika Değişiklikleri</h2></div>
+    <p>Bu politika zaman zaman güncellenebilir (ör. yeni bir özellik veya hizmet eklendiğinde). Güncel sürüm bu sayfada yayınlanır ve “Son Güncelleme” tarihi değişir. Önemli değişikliklerden sonra uygulamayı kullanmaya devam etmeniz güncel politikayı kabul ettiğiniz anlamına gelir.</p>
+  </div>
+
+  <div class="section" id="tr-12">
+    <div class="section-header"><div class="section-num">12</div><h2>İletişim</h2></div>
+    <p>Gizlilik politikası veya verilerinizle ilgili sorularınız için:</p>
     <div class="contact-card">
-      <div class="contact-row">
-        <span class="contact-label">Uygulama</span>
-        <span class="contact-val">Block Wood Puzzle</span>
-      </div>
-      <div class="contact-row">
-        <span class="contact-label">Geliştirici</span>
-        <span class="contact-val">Block Wood Puzzle Dev Team</span>
-      </div>
-      <div class="contact-row">
-        <span class="contact-label">E-posta</span>
-        <span class="contact-val"><a href="mailto:privacy@blockwoodpuzzle.com">privacy@blockwoodpuzzle.com</a></span>
-      </div>
-      <div class="contact-row">
-        <span class="contact-label">Web</span>
-        <span class="contact-val"><a href="https://blockwoodpuzzle.com" target="_blank">blockwoodpuzzle.com</a></span>
-      </div>
+      <div class="contact-row"><span class="contact-label">Uygulama</span><span class="contact-val">Block Wood Puzzle</span></div>
+      <div class="contact-row"><span class="contact-label">Geliştirici</span><span class="contact-val">Block Wood Puzzle Dev Team</span></div>
+      <div class="contact-row"><span class="contact-label">E-posta</span><span class="contact-val"><a href="mailto:mkerbas60@gmail.com">mkerbas60@gmail.com</a></span></div>
     </div>
   </div>
 
   <div class="ornament">· · · ✦ · · ·</div>
 
-</div><!-- /wrapper TR -->
+</div>
 </div><!-- /lang-tr -->
 
 
@@ -572,166 +554,140 @@
 <div class="lang-en" style="display:none">
 <div class="wrapper">
 
-  <!-- TOC -->
   <nav class="toc">
     <div class="toc-title">Table of Contents</div>
     <ol>
-      <li><a href="#en-1">Data Collection</a></li>
-      <li><a href="#en-2">Permissions</a></li>
-      <li><a href="#en-3">Third Parties</a></li>
-      <li><a href="#en-4">Children's Privacy</a></li>
-      <li><a href="#en-5">Security</a></li>
-      <li><a href="#en-6">Policy Changes</a></li>
-      <li><a href="#en-7">Your Rights</a></li>
-      <li><a href="#en-8">Contact</a></li>
+      <li><a href="#en-1">Summary</a></li>
+      <li><a href="#en-2">Data Collected</a></li>
+      <li><a href="#en-3">Ads and Consent</a></li>
+      <li><a href="#en-4">Permissions</a></li>
+      <li><a href="#en-5">Third Parties</a></li>
+      <li><a href="#en-6">Notifications</a></li>
+      <li><a href="#en-7">Sharing and Backup</a></li>
+      <li><a href="#en-8">Children's Privacy</a></li>
+      <li><a href="#en-9">Retention and Security</a></li>
+      <li><a href="#en-10">Your Rights</a></li>
+      <li><a href="#en-11">Policy Changes</a></li>
+      <li><a href="#en-12">Contact</a></li>
     </ol>
   </nav>
 
-  <!-- Intro -->
   <div class="section">
     <div class="highlight">
-      <p>This Privacy Policy explains how <strong>Block Wood Puzzle</strong> handles your personal data. By using our app, you agree to the terms described in this policy.</p>
+      <p>This Privacy Policy explains how <strong>Block Wood Puzzle</strong> (the “App”) handles data. By using the App you agree to the processing described here.</p>
     </div>
   </div>
 
-  <!-- 1 -->
   <div class="section" id="en-1">
-    <div class="section-header">
-      <div class="section-num">1</div>
-      <h2>Data Collection</h2>
-    </div>
-    <div class="no-data">Block Wood Puzzle does not collect any personal data.</div>
-    <p>Our app works entirely offline. None of the following information is collected, transmitted, or stored:</p>
+    <div class="section-header"><div class="section-num">1</div><h2>Summary</h2></div>
     <ul>
-      <li>Name, email address, or phone number</li>
-      <li>Location data (GPS, network-based, or IP address)</li>
-      <li>Device identifiers or advertising IDs</li>
-      <li>Usage statistics or analytics data</li>
-      <li>Camera, microphone, or gallery content</li>
+      <li>No account or registration; we never ask for your name, e-mail or phone number.</li>
+      <li>Your game data (scores, coins, missions, settings) is stored <strong>only on your device</strong> and is not sent to any server we operate.</li>
+      <li>The App shows <strong>Google AdMob</strong> ads; to serve them Google may process certain device data (e.g. the Advertising ID).</li>
+      <li>We do not request location, camera, microphone, contacts or file/storage permissions.</li>
     </ul>
-    <p>The game only saves your <strong>high score</strong> to your device's local storage (SharedPreferences). This data never leaves your device.</p>
   </div>
 
-  <!-- 2 -->
   <div class="section" id="en-2">
-    <div class="section-header">
-      <div class="section-num">2</div>
-      <h2>App Permissions</h2>
-    </div>
-    <p>Block Wood Puzzle does not request any system permissions:</p>
+    <div class="section-header"><div class="section-num">2</div><h2>Data Collected</h2></div>
+    <p><strong>Stored locally on your device</strong> (SQLite and SharedPreferences; not sent to us):</p>
     <ul>
-      <li>❌ No internet access required</li>
-      <li>❌ No location permission requested</li>
-      <li>❌ No camera or microphone used</li>
-      <li>❌ No access to contacts or calendar</li>
-      <li>❌ No notification permission requested</li>
+      <li>Scores and score history — the in-app “leaderboard” only shows results on this device; it is not an online ranking,</li>
+      <li>Saved game, statistics, achievements, adventure progress, daily puzzle, missions, daily bonus/streak, lucky spin, coin and piggy-bank balance,</li>
+      <li>Unlocked cosmetic items (looks, room items, etc.),</li>
+      <li>Settings: language, theme, sound/vibration, notification preferences, onboarding status, ad counters and your ad-consent choice.</li>
     </ul>
+    <p>To make cheating harder, this data may be protected on the device with an integrity signature (HMAC); this is not personal-data collection.</p>
+    <p><strong>Processed by the advertising service:</strong> under its own policies, Google AdMob may collect the Advertising ID, IP address and the approximate location derived from it, device/app information (model, OS, language, app version), ad interaction and performance data, and fraud-prevention/diagnostic signals. We cannot personally access this data.</p>
+    <p><strong>Update check:</strong> to learn whether a new version exists, a public <code>version.json</code> file on <code>mkerbas60.github.io</code> (GitHub Pages) is downloaded and Google Play's in-app update feature may be used. As with any internet request, your IP address reaches the provider (GitHub, Google); we do not log it.</p>
   </div>
 
-  <!-- 3 -->
   <div class="section" id="en-3">
-    <div class="section-header">
-      <div class="section-num">3</div>
-      <h2>Third-Party Services</h2>
-    </div>
-    <div class="no-data">No third-party SDKs or advertising networks are used.</div>
-    <p>Our app does not include:</p>
+    <div class="section-header"><div class="section-num">3</div><h2>Ads and Consent (GDPR / KVKK)</h2></div>
+    <p>The App uses Google AdMob for app-open, banner, interstitial, rewarded, rewarded-interstitial and native ads.</p>
     <ul>
-      <li>Advertising networks (AdMob, Facebook Ads, etc.)</li>
-      <li>Analytics tools (Firebase, Mixpanel, etc.)</li>
-      <li>Crash reporting services</li>
-      <li>Social media integrations</li>
-      <li>Payment systems or in-app purchases</li>
+      <li><strong>EU/EEA and United Kingdom:</strong> a consent form is shown through Google's User Messaging Platform (UMP). If you do not consent, personalized ads are not shown or ads are limited. You can change your choice in the privacy option in Settings (shown where required in your region).</li>
+      <li><strong>Android:</strong> reset your Advertising ID or opt out of personalization in <em>Settings → Google → Ads</em>.</li>
+      <li><strong>iOS:</strong> manage tracking in <em>Settings → Privacy &amp; Security → Tracking</em>.</li>
+      <li>Details: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a>, <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">How Google uses data from partner apps</a>.</li>
+      <li>Transfer of ad-related data abroad (to Google's infrastructure) is inherent to the ad service; processing is carried out under Law No. 6698 (KVKK) in Türkiye and the GDPR in Europe.</li>
     </ul>
   </div>
 
-  <!-- 4 -->
   <div class="section" id="en-4">
-    <div class="section-header">
-      <div class="section-num">4</div>
-      <h2>Children's Privacy</h2>
-    </div>
-    <p>Block Wood Puzzle is rated <strong>PEGI 3 / Everyone</strong> and is designed for all age groups. The app does not collect personal data from any user, including children under the age of 13.</p>
-    <p>We are fully compliant with COPPA (Children's Online Privacy Protection Act) and the child-related provisions of GDPR.</p>
+    <div class="section-header"><div class="section-num">4</div><h2>App Permissions</h2></div>
+    <table>
+      <tr><th>Permission</th><th>Why?</th></tr>
+      <tr><td><code>INTERNET</code>, <code>ACCESS_NETWORK_STATE</code></td><td>Loading ads and checking for updates.</td></tr>
+      <tr><td><code>AD_ID</code> (Advertising ID)</td><td>Lets the ad service access the Advertising ID. Can be reset/disabled in device settings.</td></tr>
+      <tr><td><code>POST_NOTIFICATIONS</code></td><td>Local reminders (daily bonus, missions, streak, etc.). Optional.</td></tr>
+      <tr><td><code>RECEIVE_BOOT_COMPLETED</code></td><td>Re-scheduling local reminders after the device restarts.</td></tr>
+    </table>
+    <p>No location, contacts, camera, microphone, calendar, SMS or general storage permission is requested. Exact-alarm permissions are deliberately disabled.</p>
   </div>
 
-  <!-- 5 -->
   <div class="section" id="en-5">
-    <div class="section-header">
-      <div class="section-num">5</div>
-      <h2>Data Security</h2>
-    </div>
-    <p>Since our app does not collect any data, the risk of a data breach is zero. High score information is stored only on your device and is accessible only by you.</p>
-    <p>When you uninstall the app, all locally stored data (including your high score) is automatically deleted.</p>
+    <div class="section-header"><div class="section-num">5</div><h2>Third-Party Services</h2></div>
+    <p>The only third party that receives data is the ad provider <strong>Google (AdMob / Google Mobile Ads SDK)</strong>. <strong>GitHub Pages</strong> and <strong>Google Play</strong> are used for the update check. The App contains no Firebase, no analytics or crash-reporting service of our own, no social-media login and no in-app purchases.</p>
   </div>
 
-  <!-- 6 -->
   <div class="section" id="en-6">
-    <div class="section-header">
-      <div class="section-num">6</div>
-      <h2>Policy Changes</h2>
-    </div>
-    <p>We may update this privacy policy from time to time. Any changes will be posted on this page with an updated effective date.</p>
-    <p>For significant changes, a notice will be added to the Google Play store description. Continued use of the app after changes constitutes your acceptance of the updated policy.</p>
+    <div class="section-header"><div class="section-num">6</div><h2>Notifications</h2></div>
+    <p>Reminders are <strong>local</strong> notifications: they are scheduled on your device and are not sent from any (push) server. You can turn them off in system or app settings.</p>
   </div>
 
-  <!-- 7 -->
   <div class="section" id="en-7">
-    <div class="section-header">
-      <div class="section-num">7</div>
-      <h2>Your Rights</h2>
-    </div>
-    <p>Under GDPR and applicable data protection laws, you have the following rights:</p>
-    <ul>
-      <li>Right to access your data</li>
-      <li>Right to correct or delete your data</li>
-      <li>Right to object to data processing</li>
-      <li>Right to data portability</li>
-    </ul>
-    <div class="highlight">
-      <p>Since we do not collect any data, these rights do not need to be exercised. However, for any questions, feel free to contact us through the channels below.</p>
-    </div>
+    <div class="section-header"><div class="section-num">7</div><h2>Sharing and Backup</h2></div>
+    <p><strong>Score sharing:</strong> when you share a record, the App creates a score image and opens the device's share sheet. You decide where it goes; it is not sent to us.</p>
+    <p><strong>Backup/restore:</strong> you can export your game database as a backup file and restore it. You initiate this; where you save the file (Drive, e-mail, etc.) is your choice and those services' privacy practices belong to their providers. We do not have access to your backup files.</p>
   </div>
 
-  <!-- 8 -->
   <div class="section" id="en-8">
-    <div class="section-header">
-      <div class="section-num">8</div>
-      <h2>Contact Us</h2>
-    </div>
-    <p>If you have any questions about this privacy policy:</p>
+    <div class="section-header"><div class="section-num">8</div><h2>Children's Privacy</h2></div>
+    <p>Block Wood Puzzle is a general-audience puzzle game and is <strong>not</strong> directed at children under 13 (or under the age of digital consent in your country). We do not knowingly collect personal data from children. Ads are served by Google and content restrictions fall under Google's policies. If you believe a child has provided personal data, please contact us.</p>
+  </div>
+
+  <div class="section" id="en-9">
+    <div class="section-header"><div class="section-num">9</div><h2>Retention, Deletion and Security</h2></div>
+    <ul>
+      <li>Local data stays on your device. Delete it all by uninstalling the App or, on Android, via <em>Settings → Apps → Block Wood Puzzle → Storage → Clear data</em>; score history can also be cleared inside the App.</li>
+      <li>Backup files you create remain where you saved them; deleting them is up to you.</li>
+      <li>Because we hold no personal data on a server, there is no server-side record to delete. For ad data you can use <a href="https://myadcenter.google.com/" target="_blank" rel="noopener">Google My Ad Center</a>.</li>
+      <li>Your data is not sold. No method of electronic storage is 100% secure; we recommend a screen lock and an up-to-date operating system.</li>
+    </ul>
+  </div>
+
+  <div class="section" id="en-10">
+    <div class="section-header"><div class="section-num">10</div><h2>Your Rights</h2></div>
+    <p>Under the KVKK (Art. 11) and the GDPR you have the right to access, correct, delete, object to processing, data portability and to withdraw consent. Your local data is entirely under your control; for requests about ad data use the settings in Section 3 or contact us.</p>
+  </div>
+
+  <div class="section" id="en-11">
+    <div class="section-header"><div class="section-num">11</div><h2>Policy Changes</h2></div>
+    <p>This policy may be updated from time to time (e.g. when a new feature or service is added). The current version is published on this page and the “Last Updated” date changes. Continuing to use the App after a material change means you accept the updated policy.</p>
+  </div>
+
+  <div class="section" id="en-12">
+    <div class="section-header"><div class="section-num">12</div><h2>Contact Us</h2></div>
+    <p>For questions about this policy or your data:</p>
     <div class="contact-card">
-      <div class="contact-row">
-        <span class="contact-label">App</span>
-        <span class="contact-val">Block Wood Puzzle</span>
-      </div>
-      <div class="contact-row">
-        <span class="contact-label">Developer</span>
-        <span class="contact-val">Block Wood Puzzle Dev Team</span>
-      </div>
-      <div class="contact-row">
-        <span class="contact-label">Email</span>
-        <span class="contact-val"><a href="mailto:mkerbas60@gmail.com">mkerbas60@gmail.com</a></span>
-      </div>
+      <div class="contact-row"><span class="contact-label">App</span><span class="contact-val">Block Wood Puzzle</span></div>
+      <div class="contact-row"><span class="contact-label">Developer</span><span class="contact-val">Block Wood Puzzle Dev Team</span></div>
+      <div class="contact-row"><span class="contact-label">Email</span><span class="contact-val"><a href="mailto:mkerbas60@gmail.com">mkerbas60@gmail.com</a></span></div>
     </div>
   </div>
 
   <div class="ornament">· · · ✦ · · ·</div>
 
-</div><!-- /wrapper EN -->
+</div>
 </div><!-- /lang-en -->
 
 
-<!-- Footer -->
 <footer>
   <p>
     <strong>Block Wood Puzzle</strong> &nbsp;·&nbsp;
     <span class="lang-tr">Gizlilik Politikası</span><span class="lang-en" style="display:none">Privacy Policy</span>
-    &nbsp;·&nbsp; v1.0 &nbsp;·&nbsp; 2026
-  </p>
-  <p style="margin-top:6px;">
-    <span class="lang-tr">Bu belge yasal geçerliliğe sahiptir ve Google Play Developer Program Policies ile uyumludur.</span>
-    <span class="lang-en" style="display:none">This document is legally valid and compliant with Google Play Developer Program Policies.</span>
+    &nbsp;·&nbsp; v1.1.3 &nbsp;·&nbsp; 2026
   </p>
 </footer>
 
@@ -741,11 +697,12 @@
     document.querySelectorAll('.lang-btn').forEach(btn => {
       btn.classList.toggle('active', btn.textContent.toLowerCase() === lang);
     });
-    // Toggle header titles & footer spans
     document.querySelectorAll('.lang-tr, .lang-en').forEach(el => {
       el.style.display = el.classList.contains('lang-' + lang) ? '' : 'none';
     });
   }
+  // Tarayıcı dili Türkçe değilse İngilizce ile aç / open in English unless the browser language is Turkish
+  if (!/^tr/i.test(navigator.language || '')) setLang('en');
 </script>
 
 </body>
