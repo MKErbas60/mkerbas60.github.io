@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Match Master - Gizlilik Politikası</title>
+    <title>Match Master - Gizlilik Politikası / Privacy Policy</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -31,15 +31,23 @@
             font-size: 20px;
             margin-top: 25px;
         }
-        p {
+        p { margin-bottom: 15px; }
+        ul { margin-bottom: 15px; }
+        li { margin-bottom: 8px; }
+        table {
+            border-collapse: collapse;
+            width: 100%;
             margin-bottom: 15px;
+            font-size: 0.95em;
         }
-        ul {
-            margin-bottom: 15px;
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px 10px;
+            text-align: left;
+            vertical-align: top;
         }
-        li {
-            margin-bottom: 8px;
-        }
+        th { background-color: #f4f4f4; }
+        code { word-break: break-all; }
         .footer {
             margin-top: 30px;
             padding-top: 20px;
@@ -47,60 +55,210 @@
             font-size: 0.9em;
             color: #7f8c8d;
         }
-        a {
-            color: #3498db;
-            text-decoration: none;
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .lang-switch { text-align: right; margin-bottom: 10px; }
+        .lang-switch a {
+            display: inline-block;
+            padding: 4px 12px;
+            border: 1px solid #3498db;
+            border-radius: 4px;
+            margin-left: 6px;
+            font-size: 0.9em;
         }
-        a:hover {
-            text-decoration: underline;
-        }
+        .lang-switch a:hover { background-color: #3498db; color: #fff; text-decoration: none; }
+        .divider { border: 0; border-top: 3px double #3498db; margin: 50px 0 30px; }
+        @media (max-width: 600px) { .container { padding: 20px; } }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Match Master - Kart Eşleştirme Gizlilik Politikası</h1>
-        <p><strong>Son Güncelleme:</strong> 3 Şubat 2026</p>
 
-        <p>İşbu Gizlilik Politikası, <strong>Match Master - Kart Eşleştirme</strong> mobil uygulamasının (bundan sonra "Uygulama" olarak anılacaktır) kullanıcılarına ait bilgilerin nasıl işlendiğini açıklamak amacıyla hazırlanmıştır. Uygulamayı cihazınıza yükleyerek bu politikayı kabul etmiş sayılırsınız.</p>
+        <div class="lang-switch">
+            <a href="#tr">Türkçe</a>
+            <a href="#en">English</a>
+        </div>
 
-        <h2>1. Toplanan Veriler ve Kullanım Amacı</h2>
-        <p>Uygulamamız, kullanıcı deneyimini iyileştirmek ve hizmet sunmak amacıyla şu verileri işler:</p>
-        <ul>
-            <li><strong>Yerel Veriler:</strong> Oyun skorlarınız, ayarlarınız ve oyun ilerlemeniz sadece cihazınızın yerel depolama biriminde (SharedPreferences) saklanır. Bu verilere tarafımızca harici bir sunucu üzerinden erişilemez.</li>
-            <li><strong>Otomatik Toplanan Veriler:</strong> Uygulama içerisinde kullanılan üçüncü taraf hizmetler (Google AdMob), reklam sunumu ve analitik raporlama amacıyla cihaz kimliği (IDFA/GAID), yaklaşık konum ve uygulama içi etkileşim verilerini toplayabilir.</li>
-        </ul>
+        <!-- ============================== TÜRKÇE ============================== -->
+        <section id="tr" lang="tr">
+            <h1>Match Master - Kart Eşleştirme Gizlilik Politikası</h1>
+            <p><strong>Son Güncelleme:</strong> 14 Ekim 2026 &middot; <strong>Uygulama Sürümü:</strong> 1.1.3</p>
 
-        <h2>2. Üçüncü Taraf Hizmetler ve Reklamlar</h2>
-        <p>Uygulama, reklam göstermek için Google AdMob servislerini kullanmaktadır. Bu servisler kendi gizlilik politikalarına sahiptir:</p>
-        <ul>
-            <li><strong>Google AdMob:</strong> Kişiselleştirilmiş veya kişiselleştirilmemiş reklamlar sunmak amacıyla veri toplayabilir. Google’ın bu verileri nasıl kullandığını öğrenmek için <a href="https://policies.google.com/privacy" target="_blank">Google Gizlilik ve Şartlar</a> sayfasını ziyaret edebilirsiniz.</li>
-        </ul>
+            <p>İşbu Gizlilik Politikası, <strong>Match Master - Kart Eşleştirme</strong> mobil oyununun (bundan sonra "Uygulama") verileri nasıl işlediğini açıklar. Uygulamayı kullanarak burada anlatılan işlemeyi kabul etmiş olursunuz. Uygulama hesap/üyelik gerektirmez, kendi sunucumuza kişisel veri göndermez ve sizden ad, e-posta, telefon gibi bilgiler istemez.</p>
 
-        <h2>3. Kullanıcı İzinleri</h2>
-        <p>Uygulamanın tam fonksiyonel çalışabilmesi için şu izinler talep edilebilir:</p>
-        <ul>
-            <li><strong>İnternet Erişimi:</strong> Reklamların yüklenmesi ve varsa güncel içeriklerin çekilmesi için gereklidir.</li>
-            <li><strong>Depolama İzni:</strong> Oyun verilerinin cihaz belleğine kaydedilmesi ve performansın artırılması amacıyla kullanılır.</li>
-        </ul>
+            <h2>1. Özet</h2>
+            <ul>
+                <li>Oyun verileriniz (skorlar, ilerleme, jeton, görevler, ayarlar vb.) <strong>yalnızca cihazınızda</strong> saklanır.</li>
+                <li>Bizim işlettiğimiz bir sunucuya kişisel veri aktarılmaz; kendi analiz veya çökme raporlama hizmetimiz yoktur.</li>
+                <li>Uygulamada <strong>Google AdMob</strong> reklamları vardır. Reklam için Google, cihazınızdan bazı verileri (ör. Reklam Kimliği) işleyebilir.</li>
+                <li>Konum, kamera, mikrofon, kişiler veya dosya/depolama izni <strong>istemeyiz</strong>.</li>
+            </ul>
 
-        <h2>4. Çocukların Gizliliği</h2>
-        <p>Match Master, çocukların kullanımına uygun bir oyun olsa da, bilinçli olarak 13 yaş (veya ilgili ülkedeki yasal sınır) altındaki çocuklardan kişisel bilgi toplamıyoruz. Eğer bir çocuğun bize veri aktardığını fark ederseniz, lütfen bizimle iletişime geçin; bu verileri derhal sileriz.</p>
+            <h2>2. Toplanan ve İşlenen Veriler</h2>
 
-        <h2>5. Bilgi Paylaşımı ve Güvenlik</h2>
-        <p>Kullanıcılara ait yerel veriler üçüncü taraflar ile asla paylaşılmaz. Cihazınızda tutulan verilerin güvenliği, cihazınızın işletim sistemi güvenliği ile sınırlıdır. Uygulamayı kaldırdığınızda cihazda tutulan tüm yerel veriler silinir.</p>
+            <h3>2.1 Cihazınızda yerel olarak saklanan veriler</h3>
+            <p>Aşağıdaki veriler cihazınızın yerel depolamasında (SQLite veritabanı ve SharedPreferences) tutulur; bize veya bir sunucuya gönderilmez:</p>
+            <ul>
+                <li>Skorlar ve skor geçmişi (uygulamadaki "skor tablosu" yalnızca bu cihazdaki sonuçları gösterir, çevrim içi bir sıralama değildir),</li>
+                <li>Oyun ilerlemesi, seviye/macera (saga) durumu, deneyim puanı (XP), günlük görevler, jeton ve ekonomi bakiyesi, koleksiyon/albüm durumu,</li>
+                <li>Açılan kozmetik öğeler (temalar, kart görünümleri, oda eşyaları vb.),</li>
+                <li>Ayarlar: dil, tema, ses/titreşim tercihleri, ilk açılış (onboarding) durumu, reklam gösterim sayaçları ve reklam onay tercihiniz.</li>
+            </ul>
+            <p>Bu veriler, hileyi zorlaştırmak amacıyla cihazda bütünlük imzasıyla korunabilir; bu bir kişisel veri toplama işlemi değildir.</p>
 
-        <h2>6. Marka ve Telif Hakkı</h2>
-        <p>Match Master uygulamasına ait tüm tasarım, metin, imge, oyun içi görseller ve kodların telif hakları saklıdır. Bu öğelerin izinsiz kopyalanması, çoğaltılması veya kullanılması 5846 sayılı Fikir ve Sanat Eserleri Kanunu uyarınca yasal sorumluluk doğurur.</p>
+            <h3>2.2 Reklam hizmeti (Google AdMob) tarafından işlenen veriler</h3>
+            <p>Uygulama; açılış, banner, geçiş, ödüllü, ödüllü geçiş ve yerel (native) reklamlar göstermek için Google AdMob / Google Mobile Ads SDK'sını kullanır. Google bu kapsamda, kendi politikaları uyarınca şu verileri toplayabilir ve işleyebilir:</p>
+            <ul>
+                <li>Reklam Kimliği (Android Advertising ID / iOS IDFA),</li>
+                <li>IP adresi ve buna bağlı yaklaşık konum (ülke/şehir düzeyi),</li>
+                <li>Cihaz ve uygulama bilgileri (cihaz modeli, işletim sistemi sürümü, dil, uygulama sürümü, ağ bilgisi),</li>
+                <li>Reklam etkileşim ve performans verileri (gösterim, tıklama, ödül tamamlama), tanılama bilgileri ve sahtekârlık önleme sinyalleri.</li>
+            </ul>
+            <p>Bu veriler reklam sunmak, reklam performansını ölçmek, sahtekârlığı önlemek ve (izniniz varsa) reklamları kişiselleştirmek için kullanılır. Veriler Google tarafından işlenir; biz bu verilere kişisel olarak erişemeyiz. Ayrıntılar: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Gizlilik Politikası</a> ve <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Google'ın iş ortağı uygulamalarda verileri nasıl kullandığı</a>.</p>
 
-        <h2>7. Değişiklikler</h2>
-        <p>Bu Gizlilik Politikası zaman zaman güncellenebilir. Değişiklikler uygulamada yayınlandığı andan itibaren geçerlilik kazanır.</p>
+            <h3>2.3 Güncelleme kontrolü sırasında oluşan ağ istekleri</h3>
+            <p>Uygulama, yeni sürüm olup olmadığını anlamak için <code>mkerbas60.github.io</code> (GitHub Pages) üzerindeki herkese açık bir <code>version.json</code> dosyasını indirir ve Google Play'in uygulama içi güncelleme özelliğini kullanabilir. Bu isteklerde, her internet isteğinde olduğu gibi IP adresiniz ve temel bağlantı bilgileri ilgili hizmet sağlayıcıya (GitHub, Google) ulaşır; biz bu bilgileri kaydetmeyiz.</p>
 
-        <h2>8. İletişim</h2>
-        <p>Gizlilik politikamız hakkında sorularınız için bize ulaşabilirsiniz:</p>
-        <p><strong>E-posta:</strong> <a href="mailto:mkerbas60@gmail.com">mkerbas60@gmail.com</a></p>
+            <h2>3. Reklam Onayı ve Tercihleriniz (GDPR / KVKK)</h2>
+            <ul>
+                <li><strong>AB/AEA ve Birleşik Krallık:</strong> Bu bölgelerde Google'ın Kullanıcı Mesajlaşma Platformu (UMP) aracılığıyla bir onay formu gösterilir. Onay vermezseniz kişiselleştirilmiş reklam gösterilmez veya reklamlar sınırlı sunulur. Bölgenizde gerekliyse tercihinizi uygulamadaki gizlilik seçeneğinden sonradan değiştirebilirsiniz.</li>
+                <li><strong>Android:</strong> Cihaz ayarlarından (<em>Ayarlar &rarr; Google &rarr; Reklamlar</em>) Reklam Kimliğinizi sıfırlayabilir veya kişiselleştirilmiş reklamları kapatabilirsiniz.</li>
+                <li><strong>iOS:</strong> <em>Ayarlar &rarr; Gizlilik ve Güvenlik &rarr; İzleme</em> bölümünden izleme iznini yönetebilirsiniz.</li>
+                <li>Türkiye'deki kullanıcılar için işleme 6698 sayılı KVKK kapsamında, Avrupa'daki kullanıcılar için GDPR kapsamında yürütülür. Reklam verilerinin yurt dışına (Google altyapısına) aktarımı reklam hizmetinin doğası gereğidir.</li>
+            </ul>
+
+            <h2>4. Uygulamanın İzinleri</h2>
+            <table>
+                <tr><th>İzin</th><th>Neden?</th></tr>
+                <tr><td><code>INTERNET</code>, <code>ACCESS_NETWORK_STATE</code></td><td>Reklamların yüklenmesi ve güncelleme kontrolü.</td></tr>
+                <tr><td><code>AD_ID</code> (Reklam Kimliği)</td><td>Reklam hizmetinin Reklam Kimliği'ne erişmesi. Cihaz ayarlarından sıfırlanabilir/kapatılabilir.</td></tr>
+                <tr><td><code>VIBRATE</code></td><td>İsteğe bağlı titreşim (haptik) geri bildirimi. Ayarlardan kapatılabilir.</td></tr>
+                <tr><td><code>POST_NOTIFICATIONS</code>, <code>WAKE_LOCK</code>, <code>FOREGROUND_SERVICE</code></td><td>Uygulamada kullanılan ortak bileşenler (bildirim ve ses altyapısı, reklam SDK'sı) tarafından bildirilen izinlerdir. Bu sürümde Uygulama sunucudan bildirim (push) göndermez.</td></tr>
+                <tr><td><code>ACCESS_ADSERVICES_*</code></td><td>Google reklam SDK'sının Android Privacy Sandbox reklam ölçümü için bildirdiği izinler.</td></tr>
+            </table>
+            <p>Uygulama; konum, kişiler, kamera, mikrofon, takvim, SMS veya genel depolama erişimi izni istemez.</p>
+
+            <h2>5. Paylaşım ve Yedekleme</h2>
+            <p><strong>Uygulamayı paylaşma:</strong> "Uygulamayı paylaş" seçeneği, cihazın paylaşım menüsünü açar; metnin ve bağlantının nereye gideceğine siz karar verirsiniz.</p>
+            <p><strong>Yedekleme / geri yükleme:</strong> Oyun veritabanınızı yedek dosyası olarak dışa aktarabilir ve geri yükleyebilirsiniz. İşlemi siz başlatırsınız; dosyayı nereye (Drive, e-posta, mesajlaşma vb.) kaydettiğiniz size aittir ve bu hizmetlerin gizlilik uygulamaları ilgili sağlayıcıya aittir. Yedek dosyalarınıza erişmeyiz.</p>
+
+            <h2>6. Çocukların Gizliliği</h2>
+            <p>Match Master, her yaştan kullanıcıya hitap edebilen bir hafıza/kart eşleştirme oyunudur; ancak özellikle 13 yaşın (veya bulunduğunuz ülkedeki dijital rıza yaşının) altındaki çocuklara yönelik <strong>değildir</strong> ve bu çocuklardan bilerek kişisel veri toplamayız. Reklamlar Google tarafından sunulur; yaşa uygun olmayan içeriklerin sınırlandırılması Google politikaları kapsamındadır. Bir çocuğun bize veya reklam hizmetine kişisel veri verdiğini düşünüyorsanız aşağıdaki e-posta adresinden bize ulaşın.</p>
+
+            <h2>7. Verilerin Saklanması, Silinmesi ve Güvenlik</h2>
+            <ul>
+                <li>Yerel oyun verileri cihazınızda kalır. Uygulamayı kaldırarak veya Android'de <em>Ayarlar &rarr; Uygulamalar &rarr; Match Master &rarr; Depolama &rarr; Verileri temizle</em> yoluyla tüm yerel verileri silebilirsiniz.</li>
+                <li>Oluşturduğunuz yedek dosyaları kaydettiğiniz yerde kalır; silmek size aittir.</li>
+                <li>Bizde sunucu tarafında kişisel veriniz tutulmadığından silinecek bir kayıt yoktur. Reklam verileri için Google'ın araçlarını (ör. <a href="https://myadcenter.google.com/" target="_blank" rel="noopener">Reklam Merkezim</a>) kullanabilirsiniz.</li>
+                <li>Yerel verileriniz satılmaz ve reklam sağlayıcısı dışındaki üçüncü taraflarla paylaşılmaz. Hiçbir elektronik saklama yöntemi %100 güvenli değildir; cihazınızı ekran kilidi ve güncel işletim sistemiyle korumanızı öneririz.</li>
+            </ul>
+
+            <h2>8. Haklarınız</h2>
+            <p>KVKK (m. 11) ve GDPR kapsamında verilerinize erişme, düzeltme, silme, işlemeye itiraz etme ve onayınızı geri çekme haklarına sahipsiniz. Yerel verileriniz tamamen sizin kontrolünüzdedir; reklam verilerine ilişkin talepler için Bölüm 3'teki ayarları kullanabilir ya da bize e-posta ile ulaşabilirsiniz.</p>
+
+            <h2>9. Marka ve Telif Hakkı</h2>
+            <p>Match Master uygulamasına ait tüm tasarım, metin, imge, oyun içi görseller, sesler ve kodların telif hakları saklıdır. Bu öğelerin izinsiz kopyalanması, çoğaltılması veya kullanılması 5846 sayılı Fikir ve Sanat Eserleri Kanunu uyarınca yasal sorumluluk doğurur.</p>
+
+            <h2>10. Değişiklikler</h2>
+            <p>Bu Gizlilik Politikası zaman zaman güncellenebilir (ör. yeni bir özellik veya hizmet eklendiğinde). Güncel sürüm bu sayfada yayınlanır ve en üstteki "Son Güncelleme" tarihi değişir. Önemli değişikliklerden sonra uygulamayı kullanmaya devam etmeniz, güncel politikayı kabul ettiğiniz anlamına gelir.</p>
+
+            <h2>11. İletişim</h2>
+            <p>Gizlilik politikamız veya verilerinizle ilgili sorularınız için:</p>
+            <p><strong>E-posta:</strong> <a href="mailto:mkerbas60@gmail.com">mkerbas60@gmail.com</a></p>
+        </section>
+
+        <hr class="divider">
+
+        <!-- ============================== ENGLISH ============================== -->
+        <section id="en" lang="en">
+            <h1>Match Master - Memory Card Game Privacy Policy</h1>
+            <p><strong>Last Updated:</strong> October 14, 2026 &middot; <strong>App Version:</strong> 1.1.3</p>
+
+            <p>This Privacy Policy explains how the <strong>Match Master</strong> mobile game (the "App") handles data. By using the App you agree to the processing described here. The App requires no account or registration, does not send personal data to any server we operate, and never asks for your name, e-mail address, phone number or similar information.</p>
+
+            <h2>1. Summary</h2>
+            <ul>
+                <li>Your game data (scores, progress, coins, missions, settings, etc.) is stored <strong>only on your device</strong>.</li>
+                <li>No personal data is sent to a server operated by us; we run no analytics or crash-reporting service of our own.</li>
+                <li>The App shows <strong>Google AdMob</strong> ads. To serve them, Google may process certain device data (e.g. the Advertising ID).</li>
+                <li>We do <strong>not</strong> request location, camera, microphone, contacts or file/storage permissions.</li>
+            </ul>
+
+            <h2>2. Data Collected and Processed</h2>
+
+            <h3>2.1 Data stored locally on your device</h3>
+            <p>The following data is kept in your device's local storage (SQLite database and SharedPreferences) and is not sent to us or to any server:</p>
+            <ul>
+                <li>Scores and score history (the in-app "leaderboard" only shows results on this device; it is not an online ranking),</li>
+                <li>Game progress, level/saga state, experience points (XP), daily missions, coin and economy balance, collection/album state,</li>
+                <li>Unlocked cosmetic items (themes, card looks, room items, etc.),</li>
+                <li>Settings: language, theme, sound/vibration preferences, onboarding status, ad-frequency counters and your ad-consent choice.</li>
+            </ul>
+            <p>To make cheating harder, this data may be protected on the device with an integrity signature. This is not personal-data collection.</p>
+
+            <h3>2.2 Data processed by the advertising service (Google AdMob)</h3>
+            <p>The App uses Google AdMob / the Google Mobile Ads SDK to show app-open, banner, interstitial, rewarded, rewarded-interstitial and native ads. In that context, and under its own policies, Google may collect and process:</p>
+            <ul>
+                <li>Advertising ID (Android Advertising ID / iOS IDFA),</li>
+                <li>IP address and the approximate location derived from it (country/city level),</li>
+                <li>Device and app information (device model, OS version, language, app version, network information),</li>
+                <li>Ad interaction and performance data (impressions, clicks, reward completions), diagnostic information and fraud-prevention signals.</li>
+            </ul>
+            <p>This data is used to serve ads, measure ad performance, prevent fraud and, where you have consented, personalize ads. It is processed by Google; we cannot personally access it. See the <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a> and <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">How Google uses data when you use partner sites or apps</a>.</p>
+
+            <h3>2.3 Network requests made for update checks</h3>
+            <p>To find out whether a new version exists, the App downloads a public <code>version.json</code> file hosted on <code>mkerbas60.github.io</code> (GitHub Pages) and may use Google Play's in-app update feature. As with any internet request, your IP address and basic connection information reach the respective provider (GitHub, Google); we do not log this information.</p>
+
+            <h2>3. Ad Consent and Your Choices (GDPR / KVKK)</h2>
+            <ul>
+                <li><strong>EU/EEA and United Kingdom:</strong> In these regions a consent form is shown through Google's User Messaging Platform (UMP). If you do not consent, personalized ads are not shown or ads are limited. Where required in your region, you can change your choice later via the privacy option in the App.</li>
+                <li><strong>Android:</strong> Reset your Advertising ID or opt out of ad personalization in <em>Settings &rarr; Google &rarr; Ads</em>.</li>
+                <li><strong>iOS:</strong> Manage tracking permission in <em>Settings &rarr; Privacy &amp; Security &rarr; Tracking</em>.</li>
+                <li>For users in Türkiye, processing is carried out under Law No. 6698 (KVKK); for users in Europe, under the GDPR. Transfer of ad-related data abroad (to Google's infrastructure) is inherent to the ad service.</li>
+            </ul>
+
+            <h2>4. Permissions</h2>
+            <table>
+                <tr><th>Permission</th><th>Why?</th></tr>
+                <tr><td><code>INTERNET</code>, <code>ACCESS_NETWORK_STATE</code></td><td>Loading ads and checking for updates.</td></tr>
+                <tr><td><code>AD_ID</code> (Advertising ID)</td><td>Lets the ad service access the Advertising ID. Can be reset/disabled in device settings.</td></tr>
+                <tr><td><code>VIBRATE</code></td><td>Optional vibration (haptic) feedback. Can be turned off in settings.</td></tr>
+                <tr><td><code>POST_NOTIFICATIONS</code>, <code>WAKE_LOCK</code>, <code>FOREGROUND_SERVICE</code></td><td>Permissions declared by shared components used in the App (notification and audio infrastructure, the ad SDK). In this version the App does not send server (push) notifications.</td></tr>
+                <tr><td><code>ACCESS_ADSERVICES_*</code></td><td>Permissions declared by the Google ads SDK for Android Privacy Sandbox ad measurement.</td></tr>
+            </table>
+            <p>The App does not request location, contacts, camera, microphone, calendar, SMS or general storage access.</p>
+
+            <h2>5. Sharing and Backup</h2>
+            <p><strong>Sharing the App:</strong> the "Share app" option opens the device's share sheet; you decide where the text and link go.</p>
+            <p><strong>Backup / restore:</strong> you can export your game database as a backup file and restore it. You initiate this; where you save the file (Drive, e-mail, messaging apps, etc.) is your choice and the privacy practices of those services belong to their providers. We do not have access to your backup files.</p>
+
+            <h2>6. Children's Privacy</h2>
+            <p>Match Master is a memory / card-matching game that can appeal to players of all ages, but it is <strong>not</strong> specifically directed at children under 13 (or under the age of digital consent in your country), and we do not knowingly collect personal data from them. Ads are served by Google; restricting age-inappropriate content falls under Google's policies. If you believe a child has provided personal data to us or to the ad service, please contact us at the e-mail address below.</p>
+
+            <h2>7. Data Retention, Deletion and Security</h2>
+            <ul>
+                <li>Local game data stays on your device. Delete it all by uninstalling the App or, on Android, via <em>Settings &rarr; Apps &rarr; Match Master &rarr; Storage &rarr; Clear data</em>.</li>
+                <li>Backup files you create remain wherever you saved them; deleting them is your responsibility.</li>
+                <li>Because we hold no personal data on a server, there is no server-side record for us to delete. For data held by the ad service, you can use Google's tools (e.g. <a href="https://myadcenter.google.com/" target="_blank" rel="noopener">My Ad Center</a>).</li>
+                <li>Your local data is not sold and is not shared with third parties other than the ad provider. No method of electronic storage is 100% secure; we recommend protecting your device with a screen lock and an up-to-date operating system.</li>
+            </ul>
+
+            <h2>8. Your Rights</h2>
+            <p>Under the KVKK (Art. 11) and the GDPR you have the right to access, correct and delete your data, to object to processing, and to withdraw consent. Your local data is entirely under your control; for requests concerning ad data you can use the settings in Section 3 or contact us by e-mail.</p>
+
+            <h2>9. Trademark and Copyright</h2>
+            <p>All design, text, imagery, in-game graphics, sounds and code of Match Master are protected by copyright. Unauthorized copying, reproduction or use of these elements may give rise to legal liability.</p>
+
+            <h2>10. Changes to This Policy</h2>
+            <p>This Privacy Policy may be updated from time to time (e.g. when a new feature or service is added). The current version is always published on this page and the "Last Updated" date at the top will change. Continuing to use the App after a material change means you accept the updated policy.</p>
+
+            <h2>11. Contact</h2>
+            <p>For questions about this policy or your data:</p>
+            <p><strong>E-mail:</strong> <a href="mailto:mkerbas60@gmail.com">mkerbas60@gmail.com</a></p>
+        </section>
 
         <div class="footer">
-            &copy; 2026 Match Master - Kart Eşleştirme. Tüm hakları saklıdır.
+            &copy; 2026 Match Master - Kart Eşleştirme. Tüm hakları saklıdır. / All rights reserved.
         </div>
     </div>
 </body>
