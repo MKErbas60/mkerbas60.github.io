@@ -1,5 +1,6 @@
 [
   {
+    "uid": "ydt-almanca-00001",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -18,6 +19,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00002",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -36,6 +38,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00003",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -54,6 +57,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00004",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -72,6 +76,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00005",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -90,6 +95,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00006",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -108,6 +114,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00007",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -126,6 +133,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00008",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -144,6 +152,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00009",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -162,6 +171,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00010",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -180,6 +190,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00011",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -198,6 +209,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00012",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -216,6 +228,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00013",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -234,6 +247,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00014",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -252,6 +266,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00015",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -270,6 +285,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00016",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -288,6 +304,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00017",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -306,6 +323,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00018",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -324,6 +342,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00019",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -342,6 +361,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00020",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -360,6 +380,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00021",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -378,6 +399,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00022",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -396,6 +418,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00023",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -414,6 +437,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00024",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -432,6 +456,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00025",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -450,6 +475,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00026",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -468,6 +494,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00027",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -486,6 +513,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00028",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -504,6 +532,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00029",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -522,6 +551,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00030",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -540,6 +570,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00031",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -558,6 +589,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00032",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -576,6 +608,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00033",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -594,6 +627,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00034",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -612,6 +646,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00035",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -630,6 +665,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00036",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -648,6 +684,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00037",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -666,6 +703,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00038",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -684,6 +722,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00039",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -702,6 +741,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00040",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -720,6 +760,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00041",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -738,6 +779,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00042",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -756,6 +798,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00043",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -774,6 +817,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00044",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -792,6 +836,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00045",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -810,6 +855,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00046",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -828,6 +874,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00047",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -846,6 +893,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00048",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -864,6 +912,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00049",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -882,6 +931,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00050",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -900,6 +950,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00051",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -918,6 +969,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00052",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -936,6 +988,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00053",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -954,6 +1007,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00054",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -972,6 +1026,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00055",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -990,6 +1045,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00056",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -1008,6 +1064,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00057",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -1026,6 +1083,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00058",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -1044,6 +1102,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00059",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -1062,6 +1121,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00060",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -1080,6 +1140,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00061",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1098,6 +1159,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00062",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1116,6 +1178,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00063",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1134,6 +1197,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00064",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1152,6 +1216,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00065",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1170,6 +1235,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00066",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1188,6 +1254,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00067",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1206,6 +1273,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00068",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1224,6 +1292,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00069",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1242,6 +1311,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00070",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1260,6 +1330,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00071",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1278,6 +1349,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00072",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -1296,6 +1368,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00073",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -1314,6 +1387,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00074",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -1332,6 +1406,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00075",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -1350,6 +1425,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00076",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -1368,6 +1444,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00077",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -1386,6 +1463,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00078",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -1404,6 +1482,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00079",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -1422,6 +1501,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00080",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -1440,6 +1520,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00081",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -1458,6 +1539,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00082",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -1476,6 +1558,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00083",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -1494,6 +1577,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00084",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -1512,6 +1596,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00085",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -1530,6 +1615,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00086",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -1548,6 +1634,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00087",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -1566,6 +1653,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00088",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -1584,6 +1672,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00089",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -1602,6 +1691,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00090",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -1620,6 +1710,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00091",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1638,6 +1729,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00092",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1656,6 +1748,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00093",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1674,6 +1767,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00094",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1692,6 +1786,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00095",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1710,6 +1805,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00096",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1728,6 +1824,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00097",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1746,6 +1843,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00098",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1764,6 +1862,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00099",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1782,6 +1881,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00100",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1800,6 +1900,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00101",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1818,6 +1919,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00102",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1836,6 +1938,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00103",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1854,6 +1957,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00104",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1872,6 +1976,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00105",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1890,6 +1995,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00106",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1908,6 +2014,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00107",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1926,6 +2033,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00108",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1944,6 +2052,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00109",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1962,6 +2071,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00110",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1980,6 +2090,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00111",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -1998,6 +2109,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00112",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2016,6 +2128,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00113",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2034,6 +2147,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00114",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2052,6 +2166,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00115",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2070,6 +2185,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00116",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2088,6 +2204,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00117",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2106,6 +2223,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00118",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2124,6 +2242,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00119",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2142,6 +2261,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00120",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2160,6 +2280,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00121",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2178,6 +2299,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00122",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2196,6 +2318,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00123",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2214,6 +2337,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00124",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2232,6 +2356,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00125",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2250,6 +2375,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00126",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -2268,6 +2394,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00127",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2286,6 +2413,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00128",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2304,6 +2432,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00129",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2322,6 +2451,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00130",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2340,6 +2470,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00131",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2358,6 +2489,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00132",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2376,6 +2508,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00133",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2394,6 +2527,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00134",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2412,6 +2546,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00135",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2430,6 +2565,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00136",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2448,6 +2584,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00137",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2466,6 +2603,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00138",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2484,6 +2622,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00139",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2502,6 +2641,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00140",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2520,6 +2660,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00141",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2538,6 +2679,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00142",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2556,6 +2698,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00143",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2574,6 +2717,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00144",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2592,6 +2736,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00145",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2610,6 +2755,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00146",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2628,6 +2774,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00147",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2646,6 +2793,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00148",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2664,6 +2812,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00149",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2682,6 +2831,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00150",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2700,6 +2850,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00151",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2718,6 +2869,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00152",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2736,6 +2888,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00153",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2754,6 +2907,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00154",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2772,6 +2926,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00155",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2790,6 +2945,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00156",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2808,6 +2964,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00157",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2826,6 +2983,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00158",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2844,6 +3002,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00159",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2862,6 +3021,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00160",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2880,6 +3040,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00161",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2898,6 +3059,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00162",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -2916,6 +3078,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00163",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -2934,6 +3097,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00164",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -2952,6 +3116,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00165",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -2970,6 +3135,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00166",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -2988,6 +3154,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00167",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3006,6 +3173,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00168",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3024,6 +3192,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00169",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3042,6 +3211,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00170",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3060,6 +3230,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00171",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3078,6 +3249,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00172",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3096,6 +3268,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00173",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3114,6 +3287,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00174",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3132,6 +3306,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00175",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3150,6 +3325,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00176",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3168,6 +3344,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00177",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3186,6 +3363,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00178",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3204,6 +3382,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00179",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3222,6 +3401,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00180",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3240,6 +3420,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00181",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3258,6 +3439,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00182",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3276,6 +3458,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00183",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3294,6 +3477,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00184",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3312,6 +3496,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00185",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3330,6 +3515,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00186",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3348,6 +3534,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00187",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3366,6 +3553,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00188",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3384,6 +3572,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00189",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3402,6 +3591,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00190",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3420,6 +3610,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00191",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3438,6 +3629,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00192",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3456,6 +3648,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00193",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3474,6 +3667,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00194",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3492,6 +3686,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00195",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3510,6 +3705,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00196",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3528,6 +3724,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00197",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3546,6 +3743,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00198",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -3564,6 +3762,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00199",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3582,6 +3781,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00200",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3600,6 +3800,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00201",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3618,6 +3819,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00202",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3636,6 +3838,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00203",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3654,6 +3857,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00204",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3672,6 +3876,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00205",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3690,6 +3895,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00206",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3708,6 +3914,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00207",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3726,6 +3933,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00208",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3744,6 +3952,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00209",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3762,6 +3971,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00210",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3780,6 +3990,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00211",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3798,6 +4009,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00212",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3816,6 +4028,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00213",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3834,6 +4047,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00214",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3852,6 +4066,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00215",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3870,6 +4085,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00216",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3888,6 +4104,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00217",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3906,6 +4123,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00218",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3924,6 +4142,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00219",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3942,6 +4161,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00220",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3960,6 +4180,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00221",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3978,6 +4199,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00222",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -3996,6 +4218,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00223",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4014,6 +4237,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00224",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4032,6 +4256,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00225",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4050,6 +4275,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00226",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4068,6 +4294,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00227",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4086,6 +4313,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00228",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4104,6 +4332,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00229",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4122,6 +4351,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00230",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4140,6 +4370,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00231",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4158,6 +4389,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00232",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4176,6 +4408,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00233",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4194,6 +4427,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00234",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -4212,6 +4446,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00235",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4230,6 +4465,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00236",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4248,6 +4484,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00237",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4266,6 +4503,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00238",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4284,6 +4522,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00239",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4302,6 +4541,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00240",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4320,6 +4560,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00241",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4338,6 +4579,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00242",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4356,6 +4598,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00243",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4374,6 +4617,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00244",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4392,6 +4636,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00245",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4410,6 +4655,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00246",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4428,6 +4674,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00247",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4446,6 +4693,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00248",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4464,6 +4712,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00249",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4482,6 +4731,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00250",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4500,6 +4750,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00251",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4518,6 +4769,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00252",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4536,6 +4788,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00253",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4554,6 +4807,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00254",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4572,6 +4826,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00255",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4590,6 +4845,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00256",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4608,6 +4864,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00257",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4626,6 +4883,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00258",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4644,6 +4902,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00259",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4662,6 +4921,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00260",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4680,6 +4940,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00261",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4698,6 +4959,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00262",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4716,6 +4978,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00263",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4734,6 +4997,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00264",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4752,6 +5016,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00265",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4770,6 +5035,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00266",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4788,6 +5054,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00267",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4806,6 +5073,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00268",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4824,6 +5092,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00269",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4842,6 +5111,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00270",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -4860,6 +5130,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00271",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -4878,6 +5149,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00272",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -4896,6 +5168,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00273",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -4914,6 +5187,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00274",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -4932,6 +5206,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00275",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -4950,6 +5225,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00276",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -4968,6 +5244,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00277",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -4986,6 +5263,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00278",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5004,6 +5282,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00279",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5022,6 +5301,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00280",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5040,6 +5320,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00281",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5058,6 +5339,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00282",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5076,6 +5358,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00283",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5094,6 +5377,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00284",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5112,6 +5396,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00285",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5130,6 +5415,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00286",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5148,6 +5434,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00287",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5166,6 +5453,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00288",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5184,6 +5472,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00289",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5202,6 +5491,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00290",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5220,6 +5510,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00291",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5238,6 +5529,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00292",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5256,6 +5548,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00293",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5274,6 +5567,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00294",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5292,6 +5586,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00295",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5310,6 +5605,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00296",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5328,6 +5624,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00297",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5346,6 +5643,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00298",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5364,6 +5662,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00299",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5382,6 +5681,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00300",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5400,6 +5700,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00301",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5418,6 +5719,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00302",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5436,6 +5738,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00303",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5454,6 +5757,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00304",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5472,6 +5776,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00305",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5490,6 +5795,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00306",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -5508,6 +5814,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00307",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5526,6 +5833,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00308",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5544,6 +5852,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00309",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5562,6 +5871,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00310",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5580,6 +5890,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00311",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5598,6 +5909,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00312",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5616,6 +5928,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00313",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5634,6 +5947,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00314",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5652,6 +5966,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00315",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5670,6 +5985,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00316",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5688,6 +6004,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00317",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5706,6 +6023,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00318",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5724,6 +6042,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00319",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5742,6 +6061,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00320",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5760,6 +6080,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00321",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5778,6 +6099,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00322",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5796,6 +6118,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00323",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5814,6 +6137,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00324",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5832,6 +6156,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00325",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5850,6 +6175,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00326",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5868,6 +6194,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00327",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5886,6 +6213,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00328",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5904,6 +6232,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00329",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5922,6 +6251,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00330",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5940,6 +6270,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00331",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5958,6 +6289,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00332",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5976,6 +6308,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00333",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -5994,6 +6327,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00334",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6012,6 +6346,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00335",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6030,6 +6365,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00336",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6048,6 +6384,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00337",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6066,6 +6403,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00338",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6084,6 +6422,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00339",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6102,6 +6441,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00340",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6120,6 +6460,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00341",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6138,6 +6479,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00342",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6156,6 +6498,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00343",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6174,6 +6517,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00344",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6192,6 +6536,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00345",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -6210,6 +6555,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00346",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6228,6 +6574,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00347",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6246,6 +6593,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00348",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6264,6 +6612,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00349",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6282,6 +6631,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00350",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6300,6 +6650,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00351",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6318,6 +6669,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00352",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6336,6 +6688,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00353",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6354,6 +6707,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00354",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6372,6 +6726,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00355",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6390,6 +6745,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00356",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6408,6 +6764,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00357",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6426,6 +6783,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00358",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6444,6 +6802,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00359",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6462,6 +6821,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00360",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6480,6 +6840,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00361",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6498,6 +6859,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00362",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6516,6 +6878,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00363",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6534,6 +6897,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00364",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6552,6 +6916,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00365",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6570,6 +6935,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00366",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6588,6 +6954,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00367",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6606,6 +6973,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00368",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6624,6 +6992,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00369",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6642,6 +7011,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00370",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6660,6 +7030,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00371",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6678,6 +7049,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00372",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6696,6 +7068,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00373",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6714,6 +7087,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00374",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6732,6 +7106,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00375",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6750,6 +7125,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00376",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6768,6 +7144,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00377",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6786,6 +7163,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00378",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6804,6 +7182,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00379",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6822,6 +7201,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00380",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6840,6 +7220,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00381",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6858,6 +7239,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00382",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6876,6 +7258,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00383",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6894,6 +7277,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00384",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -6912,6 +7296,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00385",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -6930,6 +7315,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00386",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -6948,6 +7334,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00387",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -6966,6 +7353,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00388",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -6984,6 +7372,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00389",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -7002,6 +7391,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00390",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -7020,6 +7410,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00391",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -7038,6 +7429,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00392",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -7056,6 +7448,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00393",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -7074,6 +7467,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00394",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -7092,6 +7486,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00395",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -7110,6 +7505,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00396",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -7128,6 +7524,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00397",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -7146,6 +7543,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00398",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -7164,6 +7562,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00399",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -7182,6 +7581,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00400",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -7200,6 +7600,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00401",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -7218,6 +7619,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00402",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -7236,6 +7638,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00403",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -7254,6 +7657,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00404",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -7272,6 +7676,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00405",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -7290,6 +7695,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00406",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -7308,6 +7714,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00407",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -7326,6 +7733,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00408",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -7344,6 +7752,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00409",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -7362,6 +7771,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00410",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -7380,6 +7790,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00411",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -7398,6 +7809,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00412",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -7416,6 +7828,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00413",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -7434,6 +7847,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00414",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -7452,6 +7866,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00415",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -7470,6 +7885,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00416",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -7488,6 +7904,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00417",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -7506,6 +7923,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00418",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -7524,6 +7942,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00419",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -7542,6 +7961,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00420",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -7560,6 +7980,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00421",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -7578,6 +7999,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00422",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -7596,6 +8018,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00423",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -7614,6 +8037,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00424",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -7632,6 +8056,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00425",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -7650,6 +8075,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00426",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -7668,6 +8094,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00427",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -7686,6 +8113,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00428",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -7704,6 +8132,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00429",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -7722,6 +8151,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00430",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -7740,6 +8170,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00431",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -7758,6 +8189,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00432",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -7776,6 +8208,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00433",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -7794,6 +8227,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00434",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -7812,6 +8246,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00435",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -7830,6 +8265,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00436",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -7848,6 +8284,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00437",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -7866,6 +8303,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00438",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -7884,6 +8322,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00439",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -7902,6 +8341,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00440",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -7920,6 +8360,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00441",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -7938,6 +8379,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00442",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -7956,6 +8398,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00443",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -7974,6 +8417,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00444",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -7992,6 +8436,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00445",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -8010,6 +8455,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00446",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -8028,6 +8474,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00447",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -8046,6 +8493,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00448",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -8064,6 +8512,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00449",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -8082,6 +8531,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00450",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -8100,6 +8550,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00451",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -8118,6 +8569,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00452",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -8136,6 +8588,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00453",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -8154,6 +8607,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00454",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -8172,6 +8626,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00455",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -8190,6 +8645,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00456",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -8208,6 +8664,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00457",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -8226,6 +8683,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00458",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -8244,6 +8702,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00459",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -8262,6 +8721,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00460",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -8280,6 +8740,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00461",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -8298,6 +8759,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00462",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -8316,6 +8778,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00463",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -8334,6 +8797,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00464",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -8352,6 +8816,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00465",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -8370,6 +8835,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00466",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -8388,6 +8854,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00467",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -8406,6 +8873,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00468",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -8424,6 +8892,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00469",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -8442,6 +8911,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00470",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -8460,6 +8930,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00471",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -8478,6 +8949,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00472",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -8496,6 +8968,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00473",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -8514,6 +8987,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00474",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -8532,6 +9006,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00475",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -8550,6 +9025,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00476",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -8568,6 +9044,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00477",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -8586,6 +9063,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00478",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -8604,6 +9082,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00479",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -8622,6 +9101,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00480",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -8640,6 +9120,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00481",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -8658,6 +9139,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00482",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -8676,6 +9158,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00483",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -8694,6 +9177,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00484",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -8712,6 +9196,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00485",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -8730,6 +9215,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00486",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -8748,6 +9234,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00487",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -8766,6 +9253,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00488",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -8784,6 +9272,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00489",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -8802,6 +9291,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00490",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -8820,6 +9310,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00491",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -8838,6 +9329,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00492",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -8856,6 +9348,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00493",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -8874,6 +9367,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00494",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -8892,6 +9386,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00495",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -8910,6 +9405,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00496",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -8928,6 +9424,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00497",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -8946,6 +9443,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00498",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -8964,6 +9462,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00499",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -8982,6 +9481,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00500",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -9000,6 +9500,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00501",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -9018,6 +9519,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00502",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -9036,6 +9538,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00503",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -9054,6 +9557,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00504",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -9072,6 +9576,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00505",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -9090,6 +9595,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00506",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -9108,6 +9614,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00507",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -9126,6 +9633,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00508",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -9144,6 +9652,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00509",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -9162,6 +9671,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00510",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -9180,6 +9690,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00511",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -9198,6 +9709,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00512",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -9216,6 +9728,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00513",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -9234,6 +9747,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00514",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -9252,6 +9766,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00515",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -9270,6 +9785,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00516",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -9288,6 +9804,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00517",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -9306,6 +9823,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00518",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -9324,6 +9842,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00519",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -9342,6 +9861,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00520",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -9360,6 +9880,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00521",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -9378,6 +9899,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00522",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -9396,6 +9918,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00523",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -9414,6 +9937,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00524",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -9432,6 +9956,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00525",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -9450,6 +9975,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00526",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -9468,6 +9994,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00527",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -9486,6 +10013,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00528",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -9504,6 +10032,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00529",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -9522,6 +10051,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00530",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -9540,6 +10070,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00531",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -9558,6 +10089,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00532",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -9576,6 +10108,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00533",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -9594,6 +10127,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00534",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -9612,6 +10146,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00535",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -9630,6 +10165,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00536",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -9648,6 +10184,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00537",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -9666,6 +10203,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00538",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -9684,6 +10222,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00539",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -9702,6 +10241,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00540",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -9720,6 +10260,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00541",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -9738,6 +10279,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00542",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -9756,6 +10298,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00543",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -9774,6 +10317,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00544",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -9792,6 +10336,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00545",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -9810,6 +10355,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00546",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -9828,6 +10374,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00547",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -9846,6 +10393,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00548",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -9864,6 +10412,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00549",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -9882,6 +10431,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00550",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -9900,6 +10450,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00551",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -9918,6 +10469,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00552",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -9936,6 +10488,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00553",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -9954,6 +10507,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00554",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -9972,6 +10526,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00555",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -9990,6 +10545,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00556",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -10008,6 +10564,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00557",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -10026,6 +10583,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00558",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -10044,6 +10602,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00559",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -10062,6 +10621,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00560",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -10080,6 +10640,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00561",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -10098,6 +10659,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00562",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -10116,6 +10678,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00563",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -10134,6 +10697,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00564",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -10152,6 +10716,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00565",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -10170,6 +10735,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00566",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -10188,6 +10754,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00567",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -10206,6 +10773,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00568",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -10224,6 +10792,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00569",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -10242,6 +10811,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00570",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -10260,6 +10830,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00571",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -10278,6 +10849,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00572",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -10296,6 +10868,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00573",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -10314,6 +10887,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00574",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -10332,6 +10906,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00575",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -10350,6 +10925,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00576",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -10368,6 +10944,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00577",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -10386,6 +10963,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00578",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -10404,6 +10982,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00579",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -10422,6 +11001,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00580",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -10440,6 +11020,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00581",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -10458,6 +11039,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00582",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -10476,6 +11058,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00583",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -10494,6 +11077,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00584",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -10512,6 +11096,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00585",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -10530,6 +11115,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00586",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -10548,6 +11134,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00587",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -10566,6 +11153,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00588",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -10584,6 +11172,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00589",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -10602,6 +11191,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00590",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -10620,6 +11210,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00591",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -10638,6 +11229,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00592",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -10656,6 +11248,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00593",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -10674,6 +11267,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00594",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -10692,6 +11286,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00595",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -10710,6 +11305,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00596",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -10728,6 +11324,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00597",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -10746,6 +11343,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00598",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -10764,6 +11362,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00599",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -10782,6 +11381,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00600",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -10800,6 +11400,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00601",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -10818,6 +11419,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00602",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -10836,6 +11438,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00603",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -10854,6 +11457,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00604",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -10872,6 +11476,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00605",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -10890,6 +11495,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00606",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -10908,6 +11514,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00607",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -10926,6 +11533,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00608",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -10944,6 +11552,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00609",
     "topic_id": 239,
     "exam_type": "ydt",
     "topic_name": "Kelime Bilgisi (Wortschatz, Redewendungen & Präpositionen)",
@@ -10962,6 +11571,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00610",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -10980,6 +11590,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00611",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -10998,6 +11609,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00612",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -11016,6 +11628,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00613",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -11034,6 +11647,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00614",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -11052,6 +11666,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00615",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -11070,6 +11685,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00616",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -11088,6 +11704,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00617",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -11106,6 +11723,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00618",
     "topic_id": 240,
     "exam_type": "ydt",
     "topic_name": "Dilbilgisi (Grammatik: Zeiten, Modalverben, Passiv, Konjunktionen)",
@@ -11124,6 +11742,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00619",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -11142,6 +11761,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00620",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -11160,6 +11780,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00621",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -11178,6 +11799,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00622",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -11196,6 +11818,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00623",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -11214,6 +11837,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00624",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -11232,6 +11856,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00625",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -11250,6 +11875,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00626",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -11268,6 +11894,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00627",
     "topic_id": 241,
     "exam_type": "ydt",
     "topic_name": "Cloze Test ve Cümle Tamamlama (Satzergänzung)",
@@ -11286,6 +11913,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00628",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -11304,6 +11932,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00629",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -11322,6 +11951,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00630",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -11340,6 +11970,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00631",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -11358,6 +11989,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00632",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -11376,6 +12008,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00633",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -11394,6 +12027,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00634",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -11412,6 +12046,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00635",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -11430,6 +12065,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00636",
     "topic_id": 242,
     "exam_type": "ydt",
     "topic_name": "Almanca-Türkçe ve Türkçe-Almanca Çeviri (Übersetzung)",
@@ -11448,6 +12084,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00637",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -11466,6 +12103,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00638",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -11484,6 +12122,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00639",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -11502,6 +12141,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00640",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -11520,6 +12160,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00641",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -11538,6 +12179,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00642",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -11556,6 +12198,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00643",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -11574,6 +12217,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00644",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -11592,6 +12236,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00645",
     "topic_id": 243,
     "exam_type": "ydt",
     "topic_name": "Okuma Parçaları ve Anlam Çıkarma (Leseverstehen)",
@@ -11610,6 +12255,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00646",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -11628,6 +12274,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00647",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -11646,6 +12293,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00648",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -11664,6 +12312,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00649",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -11682,6 +12331,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00650",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -11700,6 +12350,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00651",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -11718,6 +12369,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00652",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -11736,6 +12388,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00653",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -11754,6 +12407,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00654",
     "topic_id": 244,
     "exam_type": "ydt",
     "topic_name": "Karşılıklı Konuşma / Diyalog Tamamlama (Dialogergänzung)",
@@ -11772,6 +12426,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00655",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -11790,6 +12445,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00656",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -11808,6 +12464,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00657",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -11826,6 +12483,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00658",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -11844,6 +12502,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00659",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -11862,6 +12521,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00660",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -11880,6 +12540,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00661",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -11898,6 +12559,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00662",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -11916,6 +12578,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00663",
     "topic_id": 245,
     "exam_type": "ydt",
     "topic_name": "Anlamca En Yakın Cümle ve Duruma Uygun İfade (Sinngemäße Entsprechung & Situationsbezogene Äußerung)",
@@ -11934,6 +12597,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00664",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -11952,6 +12616,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00665",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -11970,6 +12635,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00666",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -11988,6 +12654,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00667",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -12006,6 +12673,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00668",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -12024,6 +12692,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00669",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -12042,6 +12711,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00670",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -12060,6 +12730,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00671",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",
@@ -12078,6 +12749,7 @@
     "version": 1
   },
   {
+    "uid": "ydt-almanca-00672",
     "topic_id": 246,
     "exam_type": "ydt",
     "topic_name": "Paragraf Tamamlama ve Anlam Bütünlüğünü Bozan Cümle (Absatzergänzung & Unpassender Satz)",

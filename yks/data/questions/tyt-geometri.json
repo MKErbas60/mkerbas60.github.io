@@ -1,5 +1,6 @@
 [
   {
+    "uid": "tyt-geometri-00001",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -18,6 +19,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00002",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -36,6 +38,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00003",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -54,6 +57,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00004",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -72,6 +76,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00005",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -90,6 +95,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00006",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -108,6 +114,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00007",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -126,6 +133,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00008",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -144,6 +152,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00009",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -162,6 +171,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00010",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -180,6 +190,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00011",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -198,6 +209,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00012",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -216,6 +228,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00013",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -234,6 +247,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00014",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -252,6 +266,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00015",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -270,6 +285,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00016",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -288,6 +304,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00017",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -306,6 +323,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00018",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -324,6 +342,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00019",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -342,6 +361,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00020",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -360,6 +380,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00021",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -378,6 +399,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00022",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -396,6 +418,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00023",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -414,6 +437,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00024",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -432,6 +456,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00025",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -450,6 +475,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00026",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -468,6 +494,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00027",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -486,6 +513,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00028",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -504,6 +532,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00029",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -522,6 +551,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00030",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -540,6 +570,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00031",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -558,6 +589,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00032",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -576,6 +608,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00033",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -594,6 +627,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00034",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -612,6 +646,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00035",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -630,6 +665,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00036",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -648,6 +684,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00037",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -666,6 +703,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00038",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -684,6 +722,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00039",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -702,6 +741,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00040",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -720,6 +760,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00041",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -738,6 +779,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00042",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -756,6 +798,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00043",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -774,6 +817,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00044",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -792,6 +836,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00045",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -810,6 +855,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00046",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -828,6 +874,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00047",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -846,6 +893,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00048",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -864,6 +912,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00049",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -882,6 +931,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00050",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -900,6 +950,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00051",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -918,6 +969,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00052",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -936,6 +988,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00053",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -954,6 +1007,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00054",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -972,6 +1026,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00055",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -990,6 +1045,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00056",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1008,6 +1064,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00057",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1026,6 +1083,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00058",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1044,6 +1102,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00059",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1062,6 +1121,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00060",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1080,6 +1140,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00061",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1098,6 +1159,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00062",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1116,6 +1178,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00063",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1134,6 +1197,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00064",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1152,6 +1216,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00065",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1170,6 +1235,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00066",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1188,6 +1254,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00067",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1206,6 +1273,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00068",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1224,6 +1292,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00069",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -1242,6 +1311,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00070",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -1260,6 +1330,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00071",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -1278,6 +1349,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00072",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -1296,6 +1368,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00073",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -1314,6 +1387,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00074",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -1332,6 +1406,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00075",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -1350,6 +1425,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00076",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -1368,6 +1444,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00077",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -1386,6 +1463,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00078",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -1404,6 +1482,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00079",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -1422,6 +1501,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00080",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -1440,6 +1520,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00081",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -1458,6 +1539,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00082",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -1476,6 +1558,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00083",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -1494,6 +1577,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00084",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -1512,6 +1596,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00085",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -1530,6 +1615,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00086",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -1548,6 +1634,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00087",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -1566,6 +1653,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00088",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -1584,6 +1672,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00089",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -1602,6 +1691,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00090",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -1620,6 +1710,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00091",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -1638,6 +1729,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00092",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -1656,6 +1748,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00093",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -1674,6 +1767,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00094",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -1692,6 +1786,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00095",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -1710,6 +1805,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00096",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -1728,6 +1824,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00097",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -1746,6 +1843,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00098",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -1764,6 +1862,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00099",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -1782,6 +1881,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00100",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -1800,6 +1900,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00101",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -1818,6 +1919,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00102",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -1836,6 +1938,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00103",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -1854,6 +1957,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00104",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -1872,6 +1976,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00105",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -1890,6 +1995,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00106",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -1908,6 +2014,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00107",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -1926,6 +2033,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00108",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -1944,6 +2052,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00109",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -1962,6 +2071,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00110",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -1980,6 +2090,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00111",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -1998,6 +2109,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00112",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -2016,6 +2128,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00113",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -2034,6 +2147,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00114",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -2052,6 +2166,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00115",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -2070,6 +2185,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00116",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -2088,6 +2204,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00117",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -2106,6 +2223,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00118",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -2124,6 +2242,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00119",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -2142,6 +2261,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00120",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -2160,6 +2280,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00121",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -2178,6 +2299,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00122",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -2196,6 +2318,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00123",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -2214,6 +2337,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00124",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -2232,6 +2356,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00125",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -2250,6 +2375,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00126",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -2268,6 +2394,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00127",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -2286,6 +2413,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00128",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -2304,6 +2432,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00129",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -2322,6 +2451,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00130",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -2340,6 +2470,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00131",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -2358,6 +2489,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00132",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -2376,6 +2508,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00133",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -2394,6 +2527,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00134",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -2412,6 +2546,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00135",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -2430,6 +2565,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00136",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -2448,6 +2584,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00137",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -2466,6 +2603,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00138",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -2484,6 +2622,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00139",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -2502,6 +2641,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00140",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -2520,6 +2660,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00141",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -2538,6 +2679,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00142",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -2556,6 +2698,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00143",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -2574,6 +2717,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00144",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -2592,6 +2736,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00145",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -2610,6 +2755,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00146",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -2628,6 +2774,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00147",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -2646,6 +2793,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00148",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -2664,6 +2812,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00149",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -2682,6 +2831,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00150",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -2700,6 +2850,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00151",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -2718,6 +2869,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00152",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -2736,6 +2888,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00153",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -2754,6 +2907,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00154",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -2772,6 +2926,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00155",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -2790,6 +2945,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00156",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -2808,6 +2964,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00157",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -2826,6 +2983,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00158",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -2844,6 +3002,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00159",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -2862,6 +3021,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00160",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -2880,6 +3040,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00161",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -2898,6 +3059,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00162",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -2916,6 +3078,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00163",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -2934,6 +3097,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00164",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -2952,6 +3116,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00165",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -2970,6 +3135,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00166",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -2988,6 +3154,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00167",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -3006,6 +3173,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00168",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -3024,6 +3192,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00169",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -3042,6 +3211,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00170",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -3060,6 +3230,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00171",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -3078,6 +3249,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00172",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -3096,6 +3268,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00173",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -3114,6 +3287,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00174",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -3132,6 +3306,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00175",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -3150,6 +3325,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00176",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -3168,6 +3344,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00177",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -3186,6 +3363,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00178",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -3204,6 +3382,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00179",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -3222,6 +3401,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00180",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -3240,6 +3420,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00181",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -3258,6 +3439,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00182",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -3276,6 +3458,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00183",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -3294,6 +3477,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00184",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -3312,6 +3496,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00185",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -3330,6 +3515,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00186",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -3348,6 +3534,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00187",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -3366,6 +3553,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00188",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -3384,6 +3572,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00189",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -3402,6 +3591,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00190",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -3420,6 +3610,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00191",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -3438,6 +3629,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00192",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -3456,6 +3648,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00193",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -3474,6 +3667,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00194",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -3492,6 +3686,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00195",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -3510,6 +3705,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00196",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -3528,6 +3724,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00197",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -3546,6 +3743,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00198",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -3564,6 +3762,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00199",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -3582,6 +3781,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00200",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -3600,6 +3800,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00201",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -3618,6 +3819,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00202",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -3636,6 +3838,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00203",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -3654,6 +3857,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00204",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -3672,6 +3876,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00205",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -3690,6 +3895,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00206",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -3708,6 +3914,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00207",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -3726,6 +3933,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00208",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -3744,6 +3952,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00209",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -3762,6 +3971,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00210",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -3780,6 +3990,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00211",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -3798,6 +4009,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00212",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -3816,6 +4028,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00213",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -3834,6 +4047,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00214",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -3852,6 +4066,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00215",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -3870,6 +4085,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00216",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -3888,6 +4104,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00217",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -3906,6 +4123,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00218",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -3924,6 +4142,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00219",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -3942,6 +4161,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00220",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -3960,6 +4180,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00221",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -3978,6 +4199,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00222",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -3996,6 +4218,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00223",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -4014,6 +4237,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00224",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -4032,6 +4256,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00225",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -4050,6 +4275,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00226",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -4068,6 +4294,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00227",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -4086,6 +4313,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00228",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -4104,6 +4332,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00229",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -4122,6 +4351,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00230",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -4140,6 +4370,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00231",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -4158,6 +4389,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00232",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -4176,6 +4408,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00233",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -4194,6 +4427,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00234",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -4212,6 +4446,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00235",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -4230,6 +4465,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00236",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -4248,6 +4484,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00237",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -4266,6 +4503,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00238",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -4284,6 +4522,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00239",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -4302,6 +4541,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00240",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -4320,6 +4560,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00241",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -4338,6 +4579,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00242",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -4356,6 +4598,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00243",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -4374,6 +4617,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00244",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -4392,6 +4636,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00245",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -4410,6 +4655,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00246",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -4428,6 +4674,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00247",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -4446,6 +4693,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00248",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -4464,6 +4712,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00249",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -4482,6 +4731,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00250",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -4500,6 +4750,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00251",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -4518,6 +4769,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00252",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -4536,6 +4788,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00253",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -4554,6 +4807,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00254",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -4572,6 +4826,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00255",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -4590,6 +4845,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00256",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -4608,6 +4864,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00257",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -4626,6 +4883,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00258",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -4644,6 +4902,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00259",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -4662,6 +4921,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00260",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -4680,6 +4940,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00261",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -4698,6 +4959,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00262",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -4716,6 +4978,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00263",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -4734,6 +4997,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00264",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -4752,6 +5016,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00265",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -4770,6 +5035,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00266",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -4788,6 +5054,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00267",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -4806,6 +5073,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00268",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -4824,6 +5092,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00269",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -4842,6 +5111,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00270",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -4860,6 +5130,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00271",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -4878,6 +5149,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00272",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -4896,6 +5168,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00273",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -4914,6 +5187,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00274",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -4932,6 +5206,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00275",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -4950,6 +5225,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00276",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -4968,6 +5244,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00277",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -4986,6 +5263,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00278",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -5004,6 +5282,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00279",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -5022,6 +5301,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00280",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -5040,6 +5320,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00281",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -5058,6 +5339,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00282",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -5076,6 +5358,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00283",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -5094,6 +5377,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00284",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -5112,6 +5396,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00285",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -5130,6 +5415,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00286",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler (Kare, Dikdörtgen, Paralelkenar)",
@@ -5148,6 +5434,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00287",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler (Kare, Dikdörtgen, Paralelkenar)",
@@ -5166,6 +5453,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00288",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler (Kare, Dikdörtgen, Paralelkenar)",
@@ -5184,6 +5472,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00289",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler (Kare, Dikdörtgen, Paralelkenar)",
@@ -5202,6 +5491,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00290",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler (Kare, Dikdörtgen, Paralelkenar)",
@@ -5220,6 +5510,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00291",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler (Kare, Dikdörtgen, Paralelkenar)",
@@ -5238,6 +5529,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00292",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler (Kare, Dikdörtgen, Paralelkenar)",
@@ -5256,6 +5548,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00293",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler (Kare, Dikdörtgen, Paralelkenar)",
@@ -5274,6 +5567,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00294",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler (Kare, Dikdörtgen, Paralelkenar)",
@@ -5292,6 +5586,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00295",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -5310,6 +5605,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00296",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -5328,6 +5624,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00297",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -5346,6 +5643,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00298",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -5364,6 +5662,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00299",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -5382,6 +5681,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00300",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -5400,6 +5700,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00301",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -5418,6 +5719,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00302",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -5436,6 +5738,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00303",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -5454,6 +5757,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00304",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -5472,6 +5776,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00305",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -5490,6 +5795,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00306",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -5508,6 +5814,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00307",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -5526,6 +5833,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00308",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -5544,6 +5852,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00309",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -5562,6 +5871,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00310",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -5580,6 +5890,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00311",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -5598,6 +5909,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00312",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -5616,6 +5928,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00313",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Analitik Geometri (Nokta ve Doğrunun Analitiği)",
@@ -5634,6 +5947,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00314",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Analitik Geometri (Nokta ve Doğrunun Analitiği)",
@@ -5652,6 +5966,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00315",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Analitik Geometri (Nokta ve Doğrunun Analitiği)",
@@ -5670,6 +5985,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00316",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Analitik Geometri (Nokta ve Doğrunun Analitiği)",
@@ -5688,6 +6004,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00317",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Analitik Geometri (Nokta ve Doğrunun Analitiği)",
@@ -5706,6 +6023,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00318",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Analitik Geometri (Nokta ve Doğrunun Analitiği)",
@@ -5724,6 +6042,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00319",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Analitik Geometri (Nokta ve Doğrunun Analitiği)",
@@ -5742,6 +6061,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00320",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Analitik Geometri (Nokta ve Doğrunun Analitiği)",
@@ -5760,6 +6080,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00321",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Analitik Geometri (Nokta ve Doğrunun Analitiği)",
@@ -5778,6 +6099,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00322",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -5796,6 +6118,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00323",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -5814,6 +6137,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00324",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -5832,6 +6156,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00325",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -5850,6 +6175,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00326",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -5868,6 +6194,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00327",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -5886,6 +6213,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00328",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -5904,6 +6232,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00329",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -5922,6 +6251,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00330",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -5940,6 +6270,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00331",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -5958,6 +6289,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00332",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -5976,6 +6308,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00333",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -5994,6 +6327,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00334",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -6012,6 +6346,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00335",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -6030,6 +6365,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00336",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -6048,6 +6384,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00337",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -6066,6 +6403,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00338",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -6084,6 +6422,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00339",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -6102,6 +6441,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00340",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -6120,6 +6460,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00341",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -6138,6 +6479,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00342",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -6156,6 +6498,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00343",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -6174,6 +6517,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00344",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -6192,6 +6536,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00345",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -6210,6 +6555,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00346",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -6228,6 +6574,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00347",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -6246,6 +6593,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00348",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -6264,6 +6612,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00349",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -6282,6 +6631,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00350",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -6300,6 +6650,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00351",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -6318,6 +6669,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00352",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -6336,6 +6688,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00353",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -6354,6 +6707,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00354",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -6372,6 +6726,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00355",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -6390,6 +6745,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00356",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -6408,6 +6764,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00357",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -6426,6 +6783,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00358",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6444,6 +6802,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00359",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6462,6 +6821,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00360",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6480,6 +6840,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00361",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6498,6 +6859,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00362",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6516,6 +6878,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00363",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6534,6 +6897,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00364",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6552,6 +6916,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00365",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6570,6 +6935,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00366",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6588,6 +6954,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00367",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -6606,6 +6973,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00368",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -6624,6 +6992,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00369",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -6642,6 +7011,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00370",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -6660,6 +7030,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00371",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -6678,6 +7049,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00372",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -6696,6 +7068,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00373",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -6714,6 +7087,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00374",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -6732,6 +7106,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00375",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -6750,6 +7125,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00376",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -6768,6 +7144,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00377",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -6786,6 +7163,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00378",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -6804,6 +7182,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00379",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -6822,6 +7201,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00380",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -6840,6 +7220,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00381",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -6858,6 +7239,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00382",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -6876,6 +7258,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00383",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -6894,6 +7277,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00384",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -6912,6 +7296,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00385",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -6930,6 +7315,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00386",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -6948,6 +7334,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00387",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -6966,6 +7353,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00388",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -6984,6 +7372,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00389",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -7002,6 +7391,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00390",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -7020,6 +7410,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00391",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -7038,6 +7429,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00392",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -7056,6 +7448,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00393",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -7074,6 +7467,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00394",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -7092,6 +7486,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00395",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -7110,6 +7505,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00396",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -7128,6 +7524,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00397",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -7146,6 +7543,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00398",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -7164,6 +7562,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00399",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -7182,6 +7581,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00400",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -7200,6 +7600,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00401",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -7218,6 +7619,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00402",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -7236,6 +7638,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00403",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire",
@@ -7254,6 +7657,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00404",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire",
@@ -7272,6 +7676,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00405",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire",
@@ -7290,6 +7695,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00406",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -7308,6 +7714,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00407",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -7326,6 +7733,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00408",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -7344,6 +7752,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00409",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -7362,6 +7771,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00410",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -7380,6 +7790,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00411",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -7398,6 +7809,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00412",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -7416,6 +7828,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00413",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -7434,6 +7847,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00414",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -7452,6 +7866,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00415",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -7470,6 +7885,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00416",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -7488,6 +7904,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00417",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -7506,6 +7923,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00418",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -7524,6 +7942,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00419",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -7542,6 +7961,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00420",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -7560,6 +7980,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00421",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire",
@@ -7578,6 +7999,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00422",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire",
@@ -7596,6 +8018,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00423",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire",
@@ -7614,6 +8037,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00424",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -7632,6 +8056,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00425",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -7650,6 +8075,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00426",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -7668,6 +8094,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00427",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -7686,6 +8113,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00428",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -7704,6 +8132,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00429",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -7722,6 +8151,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00430",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -7740,6 +8170,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00431",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -7758,6 +8189,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00432",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -7776,6 +8208,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00433",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -7794,6 +8227,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00434",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -7812,6 +8246,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00435",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -7830,6 +8265,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00436",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -7848,6 +8284,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00437",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -7866,6 +8303,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00438",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -7884,6 +8322,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00439",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -7902,6 +8341,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00440",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -7920,6 +8360,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00441",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -7938,6 +8379,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00442",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -7956,6 +8398,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00443",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -7974,6 +8417,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00444",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -7992,6 +8436,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00445",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -8010,6 +8455,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00446",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -8028,6 +8474,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00447",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -8046,6 +8493,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00448",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -8064,6 +8512,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00449",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -8082,6 +8531,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00450",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -8100,6 +8550,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00451",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -8118,6 +8569,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00452",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -8136,6 +8588,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00453",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -8154,6 +8607,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00454",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -8172,6 +8626,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00455",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -8190,6 +8645,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00456",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -8208,6 +8664,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00457",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -8226,6 +8683,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00458",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -8244,6 +8702,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00459",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -8262,6 +8721,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00460",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -8280,6 +8740,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00461",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -8298,6 +8759,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00462",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -8316,6 +8778,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00463",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -8334,6 +8797,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00464",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -8352,6 +8816,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00465",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -8370,6 +8835,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00466",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -8388,6 +8854,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00467",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -8406,6 +8873,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00468",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -8424,6 +8892,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00469",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -8442,6 +8911,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00470",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -8460,6 +8930,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00471",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -8478,6 +8949,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00472",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -8496,6 +8968,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00473",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -8514,6 +8987,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00474",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -8532,6 +9006,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00475",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -8550,6 +9025,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00476",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -8568,6 +9044,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00477",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -8586,6 +9063,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00478",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -8604,6 +9082,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00479",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -8622,6 +9101,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00480",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -8640,6 +9120,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00481",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -8658,6 +9139,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00482",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -8676,6 +9158,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00483",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -8694,6 +9177,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00484",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -8712,6 +9196,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00485",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -8730,6 +9215,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00486",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -8748,6 +9234,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00487",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -8766,6 +9253,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00488",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -8784,6 +9272,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00489",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -8802,6 +9291,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00490",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -8820,6 +9310,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00491",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -8838,6 +9329,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00492",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -8856,6 +9348,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00493",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -8874,6 +9367,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00494",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -8892,6 +9386,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00495",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -8910,6 +9405,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00496",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -8928,6 +9424,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00497",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -8946,6 +9443,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00498",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -8964,6 +9462,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00499",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -8982,6 +9481,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00500",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -9000,6 +9500,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00501",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -9018,6 +9519,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00502",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -9036,6 +9538,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00503",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -9054,6 +9557,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00504",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -9072,6 +9576,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00505",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -9090,6 +9595,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00506",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -9108,6 +9614,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00507",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -9126,6 +9633,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00508",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -9144,6 +9652,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00509",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -9162,6 +9671,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00510",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -9179,6 +9689,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00511",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -9197,6 +9708,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00512",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -9215,6 +9727,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00513",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -9233,6 +9746,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00514",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -9251,6 +9765,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00515",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -9269,6 +9784,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00516",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -9287,6 +9803,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00517",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -9305,6 +9822,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00518",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -9323,6 +9841,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00519",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -9341,6 +9860,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00520",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -9359,6 +9879,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00521",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -9377,6 +9898,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00522",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -9395,6 +9917,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00523",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -9413,6 +9936,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00524",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -9431,6 +9955,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00525",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -9449,6 +9974,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00526",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -9467,6 +9993,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00527",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -9485,6 +10012,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00528",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -9503,6 +10031,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00529",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -9521,6 +10050,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00530",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -9539,6 +10069,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00531",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -9557,6 +10088,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00532",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -9575,6 +10107,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00533",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -9593,6 +10126,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00534",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -9611,6 +10145,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00535",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -9629,6 +10164,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00536",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -9647,6 +10183,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00537",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -9664,6 +10201,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00538",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -9682,6 +10220,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00539",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -9700,6 +10239,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00540",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -9718,6 +10258,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00541",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -9736,6 +10277,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00542",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -9754,6 +10296,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00543",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -9772,6 +10315,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00544",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -9790,6 +10334,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00545",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -9808,6 +10353,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00546",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -9826,6 +10372,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00547",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -9844,6 +10391,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00548",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -9862,6 +10410,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00549",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -9880,6 +10429,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00550",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -9898,6 +10448,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00551",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -9916,6 +10467,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00552",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -9934,6 +10486,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00553",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -9952,6 +10505,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00554",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -9970,6 +10524,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00555",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -9987,6 +10542,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00556",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -10005,6 +10561,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00557",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -10023,6 +10580,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00558",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -10041,6 +10599,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00559",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -10059,6 +10618,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00560",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -10077,6 +10637,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00561",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -10095,6 +10656,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00562",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -10113,6 +10675,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00563",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -10131,6 +10694,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00564",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -10149,6 +10713,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00565",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -10167,6 +10732,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00566",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -10185,6 +10751,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00567",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -10203,6 +10770,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00568",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -10221,6 +10789,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00569",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -10239,6 +10808,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00570",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -10257,6 +10827,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00571",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -10275,6 +10846,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00572",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -10293,6 +10865,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00573",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -10311,6 +10884,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00574",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10329,6 +10903,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00575",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10347,6 +10922,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00576",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10365,6 +10941,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00577",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10383,6 +10960,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00578",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10401,6 +10979,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00579",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10419,6 +10998,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00580",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10437,6 +11017,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00581",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10455,6 +11036,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00582",
     "topic_id": 40,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10473,6 +11055,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00583",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10491,6 +11074,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00584",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10509,6 +11093,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00585",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10527,6 +11112,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00586",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10545,6 +11131,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00587",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10563,6 +11150,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00588",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10581,6 +11169,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00589",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10599,6 +11188,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00590",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10617,6 +11207,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00591",
     "topic_id": 41,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10635,6 +11226,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00592",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10653,6 +11245,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00593",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10671,6 +11264,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00594",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10689,6 +11283,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00595",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10707,6 +11302,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00596",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10725,6 +11321,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00597",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10743,6 +11340,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00598",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10761,6 +11359,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00599",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10779,6 +11378,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00600",
     "topic_id": 42,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10797,6 +11397,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00601",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10815,6 +11416,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00602",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10833,6 +11435,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00603",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10851,6 +11454,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00604",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10869,6 +11473,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00605",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10887,6 +11492,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00606",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10905,6 +11511,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00607",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10923,6 +11530,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00608",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10941,6 +11549,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00609",
     "topic_id": 43,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10959,6 +11568,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00610",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10977,6 +11587,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00611",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -10995,6 +11606,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00612",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11013,6 +11625,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00613",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11031,6 +11644,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00614",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11049,6 +11663,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00615",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11067,6 +11682,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00616",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11085,6 +11701,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00617",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11103,6 +11720,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00618",
     "topic_id": 44,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11121,6 +11739,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00619",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11139,6 +11758,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00620",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11157,6 +11777,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00621",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11175,6 +11796,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00622",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11193,6 +11815,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00623",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11211,6 +11834,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00624",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11229,6 +11853,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00625",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11247,6 +11872,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00626",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11265,6 +11891,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00627",
     "topic_id": 45,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11283,6 +11910,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00628",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11301,6 +11929,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00629",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11319,6 +11948,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00630",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11337,6 +11967,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00631",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11355,6 +11986,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00632",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11373,6 +12005,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00633",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11391,6 +12024,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00634",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11409,6 +12043,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00635",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11427,6 +12062,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00636",
     "topic_id": 46,
     "exam_type": "tyt",
     "subject_id": 3,
@@ -11445,6 +12081,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00637",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -11463,6 +12100,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00638",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -11481,6 +12119,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00639",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -11499,6 +12138,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00640",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -11517,6 +12157,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00641",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -11535,6 +12176,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00642",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -11553,6 +12195,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00643",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -11571,6 +12214,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00644",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -11589,6 +12233,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00645",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -11607,6 +12252,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00646",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -11625,6 +12271,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00647",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -11643,6 +12290,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00648",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -11661,6 +12309,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00649",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -11679,6 +12328,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00650",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -11697,6 +12347,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00651",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -11715,6 +12366,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00652",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -11733,6 +12385,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00653",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -11751,6 +12404,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00654",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -11769,6 +12423,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00655",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -11787,6 +12442,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00656",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -11805,6 +12461,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00657",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -11823,6 +12480,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00658",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -11841,6 +12499,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00659",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -11859,6 +12518,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00660",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -11877,6 +12537,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00661",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -11895,6 +12556,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00662",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -11913,6 +12575,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00663",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -11931,6 +12594,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00664",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -11949,6 +12613,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00665",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -11967,6 +12632,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00666",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -11985,6 +12651,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00667",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -12003,6 +12670,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00668",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -12021,6 +12689,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00669",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -12039,6 +12708,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00670",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -12057,6 +12727,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00671",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -12075,6 +12746,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00672",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -12093,6 +12765,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00673",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -12111,6 +12784,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00674",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -12129,6 +12803,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00675",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -12147,6 +12822,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00676",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -12165,6 +12841,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00677",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -12183,6 +12860,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00678",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -12201,6 +12879,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00679",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -12219,6 +12898,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00680",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -12237,6 +12917,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00681",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -12255,6 +12936,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00682",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -12273,6 +12955,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00683",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -12291,6 +12974,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00684",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -12309,6 +12993,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00685",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -12327,6 +13012,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00686",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -12345,6 +13031,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00687",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -12363,6 +13050,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00688",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -12381,6 +13069,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00689",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -12399,6 +13088,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00690",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -12417,6 +13107,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00691",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -12435,6 +13126,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00692",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -12453,6 +13145,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00693",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -12471,6 +13164,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00694",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -12489,6 +13183,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00695",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -12507,6 +13202,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00696",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -12525,6 +13221,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00697",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -12543,6 +13240,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00698",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -12561,6 +13259,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00699",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -12579,6 +13278,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00700",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -12597,6 +13297,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00701",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -12615,6 +13316,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00702",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -12633,6 +13335,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00703",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -12651,6 +13354,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00704",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -12669,6 +13373,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00705",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -12687,6 +13392,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00706",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -12705,6 +13411,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00707",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -12723,6 +13430,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00708",
     "topic_id": 40,
     "exam_type": "tyt",
     "topic_name": "Doğruda ve Üçgende Açılar",
@@ -12741,6 +13449,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00709",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -12759,6 +13468,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00710",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -12777,6 +13487,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00711",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -12795,6 +13506,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00712",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -12813,6 +13525,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00713",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -12831,6 +13544,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00714",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -12849,6 +13563,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00715",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -12867,6 +13582,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00716",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -12885,6 +13601,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00717",
     "topic_id": 41,
     "exam_type": "tyt",
     "topic_name": "Özel Üçgenler (Dik, İkizkenar, Eşkenar)",
@@ -12903,6 +13620,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00718",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -12921,6 +13639,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00719",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -12939,6 +13658,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00720",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -12957,6 +13677,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00721",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -12975,6 +13696,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00722",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -12993,6 +13715,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00723",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -13011,6 +13734,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00724",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -13029,6 +13753,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00725",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -13047,6 +13772,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00726",
     "topic_id": 42,
     "exam_type": "tyt",
     "topic_name": "Üçgende Alan ve Benzerlik",
@@ -13065,6 +13791,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00727",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -13083,6 +13810,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00728",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -13101,6 +13829,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00729",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -13119,6 +13848,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00730",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -13137,6 +13867,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00731",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -13155,6 +13886,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00732",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -13173,6 +13905,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00733",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -13191,6 +13924,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00734",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -13209,6 +13943,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00735",
     "topic_id": 43,
     "exam_type": "tyt",
     "topic_name": "Çokgenler ve Dörtgenler",
@@ -13227,6 +13962,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00736",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -13245,6 +13981,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00737",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -13263,6 +14000,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00738",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -13281,6 +14019,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00739",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -13299,6 +14038,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00740",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -13317,6 +14057,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00741",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -13335,6 +14076,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00742",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -13353,6 +14095,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00743",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -13371,6 +14114,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00744",
     "topic_id": 44,
     "exam_type": "tyt",
     "topic_name": "Özel Dörtgenler (Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
@@ -13389,6 +14133,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00745",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -13407,6 +14152,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00746",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -13425,6 +14171,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00747",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -13443,6 +14190,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00748",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -13461,6 +14209,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00749",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -13479,6 +14228,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00750",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -13497,6 +14247,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00751",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -13515,6 +14266,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00752",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -13533,6 +14285,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00753",
     "topic_id": 45,
     "exam_type": "tyt",
     "topic_name": "Çember ve Daire (Açı, Uzunluk, Alan)",
@@ -13551,6 +14304,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00754",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -13569,6 +14323,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00755",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -13587,6 +14342,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00756",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -13605,6 +14361,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00757",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -13623,6 +14380,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00758",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -13641,6 +14399,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00759",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -13659,6 +14418,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00760",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -13677,6 +14437,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00761",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",
@@ -13695,6 +14456,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-geometri-00762",
     "topic_id": 46,
     "exam_type": "tyt",
     "topic_name": "Katı Cisimler (Prizma, Piramit, Koni, Küre)",

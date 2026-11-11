@@ -1,5 +1,6 @@
 [
   {
+    "uid": "tyt-cografya-00001",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -18,6 +19,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00002",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -36,6 +38,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00003",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -54,6 +57,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00004",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -72,6 +76,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00005",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -90,6 +95,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00006",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -108,6 +114,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00007",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -126,6 +133,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00008",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -144,6 +152,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00009",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -162,6 +171,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00010",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -180,6 +190,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00011",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -198,6 +209,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00012",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -216,6 +228,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00013",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -234,6 +247,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00014",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -252,6 +266,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00015",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -270,6 +285,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00016",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -288,6 +304,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00017",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -306,6 +323,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00018",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -324,6 +342,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00019",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -342,6 +361,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00020",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -360,6 +380,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00021",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -378,6 +399,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00022",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -396,6 +418,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00023",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -414,6 +437,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00024",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -432,6 +456,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00025",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -450,6 +475,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00026",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -468,6 +494,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00027",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -486,6 +513,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00028",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -504,6 +532,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00029",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -522,6 +551,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00030",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -540,6 +570,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00031",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -558,6 +589,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00032",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -576,6 +608,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00033",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -594,6 +627,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00034",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -612,6 +646,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00035",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -630,6 +665,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00036",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -648,6 +684,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00037",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -666,6 +703,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00038",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -684,6 +722,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00039",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -702,6 +741,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00040",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -720,6 +760,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00041",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -738,6 +779,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00042",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -756,6 +798,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00043",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -774,6 +817,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00044",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -792,6 +836,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00045",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -810,6 +855,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00046",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -828,6 +874,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00047",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -846,6 +893,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00048",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -864,6 +912,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00049",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -882,6 +931,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00050",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -900,6 +950,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00051",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -918,6 +969,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00052",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -936,6 +988,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00053",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -954,6 +1007,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00054",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -972,6 +1026,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00055",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -990,6 +1045,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00056",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -1008,6 +1064,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00057",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -1026,6 +1083,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00058",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -1044,6 +1102,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00059",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -1062,6 +1121,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00060",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -1080,6 +1140,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00061",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -1098,6 +1159,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00062",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -1116,6 +1178,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00063",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -1134,6 +1197,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00064",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -1152,6 +1216,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00065",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -1170,6 +1235,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00066",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -1188,6 +1254,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00067",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -1206,6 +1273,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00068",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -1224,6 +1292,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00069",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -1242,6 +1311,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00070",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -1260,6 +1330,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00071",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -1278,6 +1349,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00072",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -1296,6 +1368,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00073",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -1314,6 +1387,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00074",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -1332,6 +1406,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00075",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -1350,6 +1425,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00076",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -1368,6 +1444,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00077",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -1386,6 +1463,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00078",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -1404,6 +1482,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00079",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -1422,6 +1501,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00080",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -1440,6 +1520,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00081",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -1458,6 +1539,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00082",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -1476,6 +1558,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00083",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -1494,6 +1577,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00084",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -1512,6 +1596,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00085",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -1530,6 +1615,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00086",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -1548,6 +1634,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00087",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -1566,6 +1653,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00088",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -1584,6 +1672,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00089",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -1602,6 +1691,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00090",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -1620,6 +1710,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00091",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -1638,6 +1729,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00092",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -1656,6 +1748,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00093",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -1674,6 +1767,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00094",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -1692,6 +1786,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00095",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -1710,6 +1805,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00096",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -1728,6 +1824,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00097",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -1746,6 +1843,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00098",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -1764,6 +1862,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00099",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -1782,6 +1881,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00100",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -1800,6 +1900,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00101",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -1818,6 +1919,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00102",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -1836,6 +1938,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00103",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -1854,6 +1957,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00104",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -1872,6 +1976,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00105",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan Etkileşimi",
@@ -1890,6 +1995,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00106",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -1908,6 +2014,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00107",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -1926,6 +2033,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00108",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -1944,6 +2052,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00109",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -1962,6 +2071,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00110",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -1980,6 +2090,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00111",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -1998,6 +2109,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00112",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -2016,6 +2128,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00113",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -2034,6 +2147,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00114",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -2052,6 +2166,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00115",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -2070,6 +2185,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00116",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -2088,6 +2204,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00117",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -2106,6 +2223,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00118",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -2124,6 +2242,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00119",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -2142,6 +2261,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00120",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -2160,6 +2280,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00121",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -2178,6 +2299,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00122",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -2196,6 +2318,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00123",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -2214,6 +2337,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00124",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -2232,6 +2356,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00125",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -2250,6 +2375,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00126",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -2268,6 +2394,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00127",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -2286,6 +2413,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00128",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -2304,6 +2432,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00129",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -2322,6 +2451,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00130",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -2340,6 +2470,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00131",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -2358,6 +2489,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00132",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -2376,6 +2508,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00133",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -2394,6 +2527,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00134",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -2412,6 +2546,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00135",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -2430,6 +2565,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00136",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -2448,6 +2584,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00137",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -2466,6 +2603,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00138",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -2484,6 +2622,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00139",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -2502,6 +2641,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00140",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -2520,6 +2660,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00141",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -2538,6 +2679,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00142",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -2556,6 +2698,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00143",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -2574,6 +2717,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00144",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -2592,6 +2736,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00145",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -2610,6 +2755,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00146",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -2628,6 +2774,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00147",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -2646,6 +2793,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00148",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -2664,6 +2812,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00149",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -2682,6 +2831,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00150",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -2700,6 +2850,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00151",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -2718,6 +2869,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00152",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -2736,6 +2888,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00153",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -2754,6 +2907,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00154",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -2772,6 +2926,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00155",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -2790,6 +2945,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00156",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -2808,6 +2964,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00157",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -2826,6 +2983,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00158",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -2844,6 +3002,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00159",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -2862,6 +3021,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00160",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -2880,6 +3040,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00161",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -2898,6 +3059,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00162",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -2916,6 +3078,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00163",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -2934,6 +3097,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00164",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -2952,6 +3116,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00165",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -2970,6 +3135,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00166",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -2988,6 +3154,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00167",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -3006,6 +3173,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00168",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -3024,6 +3192,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00169",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -3042,6 +3211,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00170",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -3060,6 +3230,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00171",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -3078,6 +3249,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00172",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -3096,6 +3268,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00173",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -3114,6 +3287,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00174",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -3132,6 +3306,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00175",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -3150,6 +3325,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00176",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -3168,6 +3344,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00177",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -3186,6 +3363,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00178",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -3204,6 +3382,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00179",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -3222,6 +3401,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00180",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -3240,6 +3420,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00181",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -3258,6 +3439,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00182",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -3276,6 +3458,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00183",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -3294,6 +3477,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00184",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -3312,6 +3496,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00185",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -3330,6 +3515,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00186",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -3348,6 +3534,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00187",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -3366,6 +3553,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00188",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -3384,6 +3572,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00189",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -3402,6 +3591,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00190",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -3420,6 +3610,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00191",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -3438,6 +3629,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00192",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -3456,6 +3648,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00193",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -3474,6 +3667,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00194",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -3492,6 +3686,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00195",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -3510,6 +3705,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00196",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -3528,6 +3724,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00197",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -3546,6 +3743,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00198",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -3564,6 +3762,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00199",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -3582,6 +3781,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00200",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -3600,6 +3800,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00201",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -3618,6 +3819,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00202",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -3636,6 +3838,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00203",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -3654,6 +3857,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00204",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -3672,6 +3876,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00205",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -3690,6 +3895,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00206",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -3708,6 +3914,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00207",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -3726,6 +3933,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00208",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -3744,6 +3952,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00209",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -3762,6 +3971,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00210",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -3780,6 +3990,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00211",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -3798,6 +4009,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00212",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -3816,6 +4028,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00213",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -3834,6 +4047,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00214",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -3852,6 +4066,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00215",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -3870,6 +4085,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00216",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -3888,6 +4104,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00217",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -3906,6 +4123,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00218",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -3924,6 +4142,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00219",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -3942,6 +4161,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00220",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -3960,6 +4180,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00221",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -3978,6 +4199,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00222",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -3996,6 +4218,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00223",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -4014,6 +4237,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00224",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -4032,6 +4256,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00225",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -4050,6 +4275,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00226",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -4068,6 +4294,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00227",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -4086,6 +4313,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00228",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -4104,6 +4332,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00229",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -4122,6 +4351,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00230",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -4140,6 +4370,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00231",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -4158,6 +4389,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00232",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -4176,6 +4408,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00233",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -4194,6 +4427,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00234",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -4212,6 +4446,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00235",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -4230,6 +4465,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00236",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -4248,6 +4484,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00237",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -4266,6 +4503,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00238",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -4284,6 +4522,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00239",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -4302,6 +4541,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00240",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -4320,6 +4560,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00241",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -4338,6 +4579,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00242",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -4356,6 +4598,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00243",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -4374,6 +4617,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00244",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -4392,6 +4636,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00245",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -4410,6 +4655,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00246",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -4428,6 +4674,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00247",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -4446,6 +4693,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00248",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -4464,6 +4712,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00249",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -4482,6 +4731,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00250",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -4500,6 +4750,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00251",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -4518,6 +4769,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00252",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -4536,6 +4788,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00253",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -4554,6 +4807,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00254",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -4572,6 +4826,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00255",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -4590,6 +4845,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00256",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -4608,6 +4864,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00257",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -4626,6 +4883,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00258",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -4644,6 +4902,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00259",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -4662,6 +4921,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00260",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -4680,6 +4940,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00261",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -4698,6 +4959,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00262",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -4716,6 +4978,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00263",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -4734,6 +4997,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00264",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -4752,6 +5016,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00265",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -4770,6 +5035,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00266",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -4788,6 +5054,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00267",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -4806,6 +5073,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00268",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -4824,6 +5092,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00269",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -4842,6 +5111,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00270",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -4860,6 +5130,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00271",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -4878,6 +5149,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00272",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -4896,6 +5168,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00273",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -4914,6 +5187,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00274",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -4932,6 +5206,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00275",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -4950,6 +5225,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00276",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -4968,6 +5244,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00277",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -4986,6 +5263,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00278",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -5004,6 +5282,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00279",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -5022,6 +5301,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00280",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -5040,6 +5320,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00281",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -5058,6 +5339,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00282",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -5076,6 +5358,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00283",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -5094,6 +5377,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00284",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -5112,6 +5396,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00285",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -5130,6 +5415,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00286",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -5148,6 +5434,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00287",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -5166,6 +5453,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00288",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -5184,6 +5472,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00289",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -5202,6 +5491,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00290",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -5220,6 +5510,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00291",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -5238,6 +5529,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00292",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -5256,6 +5548,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00293",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -5274,6 +5567,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00294",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -5292,6 +5586,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00295",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -5310,6 +5605,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00296",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -5328,6 +5624,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00297",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -5346,6 +5643,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00298",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -5364,6 +5662,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00299",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -5382,6 +5681,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00300",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -5400,6 +5700,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00301",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -5418,6 +5719,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00302",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -5436,6 +5738,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00303",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -5454,6 +5757,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00304",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -5472,6 +5776,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00305",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -5490,6 +5795,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00306",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -5508,6 +5814,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00307",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -5526,6 +5833,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00308",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -5544,6 +5852,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00309",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -5562,6 +5871,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00310",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -5580,6 +5890,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00311",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -5598,6 +5909,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00312",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -5616,6 +5928,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00313",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -5634,6 +5947,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00314",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -5652,6 +5966,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00315",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -5670,6 +5985,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00316",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -5688,6 +6004,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00317",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -5706,6 +6023,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00318",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -5724,6 +6042,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00319",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -5742,6 +6061,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00320",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -5760,6 +6080,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00321",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -5778,6 +6099,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00322",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -5796,6 +6118,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00323",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -5814,6 +6137,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00324",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -5832,6 +6156,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00325",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -5850,6 +6175,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00326",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -5868,6 +6194,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00327",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -5886,6 +6213,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00328",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -5904,6 +6232,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00329",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -5922,6 +6251,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00330",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -5940,6 +6270,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00331",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -5958,6 +6289,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00332",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -5976,6 +6308,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00333",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -5994,6 +6327,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00334",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -6012,6 +6346,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00335",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -6030,6 +6365,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00336",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -6048,6 +6384,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00337",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -6066,6 +6403,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00338",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -6084,6 +6422,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00339",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -6102,6 +6441,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00340",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -6120,6 +6460,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00341",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -6138,6 +6479,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00342",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -6156,6 +6498,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00343",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -6174,6 +6517,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00344",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -6192,6 +6536,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00345",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -6210,6 +6555,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00346",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -6228,6 +6574,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00347",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -6246,6 +6593,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00348",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -6264,6 +6612,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00349",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -6282,6 +6631,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00350",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -6300,6 +6650,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00351",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -6318,6 +6669,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00352",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -6336,6 +6688,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00353",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -6354,6 +6707,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00354",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -6372,6 +6726,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00355",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -6390,6 +6745,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00356",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -6408,6 +6764,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00357",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -6426,6 +6783,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00358",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -6444,6 +6802,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00359",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -6462,6 +6821,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00360",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -6480,6 +6840,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00361",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -6498,6 +6859,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00362",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6516,6 +6878,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00363",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -6534,6 +6897,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00364",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -6552,6 +6916,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00365",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6570,6 +6935,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00366",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6588,6 +6954,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00367",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6606,6 +6973,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00368",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6624,6 +6992,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00369",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6642,6 +7011,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00370",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6660,6 +7030,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00371",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6678,6 +7049,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00372",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6696,6 +7068,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00373",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -6714,6 +7087,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00374",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -6732,6 +7106,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00375",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -6750,6 +7125,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00376",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -6768,6 +7144,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00377",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -6786,6 +7163,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00378",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -6804,6 +7182,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00379",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -6822,6 +7201,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00380",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -6840,6 +7220,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00381",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -6858,6 +7239,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00382",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -6876,6 +7258,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00383",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -6894,6 +7277,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00384",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -6912,6 +7296,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00385",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -6930,6 +7315,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00386",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -6948,6 +7334,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00387",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -6966,6 +7353,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00388",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -6984,6 +7372,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00389",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -7002,6 +7391,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00390",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -7020,6 +7410,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00391",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -7038,6 +7429,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00392",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -7056,6 +7448,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00393",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -7074,6 +7467,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00394",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -7092,6 +7486,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00395",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -7110,6 +7505,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00396",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -7128,6 +7524,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00397",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -7146,6 +7543,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00398",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -7164,6 +7562,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00399",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -7182,6 +7581,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00400",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -7200,6 +7600,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00401",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -7218,6 +7619,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00402",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -7236,6 +7638,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00403",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -7254,6 +7657,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00404",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -7272,6 +7676,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00405",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -7290,6 +7695,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00406",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -7308,6 +7714,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00407",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -7326,6 +7733,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00408",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -7344,6 +7752,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00409",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -7362,6 +7771,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00410",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -7380,6 +7790,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00411",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -7398,6 +7809,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00412",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -7416,6 +7828,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00413",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -7434,6 +7847,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00414",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -7452,6 +7866,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00415",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -7470,6 +7885,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00416",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -7488,6 +7904,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00417",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -7506,6 +7923,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00418",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -7524,6 +7942,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00419",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -7542,6 +7961,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00420",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -7560,6 +7980,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00421",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -7578,6 +7999,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00422",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -7596,6 +8018,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00423",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -7614,6 +8037,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00424",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -7632,6 +8056,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00425",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -7650,6 +8075,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00426",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -7668,6 +8094,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00427",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -7686,6 +8113,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00428",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -7704,6 +8132,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00429",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -7722,6 +8151,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00430",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -7740,6 +8170,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00431",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -7758,6 +8189,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00432",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -7776,6 +8208,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00433",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -7794,6 +8227,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00434",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -7812,6 +8246,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00435",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -7830,6 +8265,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00436",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -7848,6 +8284,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00437",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -7866,6 +8303,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00438",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -7884,6 +8322,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00439",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -7902,6 +8341,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00440",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -7920,6 +8360,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00441",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -7938,6 +8379,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00442",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -7956,6 +8398,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00443",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -7974,6 +8417,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00444",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -7992,6 +8436,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00445",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -8010,6 +8455,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00446",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -8028,6 +8474,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00447",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -8046,6 +8493,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00448",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -8064,6 +8512,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00449",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -8082,6 +8531,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00450",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -8100,6 +8550,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00451",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -8118,6 +8569,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00452",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -8136,6 +8588,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00453",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -8154,6 +8607,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00454",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -8172,6 +8626,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00455",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim",
@@ -8190,6 +8645,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00456",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim",
@@ -8208,6 +8664,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00457",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim",
@@ -8226,6 +8683,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00458",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Yerin Şekillenmesi ve İç-Dış Kuvvetler",
@@ -8244,6 +8702,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00459",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Yerin Şekillenmesi ve İç-Dış Kuvvetler",
@@ -8262,6 +8721,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00460",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Yerin Şekillenmesi ve İç-Dış Kuvvetler",
@@ -8280,6 +8740,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00461",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus ve Yerleşme",
@@ -8298,6 +8759,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00462",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus ve Yerleşme",
@@ -8316,6 +8778,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00463",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus ve Yerleşme",
@@ -8334,6 +8797,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00464",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Afetler ve Çevre",
@@ -8352,6 +8816,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00465",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Afetler ve Çevre",
@@ -8370,6 +8835,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00466",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Afetler ve Çevre",
@@ -8388,6 +8854,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00467",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -8406,6 +8873,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00468",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -8424,6 +8892,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00469",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -8442,6 +8911,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00470",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -8460,6 +8930,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00471",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -8478,6 +8949,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00472",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -8496,6 +8968,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00473",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -8514,6 +8987,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00474",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -8532,6 +9006,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00475",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -8550,6 +9025,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00476",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -8568,6 +9044,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00477",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -8586,6 +9063,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00478",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -8604,6 +9082,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00479",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -8622,6 +9101,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00480",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -8640,6 +9120,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00481",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -8658,6 +9139,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00482",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -8676,6 +9158,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00483",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -8694,6 +9177,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00484",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -8712,6 +9196,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00485",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -8730,6 +9215,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00486",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -8748,6 +9234,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00487",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -8766,6 +9253,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00488",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -8784,6 +9272,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00489",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -8802,6 +9291,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00490",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -8820,6 +9310,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00491",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -8838,6 +9329,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00492",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -8856,6 +9348,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00493",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -8874,6 +9367,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00494",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -8892,6 +9386,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00495",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -8910,6 +9405,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00496",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -8928,6 +9424,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00497",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -8946,6 +9443,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00498",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -8964,6 +9462,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00499",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -8982,6 +9481,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00500",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -9000,6 +9500,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00501",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -9018,6 +9519,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00502",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -9036,6 +9538,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00503",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -9054,6 +9557,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00504",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -9072,6 +9576,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00505",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -9090,6 +9595,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00506",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -9108,6 +9614,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00507",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -9126,6 +9633,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00508",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -9144,6 +9652,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00509",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -9162,6 +9671,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00510",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -9180,6 +9690,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00511",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -9198,6 +9709,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00512",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9216,6 +9728,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00513",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9234,6 +9747,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00514",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9252,6 +9766,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00515",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -9270,6 +9785,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00516",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -9288,6 +9804,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00517",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -9306,6 +9823,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00518",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -9324,6 +9842,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00519",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -9342,6 +9861,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00520",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -9360,6 +9880,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00521",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -9378,6 +9899,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00522",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -9396,6 +9918,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00523",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -9414,6 +9937,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00524",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -9432,6 +9956,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00525",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -9450,6 +9975,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00526",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -9468,6 +9994,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00527",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -9486,6 +10013,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00528",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -9504,6 +10032,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00529",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -9522,6 +10051,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00530",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -9540,6 +10070,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00531",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -9558,6 +10089,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00532",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -9576,6 +10108,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00533",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -9594,6 +10127,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00534",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -9612,6 +10146,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00535",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -9630,6 +10165,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00536",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -9648,6 +10184,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00537",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -9666,6 +10203,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00538",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -9684,6 +10222,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00539",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -9702,6 +10241,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00540",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -9720,6 +10260,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00541",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -9738,6 +10279,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00542",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9756,6 +10298,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00543",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9774,6 +10317,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00544",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9792,6 +10336,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00545",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9810,6 +10355,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00546",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9828,6 +10374,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00547",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9846,6 +10393,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00548",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9864,6 +10412,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00549",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9882,6 +10431,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00550",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -9900,6 +10450,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00551",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -9918,6 +10469,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00552",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -9936,6 +10488,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00553",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -9954,6 +10507,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00554",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -9972,6 +10526,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00555",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -9990,6 +10545,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00556",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -10008,6 +10564,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00557",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -10026,6 +10583,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00558",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -10044,6 +10602,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00559",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -10062,6 +10621,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00560",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -10080,6 +10640,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00561",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -10098,6 +10659,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00562",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -10116,6 +10678,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00563",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -10134,6 +10697,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00564",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -10152,6 +10716,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00565",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -10170,6 +10735,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00566",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -10188,6 +10754,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00567",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -10206,6 +10773,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00568",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -10224,6 +10792,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00569",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -10242,6 +10811,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00570",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -10260,6 +10830,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00571",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -10278,6 +10849,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00572",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -10296,6 +10868,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00573",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -10314,6 +10887,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00574",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -10332,6 +10906,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00575",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -10350,6 +10925,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00576",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -10368,6 +10944,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00577",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -10386,6 +10963,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00578",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları",
@@ -10404,6 +10982,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00579",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları",
@@ -10422,6 +11001,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00580",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları",
@@ -10440,6 +11020,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00581",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları",
@@ -10458,6 +11039,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00582",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları",
@@ -10476,6 +11058,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00583",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları",
@@ -10494,6 +11077,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00584",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları",
@@ -10512,6 +11096,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00585",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları",
@@ -10530,6 +11115,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00586",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları",
@@ -10548,6 +11134,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00587",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -10566,6 +11153,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00588",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -10584,6 +11172,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00589",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -10602,6 +11191,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00590",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -10620,6 +11210,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00591",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -10638,6 +11229,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00592",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -10656,6 +11248,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00593",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -10674,6 +11267,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00594",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -10692,6 +11286,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00595",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -10710,6 +11305,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00596",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -10728,6 +11324,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00597",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -10746,6 +11343,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00598",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -10764,6 +11362,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00599",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -10782,6 +11381,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00600",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -10800,6 +11400,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00601",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -10818,6 +11419,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00602",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -10836,6 +11438,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00603",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -10854,6 +11457,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00604",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -10872,6 +11476,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00605",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -10890,6 +11495,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00606",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -10908,6 +11514,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00607",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -10926,6 +11533,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00608",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -10944,6 +11552,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00609",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -10962,6 +11571,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00610",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -10980,6 +11590,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00611",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -10998,6 +11609,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00612",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -11016,6 +11628,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00613",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -11034,6 +11647,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00614",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -11052,6 +11666,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00615",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -11070,6 +11685,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00616",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -11088,6 +11704,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00617",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -11106,6 +11723,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00618",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -11124,6 +11742,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00619",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -11142,6 +11761,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00620",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -11160,6 +11780,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00621",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -11178,6 +11799,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00622",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -11196,6 +11818,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00623",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -11214,6 +11837,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00624",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -11232,6 +11856,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00625",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -11250,6 +11875,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00626",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -11268,6 +11894,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00627",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -11286,6 +11913,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00628",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -11304,6 +11932,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00629",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -11322,6 +11951,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00630",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -11340,6 +11970,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00631",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -11358,6 +11989,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00632",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -11376,6 +12008,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00633",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -11394,6 +12027,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00634",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -11412,6 +12046,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00635",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -11430,6 +12065,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00636",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -11448,6 +12084,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00637",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -11466,6 +12103,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00638",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -11484,6 +12122,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00639",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -11502,6 +12141,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00640",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -11520,6 +12160,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00641",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -11538,6 +12179,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00642",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -11556,6 +12198,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00643",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -11574,6 +12217,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00644",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -11592,6 +12236,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00645",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -11610,6 +12255,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00646",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -11628,6 +12274,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00647",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -11646,6 +12293,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00648",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -11664,6 +12312,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00649",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -11682,6 +12331,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00650",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -11700,6 +12350,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00651",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -11718,6 +12369,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00652",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -11736,6 +12388,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00653",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -11754,6 +12407,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00654",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -11772,6 +12426,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00655",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -11790,6 +12445,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00656",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -11808,6 +12464,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00657",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -11826,6 +12483,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00658",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -11844,6 +12502,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00659",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -11862,6 +12521,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00660",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -11880,6 +12540,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00661",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -11898,6 +12559,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00662",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -11916,6 +12578,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00663",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -11934,6 +12597,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00664",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -11952,6 +12616,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00665",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -11970,6 +12635,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00666",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -11988,6 +12654,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00667",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -12006,6 +12673,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00668",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -12024,6 +12692,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00669",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -12042,6 +12711,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00670",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -12060,6 +12730,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00671",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -12078,6 +12749,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00672",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -12096,6 +12768,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00673",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -12114,6 +12787,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00674",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -12132,6 +12806,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00675",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -12150,6 +12825,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00676",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -12168,6 +12844,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00677",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -12186,6 +12863,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00678",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -12204,6 +12882,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00679",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -12222,6 +12901,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00680",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -12240,6 +12920,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00681",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -12258,6 +12939,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00682",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -12276,6 +12958,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00683",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -12294,6 +12977,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00684",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -12312,6 +12996,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00685",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -12330,6 +13015,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00686",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -12348,6 +13034,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00687",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -12366,6 +13053,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00688",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -12384,6 +13072,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00689",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -12402,6 +13091,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00690",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -12420,6 +13110,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00691",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -12438,6 +13129,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00692",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -12456,6 +13148,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00693",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -12474,6 +13167,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00694",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -12492,6 +13186,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00695",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -12510,6 +13205,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00696",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -12528,6 +13224,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00697",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -12546,6 +13243,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00698",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -12564,6 +13262,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00699",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -12582,6 +13281,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00700",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -12600,6 +13300,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00701",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -12618,6 +13319,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00702",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -12636,6 +13338,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00703",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -12654,6 +13357,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00704",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -12672,6 +13376,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00705",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -12690,6 +13395,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00706",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -12708,6 +13414,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00707",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -12726,6 +13433,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00708",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -12744,6 +13452,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00709",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -12762,6 +13471,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00710",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -12780,6 +13490,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00711",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -12798,6 +13509,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00712",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -12816,6 +13528,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00713",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -12834,6 +13547,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00714",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -12852,6 +13566,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00715",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -12870,6 +13585,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00716",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -12888,6 +13604,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00717",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -12906,6 +13623,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00718",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -12924,6 +13642,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00719",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -12942,6 +13661,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00720",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -12960,6 +13680,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00721",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -12978,6 +13699,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00722",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -12996,6 +13718,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00723",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -13014,6 +13737,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00724",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -13032,6 +13756,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00725",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -13050,6 +13775,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00726",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -13068,6 +13794,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00727",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -13086,6 +13813,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00728",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -13104,6 +13832,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00729",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -13122,6 +13851,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00730",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -13140,6 +13870,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00731",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -13158,6 +13889,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00732",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -13176,6 +13908,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00733",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -13194,6 +13927,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00734",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -13212,6 +13946,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00735",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -13230,6 +13965,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00736",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -13248,6 +13984,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00737",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -13266,6 +14003,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00738",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -13284,6 +14022,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00739",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -13302,6 +14041,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00740",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -13320,6 +14060,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00741",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -13338,6 +14079,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00742",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -13356,6 +14098,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00743",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -13374,6 +14117,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00744",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -13392,6 +14136,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00745",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -13410,6 +14155,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00746",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -13428,6 +14174,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00747",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -13446,6 +14193,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00748",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -13464,6 +14212,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00749",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -13482,6 +14231,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00750",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -13500,6 +14250,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00751",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -13518,6 +14269,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00752",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -13536,6 +14288,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00753",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -13554,6 +14307,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00754",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -13572,6 +14326,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00755",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -13590,6 +14345,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00756",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -13608,6 +14364,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00757",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -13626,6 +14383,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00758",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -13644,6 +14402,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00759",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -13662,6 +14421,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00760",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -13680,6 +14440,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00761",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -13698,6 +14459,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00762",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -13716,6 +14478,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00763",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -13734,6 +14497,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00764",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -13752,6 +14516,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00765",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -13770,6 +14535,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00766",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -13788,6 +14554,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00767",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -13806,6 +14573,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00768",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -13824,6 +14592,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00769",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -13842,6 +14611,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00770",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -13860,6 +14630,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00771",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -13878,6 +14649,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00772",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -13896,6 +14668,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00773",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -13914,6 +14687,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00774",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -13932,6 +14706,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00775",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -13950,6 +14725,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00776",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -13968,6 +14744,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00777",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -13986,6 +14763,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00778",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -14004,6 +14782,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00779",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -14022,6 +14801,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00780",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -14040,6 +14820,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00781",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -14058,6 +14839,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00782",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -14076,6 +14858,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00783",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -14094,6 +14877,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00784",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -14112,6 +14896,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00785",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -14130,6 +14915,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00786",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -14148,6 +14934,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00787",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -14166,6 +14953,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00788",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -14184,6 +14972,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00789",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -14202,6 +14991,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00790",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -14220,6 +15010,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00791",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -14238,6 +15029,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00792",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -14256,6 +15048,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00793",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -14274,6 +15067,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00794",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -14292,6 +15086,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00795",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -14310,6 +15105,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00796",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -14328,6 +15124,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00797",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -14346,6 +15143,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00798",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -14364,6 +15162,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00799",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -14382,6 +15181,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00800",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -14400,6 +15200,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00801",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -14418,6 +15219,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00802",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -14436,6 +15238,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00803",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -14454,6 +15257,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00804",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -14472,6 +15276,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00805",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -14490,6 +15295,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00806",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -14508,6 +15314,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00807",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -14526,6 +15333,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00808",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -14544,6 +15352,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00809",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -14562,6 +15371,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00810",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -14580,6 +15390,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00811",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -14598,6 +15409,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00812",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -14616,6 +15428,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00813",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -14634,6 +15447,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00814",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -14652,6 +15466,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00815",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -14670,6 +15485,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00816",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -14688,6 +15504,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00817",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -14706,6 +15523,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00818",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -14724,6 +15542,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00819",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -14742,6 +15561,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00820",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan",
@@ -14760,6 +15580,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00821",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -14778,6 +15599,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00822",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -14796,6 +15618,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00823",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -14814,6 +15637,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00824",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -14832,6 +15656,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00825",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -14850,6 +15675,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00826",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -14868,6 +15694,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00827",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -14886,6 +15713,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00828",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -14904,6 +15732,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00829",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -14922,6 +15751,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00830",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -14940,6 +15770,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00831",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -14958,6 +15789,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00832",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -14976,6 +15808,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00833",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -14994,6 +15827,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00834",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -15012,6 +15846,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00835",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -15030,6 +15865,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00836",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -15048,6 +15884,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00837",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -15066,6 +15903,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00838",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Coğrafi Konum ve Koordinat Sistemi",
@@ -15084,6 +15922,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00839",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -15102,6 +15941,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00840",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -15120,6 +15960,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00841",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -15138,6 +15979,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00842",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -15156,6 +15998,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00843",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -15174,6 +16017,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00844",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -15192,6 +16036,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00845",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -15210,6 +16055,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00846",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -15228,6 +16074,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00847",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Harita Bilgisi ve İzoipsler",
@@ -15246,6 +16093,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00848",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -15264,6 +16112,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00849",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -15282,6 +16131,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00850",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -15300,6 +16150,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00851",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -15318,6 +16169,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00852",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -15336,6 +16188,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00853",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -15354,6 +16207,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00854",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -15372,6 +16226,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00855",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -15390,6 +16245,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00856",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "Atmosfer ve İklim Elemanları (Sıcaklık, Basınç, Rüzgâr, Nem, Yağış)",
@@ -15408,6 +16264,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00857",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -15426,6 +16283,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00858",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -15444,6 +16302,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00859",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -15462,6 +16321,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00860",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -15480,6 +16340,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00861",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -15498,6 +16359,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00862",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -15516,6 +16378,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00863",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -15534,6 +16397,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00864",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -15552,6 +16416,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00865",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın İklim Tipleri ve Bitki Örtüsü",
@@ -15570,6 +16435,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00866",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -15588,6 +16454,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00867",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -15606,6 +16473,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00868",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -15624,6 +16492,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00869",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -15642,6 +16511,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00870",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -15660,6 +16530,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00871",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -15678,6 +16549,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00872",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -15696,6 +16568,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00873",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -15714,6 +16587,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00874",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "İç Kuvvetler ve Dış Kuvvetler",
@@ -15732,6 +16606,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00875",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -15750,6 +16625,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00876",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -15768,6 +16644,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00877",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -15786,6 +16663,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00878",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -15804,6 +16682,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00879",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -15822,6 +16701,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00880",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -15840,6 +16720,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00881",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -15858,6 +16739,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00882",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -15876,6 +16758,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00883",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -15894,6 +16777,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00884",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -15912,6 +16796,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00885",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -15930,6 +16815,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00886",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -15948,6 +16834,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00887",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -15966,6 +16853,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00888",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -15984,6 +16872,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00889",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -16002,6 +16891,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00890",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -16020,6 +16910,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00891",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -16038,6 +16929,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00892",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölge Türleri ve Sınırları",
@@ -16056,6 +16948,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00893",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -16074,6 +16967,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00894",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -16092,6 +16986,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00895",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -16110,6 +17005,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00896",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -16128,6 +17024,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00897",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -16146,6 +17043,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00898",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -16164,6 +17062,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00899",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -16182,6 +17081,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00900",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -16200,6 +17100,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00901",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Doğal Afetler ve Çevre",
@@ -16218,6 +17119,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00902",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan (Coğrafyanın Konusu, Bölümleri ve Harita Bilgisi)",
@@ -16236,6 +17138,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00903",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan (Coğrafyanın Konusu, Bölümleri ve Harita Bilgisi)",
@@ -16254,6 +17157,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00904",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan (Coğrafyanın Konusu, Bölümleri ve Harita Bilgisi)",
@@ -16272,6 +17176,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00905",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan (Coğrafyanın Konusu, Bölümleri ve Harita Bilgisi)",
@@ -16290,6 +17195,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00906",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan (Coğrafyanın Konusu, Bölümleri ve Harita Bilgisi)",
@@ -16308,6 +17214,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00907",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan (Coğrafyanın Konusu, Bölümleri ve Harita Bilgisi)",
@@ -16326,6 +17233,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00908",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan (Coğrafyanın Konusu, Bölümleri ve Harita Bilgisi)",
@@ -16344,6 +17252,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00909",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan (Coğrafyanın Konusu, Bölümleri ve Harita Bilgisi)",
@@ -16362,6 +17271,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00910",
     "topic_id": 86,
     "exam_type": "tyt",
     "topic_name": "Doğa ve İnsan (Coğrafyanın Konusu, Bölümleri ve Harita Bilgisi)",
@@ -16380,6 +17290,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00911",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -16398,6 +17309,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00912",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -16416,6 +17328,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00913",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -16434,6 +17347,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00914",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -16452,6 +17366,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00915",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -16470,6 +17385,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00916",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -16488,6 +17404,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00917",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -16506,6 +17423,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00918",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -16524,6 +17442,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00919",
     "topic_id": 87,
     "exam_type": "tyt",
     "topic_name": "Dünya'nın Şekli ve Hareketleri",
@@ -16542,6 +17461,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00920",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Atmosfer, İklim Elemanları ve Dünya'nın İklim Tipleri",
@@ -16560,6 +17480,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00921",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Atmosfer, İklim Elemanları ve Dünya'nın İklim Tipleri",
@@ -16578,6 +17499,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00922",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Atmosfer, İklim Elemanları ve Dünya'nın İklim Tipleri",
@@ -16596,6 +17518,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00923",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Atmosfer, İklim Elemanları ve Dünya'nın İklim Tipleri",
@@ -16614,6 +17537,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00924",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Atmosfer, İklim Elemanları ve Dünya'nın İklim Tipleri",
@@ -16632,6 +17556,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00925",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Atmosfer, İklim Elemanları ve Dünya'nın İklim Tipleri",
@@ -16650,6 +17575,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00926",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Atmosfer, İklim Elemanları ve Dünya'nın İklim Tipleri",
@@ -16668,6 +17594,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00927",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Atmosfer, İklim Elemanları ve Dünya'nın İklim Tipleri",
@@ -16686,6 +17613,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00928",
     "topic_id": 88,
     "exam_type": "tyt",
     "topic_name": "Atmosfer, İklim Elemanları ve Dünya'nın İklim Tipleri",
@@ -16704,6 +17632,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00929",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Türkiye'nin İklimi ve Bitki Örtüsü",
@@ -16722,6 +17651,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00930",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Türkiye'nin İklimi ve Bitki Örtüsü",
@@ -16740,6 +17670,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00931",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Türkiye'nin İklimi ve Bitki Örtüsü",
@@ -16758,6 +17689,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00932",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Türkiye'nin İklimi ve Bitki Örtüsü",
@@ -16776,6 +17708,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00933",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Türkiye'nin İklimi ve Bitki Örtüsü",
@@ -16794,6 +17727,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00934",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Türkiye'nin İklimi ve Bitki Örtüsü",
@@ -16812,6 +17746,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00935",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Türkiye'nin İklimi ve Bitki Örtüsü",
@@ -16830,6 +17765,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00936",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Türkiye'nin İklimi ve Bitki Örtüsü",
@@ -16848,6 +17784,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00937",
     "topic_id": 89,
     "exam_type": "tyt",
     "topic_name": "Türkiye'nin İklimi ve Bitki Örtüsü",
@@ -16866,6 +17803,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00938",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "İç ve Dış Kuvvetler (Yerşekillerinin Oluşumu)",
@@ -16884,6 +17822,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00939",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "İç ve Dış Kuvvetler (Yerşekillerinin Oluşumu)",
@@ -16902,6 +17841,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00940",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "İç ve Dış Kuvvetler (Yerşekillerinin Oluşumu)",
@@ -16920,6 +17860,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00941",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "İç ve Dış Kuvvetler (Yerşekillerinin Oluşumu)",
@@ -16938,6 +17879,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00942",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "İç ve Dış Kuvvetler (Yerşekillerinin Oluşumu)",
@@ -16956,6 +17898,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00943",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "İç ve Dış Kuvvetler (Yerşekillerinin Oluşumu)",
@@ -16974,6 +17917,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00944",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "İç ve Dış Kuvvetler (Yerşekillerinin Oluşumu)",
@@ -16992,6 +17936,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00945",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "İç ve Dış Kuvvetler (Yerşekillerinin Oluşumu)",
@@ -17010,6 +17955,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00946",
     "topic_id": 90,
     "exam_type": "tyt",
     "topic_name": "İç ve Dış Kuvvetler (Yerşekillerinin Oluşumu)",
@@ -17028,6 +17974,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00947",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Su, Toprak ve Bitki Varlığı",
@@ -17046,6 +17993,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00948",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Su, Toprak ve Bitki Varlığı",
@@ -17064,6 +18012,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00949",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Su, Toprak ve Bitki Varlığı",
@@ -17082,6 +18031,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00950",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Su, Toprak ve Bitki Varlığı",
@@ -17100,6 +18050,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00951",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Su, Toprak ve Bitki Varlığı",
@@ -17118,6 +18069,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00952",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Su, Toprak ve Bitki Varlığı",
@@ -17136,6 +18088,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00953",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Su, Toprak ve Bitki Varlığı",
@@ -17154,6 +18107,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00954",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Su, Toprak ve Bitki Varlığı",
@@ -17172,6 +18126,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00955",
     "topic_id": 91,
     "exam_type": "tyt",
     "topic_name": "Su, Toprak ve Bitki Varlığı",
@@ -17190,6 +18145,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00956",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -17208,6 +18164,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00957",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -17226,6 +18183,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00958",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -17244,6 +18202,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00959",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -17262,6 +18221,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00960",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -17280,6 +18240,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00961",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -17298,6 +18259,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00962",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -17316,6 +18278,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00963",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -17334,6 +18297,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00964",
     "topic_id": 92,
     "exam_type": "tyt",
     "topic_name": "Nüfus, Yerleşme ve Göç",
@@ -17352,6 +18316,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00965",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Ekonomik Faaliyetler ve Doğal Kaynaklar",
@@ -17370,6 +18335,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00966",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Ekonomik Faaliyetler ve Doğal Kaynaklar",
@@ -17388,6 +18354,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00967",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Ekonomik Faaliyetler ve Doğal Kaynaklar",
@@ -17406,6 +18373,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00968",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Ekonomik Faaliyetler ve Doğal Kaynaklar",
@@ -17424,6 +18392,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00969",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Ekonomik Faaliyetler ve Doğal Kaynaklar",
@@ -17442,6 +18411,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00970",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Ekonomik Faaliyetler ve Doğal Kaynaklar",
@@ -17460,6 +18430,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00971",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Ekonomik Faaliyetler ve Doğal Kaynaklar",
@@ -17478,6 +18449,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00972",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Ekonomik Faaliyetler ve Doğal Kaynaklar",
@@ -17496,6 +18468,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00973",
     "topic_id": 93,
     "exam_type": "tyt",
     "topic_name": "Ekonomik Faaliyetler ve Doğal Kaynaklar",
@@ -17514,6 +18487,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00974",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölgeler ve Ülkeler (Bölge Türleri ve Sınırları)",
@@ -17532,6 +18506,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00975",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölgeler ve Ülkeler (Bölge Türleri ve Sınırları)",
@@ -17550,6 +18525,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00976",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölgeler ve Ülkeler (Bölge Türleri ve Sınırları)",
@@ -17568,6 +18544,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00977",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölgeler ve Ülkeler (Bölge Türleri ve Sınırları)",
@@ -17586,6 +18563,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00978",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölgeler ve Ülkeler (Bölge Türleri ve Sınırları)",
@@ -17604,6 +18582,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00979",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölgeler ve Ülkeler (Bölge Türleri ve Sınırları)",
@@ -17622,6 +18601,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00980",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölgeler ve Ülkeler (Bölge Türleri ve Sınırları)",
@@ -17640,6 +18620,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00981",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölgeler ve Ülkeler (Bölge Türleri ve Sınırları)",
@@ -17658,6 +18639,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00982",
     "topic_id": 94,
     "exam_type": "tyt",
     "topic_name": "Bölgeler ve Ülkeler (Bölge Türleri ve Sınırları)",
@@ -17676,6 +18658,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00983",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Çevre ve Toplum (Doğal Afetler ve Çevre Sorunları)",
@@ -17694,6 +18677,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00984",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Çevre ve Toplum (Doğal Afetler ve Çevre Sorunları)",
@@ -17712,6 +18696,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00985",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Çevre ve Toplum (Doğal Afetler ve Çevre Sorunları)",
@@ -17730,6 +18715,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00986",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Çevre ve Toplum (Doğal Afetler ve Çevre Sorunları)",
@@ -17748,6 +18734,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00987",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Çevre ve Toplum (Doğal Afetler ve Çevre Sorunları)",
@@ -17766,6 +18753,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00988",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Çevre ve Toplum (Doğal Afetler ve Çevre Sorunları)",
@@ -17784,6 +18772,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00989",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Çevre ve Toplum (Doğal Afetler ve Çevre Sorunları)",
@@ -17802,6 +18791,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00990",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Çevre ve Toplum (Doğal Afetler ve Çevre Sorunları)",
@@ -17820,6 +18810,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-cografya-00991",
     "topic_id": 95,
     "exam_type": "tyt",
     "topic_name": "Çevre ve Toplum (Doğal Afetler ve Çevre Sorunları)",

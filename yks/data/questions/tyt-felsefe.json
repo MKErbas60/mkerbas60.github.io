@@ -1,5 +1,6 @@
 [
   {
+    "uid": "tyt-felsefe-00001",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -18,6 +19,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00002",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -36,6 +38,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00003",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -54,6 +57,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00004",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -72,6 +76,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00005",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -90,6 +95,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00006",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -108,6 +114,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00007",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -126,6 +133,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00008",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -144,6 +152,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00009",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -162,6 +171,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00010",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -180,6 +190,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00011",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -198,6 +209,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00012",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -216,6 +228,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00013",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -234,6 +247,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00014",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -252,6 +266,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00015",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -270,6 +285,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00016",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -288,6 +304,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00017",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -306,6 +323,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00018",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -324,6 +342,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00019",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -342,6 +361,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00020",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -360,6 +380,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00021",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -378,6 +399,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00022",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -396,6 +418,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00023",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -414,6 +437,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00024",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -432,6 +456,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00025",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -450,6 +475,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00026",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -468,6 +494,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00027",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -486,6 +513,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00028",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -504,6 +532,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00029",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -522,6 +551,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00030",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -540,6 +570,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00031",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -558,6 +589,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00032",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -576,6 +608,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00033",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -594,6 +627,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00034",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -612,6 +646,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00035",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -630,6 +665,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00036",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -648,6 +684,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00037",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -666,6 +703,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00038",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -684,6 +722,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00039",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -702,6 +741,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00040",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -720,6 +760,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00041",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -738,6 +779,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00042",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -756,6 +798,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00043",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -774,6 +817,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00044",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -792,6 +836,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00045",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -810,6 +855,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00046",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -828,6 +874,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00047",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -846,6 +893,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00048",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -864,6 +912,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00049",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -882,6 +931,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00050",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -900,6 +950,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00051",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -918,6 +969,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00052",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -936,6 +988,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00053",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -954,6 +1007,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00054",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -972,6 +1026,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00055",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -990,6 +1045,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00056",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -1008,6 +1064,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00057",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -1026,6 +1083,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00058",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -1044,6 +1102,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00059",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -1062,6 +1121,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00060",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -1080,6 +1140,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00061",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -1098,6 +1159,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00062",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -1116,6 +1178,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00063",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -1134,6 +1197,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00064",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -1152,6 +1216,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00065",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -1170,6 +1235,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00066",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -1188,6 +1254,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00067",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -1206,6 +1273,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00068",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -1224,6 +1292,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00069",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -1242,6 +1311,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00070",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -1260,6 +1330,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00071",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -1278,6 +1349,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00072",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -1296,6 +1368,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00073",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -1314,6 +1387,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00074",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -1332,6 +1406,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00075",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -1350,6 +1425,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00076",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -1368,6 +1444,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00077",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -1386,6 +1463,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00078",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -1404,6 +1482,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00079",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -1422,6 +1501,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00080",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -1440,6 +1520,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00081",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -1458,6 +1539,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00082",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -1476,6 +1558,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00083",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -1494,6 +1577,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00084",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -1512,6 +1596,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00085",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -1530,6 +1615,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00086",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -1548,6 +1634,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00087",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -1566,6 +1653,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00088",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -1584,6 +1672,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00089",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -1602,6 +1691,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00090",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -1620,6 +1710,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00091",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -1638,6 +1729,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00092",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -1656,6 +1748,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00093",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -1674,6 +1767,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00094",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -1692,6 +1786,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00095",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -1710,6 +1805,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00096",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -1728,6 +1824,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00097",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -1746,6 +1843,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00098",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -1764,6 +1862,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00099",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -1782,6 +1881,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00100",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -1800,6 +1900,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00101",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -1818,6 +1919,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00102",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -1836,6 +1938,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00103",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -1854,6 +1957,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00104",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -1872,6 +1976,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00105",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -1890,6 +1995,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00106",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -1908,6 +2014,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00107",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -1926,6 +2033,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00108",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -1944,6 +2052,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00109",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -1962,6 +2071,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00110",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -1980,6 +2090,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00111",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -1998,6 +2109,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00112",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -2016,6 +2128,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00113",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -2034,6 +2147,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00114",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -2052,6 +2166,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00115",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -2070,6 +2185,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00116",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -2088,6 +2204,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00117",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -2106,6 +2223,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00118",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -2124,6 +2242,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00119",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -2142,6 +2261,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00120",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -2160,6 +2280,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00121",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -2178,6 +2299,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00122",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -2196,6 +2318,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00123",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -2214,6 +2337,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00124",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -2232,6 +2356,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00125",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -2250,6 +2375,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00126",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -2268,6 +2394,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00127",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -2286,6 +2413,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00128",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -2304,6 +2432,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00129",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -2322,6 +2451,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00130",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -2340,6 +2470,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00131",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -2358,6 +2489,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00132",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -2376,6 +2508,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00133",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -2394,6 +2527,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00134",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -2412,6 +2546,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00135",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -2430,6 +2565,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00136",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -2448,6 +2584,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00137",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -2466,6 +2603,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00138",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -2484,6 +2622,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00139",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -2502,6 +2641,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00140",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -2520,6 +2660,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00141",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -2538,6 +2679,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00142",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -2556,6 +2698,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00143",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -2574,6 +2717,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00144",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -2592,6 +2736,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00145",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -2610,6 +2755,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00146",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -2628,6 +2774,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00147",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -2646,6 +2793,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00148",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -2664,6 +2812,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00149",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -2682,6 +2831,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00150",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -2700,6 +2850,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00151",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -2718,6 +2869,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00152",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -2736,6 +2888,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00153",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -2754,6 +2907,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00154",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -2772,6 +2926,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00155",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -2790,6 +2945,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00156",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -2808,6 +2964,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00157",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -2826,6 +2983,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00158",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -2844,6 +3002,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00159",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -2862,6 +3021,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00160",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -2880,6 +3040,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00161",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -2898,6 +3059,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00162",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -2916,6 +3078,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00163",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -2934,6 +3097,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00164",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -2952,6 +3116,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00165",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -2970,6 +3135,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00166",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -2988,6 +3154,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00167",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -3006,6 +3173,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00168",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -3024,6 +3192,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00169",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -3042,6 +3211,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00170",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -3060,6 +3230,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00171",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -3078,6 +3249,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00172",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -3096,6 +3268,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00173",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -3114,6 +3287,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00174",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -3132,6 +3306,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00175",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -3150,6 +3325,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00176",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -3168,6 +3344,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00177",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -3186,6 +3363,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00178",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -3204,6 +3382,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00179",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -3222,6 +3401,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00180",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -3240,6 +3420,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00181",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -3258,6 +3439,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00182",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -3276,6 +3458,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00183",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -3294,6 +3477,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00184",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -3312,6 +3496,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00185",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -3330,6 +3515,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00186",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -3348,6 +3534,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00187",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -3366,6 +3553,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00188",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -3384,6 +3572,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00189",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -3402,6 +3591,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00190",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -3420,6 +3610,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00191",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -3438,6 +3629,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00192",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -3456,6 +3648,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00193",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -3474,6 +3667,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00194",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -3492,6 +3686,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00195",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -3510,6 +3705,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00196",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -3528,6 +3724,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00197",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -3546,6 +3743,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00198",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -3564,6 +3762,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00199",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -3582,6 +3781,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00200",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -3600,6 +3800,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00201",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -3618,6 +3819,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00202",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -3636,6 +3838,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00203",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -3654,6 +3857,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00204",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -3672,6 +3876,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00205",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -3690,6 +3895,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00206",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -3708,6 +3914,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00207",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -3726,6 +3933,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00208",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -3744,6 +3952,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00209",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -3762,6 +3971,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00210",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -3780,6 +3990,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00211",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -3798,6 +4009,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00212",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -3816,6 +4028,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00213",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -3834,6 +4047,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00214",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -3852,6 +4066,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00215",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -3870,6 +4085,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00216",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -3888,6 +4104,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00217",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -3906,6 +4123,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00218",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -3924,6 +4142,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00219",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -3942,6 +4161,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00220",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -3960,6 +4180,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00221",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -3978,6 +4199,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00222",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -3996,6 +4218,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00223",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -4014,6 +4237,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00224",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -4032,6 +4256,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00225",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -4050,6 +4275,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00226",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -4068,6 +4294,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00227",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -4086,6 +4313,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00228",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -4104,6 +4332,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00229",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -4122,6 +4351,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00230",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -4140,6 +4370,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00231",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -4158,6 +4389,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00232",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -4176,6 +4408,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00233",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -4194,6 +4427,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00234",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -4212,6 +4446,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00235",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -4230,6 +4465,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00236",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -4248,6 +4484,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00237",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -4266,6 +4503,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00238",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -4284,6 +4522,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00239",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -4302,6 +4541,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00240",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -4320,6 +4560,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00241",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -4338,6 +4579,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00242",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -4356,6 +4598,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00243",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -4374,6 +4617,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00244",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -4392,6 +4636,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00245",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -4410,6 +4655,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00246",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -4428,6 +4674,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00247",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -4446,6 +4693,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00248",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -4464,6 +4712,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00249",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -4482,6 +4731,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00250",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -4500,6 +4750,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00251",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -4518,6 +4769,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00252",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -4536,6 +4788,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00253",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -4554,6 +4807,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00254",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -4572,6 +4826,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00255",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -4590,6 +4845,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00256",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -4608,6 +4864,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00257",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -4626,6 +4883,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00258",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -4644,6 +4902,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00259",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -4662,6 +4921,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00260",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -4680,6 +4940,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00261",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -4698,6 +4959,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00262",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -4716,6 +4978,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00263",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -4734,6 +4997,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00264",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -4752,6 +5016,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00265",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -4770,6 +5035,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00266",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -4788,6 +5054,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00267",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -4806,6 +5073,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00268",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -4824,6 +5092,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00269",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -4842,6 +5111,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00270",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -4860,6 +5130,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00271",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -4878,6 +5149,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00272",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -4896,6 +5168,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00273",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -4914,6 +5187,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00274",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -4932,6 +5206,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00275",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -4950,6 +5225,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00276",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -4968,6 +5244,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00277",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -4986,6 +5263,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00278",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5004,6 +5282,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00279",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5022,6 +5301,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00280",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5040,6 +5320,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00281",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5058,6 +5339,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00282",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5076,6 +5358,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00283",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5094,6 +5377,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00284",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5112,6 +5396,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00285",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5130,6 +5415,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00286",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5148,6 +5434,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00287",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5166,6 +5453,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00288",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5184,6 +5472,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00289",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5202,6 +5491,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00290",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5220,6 +5510,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00291",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5238,6 +5529,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00292",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5256,6 +5548,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00293",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5274,6 +5567,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00294",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5292,6 +5586,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00295",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5310,6 +5605,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00296",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5328,6 +5624,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00297",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5346,6 +5643,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00298",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5364,6 +5662,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00299",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5382,6 +5681,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00300",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5400,6 +5700,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00301",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5418,6 +5719,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00302",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5436,6 +5738,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00303",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5454,6 +5757,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00304",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5472,6 +5776,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00305",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5490,6 +5795,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00306",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5508,6 +5814,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00307",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5526,6 +5833,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00308",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5544,6 +5852,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00309",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5562,6 +5871,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00310",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5580,6 +5890,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00311",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5598,6 +5909,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00312",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -5616,6 +5928,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00313",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -5634,6 +5947,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00314",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -5652,6 +5966,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00315",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -5670,6 +5985,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00316",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -5688,6 +6004,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00317",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -5706,6 +6023,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00318",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -5724,6 +6042,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00319",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -5742,6 +6061,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00320",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -5760,6 +6080,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00321",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5778,6 +6099,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00322",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5796,6 +6118,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00323",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -5814,6 +6137,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00324",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5832,6 +6156,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00325",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5850,6 +6175,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00326",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -5868,6 +6194,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00327",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5886,6 +6213,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00328",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5904,6 +6232,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00329",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -5922,6 +6251,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00330",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Siyaset Felsefesi",
@@ -5940,6 +6270,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00331",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Siyaset Felsefesi",
@@ -5958,6 +6289,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00332",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Siyaset Felsefesi",
@@ -5976,6 +6308,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00333",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -5994,6 +6327,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00334",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -6012,6 +6346,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00335",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -6030,6 +6365,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00336",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -6048,6 +6384,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00337",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -6066,6 +6403,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00338",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -6084,6 +6422,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00339",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6102,6 +6441,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00340",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6120,6 +6460,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00341",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6138,6 +6479,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00342",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -6156,6 +6498,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00343",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -6174,6 +6517,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00344",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -6192,6 +6536,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00345",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -6210,6 +6555,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00346",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -6228,6 +6574,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00347",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -6246,6 +6593,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00348",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -6264,6 +6612,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00349",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -6282,6 +6631,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00350",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -6300,6 +6650,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00351",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -6318,6 +6669,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00352",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -6336,6 +6688,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00353",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -6354,6 +6707,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00354",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -6372,6 +6726,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00355",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -6390,6 +6745,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00356",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -6408,6 +6764,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00357",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -6426,6 +6783,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00358",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -6444,6 +6802,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00359",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -6462,6 +6821,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00360",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6480,6 +6840,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00361",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6498,6 +6859,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00362",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6516,6 +6878,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00363",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -6534,6 +6897,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00364",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -6552,6 +6916,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00365",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -6570,6 +6935,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00366",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -6588,6 +6954,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00367",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -6606,6 +6973,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00368",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -6624,6 +6992,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00369",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -6642,6 +7011,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00370",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -6660,6 +7030,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00371",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -6678,6 +7049,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00372",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -6696,6 +7068,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00373",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -6714,6 +7087,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00374",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -6732,6 +7106,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00375",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -6750,6 +7125,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00376",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -6768,6 +7144,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00377",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -6786,6 +7163,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00378",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -6804,6 +7182,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00379",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -6822,6 +7201,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00380",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -6840,6 +7220,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00381",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6858,6 +7239,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00382",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6876,6 +7258,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00383",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6894,6 +7277,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00384",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6912,6 +7296,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00385",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6930,6 +7315,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00386",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6948,6 +7334,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00387",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6966,6 +7353,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00388",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -6984,6 +7372,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00389",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -7002,6 +7391,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00390",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -7020,6 +7410,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00391",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -7038,6 +7429,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00392",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -7056,6 +7448,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00393",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -7074,6 +7467,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00394",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -7092,6 +7486,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00395",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -7110,6 +7505,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00396",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -7128,6 +7524,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00397",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -7146,6 +7543,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00398",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -7164,6 +7562,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00399",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -7182,6 +7581,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00400",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -7200,6 +7600,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00401",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -7218,6 +7619,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00402",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -7236,6 +7638,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00403",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -7254,6 +7657,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00404",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -7272,6 +7676,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00405",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -7290,6 +7695,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00406",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -7308,6 +7714,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00407",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -7326,6 +7733,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00408",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -7344,6 +7752,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00409",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -7362,6 +7771,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00410",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -7380,6 +7790,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00411",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -7398,6 +7809,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00412",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -7416,6 +7828,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00413",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -7434,6 +7847,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00414",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -7452,6 +7866,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00415",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -7470,6 +7885,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00416",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -7488,6 +7904,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00417",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -7506,6 +7923,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00418",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -7524,6 +7942,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00419",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -7542,6 +7961,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00420",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -7560,6 +7980,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00421",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -7578,6 +7999,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00422",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -7596,6 +8018,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00423",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -7614,6 +8037,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00424",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -7632,6 +8056,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00425",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -7650,6 +8075,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00426",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -7668,6 +8094,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00427",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -7686,6 +8113,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00428",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -7704,6 +8132,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00429",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -7722,6 +8151,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00430",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -7740,6 +8170,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00431",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -7758,6 +8189,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00432",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -7776,6 +8208,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00433",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -7794,6 +8227,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00434",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -7812,6 +8246,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00435",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -7830,6 +8265,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00436",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -7848,6 +8284,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00437",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -7866,6 +8303,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00438",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -7884,6 +8322,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00439",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -7902,6 +8341,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00440",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -7920,6 +8360,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00441",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -7938,6 +8379,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00442",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -7956,6 +8398,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00443",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -7974,6 +8417,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00444",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -7992,6 +8436,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00445",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -8010,6 +8455,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00446",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -8028,6 +8474,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00447",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -8046,6 +8493,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00448",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -8064,6 +8512,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00449",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -8082,6 +8531,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00450",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -8100,6 +8550,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00451",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -8118,6 +8569,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00452",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -8136,6 +8588,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00453",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -8154,6 +8607,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00454",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -8172,6 +8626,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00455",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -8190,6 +8645,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00456",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -8208,6 +8664,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00457",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -8226,6 +8683,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00458",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -8244,6 +8702,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00459",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -8262,6 +8721,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00460",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -8280,6 +8740,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00461",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -8298,6 +8759,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00462",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -8316,6 +8778,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00463",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -8334,6 +8797,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00464",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -8352,6 +8816,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00465",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -8370,6 +8835,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00466",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -8388,6 +8854,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00467",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -8406,6 +8873,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00468",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -8424,6 +8892,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00469",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -8442,6 +8911,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00470",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -8460,6 +8930,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00471",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -8478,6 +8949,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00472",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -8496,6 +8968,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00473",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -8514,6 +8987,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00474",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -8532,6 +9006,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00475",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -8550,6 +9025,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00476",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -8568,6 +9044,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00477",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -8586,6 +9063,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00478",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -8604,6 +9082,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00479",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -8622,6 +9101,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00480",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -8640,6 +9120,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00481",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -8658,6 +9139,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00482",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -8676,6 +9158,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00483",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -8694,6 +9177,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00484",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -8712,6 +9196,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00485",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -8730,6 +9215,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00486",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -8748,6 +9234,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00487",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -8766,6 +9253,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00488",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -8784,6 +9272,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00489",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -8802,6 +9291,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00490",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -8820,6 +9310,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00491",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -8838,6 +9329,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00492",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -8856,6 +9348,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00493",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -8874,6 +9367,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00494",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -8892,6 +9386,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00495",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -8910,6 +9405,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00496",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -8928,6 +9424,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00497",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -8946,6 +9443,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00498",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -8964,6 +9462,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00499",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -8982,6 +9481,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00500",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -9000,6 +9500,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00501",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -9018,6 +9519,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00502",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -9036,6 +9538,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00503",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -9054,6 +9557,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00504",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -9072,6 +9576,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00505",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -9090,6 +9595,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00506",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -9108,6 +9614,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00507",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -9126,6 +9633,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00508",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -9144,6 +9652,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00509",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -9162,6 +9671,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00510",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -9180,6 +9690,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00511",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -9198,6 +9709,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00512",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -9216,6 +9728,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00513",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -9234,6 +9747,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00514",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -9252,6 +9766,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00515",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -9270,6 +9785,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00516",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -9288,6 +9804,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00517",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -9306,6 +9823,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00518",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -9324,6 +9842,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00519",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -9342,6 +9861,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00520",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -9360,6 +9880,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00521",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -9378,6 +9899,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00522",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -9396,6 +9918,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00523",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -9414,6 +9937,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00524",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -9432,6 +9956,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00525",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -9450,6 +9975,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00526",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -9468,6 +9994,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00527",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -9486,6 +10013,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00528",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -9504,6 +10032,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00529",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -9522,6 +10051,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00530",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -9540,6 +10070,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00531",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -9558,6 +10089,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00532",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -9576,6 +10108,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00533",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -9594,6 +10127,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00534",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -9612,6 +10146,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00535",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -9630,6 +10165,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00536",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -9648,6 +10184,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00537",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -9666,6 +10203,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00538",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -9684,6 +10222,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00539",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -9702,6 +10241,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00540",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -9720,6 +10260,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00541",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -9738,6 +10279,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00542",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -9756,6 +10298,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00543",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -9774,6 +10317,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00544",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -9792,6 +10336,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00545",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -9810,6 +10355,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00546",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -9828,6 +10374,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00547",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -9846,6 +10393,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00548",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -9864,6 +10412,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00549",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -9882,6 +10431,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00550",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -9900,6 +10450,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00551",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -9918,6 +10469,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00552",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -9936,6 +10488,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00553",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -9954,6 +10507,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00554",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -9972,6 +10526,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00555",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -9990,6 +10545,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00556",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -10008,6 +10564,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00557",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -10026,6 +10583,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00558",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -10044,6 +10602,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00559",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -10062,6 +10621,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00560",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -10080,6 +10640,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00561",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -10098,6 +10659,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00562",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -10116,6 +10678,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00563",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -10134,6 +10697,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00564",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -10152,6 +10716,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00565",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -10170,6 +10735,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00566",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -10188,6 +10754,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00567",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -10206,6 +10773,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00568",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -10224,6 +10792,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00569",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -10242,6 +10811,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00570",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -10260,6 +10830,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00571",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -10278,6 +10849,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00572",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -10296,6 +10868,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00573",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -10314,6 +10887,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00574",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -10332,6 +10906,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00575",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -10350,6 +10925,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00576",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -10368,6 +10944,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00577",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -10386,6 +10963,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00578",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma ve Özellikleri",
@@ -10404,6 +10982,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00579",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -10422,6 +11001,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00580",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -10440,6 +11020,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00581",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -10458,6 +11039,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00582",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -10476,6 +11058,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00583",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -10494,6 +11077,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00584",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -10512,6 +11096,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00585",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -10530,6 +11115,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00586",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -10548,6 +11134,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00587",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme ve Akıl Yürütme",
@@ -10566,6 +11153,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00588",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -10584,6 +11172,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00589",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -10602,6 +11191,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00590",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -10620,6 +11210,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00591",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -10638,6 +11229,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00592",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -10656,6 +11248,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00593",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -10674,6 +11267,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00594",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -10692,6 +11286,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00595",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -10710,6 +11305,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00596",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -10728,6 +11324,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00597",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -10746,6 +11343,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00598",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -10764,6 +11362,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00599",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -10782,6 +11381,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00600",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -10800,6 +11400,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00601",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -10818,6 +11419,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00602",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -10836,6 +11438,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00603",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -10854,6 +11457,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00604",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -10872,6 +11476,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00605",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -10890,6 +11495,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00606",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -10908,6 +11514,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00607",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -10926,6 +11533,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00608",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -10944,6 +11552,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00609",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -10962,6 +11571,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00610",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -10980,6 +11590,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00611",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -10998,6 +11609,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00612",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -11016,6 +11628,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00613",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -11034,6 +11647,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00614",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -11052,6 +11666,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00615",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -11070,6 +11685,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00616",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -11088,6 +11704,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00617",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -11106,6 +11723,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00618",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -11124,6 +11742,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00619",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -11142,6 +11761,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00620",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -11160,6 +11780,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00621",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -11178,6 +11799,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00622",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -11196,6 +11818,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00623",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi",
@@ -11214,6 +11837,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00624",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -11232,6 +11856,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00625",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -11250,6 +11875,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00626",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -11268,6 +11894,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00627",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -11286,6 +11913,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00628",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -11304,6 +11932,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00629",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -11322,6 +11951,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00630",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -11340,6 +11970,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00631",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -11358,6 +11989,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00632",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -11376,6 +12008,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00633",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma (Felsefenin Anlamı, Doğuşu ve Özellikleri)",
@@ -11394,6 +12027,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00634",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma (Felsefenin Anlamı, Doğuşu ve Özellikleri)",
@@ -11412,6 +12046,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00635",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma (Felsefenin Anlamı, Doğuşu ve Özellikleri)",
@@ -11430,6 +12065,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00636",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma (Felsefenin Anlamı, Doğuşu ve Özellikleri)",
@@ -11448,6 +12084,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00637",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma (Felsefenin Anlamı, Doğuşu ve Özellikleri)",
@@ -11466,6 +12103,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00638",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma (Felsefenin Anlamı, Doğuşu ve Özellikleri)",
@@ -11484,6 +12122,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00639",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma (Felsefenin Anlamı, Doğuşu ve Özellikleri)",
@@ -11502,6 +12141,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00640",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma (Felsefenin Anlamı, Doğuşu ve Özellikleri)",
@@ -11520,6 +12160,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00641",
     "topic_id": 96,
     "exam_type": "tyt",
     "topic_name": "Felsefeyi Tanıma (Felsefenin Anlamı, Doğuşu ve Özellikleri)",
@@ -11538,6 +12179,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00642",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme (Akıl Yürütme ve Argümantasyon)",
@@ -11556,6 +12198,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00643",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme (Akıl Yürütme ve Argümantasyon)",
@@ -11574,6 +12217,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00644",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme (Akıl Yürütme ve Argümantasyon)",
@@ -11592,6 +12236,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00645",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme (Akıl Yürütme ve Argümantasyon)",
@@ -11610,6 +12255,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00646",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme (Akıl Yürütme ve Argümantasyon)",
@@ -11628,6 +12274,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00647",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme (Akıl Yürütme ve Argümantasyon)",
@@ -11646,6 +12293,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00648",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme (Akıl Yürütme ve Argümantasyon)",
@@ -11664,6 +12312,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00649",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme (Akıl Yürütme ve Argümantasyon)",
@@ -11682,6 +12331,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00650",
     "topic_id": 97,
     "exam_type": "tyt",
     "topic_name": "Felsefe ile Düşünme (Akıl Yürütme ve Argümantasyon)",
@@ -11700,6 +12350,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00651",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -11718,6 +12369,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00652",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -11736,6 +12388,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00653",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -11754,6 +12407,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00654",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -11772,6 +12426,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00655",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -11790,6 +12445,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00656",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -11808,6 +12464,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00657",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -11826,6 +12483,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00658",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -11844,6 +12502,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00659",
     "topic_id": 98,
     "exam_type": "tyt",
     "topic_name": "Varlık Felsefesi (Ontoloji)",
@@ -11862,6 +12521,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00660",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -11880,6 +12540,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00661",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -11898,6 +12559,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00662",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -11916,6 +12578,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00663",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -11934,6 +12597,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00664",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -11952,6 +12616,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00665",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -11970,6 +12635,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00666",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -11988,6 +12654,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00667",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -12006,6 +12673,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00668",
     "topic_id": 99,
     "exam_type": "tyt",
     "topic_name": "Bilgi Felsefesi (Epistemoloji)",
@@ -12024,6 +12692,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00669",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -12042,6 +12711,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00670",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -12060,6 +12730,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00671",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -12078,6 +12749,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00672",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -12096,6 +12768,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00673",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -12114,6 +12787,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00674",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -12132,6 +12806,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00675",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -12150,6 +12825,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00676",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -12168,6 +12844,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00677",
     "topic_id": 100,
     "exam_type": "tyt",
     "topic_name": "Ahlak Felsefesi (Etik)",
@@ -12186,6 +12863,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00678",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi (Teoloji ve Estetik)",
@@ -12204,6 +12882,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00679",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi (Teoloji ve Estetik)",
@@ -12222,6 +12901,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00680",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi (Teoloji ve Estetik)",
@@ -12240,6 +12920,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00681",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi (Teoloji ve Estetik)",
@@ -12258,6 +12939,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00682",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi (Teoloji ve Estetik)",
@@ -12276,6 +12958,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00683",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi (Teoloji ve Estetik)",
@@ -12294,6 +12977,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00684",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi (Teoloji ve Estetik)",
@@ -12312,6 +12996,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00685",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi (Teoloji ve Estetik)",
@@ -12330,6 +13015,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00686",
     "topic_id": 101,
     "exam_type": "tyt",
     "topic_name": "Din ve Sanat Felsefesi (Teoloji ve Estetik)",
@@ -12348,6 +13034,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00687",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -12366,6 +13053,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00688",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -12384,6 +13072,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00689",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -12402,6 +13091,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00690",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -12420,6 +13110,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00691",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -12438,6 +13129,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00692",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -12456,6 +13148,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00693",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -12474,6 +13167,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00694",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
@@ -12492,6 +13186,7 @@
     "version": 1
   },
   {
+    "uid": "tyt-felsefe-00695",
     "topic_id": 102,
     "exam_type": "tyt",
     "topic_name": "Siyaset ve Bilim Felsefesi",
