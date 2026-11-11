@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "content_version": 3,
+  "generated_at": "2026-11-11T00:36:13.473737Z",
+  "files": {
+    "blueprints.json": {
+      "sha256": "0f293cfd533e8e2c787f627c7e6a67a4c87f68b011768184e877ec0bb44b2dd9",
+      "size": 4649
+    },
+    "gunun-bilgileri.json": {
+      "sha256": "6bc8046bc675248492a8a8af52653618697c8dc8f3534687a9fe4142c7eaceb8",
+      "size": 21855
+    },
+    "osym-istatistikleri.json": {
+      "sha256": "341417c407cb452adefdb0fdb028519b833f3dbc46af90fcc33397a83c813b4d",
+      "size": 575
+    },
+    "questions/ayt-biyoloji.json": {
+      "sha256": "0376c2d631cb4b98ca1f7fffa7d9bbdeb2dcea8626d6095346968311df2a4d6e",
+      "size": 1275155
+    },
+    "questions/ayt-cografya1.json": {
+      "sha256": "4e93040d0e911cf81c6ec43143e37ffc54f849c69dd88e8eaae0543f0be7345d",
+      "size": 609336
+    },
+    "questions/ayt-cografya2.json": {
+      "sha256": "cdfce20e90621a51b6f54fb1fd38825e73135b0498c9e5161baffacd5d445b9a",
+      "size": 1115591
+    },
+    "questions/ayt-din.json": {
+      "sha256": "c7238cf46a7ffa77d28c582ff0859b5ba5293637136cbe30ab8190db512e80eb",
+      "size": 577122
+    },
+    "questions/ayt-edebiyat.json": {
+      "sha256": "46c61812d8735bb7c792ee8b91dd5ba58001692f04545ee9670f9175d95a64fc",
+      "size": 1083748
+    },
+    "questions/ayt-felsefe.json": {
+      "sha256": "fe6039b5cf4e0aff2307907ee135ae3b2aa6c228fac2e1e316c342e4dbbe0667",
+      "size": 1100457
+    },
+    "questions/ayt-fizik.json": {
+      "sha256": "5e670bfdfef67ae014071bccf8d609a315c5c67fd1a99799288168583a22c218",
+      "size": 1357833
+    },
+    "questions/ayt-kimya.json": {
+      "sha256": "eaa9aca82aefd8f3c90fbf4b129aaee9b17f51044c57bde2cd267de837c6dec4",
+      "size": 1102024
+    },
+    "questions/ayt-matematik.json": {
+      "sha256": "262dbefeb76e2c4cc3c5950931a11a8e16345ac691c35c323ae68ac5215a5d19",
+      "size": 1270812
+    },
+    "questions/ayt-tarih1.json": {
+      "sha256": "f60e9e48f1f4404213e8160a8e9119726d8a07b3861fac54d47e27ce8fc9d897",
+      "size": 978390
+    },
+    "questions/ayt-tarih2.json": {
+      "sha256": "a87ced180a8351b18777226120f913d5a8c709bee3ff7ff59793f0e63d920dd5",
+      "size": 1050459
+    },
+    "questions/tyt-biyoloji.json": {
+      "sha256": "d43327835d891af305c07c2c4e86375f34397115e4e36d2d30ff77ef2bfecf51",
+      "size": 791446
+    },
+    "questions/tyt-cografya.json": {
+      "sha256": "459a6179eb141fd36e4ff48d8a3f6475348b42e9154bd8295a03222ae2cbf4b8",
+      "size": 1137986
+    },
+    "questions/tyt-din.json": {
+      "sha256": "3770ee0b56c8f8da35385443b8fe5c8a16735d289657b2e2a1f0aaf03023c2ba",
+      "size": 666564
+    },
+    "questions/tyt-felsefe.json": {
+      "sha256": "f3910e28fbf164012017f0d2bf9baafa508ed5c7d9becdf519e38ee8a2d6cdb1",
+      "size": 784909
+    },
+    "questions/tyt-fizik.json": {
+      "sha256": "567ce2dd0701c332b6e6fb9104d0809d34a95a08c9586cc8f934fef09aa45c02",
+      "size": 960799
+    },
+    "questions/tyt-geometri.json": {
+      "sha256": "c6267ca0382a0dcc1d7b31f98132b52e8f44019900b093aabd8a9223da1079d0",
+      "size": 749161
+    },
+    "questions/tyt-kimya.json": {
+      "sha256": "d070f3e7dbde6709feab685d86d293fa8917b8ce82c49e3d7da037295469bfc6",
+      "size": 1094150
+    },
+    "questions/tyt-matematik.json": {
+      "sha256": "52dd54cbccb40b4bec0412d0e1c5ab564d436ac0aa46bd024b512e08875a5067",
+      "size": 2314505
+    },
+    "questions/tyt-tarih.json": {
+      "sha256": "3c21d8debe0f80a457771702595e9f97bccce052aa4b6bf7823fa3693c726eb4",
+      "size": 1532515
+    },
+    "questions/tyt-turkce.json": {
+      "sha256": "5a7a22e8f480447510607748170ac9aa0c4adbddbdd0cdbee8d1b1de6d98a42f",
+      "size": 2542579
+    },
+    "questions/ydt-almanca.json": {
+      "sha256": "fc9ffa52f9529abcbd5c69fbcad1f2d577088147393292e0af73fde42c255e11",
+      "size": 874205
+    },
+    "questions/ydt-arapca.json": {
+      "sha256": "979099ad471b1f3a07eff8a54b1b9df30887968cc2e5c0e9094d74982187f708",
+      "size": 1222091
+    },
+    "questions/ydt-fransizca.json": {
+      "sha256": "4c94d77a02dd9b667748f45e008a7a3d23e21b2b91eef1a5388f9f23efca78e6",
+      "size": 920851
+    },
+    "questions/ydt-ingilizce.json": {
+      "sha256": "0cbd52cdd581bb9d54999721e8582feede1503b120361161e68e3129cccc60fa",
+      "size": 930590
+    },
+    "sinav.json": {
+      "sha256": "5d78fe172ee3eac8da8822a957bff0dcdde929d90d9b4f1fc271fb7a66dab249",
+      "size": 243
+    },
+    "subjects.json": {
+      "sha256": "31df030471b51b23e2489a57cfe870b02d9f80ba2d393b5892ac30a1474e3f15",
+      "size": 5262
+    },
+    "topics.json": {
+      "sha256": "1a004832fa6a86c3488fa2f8f89ac2a0bec88eaf5d537f4ef69e5506dcaef53b",
+      "size": 68589
+    },
+    "topics/ayt-biyoloji.json": {
+      "sha256": "186f38d9ce974dfb0320efff07f23b2c945aaa21d1f23305a1871844833d0f4d",
+      "size": 93087
+    },
+    "topics/ayt-cografya1.json": {
+      "sha256": "14455cca642266f87b9c16f70c955c53ba075de80546bcb40d7cd8523bfa7da3",
+      "size": 38724
+    },
+    "topics/ayt-cografya2.json": {
+      "sha256": "75f74c933df5f02893c2d125c66ef3fa76775b529dd0e287c32f103cb657fc4a",
+      "size": 73771
+    },
+    "topics/ayt-din.json": {
+      "sha256": "b13e76228972ac8a46f90a986c5d87d7d70c19c2a8bc4d2c6d6121db2fe5122f",
+      "size": 41918
+    },
+    "topics/ayt-edebiyat.json": {
+      "sha256": "cb218ef1554d8de74d9e66d7bef608f3ad98ad0d019754a39db1df6c4a384fb0",
+      "size": 83677
+    },
+    "topics/ayt-felsefe.json": {
+      "sha256": "83dad2d02aad5fbb2a4623ae6dcfcfb4db44740bdb8525bf5a3eed97db8163ec",
+      "size": 86597
+    },
+    "topics/ayt-fizik.json": {
+      "sha256": "ba4980b39a5dce90fe3c17d1890a6019199f3f9388202b73600016f7525c0e96",
+      "size": 93462
+    },
+    "topics/ayt-kimya.json": {
+      "sha256": "85f9b028e5948d46bdfa39835473f7467e90e20fb665b24420003866f39640e8",
+      "size": 76275
+    },
+    "topics/ayt-matematik.json": {
+      "sha256": "e989498773983755780a334a7e36f948af717760c39c2da5a511e5b7a4a737a8",
+      "size": 112896
+    },
+    "topics/ayt-tarih1.json": {
+      "sha256": "546016f707a8e55b75985b6c8046481063ac9108ba8a30a1b17c081907784160",
+      "size": 60741
+    },
+    "topics/ayt-tarih2.json": {
+      "sha256": "ef926fdb7257cb3a8eada97efbf4c54c0a27e30aa4199b39dfb022ea625b1985",
+      "size": 92565
+    },
+    "topics/tyt-biyoloji.json": {
+      "sha256": "f31796726aecfd1f9b9f94ff326d29078f1278a47cf2b4a6ceb73802f58d01a1",
+      "size": 48182
+    },
+    "topics/tyt-cografya.json": {
+      "sha256": "122272beb19c373cf942c4bcb8ec273700a6dcb92919750a574651f9d53d2712",
+      "size": 97300
+    },
+    "topics/tyt-din.json": {
+      "sha256": "4378be2f8a64d86ceb3a2ce68aa36be0c1b7abbc6511b22f6d47d0269dd34b98",
+      "size": 44894
+    },
+    "topics/tyt-felsefe.json": {
+      "sha256": "dd3d08363872812724d00878e0e3c5342c53b86791e2495453ee9a89fceccd15",
+      "size": 57729
+    },
+    "topics/tyt-fizik.json": {
+      "sha256": "b1d32541cbbda5830bfa015444c5b066d40632f91968c49a87ba621cdd9b253b",
+      "size": 73473
+    },
+    "topics/tyt-geometri.json": {
+      "sha256": "eeae284bdcd310e3083dba5be045d3ffa5d4462236ea3a972b6b29202c49ef42",
+      "size": 49739
+    },
+    "topics/tyt-kimya.json": {
+      "sha256": "28ee37ef5f454ea7ad271311556a0a15b1fee1b83fca0cb4e72a58b9b05d6374",
+      "size": 70121
+    },
+    "topics/tyt-matematik.json": {
+      "sha256": "67df10241672e800f209989b3455bc7816fa60dca8849fd0e0f61dcf8e33eab2",
+      "size": 146607
+    },
+    "topics/tyt-tarih.json": {
+      "sha256": "ab93f3897c765b8b345b28621aa2186b355ae14bef6ef07325e34174f2d7bbe6",
+      "size": 126638
+    },
+    "topics/tyt-turkce.json": {
+      "sha256": "55e0fa154f90b72c30ba2eb6112d8590c4d8738932527de63452e16ced2c45aa",
+      "size": 133823
+    },
+    "topics/ydt-almanca.json": {
+      "sha256": "18068409063d781e8d5709d21ca06d14de8a35efa53f8b143abb69e11af77704",
+      "size": 41414
+    },
+    "topics/ydt-arapca.json": {
+      "sha256": "6d01d62f4c3f26f24d9e4910477f1a95cb9159a39d5095f18b6d3571189c9180",
+      "size": 46965
+    },
+    "topics/ydt-fransizca.json": {
+      "sha256": "0c3c26cfff17672306663188c991fe57d6314286acf941ecc78c32ac9a779330",
+      "size": 43709
+    },
+    "topics/ydt-ingilizce.json": {
+      "sha256": "45f6268f86eb3d482c4a00767b166dee8d56d8e4e93460879089ef67907b6e66",
+      "size": 66703
+    },
+    "tr-provinces.json": {
+      "sha256": "c5a41fe32e60b2d66009215ae1cd785d0991d1bd44f0a80f38cd480e68ddcbca",
+      "size": 89142
+    },
+    "world-continents.json": {
+      "sha256": "bf6fd397e16962b6ce03f766bc74c0a95defc228531d589fe737e85f13eb806f",
+      "size": 13531
+    }
+  }
+}
