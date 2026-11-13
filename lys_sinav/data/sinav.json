@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "key": "sozel",
+    "name": "Sözel Bölüm",
+    "order_index": 1
+  },
+  {
+    "id": 2,
+    "key": "sayisal",
+    "name": "Sayısal Bölüm",
+    "order_index": 2
+  }
+]
