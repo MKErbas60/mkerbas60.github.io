@@ -1,0 +1,42 @@
+[
+  {
+    "id": 301,
+    "subject_id": 3,
+    "name": "Kader İnancı",
+    "order_index": 1,
+    "content": "# Kader İnancı\n\n## Temel kavramlar\n* **Kader:** Allah'ın, olmuş ve olacak her şeyi zamanı, yeri ve özellikleriyle ezelde bilmesi ve belirlemesidir.\n* **Kaza:** Allah'ın ezelde takdir ettiği şeylerin zamanı gelince gerçekleşmesidir.\n* **Ecel:** Her canlının hayatının sona ereceği zaman. **Rızık:** Canlıların yararlandığı her türlü nimet. Rızık için çalışmak gerekir.\n\n## Evrendeki yasalar (sünnetullah)\n* **Fiziksel yasalar:** Dünya'nın dönmesi, suyun 100 °C'de kaynaması.\n* **Biyolojik yasalar:** Canlıların doğması, büyümesi; tohumun filizlenmesi.\n* **Toplumsal yasalar:** Adaletin toplumu güçlendirmesi, haksızlığın zayıflatması.\n* **Ahlaki yasalar:** İyiliğin ve kötülüğün karşılığının görülmesi.\nEvrendeki düzen ve yasalar, Allah'ın varlığının ve birliğinin delillerindendir.\n\n## İnsanın irade ve sorumluluğu\n* İnsan akıl ve irade sahibidir; seçimlerinden sorumludur. Kader inancı, insanın sorumluluğunu ortadan kaldırmaz.\n* **Tevekkül:** Bir iş için gereken bütün çabayı gösterdikten sonra sonucu Allah'a bırakmaktır. Çalışmadan beklemek tevekkül değildir.\n\n## Kur'an'dan\n* **Ayete'l-Kürsî (Bakara suresi, 255. ayet):** Allah'ın sıfatlarını ve egemenliğini anlatır: “Allah, kendisinden başka ilah olmayandır. Diridir, kayyumdur…”",
+    "version": 1
+  },
+  {
+    "id": 302,
+    "subject_id": 3,
+    "name": "Zekât ve Sadaka",
+    "order_index": 2,
+    "content": "# Zekât ve Sadaka\n\n## Zekât\n* **Zekât:** Dinen zengin sayılan Müslümanın, malının belirli bir kısmını Allah rızası için ihtiyaç sahiplerine vermesidir. İslam'ın beş şartından biridir; mali bir ibadettir.\n* **Şartları:** Müslüman, akıllı, ergenlik çağına girmiş ve hür olmak; temel ihtiyaçları ve borçları dışında **nisap** miktarı mala sahip olmak; malın üzerinden bir yıl geçmek.\n* Para ve ticaret mallarında zekât oranı **kırkta bir (%2,5)**'dir.\n\n## Zekât verilecek yerler (Tevbe suresi, 60. ayet)\nFakirler, yoksullar, zekât toplamakla görevli olanlar, kalpleri İslam'a ısındırılmak istenenler, esir ve köleler, borçlular, Allah yolunda olanlar ve yolda kalmışlar.\n\n## Zekât verilemeyecek kişiler\nKişinin anne-babası, dede-ninesi, çocukları ve torunları, eşi (bakmakla yükümlü olduğu kişiler) ve zenginler.\n\n## Sadaka\n* Allah rızası için yapılan her türlü iyiliktir; maddi ya da manevi olabilir. Güler yüz, yol göstermek, yoldaki engeli kaldırmak da sadakadır.\n* **Fitre (sadaka-i fıtr):** Ramazan ayında, bayram namazından önce verilmesi gereken sadakadır.\n* **İnfak:** Allah'ın verdiği nimetlerden başkalarıyla paylaşmak.\n\n## Zekât ve sadakanın faydaları\nToplumsal dayanışmayı güçlendirir, gelir farkını azaltır, cimrilik ve bencilliği önler, sevgi ve kardeşliği artırır.\n\n## Kur'an'dan\n* **Mâûn suresi:** Yetimi itip kakanları, yoksulu doyurmaya teşvik etmeyenleri ve küçük yardımları bile esirgeyenleri kınar.",
+    "version": 1
+  },
+  {
+    "id": 303,
+    "subject_id": 3,
+    "name": "Din ve Hayat",
+    "order_index": 3,
+    "content": "# Din ve Hayat\n\n## Din, birey ve toplum\n* Din, bireye hayatın anlamı, ahlaki değerler ve iç huzur kazandırır.\n* Toplumsal hayatta yardımlaşma, dayanışma, adalet ve kardeşlik gibi değerleri güçlendirir.\n* Din; kültür, sanat, mimari, edebiyat ve gelenekler üzerinde de etkilidir (cami mimarisi, hat sanatı, ilahiler, bayramlar).\n\n## Dinin temel gayesi: beş temel değerin korunması\n1. **Canın korunması** — Hayat hakkına saygı.\n2. **Aklın korunması** — Aklı uyuşturan, zarar veren şeylerden uzak durmak.\n3. **Dinin korunması** — İnanç özgürlüğü.\n4. **Neslin korunması** — Aileyi koruma.\n5. **Malın korunması** — Mülkiyet hakkına saygı; hırsızlık ve haksız kazancın yasaklanması.\n\n## Bir peygamber tanıyorum: Hz. Yusuf\n* Babası Hz. Yakup'tur. Kardeşleri onu kıskanıp kuyuya attı; sonra Mısır'a götürülüp satıldı.\n* İffeti, sabrı ve dürüstlüğüyle örnek oldu. Haksız yere hapse atıldı; rüya yorumlama yeteneğiyle tanındı.\n* Mısır'da yönetici oldu; kıtlık yıllarında halkı açlıktan kurtardı. Kendisine kötülük yapan kardeşlerini **affetti**.\n\n## Bir sure tanıyorum: Asr suresi\n“Asra yemin olsun ki insan gerçekten ziyandadır. Ancak iman edip salih ameller işleyenler, birbirlerine hakkı ve sabrı tavsiye edenler bunun dışındadır.” Zamanın değerini, iman, iyi iş, hak ve sabrı öğütler.",
+    "version": 1
+  },
+  {
+    "id": 304,
+    "subject_id": 3,
+    "name": "Hz. Muhammed'in Örnekliği",
+    "order_index": 4,
+    "content": "# Hz. Muhammed'in Örnekliği\n\n## Kur'an'da Hz. Muhammed\n* “Andolsun, Allah'ın Resulü'nde sizin için, Allah'a ve ahiret gününe kavuşmayı uman ve Allah'ı çok anan kimseler için güzel bir örnek vardır.” (Ahzab suresi, 21. ayet)\n* Hz. Muhammed hem Allah'ın kulu hem de elçisidir. Kendisine vahiy gelen bir insandır; ilahlık niteliği taşımaz.\n\n## Örnek kişiliği\n* **Güvenilirliği:** Peygamberlikten önce bile “Muhammedü'l-Emin” (güvenilir Muhammed) olarak anıldı.\n* **Merhameti:** Çocuklara, yaşlılara, hayvanlara şefkatle davrandı.\n* **Adaleti:** İnsanlar arasında ayrım yapmadan hakkı gözetti.\n* **İstişare:** Önemli kararlarda arkadaşlarının görüşünü aldı (ör. Hendek Savaşı'nda hendek kazılması önerisi).\n* **Hoşgörü ve affedicilik:** Mekke'nin fethinde kendisine eziyet edenleri affetti.\n* **Sade yaşamı ve çalışkanlığı:** Ev işlerine yardım eder, kendi işini kendisi görürdü.\n* **Sabrı:** Taif'te taşlandığında beddua etmedi.\n\n## Bir sure tanıyorum: Kâfirûn suresi\nİnanç özgürlüğünü ve dinde zorlama olmadığını vurgular: “Sizin dininiz size, benim dinim banadır.”",
+    "version": 1
+  },
+  {
+    "id": 305,
+    "subject_id": 3,
+    "name": "Kur'an-ı Kerim ve Özellikleri",
+    "order_index": 5,
+    "content": "# Kur'an-ı Kerim ve Özellikleri\n\n## Kur'an-ı Kerim'in temel özellikleri\n* Allah tarafından Cebrail aracılığıyla Hz. Muhammed'e **610–632 yılları arasında yaklaşık 23 yılda** indirilmiştir.\n* İlk inen ayetler Alak suresinin ilk beş ayetidir: “Oku!” emriyle başlar.\n* Arapça indirilmiştir; 114 sure ve 6 binden fazla ayetten oluşur. İlk sure Fâtiha, son sure Nâs'tır.\n* Hz. Ebubekir döneminde kitap hâline getirilmiş (Mushaf), Hz. Osman döneminde çoğaltılmıştır.\n* Allah tarafından korunmaktadır; değişmemiştir.\n\n## Ana konuları\n* **İnanç:** Allah'ın varlığı ve birliği, melekler, kitaplar, peygamberler, ahiret, kader.\n* **İbadet:** Namaz, oruç, zekât, hac.\n* **Ahlak:** Doğruluk, adalet, merhamet, yardımlaşma, sabır.\n* **Kıssalar:** Peygamberlerin ve geçmiş toplumların hayatlarından ibret verici anlatılar.\n\n## Evrensel mesajları\nKur'an, insanların farklı milletlerden yaratıldığını ve birbirleriyle tanışmaları gerektiğini bildirir. Adalet, hak ve hukuka saygı, insan onurunun korunması, doğanın korunması, bilgi ve düşünmeye önem verilmesi evrensel mesajlarındandır.\n\n## Kur'an'ı anlamak\n* Kur'an'ı doğru anlamak için ayetleri bütünlük içinde ve indiği ortamı dikkate alarak okumak gerekir.\n* Meal, Kur'an'ın başka bir dile çevirisi; tefsir ise açıklamasıdır.",
+    "version": 1
+  }
+]

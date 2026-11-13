@@ -1,0 +1,98 @@
+[
+  {
+    "id": 101,
+    "subject_id": 1,
+    "name": "Sözcükte Anlam",
+    "order_index": 1,
+    "content": "# Sözcükte Anlam\n\n## Anlam türleri\n* **Gerçek (temel) anlam:** Sözcüğün akla ilk gelen anlamı. *Kapının kolu kırıldı* değil, *Kolunu masaya dayadı* (organ).\n* **Yan anlam:** Gerçek anlamla benzerlik ilişkisi korunarak kazanılan anlam: *masanın ayağı, dağın eteği*.\n* **Mecaz anlam:** Gerçek anlamdan tamamen uzaklaşma: *Bu konuda çok **ince** düşünüyor.*\n* **Terim anlam:** Bir bilim, sanat ya da meslek alanına özgü anlam: *açı, perde, hücre*.\n\n## Anlam ilişkileri\n* **Eş anlamlı:** yanıt–cevap, ulus–millet.\n* **Zıt anlamlı:** dar–geniş, cesur–korkak.\n* **Eş sesli (sesteş):** Yazılışı aynı, anlamı farklı: *yüz* (sayı / surat / yüzmek).\n\n## Deyim ve atasözü\n* **Deyim:** Çoğunlukla mecaz anlamlı, kalıplaşmış söz öbeği: *göze girmek, kulak asmamak*. Genellikle bir durumu anlatır, öğüt vermez.\n* **Atasözü:** Uzun deneyimlerden çıkmış, öğüt veren kalıp yargı: *Damlaya damlaya göl olur.*\n\n## Soru çözme ipuçları\n1. Altı çizili sözcüğü cümleden çıkarıp yerine anlamca yakın bir sözcük koyun; cümle bozulmuyorsa doğru anlamı bulmuşsunuz demektir.\n2. Yeni nesil sorularda sözcük çoğu zaman bir metin, afiş ya da diyalog içinde verilir; bağlamı okumadan şıklara geçmeyin.",
+    "version": 1
+  },
+  {
+    "id": 102,
+    "subject_id": 1,
+    "name": "Cümlede Anlam",
+    "order_index": 2,
+    "content": "# Cümlede Anlam\n\n## Cümleler arası ve cümle içi anlam ilişkileri\n* **Neden–sonuç:** Yargı bir nedene bağlanır: *Yağmur yağdığı için maç ertelendi.* (-dığı için, -den, çünkü)\n* **Amaç–sonuç:** Eylem bir amaca yöneliktir: *Sınavı kazanmak için çok çalıştı.* (için, -mek üzere, diye)\n* **Koşul–sonuç:** Yargı bir şarta bağlıdır: *Erken çıkarsak otobüse yetişiriz.* (-se, -dikçe)\n* **Karşılaştırma:** İki varlık ya da durum kıyaslanır: *Bu kitap öncekinden daha sürükleyici.*\n\n## Öznel ve nesnel yargı\n* **Nesnel:** Kanıtlanabilir, kişiden kişiye değişmez: *Ankara, Türkiye'nin başkentidir.*\n* **Öznel:** Kişisel görüş, beğeni içerir: *Ankara'nın en güzel mevsimi sonbahardır.*\n\n## Diğer anlam özellikleri\n* **Örtülü anlam:** Açıkça söylenmeyen ama sezdirilen yargı: *Bu yıl da yarışmaya katıldı.* (Daha önce de katılmıştır.)\n* **Ön yargı:** Bir şeyi tanımadan, denemeden yargıda bulunma.\n* **Tahmin, varsayım, olasılık, öneri, eleştiri, uyarı** gibi cümlelerin anlam özelliklerini cümlenin sonundaki yargıya bakarak belirleyin.\n\n## İpucu\nKoşul ile neden–sonuç sık karıştırılır: Koşulda eylem henüz gerçekleşmemiştir ve gerçekleşip gerçekleşmeyeceği belirsizdir.",
+    "version": 1
+  },
+  {
+    "id": 103,
+    "subject_id": 1,
+    "name": "Paragrafta Anlam",
+    "order_index": 3,
+    "content": "# Paragrafta Anlam\n\n## Paragrafın yapısı\n* **Giriş:** Konunun tanıtıldığı, genel yargı içeren cümle.\n* **Gelişme:** Ana düşüncenin açıklandığı, örneklendiği bölüm.\n* **Sonuç:** Varılan yargının özetlendiği bölüm. Ana düşünce çoğu zaman giriş ya da sonuçtadır.\n\n## Temel kavramlar\n* **Konu:** Paragrafta üzerinde durulan, “Ne anlatılıyor?” sorusunun cevabı.\n* **Ana düşünce:** Yazarın okura iletmek istediği temel mesaj; “Yazar ne demek istiyor?”\n* **Yardımcı düşünceler:** Ana düşünceyi destekleyen, açıklayan yargılar.\n* **Başlık:** Konuyu en kısa ve kapsayıcı biçimde yansıtan söz öbeği.\n\n## Paragrafta yapı soruları\n* Akışı bozan cümle, paragraf ikiye bölme, boşluk doldurma ve cümle sıralama soruları paragrafın konusuna ve bağlayıcı sözcüklere (*bu, bunun için, ancak, oysa*) dikkat etmeyi gerektirir.\n\n## Yeni nesil paragraf soruları\n* Bir metin, tablo, grafik ya da görsel birlikte verilebilir. Önce soru kökünü okuyun, sonra metinde yalnızca istenen bilgiyi arayın.\n* “Çıkarılamaz / ulaşılamaz” sorularında metinde **hiç geçmeyen** ya da metinle **çelişen** yargı aranır; metinde geçmesi yeterlidir, doğru ya da yanlış olması değil.",
+    "version": 1
+  },
+  {
+    "id": 104,
+    "subject_id": 1,
+    "name": "Söz Sanatları",
+    "order_index": 4,
+    "content": "# Söz Sanatları\n\n* **Benzetme (teşbih):** Aralarında benzerlik bulunan iki varlıktan güçsüz olanın güçlü olana benzetilmesi: *Gözleri yıldız gibi parlıyordu.* Benzeyen (göz), kendisine benzetilen (yıldız), benzetme yönü (parlaklık), benzetme edatı (gibi).\n* **Kişileştirme (teşhis):** İnsan dışındaki varlıklara insana özgü özellikler verme: *Rüzgâr pencereye fısıldıyordu.*\n* **Konuşturma (intak):** İnsan dışındaki varlıkları konuşturma: *Çınar, “Ben bu köyün en yaşlısıyım.” dedi.* Konuşturma varsa kişileştirme de vardır; tersi her zaman geçerli değildir.\n* **Abartma (mübalağa):** Bir durumu olduğundan çok büyük ya da küçük gösterme: *Bir bardak suda fırtına kopardı. Gözyaşları sel oldu.*\n* **Karşıtlık (tezat):** Zıt kavramları bir arada kullanma: *Ağlarım hatıra geldikçe güldüğüm günler.*\n\n## Soru çözme\n1. Önce cümlede insana özgü bir eylem ya da konuşma olup olmadığına bakın.\n2. “gibi, kadar, sanki” edatları benzetme için ipucudur; ancak *Ahmet kadar uzun* gibi gerçek karşılaştırmalar benzetme değildir.",
+    "version": 1
+  },
+  {
+    "id": 105,
+    "subject_id": 1,
+    "name": "Fiilimsiler",
+    "order_index": 5,
+    "content": "# Fiilimsiler (Eylemsiler)\n\nFiilimsiler, fiil kök ya da gövdelerine eklenen eklerle oluşan; cümlede **isim, sıfat veya zarf** görevinde kullanılan sözcüklerdir. Çekimli fiil değildirler; bu nedenle cümlenin yüklemi olmazlar (yüklem olacaksa ek fiil alırlar).\n\n## 1. İsim-fiil (ad-eylem): -ma, -ış, -mak\n* *Okumak insanı geliştirir.* · *Bu gidiş hayra alamet değil.* · *Yüzmeyi çok severim.*\n* Dikkat: Kalıcı ada dönüşenler fiilimsi sayılmaz: *dondurma, çakmak, yemek (aş), dolma*.\n* Olumsuzluk eki *-ma* ile karıştırmayın: *Bugün okula gitme.* (emir kipi, çekimli fiil)\n\n## 2. Sıfat-fiil (ortaç): -an, -ası, -mez, -ar, -dik, -ecek, -miş\n* Bir ismi niteler: *koşan çocuk, okunacak kitap, gördüğüm film, kırılmış vazo*.\n* Nitelediği isim düşerse adlaşmış sıfat-fiil olur: *Gelenler oturdu.*\n* Kalıcı isim olanlar: *çalar (saat), yazar, dolmuş*.\n\n## 3. Zarf-fiil (bağ-eylem): -ken, -alı, -madan, -ince, -ip, -arak, -dıkça, -e … -e, -r … -maz, -casına\n* Fiili zaman, durum, koşul yönünden niteler: *Eve gelince aradı. Koşarak geldi. Güle güle gitti.*\n\n## İpucu\nFiilimsi bulmak için önce sözcüğün kökünün fiil olup olmadığına, sonra ekin yukarıdaki listede yer alıp almadığına bakın.",
+    "version": 1
+  },
+  {
+    "id": 106,
+    "subject_id": 1,
+    "name": "Cümlenin Ögeleri",
+    "order_index": 6,
+    "content": "# Cümlenin Ögeleri\n\n## Temel ögeler\n* **Yüklem:** Cümlede iş, oluş, hareket ya da yargı bildiren öge. Ögeleri bulmaya yüklemden başlanır.\n* **Özne:** Yüklemdeki işi yapan ya da yargının ilgili olduğu öge. Soru: *Kim? Ne?* (yükleme sorulur).\n  * **Gizli özne:** Yüklemdeki kişi ekinden anlaşılır: *Dün kitabı bitirdim.* (Ben)\n  * **Sözde özne:** Edilgen yüklemli cümlede işi yapan belli değildir: *Yollar temizlendi.*\n\n## Yardımcı ögeler\n* **Nesne:** Yüklemden etkilenen öge. *Belirtili nesne* (-ı hâl eki alır: *Kitabı okudu*), *belirtisiz nesne* (*Kitap okudu*).\n* **Dolaylı tümleç (yer tamlayıcısı):** -e, -de, -den hâl eklerinden birini alır: *Okula gitti. Bahçede oturdu.*\n* **Zarf tümleci:** Yüklemi zaman, durum, miktar, yön bakımından tamamlar: *Akşam döndü. Hızlı yürüdü.*\n* **Edat tümleci:** “ile, için, gibi, kadar” edatlarıyla kurulan öge: *Annesiyle konuştu.*\n\n## Kurallar\n* Bir öge birden fazla sözcükten oluşabilir; tamlamalar ve söz öbekleri bölünmez.\n* Ara söz (iki virgül ya da iki kısa çizgi arasındaki açıklama) bir öge değildir; açıkladığı ögenin parçası sayılır.\n* Ögelerin sırası değiştirilerek vurgu değiştirilir; vurgulanan öge yüklemden hemen önce gelir.",
+    "version": 1
+  },
+  {
+    "id": 107,
+    "subject_id": 1,
+    "name": "Fiilde Çatı",
+    "order_index": 7,
+    "content": "# Fiilde Çatı\n\nÇatı, yüklemin özneye ve nesneye göre durumudur. Yalnızca **yüklemi fiil olan** cümlelerde aranır.\n\n## Öznesine göre çatı\n* **Etken:** Özne bellidir: *Ali kapıyı kapattı.*\n* **Edilgen:** Özne belli değildir; yerini sözde özne alır. -l, -n ekleri: *Kapı kapatıldı. Ev yenilendi.*\n  * İpucu: “… tarafından” sözü eklenebiliyorsa çatı edilgendir.\n\n## Nesnesine göre çatı\n* **Geçişli:** Nesne alabilir: *Mektubu yazdı.* (Neyi yazdı? sorusu sorulabilir.)\n* **Geçişsiz:** Nesne alamaz: *Çocuk uyudu. Hava karardı.*\n* Edilgen fiiller nesne almaz ama çatı belirlenirken fiilin kökünün nesne alıp almadığına bakılır: *Mektup yazıldı* → geçişli kökten türemiş edilgen.\n\n## Soru çözme\n1. Yükleme “Kim/ne tarafından?” sorusunu sorun → edilgenlik.\n2. Yükleme “Neyi/kimi?” sorusunu sorun → geçişlilik.\n3. Ek fiil almış isim soylu yüklemlerde çatı aranmaz: *Bu kitap çok güzeldi.*",
+    "version": 1
+  },
+  {
+    "id": 108,
+    "subject_id": 1,
+    "name": "Cümle Türleri",
+    "order_index": 8,
+    "content": "# Cümle Türleri\n\n## Yükleminin türüne göre\n* **İsim cümlesi:** Yüklem isim soylu sözcüktür: *Bu yol çok uzun.*\n* **Fiil cümlesi:** Yüklem çekimli fiildir: *Yol uzadı.*\n\n## Yükleminin yerine göre\n* **Kurallı (düz) cümle:** Yüklem sondadır: *Kitabı okudum.*\n* **Devrik cümle:** Yüklem sonda değildir: *Okudum kitabı.*\n\n## Anlamına göre\n* **Olumlu / olumsuz:** *Geldi. – Gelmedi. Evde değil.*\n* **Soru cümlesi:** *Ne zaman gelecek?* Soru eki olsa da soru anlamı taşımayan cümleler soru cümlesi değildir.\n* **Ünlem cümlesi:** Sevinç, şaşkınlık gibi duyguları coşkuyla anlatır.\n\n## Yapısına göre\n* **Basit cümle:** Tek yüklem: *Sabah erkenden yola çıktık.*\n* **Birleşik cümle:** Bir temel cümle ve onu tamamlayan yan cümle (fiilimsi öbeği, şartlı yapı, iç içe cümle): *Yağmur yağınca sokaklar boşaldı.* · *Annem “Geç kalma.” dedi.*\n* **Sıralı cümle:** Virgül ya da noktalı virgülle bağlanan, ayrı yüklemli cümleler: *Kapıyı açtı, içeri girdi.*\n* **Bağlı cümle:** Bağlaçla bağlanan cümleler: *Çok çalıştı ama başaramadı.*",
+    "version": 1
+  },
+  {
+    "id": 109,
+    "subject_id": 1,
+    "name": "Yazım Kuralları",
+    "order_index": 9,
+    "content": "# Yazım Kuralları\n\n## Büyük harflerin kullanımı\n* Cümle başı, özel adlar (kişi, kurum, yer, gezegen), unvanlar (*Doktor Selin Hanım*), belirli tarihler (*29 Ekim 1923 Pazartesi*).\n* Özel adlara getirilen çekim ekleri kesme işaretiyle ayrılır: *Türkiye'nin, Ankara'da*. Kurum adlarına gelen ekler ayrılmaz: *Millî Eğitim Bakanlığına*.\n\n## Birleşik sözcükler\n* Ses düşmesi ya da türemesi varsa bitişik: *kaybolmak, affetmek, hissetmek*.\n* Anlam kaynaşması varsa bitişik: *aslanağzı, kuşburnu, cumartesi*.\n\n## Sayıların yazımı\n* Yazıyla yazılan sayılar ayrı: *yüz elli üç*. Para ve senetlerde bitişik yazılabilir.\n* Sıra sayıları rakamla yazılırken nokta ya da kesme işaretli ek kullanılır: *8. sınıf, 8'inci*.\n\n## Sık karıştırılanlar\n* **“de/da” bağlacı** ayrı, **-de/-da hâl eki** bitişik: *Ben de geldim. – Evde kaldım.*\n* **“ki” bağlacı** ayrı, **-ki ilgi ve sıfat eki** bitişik: *Duydum ki gelmişsin. – Evdeki hesap.*\n* **“mi” soru eki** her zaman ayrı yazılır: *Geldi mi?*\n* Kısaltmalara gelen ekler son harfin okunuşuna göre: *TBMM'ye, TDK'nin*.",
+    "version": 1
+  },
+  {
+    "id": 110,
+    "subject_id": 1,
+    "name": "Noktalama İşaretleri",
+    "order_index": 10,
+    "content": "# Noktalama İşaretleri\n\n* **Nokta (.):** Cümle sonunda, kısaltmalardan sonra (*Dr.*), sıra bildiren rakamlardan sonra (*3. kat*), saat ve dakika arasında (*09.30*).\n* **Virgül (,):** Eş görevli sözcükleri ayırır; sıralı cümleleri ayırır; hitaplardan sonra kullanılır (*Sevgili kardeşim,*); vurgulanmak istenen ögeden sonra kullanılabilir.\n* **Noktalı virgül (;):** Ögeleri arasında virgül bulunan sıralı cümleleri ayırır; farklı tür eş görevli grupları ayırır (*Erkek çocuklara Ali, Veli; kız çocuklara Ayşe, Elif adı verildi.*).\n* **İki nokta (:):** Açıklama ve örnek verilecek cümlenin sonuna; karşılıklı konuşmalarda konuşanın adından sonra.\n* **Soru işareti (?):** Soru bildiren cümle ve sözlerin sonuna; bilinmeyen tarih ya da şüphe bildiren yerlerde ayraç içinde.\n* **Ünlem (!):** Sevinç, korku, şaşkınlık gibi duyguları anlatan cümlelerin sonuna; hitap ve seslenmelerden sonra.\n* **Üç nokta (…):** Tamamlanmamış cümlelerde, sayılması gereken örneklerin sona erdirilmediği yerlerde.\n* **Kısa çizgi (-) ve uzun çizgi (—):** Satır sonunda bölünen sözcüklerde, ara sözleri ayırmada; uzun çizgi karşılıklı konuşmalarda.\n* **Tırnak işareti (“ ”):** Başkasından aynen aktarılan sözleri, vurgulanmak istenen ifadeleri ve eser adlarını gösterir.\n* **Kesme işareti ('):** Özel adlara gelen ekleri ayırır.",
+    "version": 1
+  },
+  {
+    "id": 111,
+    "subject_id": 1,
+    "name": "Metin Türleri",
+    "order_index": 11,
+    "content": "# Metin Türleri\n\n## Bilgilendirici metinler\n* **Makale:** Bir düşünceyi kanıtlamak amacıyla bilimsel bir dille yazılır.\n* **Fıkra (köşe yazısı):** Günlük bir konuda kişisel görüş, kısa ve sohbet havasında.\n* **Deneme:** Yazarın kendi kendine konuşur gibi kişisel görüşlerini kesin yargıya bağlamadan anlatması.\n* **Biyografi:** Bir başkasının hayatı; **otobiyografi:** yazarın kendi hayatı.\n* **Haber metni:** 5N1K sorularına cevap veren, nesnel metin.\n* **Röportaj (söyleşi):** Bir kişiyle görüşerek bilgi ve izlenimleri aktaran metin.\n\n## Hikâye edici metinler\n* **Hikâye (öykü), roman, masal, fabl:** Olay, kişi, yer ve zaman unsurlarına dayanır. Fablda kahramanlar hayvanlardır ve ders verilir.\n* **Anı:** Yazarın yaşadığı ya da tanık olduğu olayları anlatması.\n* **Gezi yazısı:** Gezilip görülen yerlerin anlatımı.\n\n## Anlatım biçimleri\n* **Açıklama:** Bilgi verme. **Tartışma:** Okuru bir düşünceye inandırma, karşıt görüşü çürütme.\n* **Betimleme:** Varlıkların görünüşünü sözcüklerle resmetme. **Öyküleme:** Olayları zaman sırasıyla anlatma.\n\n## Düşünceyi geliştirme yolları\nTanımlama, örneklendirme, karşılaştırma, tanık gösterme (alıntı), sayısal verilerden yararlanma, benzetme.",
+    "version": 1
+  },
+  {
+    "id": 112,
+    "subject_id": 1,
+    "name": "Sözel Mantık ve Görsel Okuma",
+    "order_index": 12,
+    "content": "# Sözel Mantık ve Görsel Okuma\n\nLGS Türkçe testinde, verilen bilgileri bir tablo, sıralama ya da görsel yardımıyla düzenlemeyi gerektiren sorular yer alır.\n\n## Sözel mantık soruları için adımlar\n1. Verilen tüm koşulları maddeler hâlinde yazın.\n2. **Kesin bilgileri** (*Ece üçüncü sıradadır.*) önce tabloya yerleştirin.\n3. Sonra **ilişkili bilgileri** (*Can, Deniz'den hemen sonra gelir.*) deneyin.\n4. Soru “kesinlikle doğrudur” diyorsa tüm olası durumlarda doğru olan yargıyı; “olabilir” diyorsa en az bir durumda doğru olanı arayın.\n\n## Görsel okuma\n* Afiş, tablo, grafik, harita ya da infografik verilir. Sorunun istediği bilgiyi görselde bulup metindeki bilgiyle karşılaştırın.\n* Grafikte eksenleri ve birimleri mutlaka okuyun; “en çok artış” ile “en yüksek değer” farklı şeylerdir.\n\n## Sık yapılan hatalar\n* Bir koşulu tabloya işlemeyi unutmak.\n* “Hemen önce” ile “önce” arasındaki farkı gözden kaçırmak.",
+    "version": 1
+  }
+]
