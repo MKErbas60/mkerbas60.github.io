@@ -1,0 +1,98 @@
+[
+  {
+    "id": 501,
+    "subject_id": 5,
+    "name": "Çarpanlar ve Katlar",
+    "order_index": 1,
+    "content": "# Çarpanlar ve Katlar\n\n## Çarpan ve asal çarpan\n* Bir doğal sayıyı kalansız bölen doğal sayılara o sayının **çarpanları (bölenleri)** denir. 12'nin çarpanları: 1, 2, 3, 4, 6, 12.\n* **Asal sayı:** Yalnızca 1'e ve kendisine bölünebilen, 1'den büyük doğal sayı: 2, 3, 5, 7, 11, 13 … (2 tek çift asaldır.)\n* **Asal çarpanlara ayırma:** $60 = 2^2 \\cdot 3 \\cdot 5$. Asal çarpanlar 2, 3 ve 5'tir.\n\n## EBOB ve EKOK\n* **EBOB (en büyük ortak bölen):** İki sayıyı da bölen en büyük sayı. *“Eşit parçalara bölme, en büyük parça, en az sayıda parça”* sorularında kullanılır.\n* **EKOK (en küçük ortak kat):** İki sayının da katı olan en küçük sayı. *“Birlikte tekrar, aynı anda yeniden, en az kaç gün sonra”* sorularında kullanılır.\n* $a \\cdot b = \\text{EBOB}(a,b) \\cdot \\text{EKOK}(a,b)$\n* **Aralarında asal sayılar:** EBOB'u 1 olan sayılar: 8 ve 15.\n\n## Örnek\n24 ve 36 için: $24 = 2^3 \\cdot 3$, $36 = 2^2 \\cdot 3^2$ → EBOB $= 2^2 \\cdot 3 = 12$, EKOK $= 2^3 \\cdot 3^2 = 72$.",
+    "version": 1
+  },
+  {
+    "id": 502,
+    "subject_id": 5,
+    "name": "Üslü İfadeler",
+    "order_index": 2,
+    "content": "# Üslü İfadeler\n\n## Kurallar\n* $a^m \\cdot a^n = a^{m+n}$ · $a^m : a^n = a^{m-n}$ · $(a^m)^n = a^{m \\cdot n}$\n* $a^0 = 1$ ($a \\ne 0$) · $a^{-n} = \\frac{1}{a^n}$ · $(a \\cdot b)^n = a^n \\cdot b^n$\n* Negatif sayının çift kuvveti pozitif, tek kuvveti negatiftir: $(-2)^4 = 16$, $(-2)^3 = -8$. Dikkat: $-2^4 = -16$.\n\n## 10'un kuvvetleri ve bilimsel gösterim\n* Bilimsel gösterim: $a \\times 10^n$, burada $1 \\le a < 10$ ve $n$ tam sayıdır.\n* Çok büyük sayılar: $3\\,500\\,000 = 3{,}5 \\times 10^6$\n* Çok küçük sayılar: $0{,}00042 = 4{,}2 \\times 10^{-4}$\n\n## Ondalık gösterimin çözümlenmesi\n$45{,}23 = 4 \\cdot 10^1 + 5 \\cdot 10^0 + 2 \\cdot 10^{-1} + 3 \\cdot 10^{-2}$\n\n## İpucu\nYeni nesil sorularda bakteri sayısının her saatte iki katına çıkması gibi durumlar üslü ifadelerle modellenir: başlangıçta $N$ ise $t$ saat sonra $N \\cdot 2^t$.",
+    "version": 1
+  },
+  {
+    "id": 503,
+    "subject_id": 5,
+    "name": "Kareköklü İfadeler",
+    "order_index": 3,
+    "content": "# Kareköklü İfadeler\n\n## Tam kareler ve karekök\n* $1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225 …$ tam kare sayılardır.\n* $\\sqrt{a^2} = a$ ($a \\ge 0$). Bir karenin alanı $A$ ise kenar uzunluğu $\\sqrt{A}$'dır.\n* Tam kare olmayan sayıların karekökü iki ardışık doğal sayı arasındadır: $\\sqrt{50}$, 7 ile 8 arasındadır çünkü $49 < 50 < 64$.\n\n## Kareköklü ifadelerde işlemler\n* $a\\sqrt{b}$ biçimine getirme: $\\sqrt{72} = \\sqrt{36 \\cdot 2} = 6\\sqrt{2}$\n* Toplama/çıkarma yalnızca kök içleri aynıysa yapılır: $3\\sqrt{2} + 5\\sqrt{2} = 8\\sqrt{2}$\n* Çarpma: $\\sqrt{a} \\cdot \\sqrt{b} = \\sqrt{a \\cdot b}$ · Bölme: $\\frac{\\sqrt{a}}{\\sqrt{b}} = \\sqrt{\\frac{a}{b}}$\n* Katsayıyı köke alma: $3\\sqrt{5} = \\sqrt{45}$\n\n## Gerçek sayılar\n* Rasyonel sayılar ($\\frac{a}{b}$ biçiminde yazılabilen) ve irrasyonel sayılar ($\\sqrt{2}$, $\\pi$ gibi) birlikte gerçek sayıları oluşturur.",
+    "version": 1
+  },
+  {
+    "id": 504,
+    "subject_id": 5,
+    "name": "Veri Analizi",
+    "order_index": 4,
+    "content": "# Veri Analizi\n\n## Grafik türleri\n* **Sütun grafiği:** Kategorileri karşılaştırmak için.\n* **Çizgi grafiği:** Zamana göre değişimi göstermek için.\n* **Daire grafiği:** Bütünün parçalarını oransal göstermek için (tam daire 360°).\n\n## Merkezî eğilim ve yayılım\n* **Aritmetik ortalama:** Veriler toplamı ÷ veri sayısı.\n* **Ortanca (medyan):** Veriler sıralandığında ortadaki değer.\n* **Tepe değer (mod):** En çok tekrar eden değer.\n* **Açıklık:** En büyük değer − en küçük değer.\n\n## Yeni nesil ipuçları\n* Grafikte eksenlerin neyi gösterdiğini ve ölçeği okuyun.\n* Daire grafiğinde bir dilimin açısı: $\\frac{\\text{dilim değeri}}{\\text{toplam}} \\cdot 360°$.\n* İki grafik birlikte verildiğinde birindeki bilgiyi diğerine taşıyarak sonuca ulaşın.",
+    "version": 1
+  },
+  {
+    "id": 505,
+    "subject_id": 5,
+    "name": "Basit Olayların Olma Olasılığı",
+    "order_index": 5,
+    "content": "# Basit Olayların Olma Olasılığı\n\n## Kavramlar\n* **Deney:** Sonucu önceden kesin bilinemeyen işlem (zar atmak, torbadan top çekmek).\n* **Çıktı:** Deneyin olası her sonucu. **Örnek uzay:** Tüm çıktılar kümesi.\n* **Olay:** Örnek uzayın bir alt kümesi.\n\n## Olasılık hesabı\n$$P(A) = \\frac{\\text{istenen çıktı sayısı}}{\\text{tüm çıktı sayısı}}$$\n* $0 \\le P(A) \\le 1$. **İmkânsız olay:** $P = 0$, **kesin olay:** $P = 1$.\n* Bir olayın olma ve olmama olasılıkları toplamı 1'dir.\n* **Eşit şanslı olaylar:** Her çıktının gerçekleşme olasılığı aynıdır (hilesiz zar, madenî para).\n\n## Örnek\nTorbada 3 kırmızı, 5 mavi top var. Mavi top çekme olasılığı $\\frac{5}{8}$'dir. Torbaya 2 mavi top eklenirse olasılık $\\frac{7}{10}$ olur.",
+    "version": 1
+  },
+  {
+    "id": 506,
+    "subject_id": 5,
+    "name": "Cebirsel İfadeler ve Özdeşlikler",
+    "order_index": 6,
+    "content": "# Cebirsel İfadeler ve Özdeşlikler\n\n## Cebirsel ifadelerle işlemler\n* Benzer terimler toplanır: $3x + 5x = 8x$.\n* Çarpma: $2x(x + 3) = 2x^2 + 6x$ · $(x + 2)(x + 5) = x^2 + 7x + 10$\n\n## Özdeşlikler\n* **İki terim toplamının karesi:** $(a + b)^2 = a^2 + 2ab + b^2$\n* **İki terim farkının karesi:** $(a - b)^2 = a^2 - 2ab + b^2$\n* **İki kare farkı:** $a^2 - b^2 = (a - b)(a + b)$\n* Dikkat: $(a + b)^2 \\ne a^2 + b^2$\n\n## Çarpanlara ayırma\n* Ortak çarpan parantezine alma: $6x^2 + 9x = 3x(2x + 3)$\n* İki kare farkı: $x^2 - 49 = (x - 7)(x + 7)$\n\n## Alan modeli\nKenarları $(x + a)$ ve $(x + b)$ olan dikdörtgenin alanı $x^2 + (a + b)x + ab$'dir. Yeni nesil sorularda cebirsel ifadeler çoğu zaman bir şeklin alanı ya da çevresi olarak verilir.",
+    "version": 1
+  },
+  {
+    "id": 507,
+    "subject_id": 5,
+    "name": "Doğrusal Denklemler",
+    "order_index": 7,
+    "content": "# Doğrusal Denklemler\n\n## Birinci dereceden denklemler\n* Eşitliğin iki tarafına aynı işlem yapılır: $3x + 5 = 20 \\Rightarrow 3x = 15 \\Rightarrow x = 5$.\n\n## Doğrusal ilişkiler\n* İki değişken arasındaki sabit oranlı artış/azalış doğrusal ilişkidir: $y = mx + n$.\n* **Örnek:** Açılış ücreti 30 TL, kilometre başına 12 TL olan taksi: $y = 12x + 30$.\n\n## Koordinat sistemi ve eğim\n* Eğim, doğrunun dikliğini gösterir: $m = \\frac{y_2 - y_1}{x_2 - x_1}$\n* Yatay doğrunun eğimi 0'dır. Soldan sağa yükselen doğrunun eğimi pozitif, alçalan doğrununki negatiftir.\n* $y = mx + n$ doğrusunda $m$ eğim, $n$ ise doğrunun $y$ eksenini kestiği noktadır.\n\n## Grafik okuma\nDoğrusal bir ilişkinin grafiği bir doğrudur. Tablo, denklem ve grafik aynı ilişkinin farklı gösterimleridir.",
+    "version": 1
+  },
+  {
+    "id": 508,
+    "subject_id": 5,
+    "name": "Eşitsizlikler",
+    "order_index": 8,
+    "content": "# Eşitsizlikler\n\n## Semboller\n$<$ küçüktür · $>$ büyüktür · $\\le$ küçük eşittir · $\\ge$ büyük eşittir\n\n## Çözüm\n* Eşitsizliğin iki tarafına aynı sayı eklenir/çıkarılır: yön değişmez.\n* Pozitif bir sayıyla çarpılır/bölünürse yön değişmez.\n* **Negatif bir sayıyla çarpılır/bölünürse yön değişir:** $-2x < 6 \\Rightarrow x > -3$.\n\n## Sayı doğrusunda gösterim\n* $<$ ve $>$ için içi boş daire (sayı dâhil değil), $\\le$ ve $\\ge$ için içi dolu daire (sayı dâhil).\n\n## Yeni nesil ipucu\n“En az, en çok, aşmamak, en fazla” gibi ifadeleri eşitsizlik sembollerine çevirin: *“Bütçe 500 TL'yi aşmamalı”* → $\\le 500$.",
+    "version": 1
+  },
+  {
+    "id": 509,
+    "subject_id": 5,
+    "name": "Üçgenler",
+    "order_index": 9,
+    "content": "# Üçgenler\n\n## Temel özellikler\n* İç açılar toplamı $180°$'dir.\n* **Üçgen eşitsizliği:** Bir kenarın uzunluğu, diğer iki kenarın farkından büyük, toplamından küçüktür: $|a - b| < c < a + b$.\n* Büyük açı karşısında büyük kenar bulunur.\n\n## Yardımcı elemanlar\n* **Kenarortay:** Köşeyi karşı kenarın orta noktasına birleştirir.\n* **Açıortay:** Açıyı iki eş parçaya böler.\n* **Yükseklik:** Köşeden karşı kenara çizilen dikme.\n\n## Pisagor bağıntısı\nDik üçgende dik kenarlar $a$ ve $b$, hipotenüs $c$ ise $a^2 + b^2 = c^2$'dir.\n* Sık kullanılan üçlüler: (3, 4, 5), (5, 12, 13), (8, 15, 17), (7, 24, 25) ve katları.\n\n## Yeni nesil ipucu\nDuvara dayanan merdiven, rampanın uzunluğu, iki nokta arasındaki kuş uçuşu uzaklık gibi durumlar Pisagor bağıntısıyla çözülür.",
+    "version": 1
+  },
+  {
+    "id": 510,
+    "subject_id": 5,
+    "name": "Eşlik ve Benzerlik",
+    "order_index": 10,
+    "content": "# Eşlik ve Benzerlik\n\n## Eşlik\nKarşılıklı kenar uzunlukları ve açı ölçüleri eşit olan şekiller eştir ($\\cong$).\n\n## Benzerlik\n* Karşılıklı açıları eşit ve karşılıklı kenar uzunlukları orantılı olan şekiller benzerdir ($\\sim$).\n* **Benzerlik oranı:** $k = \\frac{\\text{bir kenar}}{\\text{karşılık gelen kenar}}$\n* Benzer şekillerde çevreler oranı $k$'ye eşittir.\n\n## Uygulamalar\n* **Gölge problemleri:** Aynı anda ölçülen gölgeler için $\\frac{\\text{boy}_1}{\\text{gölge}_1} = \\frac{\\text{boy}_2}{\\text{gölge}_2}$.\n* **Ölçekli çizim ve maket:** 1 : 50 ölçekli bir maketteki 4 cm, gerçekte 200 cm'dir.",
+    "version": 1
+  },
+  {
+    "id": 511,
+    "subject_id": 5,
+    "name": "Dönüşüm Geometrisi",
+    "order_index": 11,
+    "content": "# Dönüşüm Geometrisi\n\n## Öteleme\n* Şeklin biçimi, büyüklüğü ve yönü değişmeden yer değiştirmesidir.\n* $A(x, y)$ noktası $a$ birim sağa ve $b$ birim yukarı ötelenirse $A'(x + a, y + b)$ olur. Sola için $-a$, aşağı için $-b$.\n\n## Yansıma\n* **$x$ eksenine göre:** $A(x, y) \\to A'(x, -y)$\n* **$y$ eksenine göre:** $A(x, y) \\to A'(-x, y)$\n* Yansıyan şekil ile görüntüsü eştir; yansıma doğrusuna olan uzaklıkları eşittir.\n\n## Ardışık dönüşümler\nDönüşümler sırayla uygulanır; sıranın değişmesi sonucu değiştirebilir.\n\n## İpucu\nKareli zeminde verilen şekillerde her köşeyi ayrı ayrı dönüştürüp sonra birleştirin.",
+    "version": 1
+  },
+  {
+    "id": 512,
+    "subject_id": 5,
+    "name": "Geometrik Cisimler",
+    "order_index": 12,
+    "content": "# Geometrik Cisimler\n\n## Dik prizmalar\n* Tabanı $n$ kenarlı çokgen olan dik prizmada: yüz sayısı $n + 2$, ayrıt sayısı $3n$, köşe sayısı $2n$.\n* Hacim: taban alanı × yükseklik.\n\n## Dik dairesel silindir\n* Yanal alan: $2\\pi r h$ · Yüzey alanı: $2\\pi r^2 + 2\\pi r h$\n* Hacim: $V = \\pi r^2 h$\n* LGS sorularında genellikle $\\pi = 3$ alınır.\n\n## Dik piramit ve dik koni\n* Tabanı $n$ kenarlı çokgen olan piramitte: yüz sayısı $n + 1$, ayrıt sayısı $2n$, köşe sayısı $n + 1$.\n* Koninin bir tabanı (daire), bir tepe noktası ve yan yüzeyi vardır. Açınımında yan yüz daire diliminden oluşur.\n\n## Birim dönüşümleri\n$1 \\text{ dm}^3 = 1 \\text{ litre}$ · $1 \\text{ m}^3 = 1000 \\text{ litre}$",
+    "version": 1
+  }
+]

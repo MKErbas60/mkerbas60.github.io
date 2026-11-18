@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "key": "tyt_turkce",
+    "name": "Türkçe",
+    "group": "TYT",
+    "order_index": 1,
+    "question_count": 40,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 2,
+    "key": "tyt_matematik",
+    "name": "Matematik",
+    "group": "TYT",
+    "order_index": 2,
+    "question_count": 30,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 3,
+    "key": "tyt_geometri",
+    "name": "Geometri",
+    "group": "TYT",
+    "order_index": 3,
+    "question_count": 10,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 4,
+    "key": "tyt_fizik",
+    "name": "Fizik",
+    "group": "TYT",
+    "order_index": 4,
+    "question_count": 7,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 5,
+    "key": "tyt_kimya",
+    "name": "Kimya",
+    "group": "TYT",
+    "order_index": 5,
+    "question_count": 7,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 6,
+    "key": "tyt_biyoloji",
+    "name": "Biyoloji",
+    "group": "TYT",
+    "order_index": 6,
+    "question_count": 6,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 7,
+    "key": "tyt_tarih",
+    "name": "Tarih",
+    "group": "TYT",
+    "order_index": 7,
+    "question_count": 5,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 8,
+    "key": "tyt_cografya",
+    "name": "Coğrafya",
+    "group": "TYT",
+    "order_index": 8,
+    "question_count": 5,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 9,
+    "key": "tyt_felsefe",
+    "name": "Felsefe",
+    "group": "TYT",
+    "order_index": 9,
+    "question_count": 5,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 10,
+    "key": "tyt_din",
+    "name": "Din Kültürü ve Ahlak Bilgisi",
+    "group": "TYT",
+    "order_index": 10,
+    "question_count": 5,
+    "levels": [
+      "tyt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 11,
+    "key": "ayt_matematik",
+    "name": "Matematik (ve Geometri)",
+    "group": "AYT",
+    "order_index": 11,
+    "question_count": 40,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 12,
+    "key": "ayt_fizik",
+    "name": "Fizik",
+    "group": "AYT",
+    "order_index": 12,
+    "question_count": 14,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 13,
+    "key": "ayt_kimya",
+    "name": "Kimya",
+    "group": "AYT",
+    "order_index": 13,
+    "question_count": 13,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 14,
+    "key": "ayt_biyoloji",
+    "name": "Biyoloji",
+    "group": "AYT",
+    "order_index": 14,
+    "question_count": 13,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 15,
+    "key": "ayt_edebiyat",
+    "name": "Türk Dili ve Edebiyatı",
+    "group": "AYT",
+    "order_index": 15,
+    "question_count": 24,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 16,
+    "key": "ayt_tarih1",
+    "name": "Tarih-1",
+    "group": "AYT",
+    "order_index": 16,
+    "question_count": 10,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 17,
+    "key": "ayt_cografya1",
+    "name": "Coğrafya-1",
+    "group": "AYT",
+    "order_index": 17,
+    "question_count": 6,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 18,
+    "key": "ayt_tarih2",
+    "name": "Tarih-2",
+    "group": "AYT",
+    "order_index": 18,
+    "question_count": 11,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 19,
+    "key": "ayt_cografya2",
+    "name": "Coğrafya-2",
+    "group": "AYT",
+    "order_index": 19,
+    "question_count": 11,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 20,
+    "key": "ayt_felsefe",
+    "name": "Felsefe Grubu (Felsefe, Psikoloji, Sosyoloji, Mantık)",
+    "group": "AYT",
+    "order_index": 20,
+    "question_count": 12,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 21,
+    "key": "ayt_din",
+    "name": "Din Kültürü ve Ahlak Bilgisi",
+    "group": "AYT",
+    "order_index": 21,
+    "question_count": 6,
+    "levels": [
+      "ayt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 22,
+    "key": "ydt_ingilizce",
+    "name": "İngilizce (YDT)",
+    "group": "YDT",
+    "order_index": 22,
+    "question_count": 80,
+    "levels": [
+      "ydt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 23,
+    "key": "ydt_almanca",
+    "name": "Almanca (YDT)",
+    "group": "YDT",
+    "order_index": 23,
+    "question_count": 80,
+    "levels": [
+      "ydt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 24,
+    "key": "ydt_fransizca",
+    "name": "Fransızca (YDT)",
+    "group": "YDT",
+    "order_index": 24,
+    "question_count": 80,
+    "levels": [
+      "ydt"
+    ],
+    "version": 1
+  },
+  {
+    "id": 25,
+    "key": "ydt_arapca",
+    "name": "Arapça (YDT)",
+    "group": "YDT",
+    "order_index": 25,
+    "question_count": 80,
+    "levels": [
+      "ydt"
+    ],
+    "version": 1
+  }
+]
