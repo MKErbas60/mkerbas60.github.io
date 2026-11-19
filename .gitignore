@@ -1,5 +1,39 @@
-# mkerbas60.github.io (herkese açık GitHub Pages) — işletim sistemi dosyaları yayınlanmaz
+# mkerbas60.github.io (herkese açık GitHub Pages)
+# Kural kaynağı: D:\Projects\AGENTS.md §10.2. Bu depo HERKESE AÇIKTIR: buraya giren her dosya
+# internette yayınlanır. Sır, imza anahtarı ve makineye özel dosya asla commit edilmez.
+
+# ── Sırlar ve imza ───────────────────────────────────────────────────────────
+secure/
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+key.properties
+secrets*.json
+env.json
+appsettings.*.local.json
+*.pfx
+*.pem
+*.key
+*.p8
+*.p12
+*.mobileprovision
+*.cer
+google-services.json
+GoogleService-Info.plist
+**/onemli_notlar.txt
+local.properties
+
+# ── Yedek / geçici ───────────────────────────────────────────────────────────
+*.bak
+*.orig
+*.tmp
+*.log
+
+# ── İşletim sistemi / IDE ────────────────────────────────────────────────────
 desktop.ini
 Thumbs.db
 .DS_Store
-*.tmp
+.idea/
+.vscode/
