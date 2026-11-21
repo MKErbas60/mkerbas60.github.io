@@ -1,0 +1,58 @@
+[
+  {
+    "id": 601,
+    "subject_id": 6,
+    "name": "Mevsimler ve İklim",
+    "order_index": 1,
+    "content": "# Mevsimler ve İklim\n\n## Mevsimlerin oluşumu\n* Mevsimler, **Dünya'nın dönme ekseninin eğik olması (yaklaşık 23° 27')** ve **Güneş etrafındaki dolanma hareketi** sonucunda oluşur.\n* Güneş ışınları bir yere ne kadar dik gelirse birim alana düşen enerji o kadar artar ve sıcaklık yükselir. Eğik gelen ışınlar daha geniş alana yayılır.\n\n## Önemli tarihler (Kuzey Yarım Küre)\n* **21 Haziran:** Yaz gün dönümü. En uzun gündüz; Güneş ışınları Yengeç Dönencesi'ne dik gelir.\n* **21 Aralık:** Kış gün dönümü. En uzun gece; ışınlar Oğlak Dönencesi'ne dik gelir.\n* **21 Mart ve 23 Eylül:** Ekinoks (gece–gündüz eşitliği). Işınlar Ekvator'a dik gelir.\n* Güney Yarım Küre'de mevsimler Kuzey Yarım Küre'nin tersidir.\n\n## Hava olayları ve iklim\n* **Hava olayları:** Kısa süreli ve dar alandaki atmosfer olayları (yağmur, rüzgâr). İnceleyen bilim: **meteoroloji**.\n* **İklim:** Geniş bir bölgede uzun yıllar boyunca görülen hava olaylarının ortalaması. İnceleyen bilim: **klimatoloji (iklim bilimi)**.\n* **Rüzgâr:** Havanın yüksek basınç alanından alçak basınç alanına doğru yatay hareketidir. Isınan hava genişler, yükselir ve alçak basınç oluşturur.\n* Küresel iklim değişikliği; sera gazlarının artışı, buzulların erimesi ve aşırı hava olaylarıyla ilişkilidir.",
+    "version": 1
+  },
+  {
+    "id": 602,
+    "subject_id": 6,
+    "name": "DNA ve Genetik Kod",
+    "order_index": 2,
+    "content": "# DNA ve Genetik Kod\n\n## DNA'nın yapısı\n* DNA, hücrenin çekirdeğinde bulunan ve kalıtsal bilgiyi taşıyan moleküldür. İki iplikli, sarmal (merdiven) yapıdadır.\n* Yapı birimi **nükleotid**dir: **fosfat + deoksiriboz şekeri + organik baz**.\n* Bazlar: **Adenin (A), Timin (T), Guanin (G), Sitozin (C)**. Eşleşme kuralı: **A–T** ve **G–C**. Bu nedenle bir DNA'da A sayısı T sayısına, G sayısı C sayısına eşittir.\n* **Gen:** Bir özelliği belirleyen DNA parçası. **Kromozom:** DNA'nın proteinlerle paketlenmiş hâli. İnsanın vücut hücrelerinde 46 kromozom vardır.\n* **DNA eşlenmesi:** Hücre bölünmeden önce DNA kendini kopyalar.\n\n## Kalıtım\n* Gregor Mendel bezelyelerle yaptığı deneylerle kalıtımın temel kurallarını ortaya koydu.\n* **Baskın gen** (büyük harf, A) çekinik geni (küçük harf, a) baskılar. Çekinik özellik yalnızca **aa** durumunda görülür.\n* **Homozigot (saf döl):** AA, aa · **Heterozigot (melez):** Aa\n* **Fenotip:** Dış görünüş · **Genotip:** Gen yapısı\n* **Çaprazlama:** Aa × Aa → AA, Aa, Aa, aa (baskın fenotip olasılığı $\\frac{3}{4}$, çekinik $\\frac{1}{4}$).\n\n## Mutasyon, modifikasyon, adaptasyon\n* **Mutasyon:** DNA'da kalıcı değişiklik; üreme hücresinde ise sonraki nesle aktarılır (ör. albinizm).\n* **Modifikasyon:** Çevrenin etkisiyle oluşan, kalıtsal olmayan değişiklik (ör. güneşte bronzlaşma).\n* **Adaptasyon:** Canlının yaşadığı ortamda hayatta kalma ve üreme şansını artıran kalıtsal özellikler (ör. kutup ayısının kalın kürkü).\n\n## Biyoteknoloji\nGen tedavisi, ilaç üretimi (insülin), tarımda dayanıklı ürünler, klonlama ve DNA parmak izi gibi uygulamaları kapsar; etik sorunları da tartışılır.",
+    "version": 1
+  },
+  {
+    "id": 603,
+    "subject_id": 6,
+    "name": "Basınç",
+    "order_index": 3,
+    "content": "# Basınç\n\n## Katı basıncı\n* Birim yüzeye dik olarak etki eden kuvvete basınç denir: $P = \\frac{F}{S}$ (birim: N/m² = pascal).\n* Kuvvet (ağırlık) artarsa basınç artar; **yüzey alanı küçülürse basınç artar**.\n* Örnekler: Bıçağın keskin yüzü az alanla çok basınç uygular; kar ayakkabıları geniş yüzeyle basıncı azaltır.\n\n## Sıvı basıncı\n* Sıvılar bulundukları kabın tabanına ve çeperlerine basınç uygular.\n* Sıvı basıncı **derinlik** ve **sıvının yoğunluğu** ile doğru orantılıdır; kabın şekline ve sıvının miktarına bağlı değildir.\n* Barajların alt kısımlarının daha kalın yapılması, dalgıçların derine indikçe daha fazla basınca maruz kalması bu nedenledir.\n* **Pascal prensibi:** Kapalı kaptaki sıvıya uygulanan basınç her yöne aynen iletilir (hidrolik fren, hidrolik kriko).\n\n## Gaz basıncı\n* Gaz tanecikleri bulundukları kabın her yerine basınç uygular.\n* **Açık hava basıncı:** Atmosferdeki gazların uyguladığı basınç. Deniz seviyesinden yükseldikçe azalır. Torricelli deneyiyle ölçülmüştür (deniz seviyesinde 76 cmHg).\n* Pipetle içecek içmek, vantuzun yapışması açık hava basıncıyla açıklanır.",
+    "version": 1
+  },
+  {
+    "id": 604,
+    "subject_id": 6,
+    "name": "Madde ve Endüstri",
+    "order_index": 4,
+    "content": "# Madde ve Endüstri\n\n## Periyodik sistem\n* Elementler artan atom numarasına göre sıralanmıştır. Yatay sıralar **periyot (7)**, dikey sütunlar **grup (18)**.\n* **Metaller:** Parlak, ısı ve elektriği iyi iletir, işlenebilir. **Ametaller:** Mat, iletken değil (grafit hariç). **Yarı metaller:** Ara özellikte. **Soy gazlar:** 18. grup; tepkimeye girmeye isteksiz.\n\n## Fiziksel ve kimyasal değişimler\n* **Fiziksel değişim:** Maddenin kimliği değişmez (erime, kırılma, çözünme).\n* **Kimyasal değişim:** Yeni madde oluşur (yanma, paslanma, çürüme, mayalanma). Kimyasal tepkimelerde **kütle korunur**.\n\n## Asitler ve bazlar\n* **Asitler:** Ekşi tatlıdır, mavi turnusolu kırmızıya çevirir, pH < 7 (limon, sirke).\n* **Bazlar:** Acı tatlıdır, kayganlık hissi verir, kırmızı turnusolu maviye çevirir, pH > 7 (sabun, çamaşır suyu).\n* **Nötr:** pH = 7 (saf su). Asit ve bazın tepkimesi (nötrleşme) sonucunda tuz ve su oluşur.\n* Asit yağmurları; tarihî yapılara, ormanlara ve göllere zarar verir.\n\n## Isı ve sıcaklık\n* **Isı:** Sıcaklık farkından dolayı aktarılan enerji (birim: joule, kalori). **Sıcaklık:** Taneciklerin ortalama hareket enerjisinin göstergesi (°C), termometreyle ölçülür.\n* **Öz ısı:** 1 g maddenin sıcaklığını 1 °C artırmak için gereken ısı; maddeler için ayırt edici özelliktir. Öz ısısı büyük olan madde geç ısınır, geç soğur (ör. su).\n* Hâl değişimi sırasında saf maddenin sıcaklığı sabit kalır.\n\n## Türkiye'de kimya endüstrisi\nİlaç, boya, gübre, plastik, cam ve deterjan üretimi kimya endüstrisinin alanlarıdır. Kimya mühendisi, eczacı, kimyager bu alandaki meslekler arasındadır.",
+    "version": 1
+  },
+  {
+    "id": 605,
+    "subject_id": 6,
+    "name": "Basit Makineler",
+    "order_index": 5,
+    "content": "# Basit Makineler\n\n* Basit makineler kuvvetin yönünü, büyüklüğünü ya da etki noktasını değiştirerek iş kolaylığı sağlar. **Enerjiden ve işten kazanç sağlamazlar**; kuvvetten kazanç varsa yoldan kayıp vardır.\n\n## Kaldıraç\n* Destek, yük ve kuvvetten oluşur. Denge şartı: **Kuvvet × kuvvet kolu = Yük × yük kolu**.\n* Kuvvet kolu yük kolundan uzunsa kuvvetten kazanç sağlanır.\n* Örnekler: tahterevalli, makas (destek ortada); el arabası, ceviz kıracağı (yük ortada); cımbız, maşa (kuvvet ortada, kuvvetten kayıp).\n\n## Makaralar\n* **Sabit makara:** Kuvvetin yönünü değiştirir; kuvvetten kazanç yoktur (F = Y).\n* **Hareketli makara:** Kuvvetten 2 kat kazanç sağlar (F = Y/2), ipin çekildiği yol yükün yükseldiği yolun 2 katıdır.\n* **Palanga:** Sabit ve hareketli makaraların birlikte kullanılması.\n\n## Diğer basit makineler\n* **Eğik düzlem:** Yükü yüksek bir yere daha az kuvvetle çıkarmayı sağlar; eğim azaldıkça kuvvet azalır, yol uzar. Rampa, vida.\n* **Çıkrık:** Kuyudan su çekmek; kol yarıçapı silindir yarıçapından büyük olduğundan kuvvetten kazanç sağlar.\n* **Dişliler ve kasnaklar:** Hareketi ve kuvveti aktarır. Büyük dişli az, küçük dişli çok tur atar. Birbirine temas eden dişliler zıt yönde döner.",
+    "version": 1
+  },
+  {
+    "id": 606,
+    "subject_id": 6,
+    "name": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "order_index": 6,
+    "content": "# Enerji Dönüşümleri ve Çevre Bilimi\n\n## Besin zinciri ve enerji akışı\n* **Üreticiler** (bitkiler, algler) kendi besinini üretir. **Tüketiciler** besinini dışarıdan alır (otçul, etçil, hepçil). **Ayrıştırıcılar** (bakteri, mantar) ölü canlıları parçalayarak maddeleri doğaya geri kazandırır.\n* Besin zincirinde bir basamaktan diğerine enerjinin yalnızca yaklaşık **%10'u** aktarılır; geri kalanı canlının yaşamsal faaliyetlerinde kullanılır ve ısı olarak kaybolur. Bu nedenle üst basamaklarda canlı sayısı azalır.\n\n## Fotosentez\n* Üreticiler ışık enerjisini kullanarak besin üretir:\n  **karbondioksit + su —(ışık, klorofil)→ besin (glikoz) + oksijen**\n* Fotosentez hızını ışık şiddeti, karbondioksit miktarı, sıcaklık ve su etkiler.\n\n## Solunum\n* **Oksijenli solunum:** besin + oksijen → karbondioksit + su + enerji (mitokondride).\n* **Oksijensiz solunum (fermantasyon):** Yoğurt ve ekmek yapımında kullanılır; daha az enerji açığa çıkar.\n\n## Madde döngüleri\n* **Su döngüsü:** Buharlaşma, yoğuşma, yağış.\n* **Karbon ve oksijen döngüsü:** Fotosentez ile solunum birbirini dengeler.\n* **Azot döngüsü:** Azot bağlayan bakteriler azotu bitkilerin kullanabileceği hâle getirir.\n\n## Sürdürülebilir kalkınma\n* Gelecek nesillerin ihtiyaçlarını tehlikeye atmadan bugünün ihtiyaçlarını karşılamaktır.\n* Geri dönüşüm, yenilenebilir enerji (güneş, rüzgâr, hidroelektrik, jeotermal) ve kaynakların tasarruflu kullanımı bu kapsamdadır.",
+    "version": 1
+  },
+  {
+    "id": 607,
+    "subject_id": 6,
+    "name": "Elektrik Yükleri ve Elektrik Enerjisi",
+    "order_index": 7,
+    "content": "# Elektrik Yükleri ve Elektrik Enerjisi\n\n## Elektrik yükleri\n* Atomda **proton (+)**, **elektron (−)** ve yüksüz **nötron** bulunur. Cisimler elektron alıp vererek yüklenir; protonlar yer değiştirmez.\n* **Nötr cisim:** Proton sayısı = elektron sayısı. **Negatif yüklü:** Elektron fazlası. **Pozitif yüklü:** Elektron eksikliği.\n* Aynı cins yükler birbirini **iter**, zıt cins yükler **çeker**.\n\n## Elektriklenme\n* **Sürtünme ile:** Cisimler zıt cins ve eşit miktarda yükle yüklenir (yün kumaşa sürtülen plastik çubuk).\n* **Dokunma ile:** Yüklü cisim nötr cisme dokununca yükünün bir kısmını aktarır; cisimler aynı cins yükle yüklenir.\n* **Etki ile:** Yüklü cisim nötr bir cisme yaklaştırıldığında, nötr cismin yakın ucu zıt, uzak ucu aynı cins yükle yüklenir.\n* **Elektroskop:** Bir cismin yüklü olup olmadığını ve yükün cinsini anlamaya yarar.\n* **Topraklama:** Yüklü cismin fazla yükünün toprağa aktarılarak nötr hâle gelmesi. **Paratoner (yıldırımsavar):** Yıldırımın zarar vermeden toprağa aktarılmasını sağlar.\n* **İletkenler** (metaller) yükü iletir; **yalıtkanlar** (plastik, cam, tahta) iletmez.\n\n## Elektrik enerjisinin dönüşümü\n* Elektrik enerjisi; ısı (ütü, fırın), ışık (lamba), hareket (vantilatör, elektrikli araç) ve ses enerjisine dönüştürülebilir.\n* Tüketilen elektrik enerjisi: **E = P × t** (kWh). Örnek: 2 000 W'lık bir ısıtıcı 3 saatte $2 \\cdot 3 = 6$ kWh enerji tüketir.\n* **Santraller:** Hidroelektrik, termik, rüzgâr, güneş, jeotermal, nükleer. Yenilenebilir kaynaklar çevreye daha az zarar verir.\n* Enerji tasarrufu: A+++ enerji sınıfı cihazlar, LED lambalar, gereksiz cihazların kapatılması.",
+    "version": 1
+  }
+]

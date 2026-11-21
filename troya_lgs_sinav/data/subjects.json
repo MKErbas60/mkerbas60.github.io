@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "key": "turkce",
+    "name": "Türkçe",
+    "group": "SOZEL",
+    "order_index": 1,
+    "question_count": 20,
+    "levels": [
+      "sozel"
+    ],
+    "version": 1
+  },
+  {
+    "id": 2,
+    "key": "inkilap_tarihi",
+    "name": "T.C. İnkılap Tarihi ve Atatürkçülük",
+    "group": "SOZEL",
+    "order_index": 2,
+    "question_count": 10,
+    "levels": [
+      "sozel"
+    ],
+    "version": 1
+  },
+  {
+    "id": 3,
+    "key": "din_kulturu",
+    "name": "Din Kültürü ve Ahlak Bilgisi",
+    "group": "SOZEL",
+    "order_index": 3,
+    "question_count": 10,
+    "levels": [
+      "sozel"
+    ],
+    "version": 1
+  },
+  {
+    "id": 4,
+    "key": "ingilizce",
+    "name": "İngilizce",
+    "group": "SOZEL",
+    "order_index": 4,
+    "question_count": 10,
+    "levels": [
+      "sozel"
+    ],
+    "version": 1
+  },
+  {
+    "id": 5,
+    "key": "matematik",
+    "name": "Matematik",
+    "group": "SAYISAL",
+    "order_index": 5,
+    "question_count": 20,
+    "levels": [
+      "sayisal"
+    ],
+    "version": 1
+  },
+  {
+    "id": 6,
+    "key": "fen_bilimleri",
+    "name": "Fen Bilimleri",
+    "group": "SAYISAL",
+    "order_index": 6,
+    "question_count": 20,
+    "levels": [
+      "sayisal"
+    ],
+    "version": 1
+  }
+]
