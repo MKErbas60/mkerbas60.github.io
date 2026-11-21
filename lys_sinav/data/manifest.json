@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "content_version": 1,
+  "generated_at": "2026-11-13T12:14:41.754541Z",
+  "files": {
+    "blueprints.json": {
+      "sha256": "080aee28425ca9411f47c52f2400f2ea3596535f88f6286729c5fc71a5a9b526",
+      "size": 3106
+    },
+    "gunun-bilgileri.json": {
+      "sha256": "871dbb43f89d6f5262f3cc4c5aed87ed2619549bb6a09c4114eca10f6fe6702f",
+      "size": 4427
+    },
+    "questions/din-kulturu.json": {
+      "sha256": "360255ea8b0ec87ce82eb6827c8e519e741f7236741579a28b334c87bda5c0cc",
+      "size": 44806
+    },
+    "questions/fen-bilimleri.json": {
+      "sha256": "65faa57355713d52d8c3dec125854fbede9e3c79950782f8cda3c0b06c2760db",
+      "size": 107430
+    },
+    "questions/ingilizce.json": {
+      "sha256": "2d039bd5ab6c543886bd6c1956cb84ca1c3ebb782af2da5605e1e67a745d264a",
+      "size": 65436
+    },
+    "questions/inkilap-tarihi.json": {
+      "sha256": "f1e2cf86f58b82679b947c36042f72fb61d829a1506cbdde7a4fe92e73ac271b",
+      "size": 70719
+    },
+    "questions/matematik.json": {
+      "sha256": "f9e6cefcf1a3bc9f69926b0a945575131efa696903eceefb959c0ca037884773",
+      "size": 254372
+    },
+    "questions/turkce.json": {
+      "sha256": "9c87b8030452995229fe3643b3e2bb796b9bb28c5c7209587b6039e0114b3325",
+      "size": 186970
+    },
+    "sinav.json": {
+      "sha256": "fc6fd78538dc1e6fbc07238dac310b87363415c27f69f1fcfb29444a89996d94",
+      "size": 193
+    },
+    "subjects.json": {
+      "sha256": "29d40d209705528f1e821489e0e55f7775da9ebb1721074d33f3d165c0bfe06a",
+      "size": 1247
+    },
+    "topics.json": {
+      "sha256": "294ea21e865017978b94e8004b34c4f034a363526de200fb2b71d2374e205c4b",
+      "size": 11923
+    },
+    "topics/din-kulturu.json": {
+      "sha256": "9af331c4ec9779758c2e572030cdacdb1b9d59c03063e56e187db2ce9b012a80",
+      "size": 7631
+    },
+    "topics/fen-bilimleri.json": {
+      "sha256": "ff296b8254900fe420b17617641dfafb187730148584123b52a4433a14db47ee",
+      "size": 11837
+    },
+    "topics/ingilizce.json": {
+      "sha256": "f701335e52c8f31fdd41450c6b29af291c318c93c39434cc190f0cc133c861e2",
+      "size": 7975
+    },
+    "topics/inkilap-tarihi.json": {
+      "sha256": "53cfe481353e4bf0b8de58f9c1245101a0d52b9be74f3eae2f10f40fda5b74a4",
+      "size": 13068
+    },
+    "topics/matematik.json": {
+      "sha256": "d1003ba8cbd65978dd5e7154df05342d27541a54d8334b37553f4477333e83e4",
+      "size": 11555
+    },
+    "topics/turkce.json": {
+      "sha256": "abf4a33ea5ba9658facf5d8c31bf3db76fab234d783522ec1bf720dbfdbe2fde",
+      "size": 16378
+    },
+    "tr-provinces.json": {
+      "sha256": "c5a41fe32e60b2d66009215ae1cd785d0991d1bd44f0a80f38cd480e68ddcbca",
+      "size": 89142
+    },
+    "world-continents.json": {
+      "sha256": "bf6fd397e16962b6ce03f766bc74c0a95defc228531d589fe737e85f13eb806f",
+      "size": 13531
+    }
+  }
+}

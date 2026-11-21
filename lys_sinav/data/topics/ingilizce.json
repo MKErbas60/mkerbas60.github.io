@@ -1,0 +1,82 @@
+[
+  {
+    "id": 401,
+    "subject_id": 4,
+    "name": "Friendship",
+    "order_index": 1,
+    "content": "# Unit 1 · Friendship\n\n## Kalıplar\n* **Davet etme:** *Would you like to come to my party? / Do you want to join us?*\n* **Kabul etme:** *Sure, I'd love to. / That sounds great!*\n* **Reddetme ve bahane:** *Sorry, I can't. I have to study for my exam. / I'd love to, but I'm busy.*\n* **Özür dileme:** *I'm sorry for being late. / I apologize.*\n* **İyi bir arkadaşın özellikleri:** *A good friend is honest, supportive and trustworthy. He/She keeps secrets and shares things.*\n\n## İpucu\n“I'd love to, **but** …” ile başlayan cümle **reddetme** bildirir; “but” sonrasındaki bahaneye dikkat edin.",
+    "version": 1
+  },
+  {
+    "id": 402,
+    "subject_id": 4,
+    "name": "Teen Life",
+    "order_index": 2,
+    "content": "# Unit 2 · Teen Life\n\n## Beğeni ve tercih bildirme\n* **Like / love / enjoy / be fond of / be keen on + V-ing:** *I enjoy playing chess. She is fond of reading.*\n* **Dislike / hate / can't stand + V-ing:** *I can't stand waiting in queues.*\n* **Prefer A to B:** *I prefer swimming to running.*\n* **Sıklık zarfları:** *always > usually > often > sometimes > rarely/seldom > never*\n  * *He **never** eats fast food.* (hiçbir zaman)\n\n## Günlük rutinler\n*get up, have breakfast, hang out with friends, go shopping, surf the Internet, do homework*\n\n## İpucu\nTablo ve grafik sorularında sıklık zarflarını sayılarla eşleştirin: 7/7 gün = always, 0 gün = never.",
+    "version": 1
+  },
+  {
+    "id": 403,
+    "subject_id": 4,
+    "name": "In the Kitchen",
+    "order_index": 3,
+    "content": "# Unit 3 · In the Kitchen\n\n## Süreç anlatma (tarif)\n* **Sıralama sözcükleri:** *First, … Then / Next, … After that, … Finally, …*\n* **Mutfak fiilleri:** *chop (doğramak), slice (dilimlemek), boil (kaynatmak), fry (kızartmak), bake (fırında pişirmek), mix/stir (karıştırmak), pour (dökmek), add (eklemek), peel (soymak), grate (rendelemek)*\n* **Ölçü ifadeleri:** *a cup of, a teaspoon of, a pinch of salt, two slices of bread*\n* **Edilgen (passive) yapıyla tarif:** *The potatoes **are peeled** and **chopped**.*\n\n## İpucu\nTarif sorularında bir adımın öncesinde ve sonrasında ne yapıldığını sıralama sözcüklerinden bulun.",
+    "version": 1
+  },
+  {
+    "id": 404,
+    "subject_id": 4,
+    "name": "On the Phone",
+    "order_index": 4,
+    "content": "# Unit 4 · On the Phone\n\n## Telefon konuşması kalıpları\n* **Arama:** *Hello, this is Emre. Can I speak to Selin, please?*\n* **Bekletme:** *Hold on, please. / Just a moment.*\n* **Kişi yoksa:** *Sorry, she isn't here at the moment. Would you like to leave a message?*\n* **Mesaj bırakma:** *Can you tell her to call me back?*\n* **Hat sorunları:** *The line is busy. / I can't hear you, the line is bad.*\n* **Kapanış:** *Talk to you later. / Bye for now.*\n\n## Gelecek planları\n*I'm going to visit my grandparents.* · *I'll call you back later.*\n\n## İpucu\n“Who's calling?” sorusu arayan kişinin kim olduğunu, “Can I take a message?” ise mesaj almak isteğini bildirir.",
+    "version": 1
+  },
+  {
+    "id": 405,
+    "subject_id": 4,
+    "name": "The Internet",
+    "order_index": 5,
+    "content": "# Unit 5 · The Internet\n\n## Kavramlar\n*download, upload, log in, sign up, password, account, attachment, search engine, online shopping, social media, cyberbullying*\n\n## Kabul/ret ve öneri\n* *Why don't we search it online? – Good idea!*\n* *How about sending an e-mail? – No, I'd rather call him.*\n\n## İnternet güvenliği\n* *Never share your password with anyone.*\n* *Don't open e-mails from strangers.*\n* *Use strong passwords with letters, numbers and symbols.*\n* *Tell an adult if someone bothers you online.*\n\n## İpucu\nGrafik/ankete dayalı sorularda yüzdeleri dikkatle karşılaştırın; *most of* = çoğu, *a few* = birkaç, *none of* = hiçbiri.",
+    "version": 1
+  },
+  {
+    "id": 406,
+    "subject_id": 4,
+    "name": "Adventures",
+    "order_index": 6,
+    "content": "# Unit 6 · Adventures\n\n## Karşılaştırma\n* **Comparative:** *Rafting is **more exciting than** hiking. A bike is **faster than** walking.*\n* **Superlative:** *Bungee jumping is **the most dangerous** activity. Everest is **the highest** mountain.*\n* Düzensiz: *good → better → the best · bad → worse → the worst*\n\n## Tercih\n* *I'd rather go camping than stay at home.*\n* *I prefer canoeing to skydiving.*\n\n## Macera sporları\n*rafting, canoeing, scuba diving, paragliding, skydiving, bungee jumping, rock climbing, trekking*\n\n## İpucu\nTablolarda “cost, risk, duration” gibi sütunları karşılaştırırken sıfatın comparative (iki şey) mı superlative (üç ve üzeri) mi olduğuna bakın.",
+    "version": 1
+  },
+  {
+    "id": 407,
+    "subject_id": 4,
+    "name": "Tourism",
+    "order_index": 7,
+    "content": "# Unit 7 · Tourism\n\n## Deneyim anlatma (Present Perfect)\n* *Have you ever been to Cappadocia? – Yes, I have. / No, I haven't.*\n* *I have visited Ephesus twice.*\n\n## Yer tarifi ve öneri\n* *You should visit the museum. It's worth seeing.*\n* *The hotel is next to the beach. It is famous for its seafood.*\n\n## Kelimeler\n*accommodation, sightseeing, souvenir, guided tour, historical site, landscape, travel agency, passport, luggage*\n\n## İpucu\n“ever / never / already / yet / just” sözcükleri Present Perfect ile kullanılır.",
+    "version": 1
+  },
+  {
+    "id": 408,
+    "subject_id": 4,
+    "name": "Chores",
+    "order_index": 8,
+    "content": "# Unit 8 · Chores\n\n## Sorumluluk ve zorunluluk\n* **have to / has to:** *I have to make my bed every morning.*\n* **don't have to:** zorunlu değil — *You don't have to wash the dishes today.*\n* **must / mustn't:** *You must be careful. You mustn't touch the stove.* (yasak)\n\n## Ev işleri\n*do the laundry, iron the clothes, vacuum the carpet, dust the furniture, set/clear the table, take out the rubbish, feed the pet, water the plants, tidy up the room*\n\n## Şikâyet ve rica\n* *I hate ironing.* · *Could you help me with the dishes?*\n\n## İpucu\n“don't have to” (gerek yok) ile “mustn't” (yasak) anlamca farklıdır.",
+    "version": 1
+  },
+  {
+    "id": 409,
+    "subject_id": 4,
+    "name": "Science",
+    "order_index": 9,
+    "content": "# Unit 9 · Science\n\n## Bilim ve buluşlar\n* **Simple Past Passive:** *The telephone **was invented** by Alexander Graham Bell. Penicillin **was discovered** in 1928.*\n* **Present Perfect:** *Scientists **have found** a new species. Technology **has changed** our lives.*\n\n## Bilimsel süreç\n*observe, hypothesis, experiment, result, conclusion, laboratory, microscope, invention, discovery*\n\n## Ünlü bilim insanları ve buluşlar\n* *Marie Curie — radioactivity research* · *Thomas Edison — light bulb (improved design)* · *Aziz Sancar — Nobel Prize in Chemistry (2015) for DNA repair research*\n\n## İpucu\n“was/were + V3” yapısı edilgen geçmiş zaman; işi yapan “by” ile verilir.",
+    "version": 1
+  },
+  {
+    "id": 410,
+    "subject_id": 4,
+    "name": "Natural Forces",
+    "order_index": 10,
+    "content": "# Unit 10 · Natural Forces\n\n## Doğal afetler\n*earthquake, flood, landslide, avalanche, drought, wildfire, storm, tsunami, volcanic eruption*\n\n## Tahmin ve sonuç (will / if)\n* *If we cut down trees, there **will be** more floods.*\n* *Scientists predict that sea levels **will rise**.*\n\n## Afet anında yapılacaklar\n* *During an earthquake, drop, cover and hold on.*\n* *Prepare an emergency kit: water, a torch, a first-aid kit.*\n* *Don't use the lift during a fire.*\n\n## Çevre\n*global warming, climate change, pollution, renewable energy, recycle, reduce, reuse*\n\n## İpucu\nNeden–sonuç sorularında “because, so, as a result, due to” bağlaçlarına dikkat edin.",
+    "version": 1
+  }
+]

@@ -1,0 +1,691 @@
+[
+  {
+    "id": 101,
+    "subject_id": 1,
+    "name": "Sözcükte Anlam",
+    "order_index": 1,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 102,
+    "subject_id": 1,
+    "name": "Cümlede Anlam",
+    "order_index": 2,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 103,
+    "subject_id": 1,
+    "name": "Paragrafta Anlam",
+    "order_index": 3,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 104,
+    "subject_id": 1,
+    "name": "Söz Sanatları",
+    "order_index": 4,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 105,
+    "subject_id": 1,
+    "name": "Fiilimsiler",
+    "order_index": 5,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 106,
+    "subject_id": 1,
+    "name": "Cümlenin Ögeleri",
+    "order_index": 6,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 107,
+    "subject_id": 1,
+    "name": "Fiilde Çatı",
+    "order_index": 7,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 108,
+    "subject_id": 1,
+    "name": "Cümle Türleri",
+    "order_index": 8,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 109,
+    "subject_id": 1,
+    "name": "Yazım Kuralları",
+    "order_index": 9,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 110,
+    "subject_id": 1,
+    "name": "Noktalama İşaretleri",
+    "order_index": 10,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 111,
+    "subject_id": 1,
+    "name": "Metin Türleri",
+    "order_index": 11,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 112,
+    "subject_id": 1,
+    "name": "Sözel Mantık ve Görsel Okuma",
+    "order_index": 12,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 201,
+    "subject_id": 2,
+    "name": "Bir Kahraman Doğuyor",
+    "order_index": 1,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 202,
+    "subject_id": 2,
+    "name": "Millî Uyanış: Bağımsızlık Yolunda Atılan Adımlar",
+    "order_index": 2,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 203,
+    "subject_id": 2,
+    "name": "Millî Bir Destan: Ya İstiklal Ya Ölüm",
+    "order_index": 3,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 204,
+    "subject_id": 2,
+    "name": "Atatürkçülük ve Çağdaşlaşan Türkiye",
+    "order_index": 4,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 205,
+    "subject_id": 2,
+    "name": "Demokratikleşme Çabaları",
+    "order_index": 5,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 206,
+    "subject_id": 2,
+    "name": "Atatürk Dönemi Türk Dış Politikası",
+    "order_index": 6,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 207,
+    "subject_id": 2,
+    "name": "Atatürk'ün Ölümü ve Sonrası",
+    "order_index": 7,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 301,
+    "subject_id": 3,
+    "name": "Kader İnancı",
+    "order_index": 1,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 302,
+    "subject_id": 3,
+    "name": "Zekât ve Sadaka",
+    "order_index": 2,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 303,
+    "subject_id": 3,
+    "name": "Din ve Hayat",
+    "order_index": 3,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 304,
+    "subject_id": 3,
+    "name": "Hz. Muhammed'in Örnekliği",
+    "order_index": 4,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 305,
+    "subject_id": 3,
+    "name": "Kur'an-ı Kerim ve Özellikleri",
+    "order_index": 5,
+    "question_count": 2,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 401,
+    "subject_id": 4,
+    "name": "Friendship",
+    "order_index": 1,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 402,
+    "subject_id": 4,
+    "name": "Teen Life",
+    "order_index": 2,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 403,
+    "subject_id": 4,
+    "name": "In the Kitchen",
+    "order_index": 3,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 404,
+    "subject_id": 4,
+    "name": "On the Phone",
+    "order_index": 4,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 405,
+    "subject_id": 4,
+    "name": "The Internet",
+    "order_index": 5,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 406,
+    "subject_id": 4,
+    "name": "Adventures",
+    "order_index": 6,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 407,
+    "subject_id": 4,
+    "name": "Tourism",
+    "order_index": 7,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 408,
+    "subject_id": 4,
+    "name": "Chores",
+    "order_index": 8,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 409,
+    "subject_id": 4,
+    "name": "Science",
+    "order_index": 9,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 410,
+    "subject_id": 4,
+    "name": "Natural Forces",
+    "order_index": 10,
+    "question_count": 1,
+    "levels": [
+      "sozel"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 501,
+    "subject_id": 5,
+    "name": "Çarpanlar ve Katlar",
+    "order_index": 1,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 502,
+    "subject_id": 5,
+    "name": "Üslü İfadeler",
+    "order_index": 2,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 503,
+    "subject_id": 5,
+    "name": "Kareköklü İfadeler",
+    "order_index": 3,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 504,
+    "subject_id": 5,
+    "name": "Veri Analizi",
+    "order_index": 4,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 505,
+    "subject_id": 5,
+    "name": "Basit Olayların Olma Olasılığı",
+    "order_index": 5,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 506,
+    "subject_id": 5,
+    "name": "Cebirsel İfadeler ve Özdeşlikler",
+    "order_index": 6,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 507,
+    "subject_id": 5,
+    "name": "Doğrusal Denklemler",
+    "order_index": 7,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 508,
+    "subject_id": 5,
+    "name": "Eşitsizlikler",
+    "order_index": 8,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 509,
+    "subject_id": 5,
+    "name": "Üçgenler",
+    "order_index": 9,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 510,
+    "subject_id": 5,
+    "name": "Eşlik ve Benzerlik",
+    "order_index": 10,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 511,
+    "subject_id": 5,
+    "name": "Dönüşüm Geometrisi",
+    "order_index": 11,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 512,
+    "subject_id": 5,
+    "name": "Geometrik Cisimler",
+    "order_index": 12,
+    "question_count": 2,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 601,
+    "subject_id": 6,
+    "name": "Mevsimler ve İklim",
+    "order_index": 1,
+    "question_count": 3,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 602,
+    "subject_id": 6,
+    "name": "DNA ve Genetik Kod",
+    "order_index": 2,
+    "question_count": 3,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 603,
+    "subject_id": 6,
+    "name": "Basınç",
+    "order_index": 3,
+    "question_count": 3,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 604,
+    "subject_id": 6,
+    "name": "Madde ve Endüstri",
+    "order_index": 4,
+    "question_count": 3,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 605,
+    "subject_id": 6,
+    "name": "Basit Makineler",
+    "order_index": 5,
+    "question_count": 3,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 606,
+    "subject_id": 6,
+    "name": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "order_index": 6,
+    "question_count": 3,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  },
+  {
+    "id": 607,
+    "subject_id": 6,
+    "name": "Elektrik Yükleri ve Elektrik Enerjisi",
+    "order_index": 7,
+    "question_count": 3,
+    "levels": [
+      "sayisal"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "version": 1
+  }
+]
