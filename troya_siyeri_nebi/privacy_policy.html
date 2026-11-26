@@ -52,6 +52,7 @@ footer{margin-top:32px;color:var(--muted);font-size:.9rem;border-top:1px solid v
 <ul>
 <li>Hz. Muhammed'in (s.a.v.) hayatını dönemlere ayrılmış bölümlerle sunar.</li>
 <li>İçerik uygulamanın içindedir; hesap gerektirmez. Sesli okuma cihazın kendi metin okuma motoruyla yapılır.</li>
+<li>İsteğe bağlı okuma planı günlük hatırlatması, cihazın kendi bildirim sistemiyle yerel olarak kurulur; uzaktan (push) bildirim sunucusu kullanılmaz.</li>
 <li>Uygulama Google AdMob reklamları içerir; reklam içeriği "G" derecesiyle sınırlıdır.</li>
 </ul>
 <h2>2. Cihazınızda Saklanan Veriler</h2>
@@ -59,6 +60,7 @@ footer{margin-top:32px;color:var(--muted);font-size:.9rem;border-top:1px solid v
 <ul>
 <li>Okuma ilerlemesi ve favoriler</li>
 <li>Yazı boyutu, sesli okuma ve tema ayarları</li>
+<li>Okuma planı (başlangıç günü, süre) ve hatırlatma saati</li>
 </ul>
 <h2>3. Üçüncü Taraf Hizmetler ve Paylaşılan Veriler</h2>
 <p>Uygulama aşağıdaki hizmetlerle iletişim kurar. Her internet isteğinde olduğu gibi IP adresiniz ilgili sağlayıcıya ulaşır. Bu hizmetlerin veri işlemesi kendi gizlilik politikalarına tabidir.</p>
@@ -86,6 +88,8 @@ footer{margin-top:32px;color:var(--muted);font-size:.9rem;border-top:1px solid v
 <tr><td><code>INTERNET, ACCESS_NETWORK_STATE</code></td><td>Reklamların, sürüm kontrolünün ve çevrimiçi özelliklerin çalışması; bağlantı durumunun kontrolü.</td></tr>
 <tr><td><code>AD_ID, ACCESS_ADSERVICES_* (AD_ID / TOPICS / ATTRIBUTION)</code></td><td>Google AdMob'un reklam kimliğine ve Android Privacy Sandbox reklam API'lerine erişimi (Google Mobile Ads SDK tarafından eklenir).</td></tr>
 <tr><td><code>WAKE_LOCK, FOREGROUND_SERVICE, VIBRATE</code></td><td>Kütüphanelerin (reklam SDK'sı, arka plan görev yöneticisi) otomatik eklediği teknik izinler; kişisel veriye erişim sağlamaz.</td></tr>
+<tr><td><code>POST_NOTIFICATIONS</code></td><td>Hatırlatıcı bildirimlerini göstermek (Android 13+ için sizden izin istenir).</td></tr>
+<tr><td><code>RECEIVE_BOOT_COMPLETED</code></td><td>Okuma planı hatırlatmasının cihaz yeniden başladığında yeniden kurulması.</td></tr>
 </table>
 <p><strong>İstenmeyen izinler:</strong> Konum, kamera, mikrofon, kişiler, SMS, arama kayıtları veya dosyalara geniş erişim izni istenmez.</p>
 <h2>7. Çocukların Gizliliği</h2>
@@ -121,6 +125,7 @@ footer{margin-top:32px;color:var(--muted);font-size:.9rem;border-top:1px solid v
 <ul>
 <li>Presents the life of Prophet Muhammad (pbuh) in chapters by period.</li>
 <li>Content is bundled; no account required. Read-aloud uses the device's own text-to-speech engine.</li>
+<li>The optional reading-plan daily reminder is scheduled locally by the device's own notification system; no remote push server is used.</li>
 <li>Contains Google AdMob ads limited to the "G" content rating.</li>
 </ul>
 <h2>2. Data Stored on Your Device</h2>
@@ -128,6 +133,7 @@ footer{margin-top:32px;color:var(--muted);font-size:.9rem;border-top:1px solid v
 <ul>
 <li>Reading progress and favourites</li>
 <li>Font size, read-aloud and theme settings</li>
+<li>Reading plan (start day, length) and reminder time</li>
 </ul>
 <h2>3. Third-Party Services and Shared Data</h2>
 <p>The App communicates with the following services. As with any internet request, your IP address reaches the provider. Their processing is governed by their own privacy policies.</p>
@@ -155,6 +161,8 @@ footer{margin-top:32px;color:var(--muted);font-size:.9rem;border-top:1px solid v
 <tr><td><code>INTERNET, ACCESS_NETWORK_STATE</code></td><td>Ads, version checks and online features; checking connectivity.</td></tr>
 <tr><td><code>AD_ID, ACCESS_ADSERVICES_* (AD_ID / TOPICS / ATTRIBUTION)</code></td><td>Google AdMob access to the advertising ID and Android Privacy Sandbox ad APIs (added by the Google Mobile Ads SDK).</td></tr>
 <tr><td><code>WAKE_LOCK, FOREGROUND_SERVICE, VIBRATE</code></td><td>Technical permissions added automatically by libraries (ads SDK, background work manager); they grant no access to personal data.</td></tr>
+<tr><td><code>POST_NOTIFICATIONS</code></td><td>Showing reminder notifications (asked from you on Android 13+).</td></tr>
+<tr><td><code>RECEIVE_BOOT_COMPLETED</code></td><td>Restoring the reading-plan reminder after the device restarts.</td></tr>
 </table>
 <p><strong>Not requested:</strong> Location, camera, microphone, contacts, SMS, call log or broad file access permissions are not requested.</p>
 <h2>7. Children's Privacy</h2>
