@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "content_version": 1,
-  "generated_at": "2026-11-13T19:55:35.973721Z",
+  "content_version": 4,
+  "generated_at": "2026-11-27T19:19:12.316022Z",
   "files": {
     "blueprints.json": {
       "sha256": "080aee28425ca9411f47c52f2400f2ea3596535f88f6286729c5fc71a5a9b526",
@@ -12,28 +12,28 @@
       "size": 4427
     },
     "questions/din-kulturu.json": {
-      "sha256": "1216971e3a066e528102ee7189a8db0e07dfaf45040a6a9720935fd5e445bc62",
-      "size": 159919
+      "sha256": "d59de022f8d66aca013051548e103d5b1ed41a6b1abceb3a97415480726f67b4",
+      "size": 927177
     },
     "questions/fen-bilimleri.json": {
-      "sha256": "71734483ec1b2711b42c61ca60d7a887cd736880ebb7f742b9034e50566c0447",
-      "size": 373565
+      "sha256": "6a6ed32a19696410b6726273f22aae71d6ae8573d698dfb9e006bd06df684c9d",
+      "size": 1333127
     },
     "questions/ingilizce.json": {
-      "sha256": "3ac62ee5d5b487e4babc2d6e31d4e0f1e60a5be857c39990266dc528c106ece0",
-      "size": 227180
+      "sha256": "44885076f8cc9a40a5fd15e99d5f3865cfd74c1beebf6fafbb781e80aa535b49",
+      "size": 1748175
     },
     "questions/inkilap-tarihi.json": {
-      "sha256": "adca8f40521b306a714b7bd4ed3bc1bb11e60dbf57b91d142128cceeae5b2590",
-      "size": 240754
+      "sha256": "459956dea089b8821d3f5bff4e8388890b8a5aff228734cc8d6906a6c7a0bf00",
+      "size": 1418365
     },
     "questions/matematik.json": {
-      "sha256": "c732361c69cd0308bc2cc9ba5b83c7272277dac0ab9c83dd7f0d7c03e151f6f4",
-      "size": 807262
+      "sha256": "201692706fa5d9efe40a696b57934f1e9f8f2f6bbfc94573a89f2c45c5bd22db",
+      "size": 1793063
     },
     "questions/turkce.json": {
-      "sha256": "c329eb535cbf53e5a9e679af6a475d8e3403b77d6ba10c65b813127710d40529",
-      "size": 553748
+      "sha256": "21aaac7293b89f429fae1aa78f2a2b39b9bff454fd9dacb784efa202da1acfed",
+      "size": 2037518
     },
     "sinav.json": {
       "sha256": "fc6fd78538dc1e6fbc07238dac310b87363415c27f69f1fcfb29444a89996d94",

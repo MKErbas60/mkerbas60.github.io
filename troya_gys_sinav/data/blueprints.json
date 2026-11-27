@@ -1,0 +1,616 @@
+[
+  {
+    "id": 1,
+    "key": "bp_sube_mudurlugu",
+    "name": "Şube Müdürü Sınavı (GYS 2026)",
+    "description": "Resmî sınav 50 soru, 80 dakika. Uygulamada içeriği bulunan 18 mevzuattan 37 soru sorulur (10 mevzuatın soru bankası henüz yok).",
+    "duration_minutes": 80,
+    "official_question_count": 50,
+    "exam_type": "gys",
+    "order_index": 1,
+    "configs": [
+      {
+        "subject_id": 1,
+        "question_count": 2
+      },
+      {
+        "subject_id": 2,
+        "question_count": 6
+      },
+      {
+        "subject_id": 3,
+        "question_count": 2
+      },
+      {
+        "subject_id": 4,
+        "question_count": 2
+      },
+      {
+        "subject_id": 5,
+        "question_count": 5
+      },
+      {
+        "subject_id": 6,
+        "question_count": 1
+      },
+      {
+        "subject_id": 7,
+        "question_count": 1
+      },
+      {
+        "subject_id": 8,
+        "question_count": 2
+      },
+      {
+        "subject_id": 9,
+        "question_count": 1
+      },
+      {
+        "subject_id": 10,
+        "question_count": 2
+      },
+      {
+        "subject_id": 11,
+        "question_count": 2
+      },
+      {
+        "subject_id": 12,
+        "question_count": 2
+      },
+      {
+        "subject_id": 13,
+        "question_count": 1
+      },
+      {
+        "subject_id": 14,
+        "question_count": 1
+      },
+      {
+        "subject_id": 15,
+        "question_count": 1
+      },
+      {
+        "subject_id": 16,
+        "question_count": 1
+      },
+      {
+        "subject_id": 17,
+        "question_count": 1
+      },
+      {
+        "subject_id": 18,
+        "question_count": 4
+      }
+    ],
+    "missing_subject_keys": [
+      "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "4857_sayili_is_kanunu",
+      "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "6735_sayili_uluslararasi_isgucu_kanunu",
+      "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "4_sayili_bakanliklara_bagli_kurum_ve_kuruluslarin_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "is_sagligi_ve_guvenligi_hizmetleri_yonetmeligi",
+      "uluslararasi_isgucu_kanunu_uygulama_yonetmeligi"
+    ]
+  },
+  {
+    "id": 2,
+    "key": "bp_sef",
+    "name": "Şef Sınavı (GYS 2026)",
+    "description": "Resmî sınav 50 soru, 80 dakika. Uygulamada içeriği bulunan 16 mevzuattan 41 soru sorulur (6 mevzuatın soru bankası henüz yok).",
+    "duration_minutes": 80,
+    "official_question_count": 50,
+    "exam_type": "gys",
+    "order_index": 2,
+    "configs": [
+      {
+        "subject_id": 1,
+        "question_count": 2
+      },
+      {
+        "subject_id": 2,
+        "question_count": 6
+      },
+      {
+        "subject_id": 3,
+        "question_count": 3
+      },
+      {
+        "subject_id": 4,
+        "question_count": 3
+      },
+      {
+        "subject_id": 5,
+        "question_count": 6
+      },
+      {
+        "subject_id": 6,
+        "question_count": 1
+      },
+      {
+        "subject_id": 7,
+        "question_count": 1
+      },
+      {
+        "subject_id": 9,
+        "question_count": 1
+      },
+      {
+        "subject_id": 11,
+        "question_count": 2
+      },
+      {
+        "subject_id": 12,
+        "question_count": 2
+      },
+      {
+        "subject_id": 13,
+        "question_count": 2
+      },
+      {
+        "subject_id": 14,
+        "question_count": 1
+      },
+      {
+        "subject_id": 15,
+        "question_count": 2
+      },
+      {
+        "subject_id": 16,
+        "question_count": 2
+      },
+      {
+        "subject_id": 17,
+        "question_count": 1
+      },
+      {
+        "subject_id": 18,
+        "question_count": 6
+      }
+    ],
+    "missing_subject_keys": [
+      "4688_sayili_kamu_gorevlileri_sendikalari_ve_toplu_sozlesme_kanunu",
+      "6356_sayili_sendikalar_ve_toplu_is_sozlesmesi_kanunu",
+      "6735_sayili_uluslararasi_isgucu_kanunu",
+      "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi"
+    ]
+  },
+  {
+    "id": 3,
+    "key": "bp_memur",
+    "name": "Memur Sınavı (GYS 2026)",
+    "description": "Resmî sınav 50 soru, 80 dakika. Uygulamada içeriği bulunan 13 mevzuattan 43 soru sorulur (3 mevzuatın soru bankası henüz yok).",
+    "duration_minutes": 80,
+    "official_question_count": 50,
+    "exam_type": "gys",
+    "order_index": 3,
+    "configs": [
+      {
+        "subject_id": 1,
+        "question_count": 5
+      },
+      {
+        "subject_id": 2,
+        "question_count": 5
+      },
+      {
+        "subject_id": 3,
+        "question_count": 5
+      },
+      {
+        "subject_id": 4,
+        "question_count": 3
+      },
+      {
+        "subject_id": 5,
+        "question_count": 6
+      },
+      {
+        "subject_id": 6,
+        "question_count": 1
+      },
+      {
+        "subject_id": 7,
+        "question_count": 1
+      },
+      {
+        "subject_id": 9,
+        "question_count": 2
+      },
+      {
+        "subject_id": 13,
+        "question_count": 2
+      },
+      {
+        "subject_id": 15,
+        "question_count": 2
+      },
+      {
+        "subject_id": 16,
+        "question_count": 1
+      },
+      {
+        "subject_id": 17,
+        "question_count": 2
+      },
+      {
+        "subject_id": 18,
+        "question_count": 8
+      }
+    ],
+    "missing_subject_keys": [
+      "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_personeli_gorevde_yukselme_ve_unvan_degisikligi_yonetmeligi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi"
+    ]
+  },
+  {
+    "id": 4,
+    "key": "bp_ud_ortak",
+    "name": "Ünvan Değişikliği – Ortak Konular (ÜD 2026)",
+    "description": "Resmî sınav 20 soru, 80 dakika. Uygulamada içeriği bulunan 11 mevzuattan 18 soru sorulur (2 mevzuatın soru bankası henüz yok).",
+    "duration_minutes": 80,
+    "official_question_count": 20,
+    "exam_type": "gys",
+    "order_index": 4,
+    "configs": [
+      {
+        "subject_id": 1,
+        "question_count": 2
+      },
+      {
+        "subject_id": 2,
+        "question_count": 2
+      },
+      {
+        "subject_id": 3,
+        "question_count": 2
+      },
+      {
+        "subject_id": 4,
+        "question_count": 1
+      },
+      {
+        "subject_id": 5,
+        "question_count": 3
+      },
+      {
+        "subject_id": 9,
+        "question_count": 1
+      },
+      {
+        "subject_id": 12,
+        "question_count": 1
+      },
+      {
+        "subject_id": 15,
+        "question_count": 1
+      },
+      {
+        "subject_id": 16,
+        "question_count": 1
+      },
+      {
+        "subject_id": 17,
+        "question_count": 1
+      },
+      {
+        "subject_id": 18,
+        "question_count": 3
+      }
+    ],
+    "missing_subject_keys": [
+      "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi"
+    ]
+  },
+  {
+    "id": 5,
+    "key": "bp_ud_bilgisayar_muhendisi",
+    "name": "Mühendis (Bilgisayar) Sınavı (ÜD 2026)",
+    "description": "Resmî sınav 50 soru, 80 dakika. Uygulamada içeriği bulunan 11 mevzuattan 18 soru sorulur (3 mevzuatın soru bankası henüz yok).",
+    "duration_minutes": 80,
+    "official_question_count": 50,
+    "exam_type": "gys",
+    "order_index": 5,
+    "configs": [
+      {
+        "subject_id": 1,
+        "question_count": 2
+      },
+      {
+        "subject_id": 2,
+        "question_count": 2
+      },
+      {
+        "subject_id": 3,
+        "question_count": 2
+      },
+      {
+        "subject_id": 4,
+        "question_count": 1
+      },
+      {
+        "subject_id": 5,
+        "question_count": 3
+      },
+      {
+        "subject_id": 9,
+        "question_count": 1
+      },
+      {
+        "subject_id": 12,
+        "question_count": 1
+      },
+      {
+        "subject_id": 15,
+        "question_count": 1
+      },
+      {
+        "subject_id": 16,
+        "question_count": 1
+      },
+      {
+        "subject_id": 17,
+        "question_count": 1
+      },
+      {
+        "subject_id": 18,
+        "question_count": 3
+      }
+    ],
+    "missing_subject_keys": [
+      "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "alan_bilgisi_bilgisayar_muhendisligi"
+    ]
+  },
+  {
+    "id": 6,
+    "key": "bp_ud_endustri_muhendisi",
+    "name": "Mühendis (Endüstri) Sınavı (ÜD 2026)",
+    "description": "Resmî sınav 50 soru, 80 dakika. Uygulamada içeriği bulunan 11 mevzuattan 18 soru sorulur (3 mevzuatın soru bankası henüz yok).",
+    "duration_minutes": 80,
+    "official_question_count": 50,
+    "exam_type": "gys",
+    "order_index": 6,
+    "configs": [
+      {
+        "subject_id": 1,
+        "question_count": 2
+      },
+      {
+        "subject_id": 2,
+        "question_count": 2
+      },
+      {
+        "subject_id": 3,
+        "question_count": 2
+      },
+      {
+        "subject_id": 4,
+        "question_count": 1
+      },
+      {
+        "subject_id": 5,
+        "question_count": 3
+      },
+      {
+        "subject_id": 9,
+        "question_count": 1
+      },
+      {
+        "subject_id": 12,
+        "question_count": 1
+      },
+      {
+        "subject_id": 15,
+        "question_count": 1
+      },
+      {
+        "subject_id": 16,
+        "question_count": 1
+      },
+      {
+        "subject_id": 17,
+        "question_count": 1
+      },
+      {
+        "subject_id": 18,
+        "question_count": 3
+      }
+    ],
+    "missing_subject_keys": [
+      "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "alan_bilgisi_endustri_muhendisligi"
+    ]
+  },
+  {
+    "id": 7,
+    "key": "bp_ud_kimya_muhendisi",
+    "name": "Mühendis (Kimya) Sınavı (ÜD 2026)",
+    "description": "Resmî sınav 50 soru, 80 dakika. Uygulamada içeriği bulunan 11 mevzuattan 18 soru sorulur (3 mevzuatın soru bankası henüz yok).",
+    "duration_minutes": 80,
+    "official_question_count": 50,
+    "exam_type": "gys",
+    "order_index": 7,
+    "configs": [
+      {
+        "subject_id": 1,
+        "question_count": 2
+      },
+      {
+        "subject_id": 2,
+        "question_count": 2
+      },
+      {
+        "subject_id": 3,
+        "question_count": 2
+      },
+      {
+        "subject_id": 4,
+        "question_count": 1
+      },
+      {
+        "subject_id": 5,
+        "question_count": 3
+      },
+      {
+        "subject_id": 9,
+        "question_count": 1
+      },
+      {
+        "subject_id": 12,
+        "question_count": 1
+      },
+      {
+        "subject_id": 15,
+        "question_count": 1
+      },
+      {
+        "subject_id": 16,
+        "question_count": 1
+      },
+      {
+        "subject_id": 17,
+        "question_count": 1
+      },
+      {
+        "subject_id": 18,
+        "question_count": 3
+      }
+    ],
+    "missing_subject_keys": [
+      "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "alan_bilgisi_kimya_muhendisligi"
+    ]
+  },
+  {
+    "id": 8,
+    "key": "bp_ud_ziraat_muhendisi",
+    "name": "Mühendis (Ziraat) Sınavı (ÜD 2026)",
+    "description": "Resmî sınav 50 soru, 80 dakika. Uygulamada içeriği bulunan 11 mevzuattan 18 soru sorulur (3 mevzuatın soru bankası henüz yok).",
+    "duration_minutes": 80,
+    "official_question_count": 50,
+    "exam_type": "gys",
+    "order_index": 8,
+    "configs": [
+      {
+        "subject_id": 1,
+        "question_count": 2
+      },
+      {
+        "subject_id": 2,
+        "question_count": 2
+      },
+      {
+        "subject_id": 3,
+        "question_count": 2
+      },
+      {
+        "subject_id": 4,
+        "question_count": 1
+      },
+      {
+        "subject_id": 5,
+        "question_count": 3
+      },
+      {
+        "subject_id": 9,
+        "question_count": 1
+      },
+      {
+        "subject_id": 12,
+        "question_count": 1
+      },
+      {
+        "subject_id": 15,
+        "question_count": 1
+      },
+      {
+        "subject_id": 16,
+        "question_count": 1
+      },
+      {
+        "subject_id": 17,
+        "question_count": 1
+      },
+      {
+        "subject_id": 18,
+        "question_count": 3
+      }
+    ],
+    "missing_subject_keys": [
+      "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "alan_bilgisi_ziraat_muhendisligi"
+    ]
+  },
+  {
+    "id": 9,
+    "key": "bp_ud_programci",
+    "name": "Programcı Sınavı (ÜD 2026)",
+    "description": "Resmî sınav 50 soru, 80 dakika. Uygulamada içeriği bulunan 11 mevzuattan 18 soru sorulur (3 mevzuatın soru bankası henüz yok).",
+    "duration_minutes": 80,
+    "official_question_count": 50,
+    "exam_type": "gys",
+    "order_index": 9,
+    "configs": [
+      {
+        "subject_id": 1,
+        "question_count": 2
+      },
+      {
+        "subject_id": 2,
+        "question_count": 2
+      },
+      {
+        "subject_id": 3,
+        "question_count": 2
+      },
+      {
+        "subject_id": 4,
+        "question_count": 1
+      },
+      {
+        "subject_id": 5,
+        "question_count": 3
+      },
+      {
+        "subject_id": 9,
+        "question_count": 1
+      },
+      {
+        "subject_id": 12,
+        "question_count": 1
+      },
+      {
+        "subject_id": 15,
+        "question_count": 1
+      },
+      {
+        "subject_id": 16,
+        "question_count": 1
+      },
+      {
+        "subject_id": 17,
+        "question_count": 1
+      },
+      {
+        "subject_id": 18,
+        "question_count": 3
+      }
+    ],
+    "missing_subject_keys": [
+      "1_sayili_cumhurbaskanligi_teskilati_hakkinda_cumhurbaskanligi_kararnamesi",
+      "calisma_ve_sosyal_guvenlik_bakanligi_disiplin_amirleri_yonetmeligi",
+      "alan_bilgisi_programci"
+    ]
+  }
+]

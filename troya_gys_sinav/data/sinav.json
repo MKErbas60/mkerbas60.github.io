@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "key": "anayasa",
+    "name": "Anayasa ve Temel Hukuk",
+    "order_index": 1
+  },
+  {
+    "id": 2,
+    "key": "genel_yetenek",
+    "name": "Genel Yetenek ve Genel Kültür",
+    "order_index": 2
+  },
+  {
+    "id": 3,
+    "key": "genel_mevzuat",
+    "name": "Genel Mevzuat",
+    "order_index": 3
+  },
+  {
+    "id": 4,
+    "key": "is_sosyal_guvenlik",
+    "name": "İş ve Sosyal Güvenlik",
+    "order_index": 4
+  }
+]

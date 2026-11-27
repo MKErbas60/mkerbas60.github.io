@@ -1,0 +1,4230 @@
+[
+  {
+    "id": 1,
+    "subject_id": 1,
+    "name": "Başlangıç",
+    "order_index": 1,
+    "question_count": 0,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__baslangic",
+    "version": 1
+  },
+  {
+    "id": 2,
+    "subject_id": 1,
+    "name": "Genel Esaslar",
+    "order_index": 2,
+    "question_count": 23,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__genel_esaslar",
+    "version": 1
+  },
+  {
+    "id": 3,
+    "subject_id": 1,
+    "name": "Temel Haklar ve Ödevler",
+    "order_index": 3,
+    "question_count": 0,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__temel_haklar_ve_odevler",
+    "version": 1
+  },
+  {
+    "id": 4,
+    "subject_id": 1,
+    "name": "Genel Hükümler",
+    "order_index": 4,
+    "question_count": 3,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": 3,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__temel_haklar_ve_odevler__genel_hukumler",
+    "version": 1
+  },
+  {
+    "id": 5,
+    "subject_id": 1,
+    "name": "Kişinin Hakları ve Ödevleri",
+    "order_index": 5,
+    "question_count": 28,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": 3,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__temel_haklar_ve_odevler__kisinin_haklari_ve_odevleri",
+    "version": 1
+  },
+  {
+    "id": 6,
+    "subject_id": 1,
+    "name": "Sosyal ve Ekonomik Haklar ve Ödevler",
+    "order_index": 6,
+    "question_count": 15,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": 3,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__temel_haklar_ve_odevler__sosyal_ve_ekonomik_haklar_ve_odevler",
+    "version": 1
+  },
+  {
+    "id": 7,
+    "subject_id": 1,
+    "name": "Siyasi Haklar ve Ödevler",
+    "order_index": 7,
+    "question_count": 10,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": 3,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__temel_haklar_ve_odevler__siyasi_haklar_ve_odevler",
+    "version": 1
+  },
+  {
+    "id": 8,
+    "subject_id": 1,
+    "name": "Cumhuriyetin Temel Organları",
+    "order_index": 8,
+    "question_count": 0,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__cumhuriyetin_temel_organlari",
+    "version": 1
+  },
+  {
+    "id": 9,
+    "subject_id": 1,
+    "name": "Yasama",
+    "order_index": 9,
+    "question_count": 45,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": 8,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__cumhuriyetin_temel_organlari__yasama",
+    "version": 1
+  },
+  {
+    "id": 10,
+    "subject_id": 1,
+    "name": "Yürütme",
+    "order_index": 10,
+    "question_count": 44,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": 8,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__cumhuriyetin_temel_organlari__yurutme",
+    "version": 1
+  },
+  {
+    "id": 11,
+    "subject_id": 1,
+    "name": "Yargı",
+    "order_index": 11,
+    "question_count": 40,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": 8,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__cumhuriyetin_temel_organlari__yargi",
+    "version": 1
+  },
+  {
+    "id": 12,
+    "subject_id": 1,
+    "name": "Mali ve Ekonomik Hükümler",
+    "order_index": 12,
+    "question_count": 0,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": null,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__mali_ve_ekonomik_hukumler",
+    "version": 1
+  },
+  {
+    "id": 13,
+    "subject_id": 1,
+    "name": "Mali Hükümler",
+    "order_index": 13,
+    "question_count": 16,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": 12,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__mali_ve_ekonomik_hukumler__mali_hukumler",
+    "version": 1
+  },
+  {
+    "id": 14,
+    "subject_id": 1,
+    "name": "Ekonomik Hükümler",
+    "order_index": 14,
+    "question_count": 0,
+    "levels": [
+      "anayasa"
+    ],
+    "sinav_id": 1,
+    "parent_id": 12,
+    "legacy_key": "turkiye_cumhuriyeti_anayasasi__mali_ve_ekonomik_hukumler__ekonomik_hukumler",
+    "version": 1
+  },
+  {
+    "id": 15,
+    "subject_id": 2,
+    "name": "Halkla İlişkiler ve Protokol Kuralları",
+    "order_index": 1,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__halkla_iliskiler_ve_protokol_kurallari",
+    "version": 1
+  },
+  {
+    "id": 16,
+    "subject_id": 2,
+    "name": "İnsan Hakları ve Demokrasi",
+    "order_index": 2,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": 15,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__halkla_iliskiler_ve_protokol_kurallari__insan_haklari_ve_demokrasi",
+    "version": 1
+  },
+  {
+    "id": 17,
+    "subject_id": 2,
+    "name": "Türk Tarihi",
+    "order_index": 3,
+    "question_count": 4,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": 15,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__halkla_iliskiler_ve_protokol_kurallari__turk_tarihi",
+    "version": 1
+  },
+  {
+    "id": 18,
+    "subject_id": 2,
+    "name": "Türkiye Coğrafyası",
+    "order_index": 4,
+    "question_count": 3,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": 15,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__halkla_iliskiler_ve_protokol_kurallari__turkiye_cografyasi",
+    "version": 1
+  },
+  {
+    "id": 19,
+    "subject_id": 2,
+    "name": "Temel Yurttaşlık Bilgisi",
+    "order_index": 5,
+    "question_count": 2,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": 15,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__halkla_iliskiler_ve_protokol_kurallari__temel_yurttaslik_bilgisi",
+    "version": 1
+  },
+  {
+    "id": 20,
+    "subject_id": 2,
+    "name": "Türkiye ve Dünya Gündemi",
+    "order_index": 6,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": 15,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__halkla_iliskiler_ve_protokol_kurallari__turkiye_ve_dunya_gundemi",
+    "version": 1
+  },
+  {
+    "id": 21,
+    "subject_id": 2,
+    "name": "Bilim ve Teknoloji",
+    "order_index": 7,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": 15,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__halkla_iliskiler_ve_protokol_kurallari__bilim_ve_teknoloji",
+    "version": 1
+  },
+  {
+    "id": 22,
+    "subject_id": 2,
+    "name": "Güncel Gelişmeler",
+    "order_index": 8,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": 15,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__halkla_iliskiler_ve_protokol_kurallari__guncel_gelismeler",
+    "version": 1
+  },
+  {
+    "id": 23,
+    "subject_id": 2,
+    "name": "Kültür Sanat",
+    "order_index": 9,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": 15,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__halkla_iliskiler_ve_protokol_kurallari__kultur_sanat",
+    "version": 1
+  },
+  {
+    "id": 24,
+    "subject_id": 2,
+    "name": "Matematik ve Mantıksal Akıl Yürütme",
+    "order_index": 10,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__matematik_ve_mantiksal_akil_yurutme",
+    "version": 1
+  },
+  {
+    "id": 25,
+    "subject_id": 2,
+    "name": "Savunma Sanayi",
+    "order_index": 11,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "genel_kultur_ve_genel_yetenek__savunma_sanayi",
+    "version": 1
+  },
+  {
+    "id": 26,
+    "subject_id": 3,
+    "name": "Yazım Kuralları",
+    "order_index": 1,
+    "question_count": 14,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "turkce_ve_dil_bilgisi__yazim_kurallari",
+    "version": 1
+  },
+  {
+    "id": 27,
+    "subject_id": 3,
+    "name": "Noktalama İşaretleri",
+    "order_index": 2,
+    "question_count": 10,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "turkce_ve_dil_bilgisi__noktalama_isaretleri",
+    "version": 1
+  },
+  {
+    "id": 28,
+    "subject_id": 3,
+    "name": "Sözcükte ve Cümlede Anlam",
+    "order_index": 3,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "turkce_ve_dil_bilgisi__sozcukte_ve_cumlede_anlam",
+    "version": 1
+  },
+  {
+    "id": 29,
+    "subject_id": 3,
+    "name": "Paragraf Bilgisi",
+    "order_index": 4,
+    "question_count": 12,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "turkce_ve_dil_bilgisi__paragraf_bilgisi",
+    "version": 1
+  },
+  {
+    "id": 30,
+    "subject_id": 3,
+    "name": "Anlam Bozuklukları",
+    "order_index": 5,
+    "question_count": 12,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "turkce_ve_dil_bilgisi__anlam_bozukluklari",
+    "version": 1
+  },
+  {
+    "id": 31,
+    "subject_id": 3,
+    "name": "Ses Bilgisi ve Ekler",
+    "order_index": 6,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "turkce_ve_dil_bilgisi__ses_bilgisi_ve_ekler",
+    "version": 1
+  },
+  {
+    "id": 32,
+    "subject_id": 3,
+    "name": "Cümlenin Ögeleri ve Fiil Çatısı",
+    "order_index": 7,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "turkce_ve_dil_bilgisi__cumlenin_ogeleri_ve_fiil_catisi",
+    "version": 1
+  },
+  {
+    "id": 33,
+    "subject_id": 4,
+    "name": "Trablusgarp Savaşı",
+    "order_index": 1,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__trablusgarp_savasi",
+    "version": 1
+  },
+  {
+    "id": 34,
+    "subject_id": 4,
+    "name": "Balkan Savaşları",
+    "order_index": 2,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__balkan_savaslari",
+    "version": 1
+  },
+  {
+    "id": 35,
+    "subject_id": 4,
+    "name": "Tanzimat ve Islahat Fermanı",
+    "order_index": 3,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__tanzimat_ve_islahat_fermani",
+    "version": 1
+  },
+  {
+    "id": 36,
+    "subject_id": 4,
+    "name": "I. ve II. Meşrutiyet",
+    "order_index": 4,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__birinci_ve_ikinci_mesrutiyet",
+    "version": 1
+  },
+  {
+    "id": 37,
+    "subject_id": 4,
+    "name": "I. Dünya Savaşı",
+    "order_index": 5,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__birinci_dunya_savasi",
+    "version": 1
+  },
+  {
+    "id": 38,
+    "subject_id": 4,
+    "name": "Mondros Ateşkes Antlaşması",
+    "order_index": 6,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__mondros_atevkes_antlasmasi",
+    "version": 1
+  },
+  {
+    "id": 39,
+    "subject_id": 4,
+    "name": "Sevr Antlaşması",
+    "order_index": 7,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__sevr_antlasmasi",
+    "version": 1
+  },
+  {
+    "id": 40,
+    "subject_id": 4,
+    "name": "Lozan Barış Antlaşması",
+    "order_index": 8,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__lozan_baris_antlasmasi",
+    "version": 1
+  },
+  {
+    "id": 41,
+    "subject_id": 4,
+    "name": "Genelge ve Kongreler",
+    "order_index": 9,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__genelge_ve_kongreler",
+    "version": 1
+  },
+  {
+    "id": 42,
+    "subject_id": 4,
+    "name": "Misak-ı Milli",
+    "order_index": 10,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__misak_i_milli",
+    "version": 1
+  },
+  {
+    "id": 43,
+    "subject_id": 4,
+    "name": "Kurtuluş Savaşı",
+    "order_index": 11,
+    "question_count": 168,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__kurtulus_savasi",
+    "version": 1
+  },
+  {
+    "id": 44,
+    "subject_id": 4,
+    "name": "Antlaşmalar ve Diplomasi",
+    "order_index": 12,
+    "question_count": 0,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__antlasmalar_ve_diplomasi",
+    "version": 1
+  },
+  {
+    "id": 45,
+    "subject_id": 4,
+    "name": "Atatürk İlkeleri",
+    "order_index": 13,
+    "question_count": 58,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_ilkeleri",
+    "version": 1
+  },
+  {
+    "id": 46,
+    "subject_id": 4,
+    "name": "Atatürk İnkılapları",
+    "order_index": 14,
+    "question_count": 107,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "sinav_id": 2,
+    "parent_id": null,
+    "legacy_key": "ataturk_ilkeleri_ve_inkilap_tarihi__ataturk_inkilaplari",
+    "version": 1
+  },
+  {
+    "id": 47,
+    "subject_id": 5,
+    "name": "Genel Hükümler",
+    "order_index": 1,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__genel_hukumler",
+    "version": 1
+  },
+  {
+    "id": 48,
+    "subject_id": 5,
+    "name": "Kapsam, Amaç, Temel İlkeler, İstihdam Şekilleri",
+    "order_index": 2,
+    "question_count": 12,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 47,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__genel_hukumler__kapsam_amac_ilkeler_istihdam",
+    "version": 1
+  },
+  {
+    "id": 49,
+    "subject_id": 5,
+    "name": "Ödevler ve Sorumluluklar",
+    "order_index": 3,
+    "question_count": 13,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 47,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__genel_hukumler__odevler_ve_sorumluluklar",
+    "version": 1
+  },
+  {
+    "id": 50,
+    "subject_id": 5,
+    "name": "Genel Haklar",
+    "order_index": 4,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 47,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__genel_hukumler__genel_haklar",
+    "version": 1
+  },
+  {
+    "id": 51,
+    "subject_id": 5,
+    "name": "Yasaklar",
+    "order_index": 5,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 47,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__genel_hukumler__yasaklar",
+    "version": 1
+  },
+  {
+    "id": 52,
+    "subject_id": 5,
+    "name": "Sınıflandırma",
+    "order_index": 6,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__siniflandirma",
+    "version": 1
+  },
+  {
+    "id": 53,
+    "subject_id": 5,
+    "name": "Devlet Memurluğuna Alınma",
+    "order_index": 7,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__devlet_memurluguna_alinma",
+    "version": 1
+  },
+  {
+    "id": 54,
+    "subject_id": 5,
+    "name": "Usul",
+    "order_index": 8,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 53,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__devlet_memurluguna_alinma__usul",
+    "version": 1
+  },
+  {
+    "id": 55,
+    "subject_id": 5,
+    "name": "Şartlar",
+    "order_index": 9,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 53,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__devlet_memurluguna_alinma__sartlar",
+    "version": 1
+  },
+  {
+    "id": 56,
+    "subject_id": 5,
+    "name": "Adaylık",
+    "order_index": 10,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 53,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__devlet_memurluguna_alinma__adaylik",
+    "version": 1
+  },
+  {
+    "id": 57,
+    "subject_id": 5,
+    "name": "Hizmet Şartları ve Şekilleri",
+    "order_index": 11,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri",
+    "version": 1
+  },
+  {
+    "id": 58,
+    "subject_id": 5,
+    "name": "Atanma",
+    "order_index": 12,
+    "question_count": 14,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 57,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri__atanma",
+    "version": 1
+  },
+  {
+    "id": 59,
+    "subject_id": 5,
+    "name": "Devlet Memurluğunda İlerleme ve Yükselmeler",
+    "order_index": 13,
+    "question_count": 9,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 57,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri__ilerleme_ve_yukselmeler",
+    "version": 1
+  },
+  {
+    "id": 60,
+    "subject_id": 5,
+    "name": "Yer Değiştirmeler",
+    "order_index": 14,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 57,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri__yer_degistirmeler",
+    "version": 1
+  },
+  {
+    "id": 61,
+    "subject_id": 5,
+    "name": "Memurluğun Sona Ermesi",
+    "order_index": 15,
+    "question_count": 14,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 57,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri__memurlugun_sona_ermesi",
+    "version": 1
+  },
+  {
+    "id": 62,
+    "subject_id": 5,
+    "name": "Çalışma Saatleri, İzinler",
+    "order_index": 16,
+    "question_count": 50,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 57,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri__calisma_saatleri_izinler",
+    "version": 1
+  },
+  {
+    "id": 63,
+    "subject_id": 5,
+    "name": "Özlük Dosyası",
+    "order_index": 17,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 57,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri__ozluk_dosyasi",
+    "version": 1
+  },
+  {
+    "id": 64,
+    "subject_id": 5,
+    "name": "Disiplin",
+    "order_index": 18,
+    "question_count": 57,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 57,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri__disiplin",
+    "version": 1
+  },
+  {
+    "id": 65,
+    "subject_id": 5,
+    "name": "Görevden Uzaklaştırma",
+    "order_index": 19,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 57,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri__gorevden_uzaklastirma",
+    "version": 1
+  },
+  {
+    "id": 66,
+    "subject_id": 5,
+    "name": "Mali Hükümler",
+    "order_index": 20,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 57,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__hizmet_sartlari_ve_sekilleri__mali_hukumler",
+    "version": 1
+  },
+  {
+    "id": 67,
+    "subject_id": 5,
+    "name": "Sosyal Haklar ve Yardımlar",
+    "order_index": 21,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__sosyal_haklar_ve_yardimlar",
+    "version": 1
+  },
+  {
+    "id": 68,
+    "subject_id": 5,
+    "name": "Devlet Memurlarının Yetiştirilmesi",
+    "order_index": 22,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "657_sayili_devlet_memurlari_kanunu__devlet_memurlarinin_yetistirilmesi",
+    "version": 1
+  },
+  {
+    "id": 69,
+    "subject_id": 6,
+    "name": "Amaç",
+    "order_index": 1,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__amac",
+    "version": 1
+  },
+  {
+    "id": 70,
+    "subject_id": 6,
+    "name": "Kapsam",
+    "order_index": 2,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__kapsam",
+    "version": 1
+  },
+  {
+    "id": 71,
+    "subject_id": 6,
+    "name": "Dilekçe hakkı",
+    "order_index": 3,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekce_hakki",
+    "version": 1
+  },
+  {
+    "id": 72,
+    "subject_id": 6,
+    "name": "Dilekçede bulunması zorunlu şartlar",
+    "order_index": 4,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekcede_bulunmasi_zorunlu_sartlar",
+    "version": 1
+  },
+  {
+    "id": 73,
+    "subject_id": 6,
+    "name": "Gönderilen makamda hata",
+    "order_index": 5,
+    "question_count": 5,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__gonderilen_makamda_hata",
+    "version": 1
+  },
+  {
+    "id": 74,
+    "subject_id": 6,
+    "name": "İncelenemeyecek dilekçeler",
+    "order_index": 6,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__incelenemeyecek_dilekceler",
+    "version": 1
+  },
+  {
+    "id": 75,
+    "subject_id": 6,
+    "name": "Dilekçenin incelenmesi ve sonucunun bildirilmesi",
+    "order_index": 7,
+    "question_count": 12,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__dilekcenin_incelenmesi_ve_sonucunun_bildirilmesi",
+    "version": 1
+  },
+  {
+    "id": 76,
+    "subject_id": 6,
+    "name": "Türkiye Büyük Millet Meclisine yapılan başvuruların incelenmesi",
+    "order_index": 8,
+    "question_count": 46,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun__tbmm_yapilan_basvurularin_incelenmesi",
+    "version": 1
+  },
+  {
+    "id": 77,
+    "subject_id": 7,
+    "name": "Amaç",
+    "order_index": 1,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__amac",
+    "version": 1
+  },
+  {
+    "id": 78,
+    "subject_id": 7,
+    "name": "Kapsam",
+    "order_index": 2,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__kapsam",
+    "version": 1
+  },
+  {
+    "id": 79,
+    "subject_id": 7,
+    "name": "İzin vermeye yetkili merciler",
+    "order_index": 3,
+    "question_count": 13,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__izin_vermeye_yetkili_merciler",
+    "version": 1
+  },
+  {
+    "id": 80,
+    "subject_id": 7,
+    "name": "Olayın yetkili mercie iletilmesi, işleme konulmayacak ihbar ve şikayetler",
+    "order_index": 4,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__olayin_iletilmesi_ve_isleme_konulmayacak_ihbarlar",
+    "version": 1
+  },
+  {
+    "id": 81,
+    "subject_id": 7,
+    "name": "Ön inceleme",
+    "order_index": 5,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__on_inceleme",
+    "version": 1
+  },
+  {
+    "id": 82,
+    "subject_id": 7,
+    "name": "Ön inceleme yapanların yetkisi ve rapor",
+    "order_index": 6,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__on_inceleme_yapanlarin_yetkisi_ve_rapor",
+    "version": 1
+  },
+  {
+    "id": 83,
+    "subject_id": 7,
+    "name": "Süre",
+    "order_index": 7,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__sure",
+    "version": 1
+  },
+  {
+    "id": 84,
+    "subject_id": 7,
+    "name": "Soruşturma izninin kapsamı",
+    "order_index": 8,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__sorusturma_izninin_kapsami",
+    "version": 1
+  },
+  {
+    "id": 85,
+    "subject_id": 7,
+    "name": "İtiraz",
+    "order_index": 9,
+    "question_count": 17,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__itiraz",
+    "version": 1
+  },
+  {
+    "id": 86,
+    "subject_id": 7,
+    "name": "İştirak halinde işlenen suçlar",
+    "order_index": 10,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__istirak_halinde_islenen_suclar",
+    "version": 1
+  },
+  {
+    "id": 87,
+    "subject_id": 7,
+    "name": "Soruşturma izninin gönderileceği merci",
+    "order_index": 11,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__sorusturma_izninin_gonderilecegi_merci",
+    "version": 1
+  },
+  {
+    "id": 88,
+    "subject_id": 7,
+    "name": "Hazırlık soruşturmasını yapacak merciler",
+    "order_index": 12,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__hazirlik_sorusturmasini_yapacak_merciler",
+    "version": 1
+  },
+  {
+    "id": 89,
+    "subject_id": 7,
+    "name": "Yetkili ve görevli mahkeme",
+    "order_index": 13,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__yetkili_ve_gorevli_mahkeme",
+    "version": 1
+  },
+  {
+    "id": 90,
+    "subject_id": 7,
+    "name": "Vekillerin durumu",
+    "order_index": 14,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__vekillerin_durumu",
+    "version": 1
+  },
+  {
+    "id": 91,
+    "subject_id": 7,
+    "name": "Cumhuriyet başsavcılığınca re'sen dava açılacak haller",
+    "order_index": 15,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun__cumhuriyet_bassavciliginca_resen_dava_acilacak_haller",
+    "version": 1
+  },
+  {
+    "id": 92,
+    "subject_id": 8,
+    "name": "Uygulama İlkeleri",
+    "order_index": 1,
+    "question_count": 19,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__uygulama_ilkeleri",
+    "version": 1
+  },
+  {
+    "id": 93,
+    "subject_id": 8,
+    "name": "İhaleye Katılım Kuralları",
+    "order_index": 2,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__ihaleye_katilim_kurallari",
+    "version": 1
+  },
+  {
+    "id": 94,
+    "subject_id": 8,
+    "name": "İhale Usulleri ve Uygulaması",
+    "order_index": 3,
+    "question_count": 18,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__ihale_usulleri_ve_uygulamasi",
+    "version": 1
+  },
+  {
+    "id": 95,
+    "subject_id": 8,
+    "name": "İhalenin ve Ön Yeterliğin İlânı, İhale Dokümanının Verilmesi",
+    "order_index": 4,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__ihalenin_ve_on_yeterligin_ilani_ve_dokuman_verilmesi",
+    "version": 1
+  },
+  {
+    "id": 96,
+    "subject_id": 8,
+    "name": "Tekliflerin ve Başvuruların Sunulması",
+    "order_index": 5,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__tekliflerin_ve_basvurularin_sunulmesi",
+    "version": 1
+  },
+  {
+    "id": 97,
+    "subject_id": 8,
+    "name": "Tekliflerin Değerlendirilmesi",
+    "order_index": 6,
+    "question_count": 14,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__tekliflerin_degerlendirilmesi",
+    "version": 1
+  },
+  {
+    "id": 98,
+    "subject_id": 8,
+    "name": "Danışmanlık Hizmet İhaleleri ile İlgili Özel Hükümler",
+    "order_index": 7,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__danismanlik_hizmet_ihaleleri_ozel_hukumler",
+    "version": 1
+  },
+  {
+    "id": 99,
+    "subject_id": 8,
+    "name": "Kamu İhale Kurumu",
+    "order_index": 8,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__kamu_ihale_kurumu",
+    "version": 1
+  },
+  {
+    "id": 100,
+    "subject_id": 8,
+    "name": "İhalelere Yönelik Başvurular ve İnceleme",
+    "order_index": 9,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__ihalelere_yonelik_basvurular_ve_inceleme",
+    "version": 1
+  },
+  {
+    "id": 101,
+    "subject_id": 8,
+    "name": "Yasaklar ve Ceza Sorumluluğu",
+    "order_index": 10,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__yasaklar_ve_ceza_sorumlulugu",
+    "version": 1
+  },
+  {
+    "id": 102,
+    "subject_id": 8,
+    "name": "Çeşitli Hükümler",
+    "order_index": 11,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__cesitli_hukumler",
+    "version": 1
+  },
+  {
+    "id": 103,
+    "subject_id": 8,
+    "name": "Son Hükümler",
+    "order_index": 12,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4734_sayili_kamu_ihale_kanunu__son_hukumler",
+    "version": 1
+  },
+  {
+    "id": 104,
+    "subject_id": 9,
+    "name": "Amaç, Kapsam ve Tanımlar",
+    "order_index": 1,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__amac_kapsam_ve_tanimlar",
+    "version": 1
+  },
+  {
+    "id": 105,
+    "subject_id": 9,
+    "name": "Bilgi Edinme Hakkı ve Bilgi Verme Yükümlülüğü",
+    "order_index": 2,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__bilgi_edinme_hakki_ve_bilgi_verme_yukumlulugu",
+    "version": 1
+  },
+  {
+    "id": 106,
+    "subject_id": 9,
+    "name": "Bilgi Edinme Başvurusu",
+    "order_index": 3,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__bilgi_edinme_basvurusu",
+    "version": 1
+  },
+  {
+    "id": 107,
+    "subject_id": 9,
+    "name": "Bilgi Edinme Hakkının Sınırları",
+    "order_index": 4,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__bilgi_edinme_hakkinin_sinirlari",
+    "version": 1
+  },
+  {
+    "id": 108,
+    "subject_id": 9,
+    "name": "Çeşitli ve Son Hükümler",
+    "order_index": 5,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__cesitli_ve_son_hukumler",
+    "version": 1
+  },
+  {
+    "id": 109,
+    "subject_id": 9,
+    "name": "Amaç, Kapsam ve Tanımlar",
+    "order_index": 6,
+    "question_count": 13,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__amac_kapsam_ve_tanimlar",
+    "version": 1
+  },
+  {
+    "id": 110,
+    "subject_id": 9,
+    "name": "Bilgi Edinme Hakkı ve Bilgi Verme Yükümlülüğü",
+    "order_index": 7,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__bilgi_edinme_hakki_ve_bilgi_verme_yukumlulugu",
+    "version": 1
+  },
+  {
+    "id": 111,
+    "subject_id": 9,
+    "name": "Bilgi Edinme Başvurusu",
+    "order_index": 8,
+    "question_count": 94,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__bilgi_edinme_basvurusu",
+    "version": 1
+  },
+  {
+    "id": 112,
+    "subject_id": 9,
+    "name": "Bilgi Edinme Hakkının Sınırları",
+    "order_index": 9,
+    "question_count": 59,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__bilgi_edinme_hakkinin_sinirlari",
+    "version": 1
+  },
+  {
+    "id": 113,
+    "subject_id": 9,
+    "name": "Çeşitli ve Son Hükümler",
+    "order_index": 10,
+    "question_count": 19,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "4982_sayili_bilgi_edinme_hakki_kanunu__cesitli_ve_son_hukumler",
+    "version": 1
+  },
+  {
+    "id": 114,
+    "subject_id": 10,
+    "name": "Genel Hükümler",
+    "order_index": 1,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__genel_hukumler",
+    "version": 1
+  },
+  {
+    "id": 115,
+    "subject_id": 10,
+    "name": "Amaç, Kapsam ve Tanımlar",
+    "order_index": 2,
+    "question_count": 33,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 114,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__amac_kapsam_ve_tanimlar",
+    "version": 1
+  },
+  {
+    "id": 116,
+    "subject_id": 10,
+    "name": "Kamu Maliyesi",
+    "order_index": 3,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 114,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__kamu_maliyesi",
+    "version": 1
+  },
+  {
+    "id": 117,
+    "subject_id": 10,
+    "name": "Kamu Kaynağının Kullanılmasının Genel Esasları",
+    "order_index": 4,
+    "question_count": 5,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 114,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__kamu_kaynagi_kullanimi",
+    "version": 1
+  },
+  {
+    "id": 118,
+    "subject_id": 10,
+    "name": "Bakanların ve Üst Yöneticilerin Hesap Verme Sorumluluğu",
+    "order_index": 5,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 114,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__hesap_verme_sorumlulugu",
+    "version": 1
+  },
+  {
+    "id": 119,
+    "subject_id": 10,
+    "name": "Kamu İdare Bütçeleri",
+    "order_index": 6,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__kamu_idare_butceleri",
+    "version": 1
+  },
+  {
+    "id": 120,
+    "subject_id": 10,
+    "name": "Genel Hükümler",
+    "order_index": 7,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 119,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__butce_genel_hukumler",
+    "version": 1
+  },
+  {
+    "id": 121,
+    "subject_id": 10,
+    "name": "Merkezî Yönetim Bütçe Kanunu",
+    "order_index": 8,
+    "question_count": 5,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 119,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__merkezi_yonetim_butce_kanunu",
+    "version": 1
+  },
+  {
+    "id": 122,
+    "subject_id": 10,
+    "name": "Bütçelerin Uygulama Esasları",
+    "order_index": 9,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 119,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__butce_uygulama_esaslari",
+    "version": 1
+  },
+  {
+    "id": 123,
+    "subject_id": 10,
+    "name": "Harcama Yapılması",
+    "order_index": 10,
+    "question_count": 15,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 119,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__harcama_yapilmasi",
+    "version": 1
+  },
+  {
+    "id": 124,
+    "subject_id": 10,
+    "name": "Gelirlerin Toplanması",
+    "order_index": 11,
+    "question_count": 5,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 119,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__gelirlerin_toplanmasi",
+    "version": 1
+  },
+  {
+    "id": 125,
+    "subject_id": 10,
+    "name": "Faaliyet Raporları ve Kesin Hesap",
+    "order_index": 12,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 119,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__faaliyet_raporlari_ve_kesin_hesap",
+    "version": 1
+  },
+  {
+    "id": 126,
+    "subject_id": 10,
+    "name": "Taşınır ve Taşınmazlar",
+    "order_index": 13,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__tasinir_ve_tasinmazlar",
+    "version": 1
+  },
+  {
+    "id": 127,
+    "subject_id": 10,
+    "name": "Kamu Hesapları ve Malî İstatistikler",
+    "order_index": 14,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__kamu_hesaplari_ve_mali_istatistikler",
+    "version": 1
+  },
+  {
+    "id": 128,
+    "subject_id": 10,
+    "name": "Kamu Hesapları",
+    "order_index": 15,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 127,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__kamu_hesaplari",
+    "version": 1
+  },
+  {
+    "id": 129,
+    "subject_id": 10,
+    "name": "Malî İstatistikler",
+    "order_index": 16,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 127,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__mali_istatistikler",
+    "version": 1
+  },
+  {
+    "id": 130,
+    "subject_id": 10,
+    "name": "İç Kontrol Sistemi",
+    "order_index": 17,
+    "question_count": 30,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__ic_kontrol_sistemi",
+    "version": 1
+  },
+  {
+    "id": 131,
+    "subject_id": 10,
+    "name": "Dış Denetim",
+    "order_index": 18,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__dis_denetim",
+    "version": 1
+  },
+  {
+    "id": 132,
+    "subject_id": 10,
+    "name": "Yaptırımlar ve Yetkili Merciler",
+    "order_index": 19,
+    "question_count": 9,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__yaptirimlar_ve_yetkili_merciler",
+    "version": 1
+  },
+  {
+    "id": 133,
+    "subject_id": 10,
+    "name": "Diğer Hükümler",
+    "order_index": 20,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu__diger_hukumler",
+    "version": 1
+  },
+  {
+    "id": 134,
+    "subject_id": 11,
+    "name": "Amaç, Kapsam ve Tanımlar",
+    "order_index": 1,
+    "question_count": 10,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": null,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__amac_kapsam_ve_tanimlar",
+    "version": 1
+  },
+  {
+    "id": 135,
+    "subject_id": 11,
+    "name": "Amaç",
+    "order_index": 2,
+    "question_count": 0,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 134,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__amac_kapsam_ve_tanimlar__amac",
+    "version": 1
+  },
+  {
+    "id": 136,
+    "subject_id": 11,
+    "name": "Kapsam ve istisnalar",
+    "order_index": 3,
+    "question_count": 1,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 134,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__amac_kapsam_ve_tanimlar__kapsam_ve_istisnalar",
+    "version": 1
+  },
+  {
+    "id": 137,
+    "subject_id": 11,
+    "name": "Tanımlar",
+    "order_index": 4,
+    "question_count": 8,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 134,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__amac_kapsam_ve_tanimlar__tanimlar",
+    "version": 1
+  },
+  {
+    "id": 138,
+    "subject_id": 11,
+    "name": "İşveren ile Çalışanların Görev, Yetki ve Yükümlülükleri",
+    "order_index": 5,
+    "question_count": 0,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": null,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_ile_calisanlarin_gorev_yetki_ve_yukumlulukleri",
+    "version": 1
+  },
+  {
+    "id": 139,
+    "subject_id": 11,
+    "name": "İşverenin genel yükümlülüğü",
+    "order_index": 6,
+    "question_count": 19,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__isverenin_genel_yukumlulugu",
+    "version": 1
+  },
+  {
+    "id": 140,
+    "subject_id": 11,
+    "name": "Risklerden korunma ilkeleri",
+    "order_index": 7,
+    "question_count": 5,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__risklerden_korunma_ilkeleri",
+    "version": 1
+  },
+  {
+    "id": 141,
+    "subject_id": 11,
+    "name": "İş sağlığı ve güvenliği hizmetleri",
+    "order_index": 8,
+    "question_count": 19,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__is_sagligi_ve_guvenligi_hizmetleri",
+    "version": 1
+  },
+  {
+    "id": 142,
+    "subject_id": 11,
+    "name": "İş sağlığı ve güvenliği hizmetlerinin desteklenmesi",
+    "order_index": 9,
+    "question_count": 4,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__isg_hizmetlerinin_desteklenmesi",
+    "version": 1
+  },
+  {
+    "id": 143,
+    "subject_id": 11,
+    "name": "İşyeri hekimleri ve iş güvenliği uzmanları",
+    "order_index": 10,
+    "question_count": 20,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__isyeri_hekimleri_ve_uzmanlar",
+    "version": 1
+  },
+  {
+    "id": 144,
+    "subject_id": 11,
+    "name": "Tehlike sınıfının belirlenmesi",
+    "order_index": 11,
+    "question_count": 2,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__tehlike_sinifinin_belirlenmesi",
+    "version": 1
+  },
+  {
+    "id": 145,
+    "subject_id": 11,
+    "name": "Risk değerlendirmesi, kontrol, ölçüm ve araştırma",
+    "order_index": 12,
+    "question_count": 1,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__risk_degerlendirmesi_kontrol_olcum",
+    "version": 1
+  },
+  {
+    "id": 146,
+    "subject_id": 11,
+    "name": "Acil durum planları, yangınla mücadele ve ilk yardım",
+    "order_index": 13,
+    "question_count": 3,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__acil_durum_planlari_yangin_ilkyardim",
+    "version": 1
+  },
+  {
+    "id": 147,
+    "subject_id": 11,
+    "name": "Tahliye",
+    "order_index": 14,
+    "question_count": 1,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__tahliye",
+    "version": 1
+  },
+  {
+    "id": 148,
+    "subject_id": 11,
+    "name": "Çalışmaktan kaçınma hakkı",
+    "order_index": 15,
+    "question_count": 4,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__calismaktan_kacinma_hakki",
+    "version": 1
+  },
+  {
+    "id": 149,
+    "subject_id": 11,
+    "name": "İş kazası ve meslek hastalıklarının kayıt ve bildirimi",
+    "order_index": 16,
+    "question_count": 3,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__is_kazasi_ve_meslek_hastaligi_kayit",
+    "version": 1
+  },
+  {
+    "id": 150,
+    "subject_id": 11,
+    "name": "Sağlık gözetimi",
+    "order_index": 17,
+    "question_count": 7,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__saglik_gozetimi",
+    "version": 1
+  },
+  {
+    "id": 151,
+    "subject_id": 11,
+    "name": "Çalısanların bilgilendirilmesi",
+    "order_index": 18,
+    "question_count": 1,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__calisanlarin_bilgilendirilmesi",
+    "version": 1
+  },
+  {
+    "id": 152,
+    "subject_id": 11,
+    "name": "Çalışanların eğitimi",
+    "order_index": 19,
+    "question_count": 7,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__calisanlarin_egitimi",
+    "version": 1
+  },
+  {
+    "id": 153,
+    "subject_id": 11,
+    "name": "Çalışanların görüşlerinin alınması ve katılımlarının sağlanması",
+    "order_index": 20,
+    "question_count": 3,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__calisanlarin_goruslerinin_alinmasi",
+    "version": 1
+  },
+  {
+    "id": 154,
+    "subject_id": 11,
+    "name": "Çalışanların yükümlülükleri",
+    "order_index": 21,
+    "question_count": 12,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__calisanlarin_yukumlulukleri",
+    "version": 1
+  },
+  {
+    "id": 155,
+    "subject_id": 11,
+    "name": "Çalışan temsilcisi",
+    "order_index": 22,
+    "question_count": 6,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 138,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__isveren_calisan_yukumluluk__calisan_temsilcisi",
+    "version": 1
+  },
+  {
+    "id": 156,
+    "subject_id": 11,
+    "name": "Konsey, Kurul ve Koordinasyon",
+    "order_index": 23,
+    "question_count": 0,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": null,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__konsey_kurul_ve_koordinasyon",
+    "version": 1
+  },
+  {
+    "id": 157,
+    "subject_id": 11,
+    "name": "Ulusal İş Sağlığı ve Güvenliği Konseyi",
+    "order_index": 24,
+    "question_count": 2,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 156,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__konsey_kurul_koordinasyon__ulusal_isg_konseyi",
+    "version": 1
+  },
+  {
+    "id": 158,
+    "subject_id": 11,
+    "name": "İş sağlığı ve güvenliği kurulu",
+    "order_index": 25,
+    "question_count": 4,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 156,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__konsey_kurul_koordinasyon__isg_kurulu",
+    "version": 1
+  },
+  {
+    "id": 159,
+    "subject_id": 11,
+    "name": "İş sağlığı ve güvenliğinin koordinasyonu",
+    "order_index": 26,
+    "question_count": 5,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 156,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__konsey_kurul_koordinasyon__isg_koordinasyonu",
+    "version": 1
+  },
+  {
+    "id": 160,
+    "subject_id": 11,
+    "name": "Teftiş ve İdari Yaptırımlar",
+    "order_index": 27,
+    "question_count": 0,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": null,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__teftis_ve_idari_yaptirimlar",
+    "version": 1
+  },
+  {
+    "id": 161,
+    "subject_id": 11,
+    "name": "Teftiş, inceleme, araştırma, müfettişin yetki, yükümlülük ve sorumluluğu",
+    "order_index": 28,
+    "question_count": 1,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 160,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__teftis_idari_yaptirimlar__mufettis_yetki_sorumluluk",
+    "version": 1
+  },
+  {
+    "id": 162,
+    "subject_id": 11,
+    "name": "Bakanlığın inceleme, kontrol, denetim yetki ve sorumluluğu",
+    "order_index": 29,
+    "question_count": 6,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 160,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__teftis_idari_yaptirimlar__bakanlik_denetim_yetki_sorumluluk",
+    "version": 1
+  },
+  {
+    "id": 163,
+    "subject_id": 11,
+    "name": "İşin durdurulması",
+    "order_index": 30,
+    "question_count": 11,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 160,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__teftis_idari_yaptirimlar__isin_durdurulmasi",
+    "version": 1
+  },
+  {
+    "id": 164,
+    "subject_id": 11,
+    "name": "Ölümlü iş kazası sebebiyle kamu ihalesinden yasaklama",
+    "order_index": 31,
+    "question_count": 2,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 160,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__teftis_idari_yaptirimlar__kamu_ihalesinden_yasaklama",
+    "version": 1
+  },
+  {
+    "id": 165,
+    "subject_id": 11,
+    "name": "İdari para cezaları ve uygulanması",
+    "order_index": 32,
+    "question_count": 19,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 160,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__teftis_idari_yaptirimlar__idari_para_cezalari",
+    "version": 1
+  },
+  {
+    "id": 166,
+    "subject_id": 11,
+    "name": "Çeşitli ve Geçici Hükümler",
+    "order_index": 33,
+    "question_count": 4,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": null,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__cesitli_ve_gecici_hukumler",
+    "version": 1
+  },
+  {
+    "id": 167,
+    "subject_id": 11,
+    "name": "Bağımlılık yapan maddeleri kullanma yasağı",
+    "order_index": 34,
+    "question_count": 3,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 166,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__cesitli_gecici_hukumler__bagimlilik_yapan_madde_yasagiy",
+    "version": 1
+  },
+  {
+    "id": 168,
+    "subject_id": 11,
+    "name": "Güvenlik raporu veya büyük kaza önleme politika belgesi",
+    "order_index": 35,
+    "question_count": 2,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 166,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__cesitli_gecici_hukumler__guvenlik_raporu_buyuk_kaza_belgesi",
+    "version": 1
+  },
+  {
+    "id": 169,
+    "subject_id": 11,
+    "name": "İş sağlığı ve güvenliği ile ilgili çeşitli yönetmelikler",
+    "order_index": 36,
+    "question_count": 4,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 166,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__cesitli_gecici_hukumler__isg_cesitli_yonetmelikler",
+    "version": 1
+  },
+  {
+    "id": 170,
+    "subject_id": 11,
+    "name": "Belgelendirme, ihtar, askı ve iptaller",
+    "order_index": 37,
+    "question_count": 1,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "sinav_id": 4,
+    "parent_id": 166,
+    "legacy_key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu__cesitli_gecici_hukumler__belgelendirme_ihtar_iptaller",
+    "version": 1
+  },
+  {
+    "id": 171,
+    "subject_id": 12,
+    "name": "Amaç, Kapsam ve Tanımlar",
+    "order_index": 1,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__amac_kapsam_ve_tanimlar",
+    "version": 1
+  },
+  {
+    "id": 172,
+    "subject_id": 12,
+    "name": "Kişisel Verilerin İşlenmesi",
+    "order_index": 2,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kisisel_verilerin_islenmesi",
+    "version": 1
+  },
+  {
+    "id": 173,
+    "subject_id": 12,
+    "name": "Genel ilkeler",
+    "order_index": 3,
+    "question_count": 5,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 172,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kisisel_verilerin_islenmesi__genel_ilkeler",
+    "version": 1
+  },
+  {
+    "id": 174,
+    "subject_id": 12,
+    "name": "Kişisel verilerin işlenme şartları",
+    "order_index": 4,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 172,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kisisel_verilerin_islenmesi__islenme_sartlari",
+    "version": 1
+  },
+  {
+    "id": 175,
+    "subject_id": 12,
+    "name": "Özel nitelikli kişisel verilerin işlenme şartları",
+    "order_index": 5,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 172,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kisisel_verilerin_islenmesi__ozel_nitelikli_islenme_sartlari",
+    "version": 1
+  },
+  {
+    "id": 176,
+    "subject_id": 12,
+    "name": "Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi",
+    "order_index": 6,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 172,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kisisel_verilerin_islenmesi__silinme_yok_edilme_anonim",
+    "version": 1
+  },
+  {
+    "id": 177,
+    "subject_id": 12,
+    "name": "Kişisel verilerin aktarılması",
+    "order_index": 7,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 172,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kisisel_verilerin_islenmesi__aktarilmasi",
+    "version": 1
+  },
+  {
+    "id": 178,
+    "subject_id": 12,
+    "name": "Kişisel verilerin yurt dışına aktarılması",
+    "order_index": 8,
+    "question_count": 13,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 172,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kisisel_verilerin_islenmesi__yurt_disina_aktarilmasi",
+    "version": 1
+  },
+  {
+    "id": 179,
+    "subject_id": 12,
+    "name": "Haklar ve Yükümlülükler",
+    "order_index": 9,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__haklar_ve_yukumlulukler",
+    "version": 1
+  },
+  {
+    "id": 180,
+    "subject_id": 12,
+    "name": "Veri sorumlusunun aydınlatma yükümlülüğü",
+    "order_index": 10,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 179,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__haklar_ve_yukumlulukler__aydinlatma_yukumlulugu",
+    "version": 1
+  },
+  {
+    "id": 181,
+    "subject_id": 12,
+    "name": "İlgili kişinin hakları",
+    "order_index": 11,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 179,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__haklar_ve_yukumlulukler__ilgili_kisinin_haklari",
+    "version": 1
+  },
+  {
+    "id": 182,
+    "subject_id": 12,
+    "name": "Veri güvenliğine ilişkin yükümlülükler",
+    "order_index": 12,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 179,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__haklar_ve_yukumlulukler__veri_guvenligi_yukumlulukleri",
+    "version": 1
+  },
+  {
+    "id": 183,
+    "subject_id": 12,
+    "name": "Başvuru, Şikâyet ve Veri Sorumluları Sicili",
+    "order_index": 13,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__basvuru_sikayet_ve_sicil",
+    "version": 1
+  },
+  {
+    "id": 184,
+    "subject_id": 12,
+    "name": "Veri sorumlusuna başvuru",
+    "order_index": 14,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 183,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__basvuru_sikayet_ve_sicil__veri_sorumlusuna_basvuru",
+    "version": 1
+  },
+  {
+    "id": 185,
+    "subject_id": 12,
+    "name": "Kurula şikâyet",
+    "order_index": 15,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 183,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__basvuru_sikayet_ve_sicil__kurula_sikayet",
+    "version": 1
+  },
+  {
+    "id": 186,
+    "subject_id": 12,
+    "name": "Şikâyet üzerine veya resen incelemenin usul ve esasları",
+    "order_index": 16,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 183,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__basvuru_sikayet_ve_sicil__inceleme_usul_ve_esaslari",
+    "version": 1
+  },
+  {
+    "id": 187,
+    "subject_id": 12,
+    "name": "Veri Sorumluları Sicili",
+    "order_index": 17,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 183,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__basvuru_sikayet_ve_sicil__veri_sorumlulari_sicili",
+    "version": 1
+  },
+  {
+    "id": 188,
+    "subject_id": 12,
+    "name": "Suçlar ve Kabahatler",
+    "order_index": 18,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__suclar_ve_kabahatler",
+    "version": 1
+  },
+  {
+    "id": 189,
+    "subject_id": 12,
+    "name": "Suçlar",
+    "order_index": 19,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 188,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__suclar_ve_kabahatler__suclar",
+    "version": 1
+  },
+  {
+    "id": 190,
+    "subject_id": 12,
+    "name": "Kabahatler",
+    "order_index": 20,
+    "question_count": 5,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 188,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__suclar_ve_kabahatler__kabahatler",
+    "version": 1
+  },
+  {
+    "id": 191,
+    "subject_id": 12,
+    "name": "Kişisel Verileri Koruma Kurumu ve Teşkilat",
+    "order_index": 21,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_ve_teskilat",
+    "version": 1
+  },
+  {
+    "id": 192,
+    "subject_id": 12,
+    "name": "Kişisel Verileri Koruma Kurumu",
+    "order_index": 22,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 191,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_ve_teskilat__kurum",
+    "version": 1
+  },
+  {
+    "id": 193,
+    "subject_id": 12,
+    "name": "Kurumun görevleri",
+    "order_index": 23,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 191,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_ve_teskilat__kurumun_gorevleri",
+    "version": 1
+  },
+  {
+    "id": 194,
+    "subject_id": 12,
+    "name": "Kişisel Verileri Koruma Kurulu",
+    "order_index": 24,
+    "question_count": 30,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 191,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_ve_teskilat__kurul",
+    "version": 1
+  },
+  {
+    "id": 195,
+    "subject_id": 12,
+    "name": "Kurulun görev ve yetkileri",
+    "order_index": 25,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 191,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_ve_teskilat__kurulun_gorev_ve_yetkileri",
+    "version": 1
+  },
+  {
+    "id": 196,
+    "subject_id": 12,
+    "name": "Kurulun çalışma esasları",
+    "order_index": 26,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 191,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_ve_teskilat__kurulun_calisma_esaslari",
+    "version": 1
+  },
+  {
+    "id": 197,
+    "subject_id": 12,
+    "name": "Başkan",
+    "order_index": 27,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 191,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_ve_teskilat__baskan",
+    "version": 1
+  },
+  {
+    "id": 198,
+    "subject_id": 12,
+    "name": "Başkanlığın oluşumu ve görevleri",
+    "order_index": 28,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 191,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_ve_teskilat__baskanligin_olusumu_ve_gorevleri",
+    "version": 1
+  },
+  {
+    "id": 199,
+    "subject_id": 12,
+    "name": "Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları",
+    "order_index": 29,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 191,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__kurum_ve_teskilat__uzman_ve_yardimcilari",
+    "version": 1
+  },
+  {
+    "id": 200,
+    "subject_id": 12,
+    "name": "Çeşitli Hükümler",
+    "order_index": 30,
+    "question_count": 12,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__cesitli_hukumler",
+    "version": 1
+  },
+  {
+    "id": 201,
+    "subject_id": 12,
+    "name": "İstisnalar",
+    "order_index": 31,
+    "question_count": 17,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 200,
+    "legacy_key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu__cesitli_hukumler__istisnalar",
+    "version": 1
+  },
+  {
+    "id": 202,
+    "subject_id": 13,
+    "name": "Umumi Hükümler",
+    "order_index": 1,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "7201_sayili_tebligat_kanunu__umumi_hukumler",
+    "version": 1
+  },
+  {
+    "id": 203,
+    "subject_id": 13,
+    "name": "Kanunun Şümulü",
+    "order_index": 2,
+    "question_count": 26,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 202,
+    "legacy_key": "7201_sayili_tebligat_kanunu__umumi_hukumler__kanunun_sumulu",
+    "version": 1
+  },
+  {
+    "id": 204,
+    "subject_id": 13,
+    "name": "Tebligat Esasları",
+    "order_index": 3,
+    "question_count": 40,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 202,
+    "legacy_key": "7201_sayili_tebligat_kanunu__umumi_hukumler__tebligat_esaslari",
+    "version": 1
+  },
+  {
+    "id": 205,
+    "subject_id": 13,
+    "name": "Hususi Hükümler",
+    "order_index": 4,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "7201_sayili_tebligat_kanunu__hususi_hukumler",
+    "version": 1
+  },
+  {
+    "id": 206,
+    "subject_id": 13,
+    "name": "Kazai tebligat",
+    "order_index": 5,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 205,
+    "legacy_key": "7201_sayili_tebligat_kanunu__hususi_hukumler__kazai_tebligat",
+    "version": 1
+  },
+  {
+    "id": 207,
+    "subject_id": 13,
+    "name": "İdari Tebligat",
+    "order_index": 6,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 205,
+    "legacy_key": "7201_sayili_tebligat_kanunu__hususi_hukumler__idari_tebligat",
+    "version": 1
+  },
+  {
+    "id": 208,
+    "subject_id": 13,
+    "name": "Mali Tebligat",
+    "order_index": 7,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 205,
+    "legacy_key": "7201_sayili_tebligat_kanunu__hususi_hukumler__mali_tebligat",
+    "version": 1
+  },
+  {
+    "id": 209,
+    "subject_id": 13,
+    "name": "Cezai Hükümler",
+    "order_index": 8,
+    "question_count": 18,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "7201_sayili_tebligat_kanunu__cezai_hukumler",
+    "version": 1
+  },
+  {
+    "id": 210,
+    "subject_id": 13,
+    "name": "Müteferrik Hükümler",
+    "order_index": 9,
+    "question_count": 92,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "7201_sayili_tebligat_kanunu__muteferrik_hukumler",
+    "version": 1
+  },
+  {
+    "id": 211,
+    "subject_id": 14,
+    "name": "Amaç, Kapsam ve Tanımlar",
+    "order_index": 1,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__amac_kapsam_ve_tanimlar",
+    "version": 1
+  },
+  {
+    "id": 212,
+    "subject_id": 14,
+    "name": "Amaç ve kapsam",
+    "order_index": 2,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 211,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__amac_kapsam_ve_tanimlar__amac_ve_kapsam",
+    "version": 1
+  },
+  {
+    "id": 213,
+    "subject_id": 14,
+    "name": "Tanımlar",
+    "order_index": 3,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 211,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__amac_kapsam_ve_tanimlar__tanimlar",
+    "version": 1
+  },
+  {
+    "id": 214,
+    "subject_id": 14,
+    "name": "Güvenlik Soruşturması ve Arşiv Araştırması",
+    "order_index": 4,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_sorusturmasi_ve_arsiv_arastirmasi",
+    "version": 1
+  },
+  {
+    "id": 215,
+    "subject_id": 14,
+    "name": "Hakkında güvenlik soruşturması ve arşiv araştırması yapılacaklar",
+    "order_index": 5,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 214,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_arsiv__yapilacaklar",
+    "version": 1
+  },
+  {
+    "id": 216,
+    "subject_id": 14,
+    "name": "Arşiv araştırması",
+    "order_index": 6,
+    "question_count": 18,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 214,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_arsiv__arsiv_arastirmasi",
+    "version": 1
+  },
+  {
+    "id": 217,
+    "subject_id": 14,
+    "name": "Güvenlik soruşturması",
+    "order_index": 7,
+    "question_count": 21,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 214,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_arsiv__guvenlik_sorusturmasi",
+    "version": 1
+  },
+  {
+    "id": 218,
+    "subject_id": 14,
+    "name": "Güvenlik soruşturması ve arşiv araştırmasını yapacak birimler",
+    "order_index": 8,
+    "question_count": 22,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 214,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_arsiv__yapacak_birimler",
+    "version": 1
+  },
+  {
+    "id": 219,
+    "subject_id": 14,
+    "name": "Değerlendirme Komisyonu",
+    "order_index": 9,
+    "question_count": 45,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 214,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__guvenlik_arsiv__degerlendirme_komisyonu",
+    "version": 1
+  },
+  {
+    "id": 220,
+    "subject_id": 14,
+    "name": "Kişisel Verilerin Korunması",
+    "order_index": 10,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__kisisel_verilerin_korunmasi",
+    "version": 1
+  },
+  {
+    "id": 221,
+    "subject_id": 14,
+    "name": "Kişisel verilerin korunmasına ilişkin temel ilkeler",
+    "order_index": 11,
+    "question_count": 23,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 220,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__kisisel_veriler__temel_ilkeler",
+    "version": 1
+  },
+  {
+    "id": 222,
+    "subject_id": 14,
+    "name": "Kişisel veri güvenliği ve gizlilik",
+    "order_index": 12,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 220,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__kisisel_veriler__guvenlik_ve_gizlilik",
+    "version": 1
+  },
+  {
+    "id": 223,
+    "subject_id": 14,
+    "name": "Kişisel verilerin silinmesi ve yok edilmesi",
+    "order_index": 13,
+    "question_count": 19,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 220,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__kisisel_veriler__silinme_ve_yok_edilme",
+    "version": 1
+  },
+  {
+    "id": 224,
+    "subject_id": 14,
+    "name": "Çeşitli Hükümler",
+    "order_index": 14,
+    "question_count": 15,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__cesitli_hukumler",
+    "version": 1
+  },
+  {
+    "id": 225,
+    "subject_id": 14,
+    "name": "Cezai hükümler",
+    "order_index": 15,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 224,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__cesitli_hukumler__cezai_hukumler",
+    "version": 1
+  },
+  {
+    "id": 226,
+    "subject_id": 14,
+    "name": "Yönetmelik",
+    "order_index": 16,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 224,
+    "legacy_key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu__cesitli_hukumler__yonetmelik",
+    "version": 1
+  },
+  {
+    "id": 227,
+    "subject_id": 15,
+    "name": "Genel Hükümler",
+    "order_index": 1,
+    "question_count": 13,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik__genel_hukumler",
+    "version": 1
+  },
+  {
+    "id": 228,
+    "subject_id": 15,
+    "name": "Şikayet",
+    "order_index": 2,
+    "question_count": 66,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik__sikayet",
+    "version": 1
+  },
+  {
+    "id": 229,
+    "subject_id": 15,
+    "name": "Müracaat ve İhbar",
+    "order_index": 3,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik__muracaat_ve_ihbar",
+    "version": 1
+  },
+  {
+    "id": 230,
+    "subject_id": 15,
+    "name": "Diğer Hükümler",
+    "order_index": 4,
+    "question_count": 10,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik__diger_hukumler",
+    "version": 1
+  },
+  {
+    "id": 231,
+    "subject_id": 16,
+    "name": "Amaç, Kapsam, Dayanak ve Tanımlar",
+    "order_index": 1,
+    "question_count": 16,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__amac_kapsam_dayanak_tanimlar",
+    "version": 1
+  },
+  {
+    "id": 232,
+    "subject_id": 16,
+    "name": "Etik Davranış İlkeleri",
+    "order_index": 2,
+    "question_count": 118,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__etik_davranis_ilkeleri",
+    "version": 1
+  },
+  {
+    "id": 233,
+    "subject_id": 16,
+    "name": "Etik Davranış İlkelerinin Uygulaması ve Etik Kültürün Yerleştirilmesi",
+    "order_index": 3,
+    "question_count": 15,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__uygulama_ve_etik_kultur",
+    "version": 1
+  },
+  {
+    "id": 234,
+    "subject_id": 16,
+    "name": "Başvuru ve Resen İnceleme Usul ve Esasları",
+    "order_index": 4,
+    "question_count": 51,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__basvuru_ve_resen_inceleme_esaslari",
+    "version": 1
+  },
+  {
+    "id": 235,
+    "subject_id": 16,
+    "name": "Kamu Görevlileri Etik Sözleşmesi",
+    "order_index": 5,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik__kamu_gorevlileri_etik_sozlesmesi",
+    "version": 1
+  },
+  {
+    "id": 236,
+    "subject_id": 17,
+    "name": "Genel Hükümler",
+    "order_index": 1,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__genel_hukumler",
+    "version": 1
+  },
+  {
+    "id": 237,
+    "subject_id": 17,
+    "name": "Mal Bildiriminde Bulunacaklar ve Verileceği Merciler",
+    "order_index": 2,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__bulunacaklar_ve_merciler",
+    "version": 1
+  },
+  {
+    "id": 238,
+    "subject_id": 17,
+    "name": "Mal bildiriminde bulunacaklar",
+    "order_index": 3,
+    "question_count": 9,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 237,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__bulunacaklar_ve_merciler__bulunacaklar",
+    "version": 1
+  },
+  {
+    "id": 239,
+    "subject_id": 17,
+    "name": "Eşlerin mal bildirimi",
+    "order_index": 4,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 237,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__bulunacaklar_ve_merciler__eslerin_bildirimi",
+    "version": 1
+  },
+  {
+    "id": 240,
+    "subject_id": 17,
+    "name": "Birden fazla mal bildirimi",
+    "order_index": 5,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 237,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__bulunacaklar_ve_merciler__birden_fazla_bildirim",
+    "version": 1
+  },
+  {
+    "id": 241,
+    "subject_id": 17,
+    "name": "Mal bildiriminin verileceği merciler",
+    "order_index": 6,
+    "question_count": 29,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 237,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__bulunacaklar_ve_merciler__verilecegi_merciler",
+    "version": 1
+  },
+  {
+    "id": 242,
+    "subject_id": 17,
+    "name": "Sorumluluk",
+    "order_index": 7,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 237,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__bulunacaklar_ve_merciler__sorumluluk",
+    "version": 1
+  },
+  {
+    "id": 243,
+    "subject_id": 17,
+    "name": "Mal Bildirimleri",
+    "order_index": 8,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildirimleri",
+    "version": 1
+  },
+  {
+    "id": 244,
+    "subject_id": 17,
+    "name": "Mal bildiriminin konusu",
+    "order_index": 9,
+    "question_count": 28,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 243,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildirimleri__konusu",
+    "version": 1
+  },
+  {
+    "id": 245,
+    "subject_id": 17,
+    "name": "Mal bildiriminin verilme zamanı",
+    "order_index": 10,
+    "question_count": 19,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 243,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildirimleri__verilme_zamani",
+    "version": 1
+  },
+  {
+    "id": 246,
+    "subject_id": 17,
+    "name": "Ek mal bildirimi",
+    "order_index": 11,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 243,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildirimleri__ek_bildirim",
+    "version": 1
+  },
+  {
+    "id": 247,
+    "subject_id": 17,
+    "name": "Mal bildiriminin yenilenmesi",
+    "order_index": 12,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 243,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildirimleri__yenilenmesi",
+    "version": 1
+  },
+  {
+    "id": 248,
+    "subject_id": 17,
+    "name": "Mal bildirim formunun doldurulması",
+    "order_index": 13,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 243,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__mal_bildirimleri__formun_doldurulmasi",
+    "version": 1
+  },
+  {
+    "id": 249,
+    "subject_id": 17,
+    "name": "Hediye ve Hibeler",
+    "order_index": 14,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__hediye_ve_hibeler",
+    "version": 1
+  },
+  {
+    "id": 250,
+    "subject_id": 17,
+    "name": "Hediye ve hibe",
+    "order_index": 15,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 249,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__hediye_ve_hibeler__hediye_ve_hibe",
+    "version": 1
+  },
+  {
+    "id": 251,
+    "subject_id": 17,
+    "name": "Hediye ve hibe eşyalarda yapılacak işlem",
+    "order_index": 16,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 249,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__hediye_ve_hibeler__esyalarda_yapilacak_islem",
+    "version": 1
+  },
+  {
+    "id": 252,
+    "subject_id": 17,
+    "name": "Çeşitli Hükümler",
+    "order_index": 17,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler",
+    "version": 1
+  },
+  {
+    "id": 253,
+    "subject_id": 17,
+    "name": "Mal bildirimlerinin gizliliği",
+    "order_index": 18,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 252,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler__gizlilik",
+    "version": 1
+  },
+  {
+    "id": 254,
+    "subject_id": 17,
+    "name": "Bilgi verme zorunluluğu",
+    "order_index": 19,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 252,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler__bilgi_verme_zorunlulugu",
+    "version": 1
+  },
+  {
+    "id": 255,
+    "subject_id": 17,
+    "name": "Süresinde mal bildiriminde bulunmama",
+    "order_index": 20,
+    "question_count": 13,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 252,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler__suresinde_bulunmama",
+    "version": 1
+  },
+  {
+    "id": 256,
+    "subject_id": 17,
+    "name": "Mal bildirimlerinin karşılaştırılması",
+    "order_index": 21,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 252,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler__karsilastirilmasi",
+    "version": 1
+  },
+  {
+    "id": 257,
+    "subject_id": 17,
+    "name": "Hukuki dayanak",
+    "order_index": 22,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 252,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler__hukuki_dayanak",
+    "version": 1
+  },
+  {
+    "id": 258,
+    "subject_id": 17,
+    "name": "Yürürlük",
+    "order_index": 23,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 252,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler__yururluk",
+    "version": 1
+  },
+  {
+    "id": 259,
+    "subject_id": 17,
+    "name": "Yürütme",
+    "order_index": 24,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 252,
+    "legacy_key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik__cesitli_hukumler__yurutme",
+    "version": 1
+  },
+  {
+    "id": 260,
+    "subject_id": 18,
+    "name": "Genel Hükümler",
+    "order_index": 1,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__genel_hukumler",
+    "version": 1
+  },
+  {
+    "id": 261,
+    "subject_id": 18,
+    "name": "Amaç ve kapsam",
+    "order_index": 2,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 260,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__genel_hukumler__amac_ve_kapsam",
+    "version": 1
+  },
+  {
+    "id": 262,
+    "subject_id": 18,
+    "name": "Dayanak",
+    "order_index": 3,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 260,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__genel_hukumler__dayanak",
+    "version": 1
+  },
+  {
+    "id": 263,
+    "subject_id": 18,
+    "name": "Tanımlar ve kısaltmalar",
+    "order_index": 4,
+    "question_count": 12,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 260,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__genel_hukumler__tanimlar_ve_kisaltmalar",
+    "version": 1
+  },
+  {
+    "id": 264,
+    "subject_id": 18,
+    "name": "Belgenin Özellikleri",
+    "order_index": 5,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_ozellikleri",
+    "version": 1
+  },
+  {
+    "id": 265,
+    "subject_id": 18,
+    "name": "Resmî yazışma ortamları",
+    "order_index": 6,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 264,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_ozellikleri__resmi_yazisma_ortamlari",
+    "version": 1
+  },
+  {
+    "id": 266,
+    "subject_id": 18,
+    "name": "Nüsha sayısı",
+    "order_index": 7,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 264,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_ozellikleri__nusha_sayisi",
+    "version": 1
+  },
+  {
+    "id": 267,
+    "subject_id": 18,
+    "name": "Belgenin şeklî özellikleri",
+    "order_index": 8,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 264,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_ozellikleri__sekli_ozellikler",
+    "version": 1
+  },
+  {
+    "id": 268,
+    "subject_id": 18,
+    "name": "Yazı tipi ve harf büyüklüğü",
+    "order_index": 9,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 264,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_ozellikleri__yazi_tipi_ve_harf_buyuklugu",
+    "version": 1
+  },
+  {
+    "id": 269,
+    "subject_id": 18,
+    "name": "Belgenin Bölümleri",
+    "order_index": 10,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri",
+    "version": 1
+  },
+  {
+    "id": 270,
+    "subject_id": 18,
+    "name": "Yazi alanı",
+    "order_index": 11,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__yazi_alani",
+    "version": 1
+  },
+  {
+    "id": 271,
+    "subject_id": 18,
+    "name": "Kurumsal logo",
+    "order_index": 12,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__kurumsal_logo",
+    "version": 1
+  },
+  {
+    "id": 272,
+    "subject_id": 18,
+    "name": "Başlık",
+    "order_index": 13,
+    "question_count": 5,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__baslik",
+    "version": 1
+  },
+  {
+    "id": 273,
+    "subject_id": 18,
+    "name": "Sayı",
+    "order_index": 14,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__sayi",
+    "version": 1
+  },
+  {
+    "id": 274,
+    "subject_id": 18,
+    "name": "Tarih",
+    "order_index": 15,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__tarih",
+    "version": 1
+  },
+  {
+    "id": 275,
+    "subject_id": 18,
+    "name": "Konu",
+    "order_index": 16,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__konu",
+    "version": 1
+  },
+  {
+    "id": 276,
+    "subject_id": 18,
+    "name": "Muhatap",
+    "order_index": 17,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__muhatap",
+    "version": 1
+  },
+  {
+    "id": 277,
+    "subject_id": 18,
+    "name": "İlgi",
+    "order_index": 18,
+    "question_count": 5,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__ilgi",
+    "version": 1
+  },
+  {
+    "id": 278,
+    "subject_id": 18,
+    "name": "Metin",
+    "order_index": 19,
+    "question_count": 19,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__metin",
+    "version": 1
+  },
+  {
+    "id": 279,
+    "subject_id": 18,
+    "name": "İmza",
+    "order_index": 20,
+    "question_count": 11,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__imza",
+    "version": 1
+  },
+  {
+    "id": 280,
+    "subject_id": 18,
+    "name": "Ek",
+    "order_index": 21,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__ek",
+    "version": 1
+  },
+  {
+    "id": 281,
+    "subject_id": 18,
+    "name": "Dağıtım",
+    "order_index": 22,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__dagitim",
+    "version": 1
+  },
+  {
+    "id": 282,
+    "subject_id": 18,
+    "name": "Olur",
+    "order_index": 23,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__olur",
+    "version": 1
+  },
+  {
+    "id": 283,
+    "subject_id": 18,
+    "name": "Paraf",
+    "order_index": 24,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__paraf",
+    "version": 1
+  },
+  {
+    "id": 284,
+    "subject_id": 18,
+    "name": "Koordinasyon",
+    "order_index": 25,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__koordinasyon",
+    "version": 1
+  },
+  {
+    "id": 285,
+    "subject_id": 18,
+    "name": "Belge doğrulama bilgileri",
+    "order_index": 26,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__belge_dogrulama_bilgileri",
+    "version": 1
+  },
+  {
+    "id": 286,
+    "subject_id": 18,
+    "name": "İletişim bilgileri",
+    "order_index": 27,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__iletisim_bilgileri",
+    "version": 1
+  },
+  {
+    "id": 287,
+    "subject_id": 18,
+    "name": "Gizlilik dereceli belgeler",
+    "order_index": 28,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__gizlilik_dereceli_belgeler",
+    "version": 1
+  },
+  {
+    "id": 288,
+    "subject_id": 18,
+    "name": "Süreli ve kişiye özel yazışmalar",
+    "order_index": 29,
+    "question_count": 7,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__sureli_ve_kisiye_ozel_yazismalar",
+    "version": 1
+  },
+  {
+    "id": 289,
+    "subject_id": 18,
+    "name": "Sayfa numarası",
+    "order_index": 30,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__sayfa_numarasi",
+    "version": 1
+  },
+  {
+    "id": 290,
+    "subject_id": 18,
+    "name": "Üstveri elemanları",
+    "order_index": 31,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 269,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_bolumleri__ustveri_elemanlari",
+    "version": 1
+  },
+  {
+    "id": 291,
+    "subject_id": 18,
+    "name": "Belgenin Çoğaltılması, Gönderilmesi, Alınması ve İade Edilmesi",
+    "order_index": 32,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belgenin_cogaltilmasi_gonderilmesi_alinmasi_iade",
+    "version": 1
+  },
+  {
+    "id": 292,
+    "subject_id": 18,
+    "name": "Belgenin çoğaltılması",
+    "order_index": 33,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 291,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belge_islem__cogaltilmasi",
+    "version": 1
+  },
+  {
+    "id": 293,
+    "subject_id": 18,
+    "name": "Belgenin elektronik ortamda gönderilmesi ve alınması",
+    "order_index": 34,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 291,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belge_islem__elektronik_gonderim_alim",
+    "version": 1
+  },
+  {
+    "id": 294,
+    "subject_id": 18,
+    "name": "Belgenin fiziksel ortamda gönderilmesi ve alınması",
+    "order_index": 35,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 291,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belge_islem__fiziksel_gonderim_alim",
+    "version": 1
+  },
+  {
+    "id": 295,
+    "subject_id": 18,
+    "name": "Belgenin iade edilmesi",
+    "order_index": 36,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 291,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__belge_islem__iade_edilmesi",
+    "version": 1
+  },
+  {
+    "id": 296,
+    "subject_id": 18,
+    "name": "Çeşitli Hükümler",
+    "order_index": 37,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": null,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__cesitli_ve_son_hukumler",
+    "version": 1
+  },
+  {
+    "id": 297,
+    "subject_id": 18,
+    "name": "Görüş, bilgi ve belge taleplerinde süre",
+    "order_index": 38,
+    "question_count": 4,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 296,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__cesitli_son__talep_sureleri",
+    "version": 1
+  },
+  {
+    "id": 298,
+    "subject_id": 18,
+    "name": "Tekit yazısı",
+    "order_index": 39,
+    "question_count": 3,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 296,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__cesitli_son__tekit_yazisi",
+    "version": 1
+  },
+  {
+    "id": 299,
+    "subject_id": 18,
+    "name": "Uygun yazılmayan belgeler",
+    "order_index": 40,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 296,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__cesitli_son__uygun_yazilmayan_belgeler",
+    "version": 1
+  },
+  {
+    "id": 300,
+    "subject_id": 18,
+    "name": "Düzenleme yetkisi ve kılavuz hazırlanması",
+    "order_index": 41,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 296,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__cesitli_son__duzenleme_yetkisi_ve_kilavuz",
+    "version": 1
+  },
+  {
+    "id": 301,
+    "subject_id": 18,
+    "name": "Yürürlük",
+    "order_index": 42,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 296,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__cesitli_son__yururluk",
+    "version": 1
+  },
+  {
+    "id": 302,
+    "subject_id": 18,
+    "name": "Yürütme",
+    "order_index": 43,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "sinav_id": 3,
+    "parent_id": 296,
+    "legacy_key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik__cesitli_son__yurutme",
+    "version": 1
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "schema": 1,
+  "content_version": 1,
+  "generated_at": "2026-11-11T18:20:12.004033Z",
+  "files": {
+    "blueprints.json": {
+      "sha256": "5873152dc0241b7da17a7aeb51f9c6753fe1d88d5c4bc77e9067fb416a02e590",
+      "size": 14397
+    },
+    "questions/3071-sayili-dilekce-hakkinin-kullanilmasina-dair-kanun.json": {
+      "sha256": "14b903eae865773de4d170faa4c7c714ab35a4fa73d6a1102ab852d82e12532f",
+      "size": 67918
+    },
+    "questions/4483-sayili-memurlar-ve-diger-kamu-gorevlilerinin-yargilanmasi-hakkinda-kanun.json": {
+      "sha256": "f6c8d055d67e1f8201320612f010acc512b7b21905eeee1cbd61bcd90bb54ec7",
+      "size": 76758
+    },
+    "questions/4734-sayili-kamu-ihale-kanunu.json": {
+      "sha256": "7ea5b444f29e1a681b298a3c6f978fe7edea178f29d2b7b7064c5d94d50953c3",
+      "size": 78209
+    },
+    "questions/4982-sayili-bilgi-edinme-hakki-kanunu.json": {
+      "sha256": "20709a52d566b5e1df4ee303744357b2534249a2e50fc6fed4b11034935db9bd",
+      "size": 150300
+    },
+    "questions/5018-sayili-kamu-mali-yonetimi-ve-kontrol-kanunu.json": {
+      "sha256": "875036183e175fdf359310b69aa477beb59623237de9b7e880b8bdc9fbebe3bc",
+      "size": 118960
+    },
+    "questions/6331-sayili-is-sagligi-ve-guvenligi-kanunu.json": {
+      "sha256": "41e02392b1eae9b63e2a257dd719c37f02429e263178f220bfa520f06c573de1",
+      "size": 167616
+    },
+    "questions/657-sayili-devlet-memurlari-kanunu.json": {
+      "sha256": "a2d04729b7a3ce7d8efcefc765c9a8cb334a031ed1b2ed1bffd683bdbd7c578b",
+      "size": 169875
+    },
+    "questions/6698-sayili-kisisel-verilerin-korunmasi-kanunu.json": {
+      "sha256": "9437d02dbdcfaceabf95d8ae3dcb38765267efae1a165ab11c7384d0c7b3a854",
+      "size": 156950
+    },
+    "questions/7201-sayili-tebligat-kanunu.json": {
+      "sha256": "476410be65ac5381bdc8d0c3458be411861e00470c633a40b107c2e0a8b91257",
+      "size": 154370
+    },
+    "questions/7315-sayili-guvenlik-sorusturmasi-ve-arsiv-arastirmasi-kanunu.json": {
+      "sha256": "4343e6587966f284b03cae2f4b1c11befc04b48160f82537fdb3c099cabb97cb",
+      "size": 165309
+    },
+    "questions/ataturk-ilkeleri-ve-inkilap-tarihi.json": {
+      "sha256": "7b31ee00ca8528cbbede41af9e6e9627d47d6b294d821b193a4dff0fcbcd1afd",
+      "size": 221640
+    },
+    "questions/devlet-memurlarinin-sikayet-ve-muracaatlari-hakkinda-yonetmelik.json": {
+      "sha256": "aa9fc7439ff7240e8fe6b699b17cde55e89cf3e034e9f38cc295defc5ce03986",
+      "size": 77812
+    },
+    "questions/genel-kultur-ve-genel-yetenek.json": {
+      "sha256": "41c409359be9c9ee260c1651d538cca2f9547f11ae572a2cc5809f23a94bdac8",
+      "size": 5726
+    },
+    "questions/kamu-gorevlileri-etik-davranis-ilkeleri-ile-basvuru-usul-ve-esaslari-hakkinda-yonetmelik.json": {
+      "sha256": "b128823976821994a54a248061bb3e32c03cace0afd6b64a30542d1e1ddf1c2c",
+      "size": 168874
+    },
+    "questions/mal-bildiriminde-bulunulmasi-hakkinda-yonetmelik.json": {
+      "sha256": "bf57e96fda4b6d09db8533d441fd37b3a54a6e74b77da7502b8e60f0d2be9403",
+      "size": 116248
+    },
+    "questions/resmi-yazismalarda-uygulanacak-usul-ve-esaslar-hakkinda-yonetmelik.json": {
+      "sha256": "aa118e738326bf08a614e5aca5d763585239ac05f565fa18fff2f07993b20ef2",
+      "size": 117836
+    },
+    "questions/turkce-ve-dil-bilgisi.json": {
+      "sha256": "babe5f860c224dce0a34569f621753adb591085589d3de43fe82ac210710ec90",
+      "size": 40210
+    },
+    "questions/turkiye-cumhuriyeti-anayasasi.json": {
+      "sha256": "5678783a7079101a5b5fc8fc220bc401d0d7e2b1efae89c65e16ac3a95b979f8",
+      "size": 169784
+    },
+    "sinav.json": {
+      "sha256": "56291ef825bf0f1d7b380aa897e5f67c9780c0042092a178cc4ea55437995d07",
+      "size": 440
+    },
+    "subjects.json": {
+      "sha256": "5fdcb479b9b268a4060b34a3c065203a50124062eea4acf91e9c30fdd11081ea",
+      "size": 7479
+    },
+    "topics.json": {
+      "sha256": "c1f820b48db7872d5273d3e8f10501ef5779e4a4f0f80c8f14866a2add5b739e",
+      "size": 103776
+    }
+  }
+}

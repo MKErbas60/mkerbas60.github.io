@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "id": "657_s01",
+      "article_number": "Md. 1–6",
+      "title": "Kapsam, Tanımlar ve Temel İlkeler",
+      "content": "## Kapsam (Madde 1)\n\nBu Kanun; **Genel ve Katma Bütçeli** kurumlar, **İl Özel İdareleri**, **Belediyeler**, **köy idareleri** ile bunların birlik ve müesseselerinde çalışan Devlet memurlarını kapsar.\n\n> **İstisna:** Türk Silahlı Kuvvetleri personeli, hâkimler ve savcılar bu Kanun kapsamına **girmez**.\n\n## Temel İlkeler (Madde 3)\n\nDevlet kamu hizmetleri; **sınıflandırma**, **kariyer** ve **liyakat** ilkeleri üzerine kurulur.\n\n| İlke | Açıklama |\n|------|----------|\n| Sınıflandırma | Görevler özelliklerine göre sınıflara ayrılır |\n| Kariyer | Memurun ilerlemesi güvence altındadır |\n| Liyakat | Göreve alım ve terfi yeterliliğe dayanır |\n\n## Devlet Memurlarının Yükümlülükleri (Madde 6)\n\nHer Türk vatandaşı, bu Kanundaki şartları taşımak kaydıyla **Devlet memuru** olmaya hak kazanır.",
+      "tags": ["kapsam", "temel ilkeler", "liyakat", "kariyer"],
+      "order_index": 1
+    },
+    {
+      "id": "657_s02",
+      "article_number": "Md. 36–44",
+      "title": "Hizmet Sınıfları (10 Sınıf)",
+      "content": "## Hizmet Sınıfları (Madde 36)\n\nDevlet memurları **10 hizmet sınıfına** ayrılır:\n\n1. **Genel İdare Hizmetleri Sınıfı** — Büro, yazışma, idari işler\n2. **Teknik Hizmetler Sınıfı** — Mühendisler, mimarlar, teknikerler\n3. **Sağlık ve Yardımcı Sağlık Hizmetleri Sınıfı** — Hekimler, hemşireler\n4. **Eğitim ve Öğretim Hizmetleri Sınıfı** — Öğretmenler\n5. **Avukatlık Hizmetleri Sınıfı** — Avukatlar\n6. **Din Hizmetleri Sınıfı** — İmamlar\n7. **Emniyet Hizmetleri Sınıfı** — Polis memurları\n8. **Yardımcı Hizmetler Sınıfı** — Hizmetliler, şoförler\n9. **Mülki İdare Amirliği Hizmetleri Sınıfı** — Valiler, kaymakamlar\n10. **Milli İstihbarat Hizmetleri Sınıfı** — MİT personeli\n\n> **Sınav ipucu:** Sınıf sayısı ve hangi mesleğin hangi sınıfta olduğu sıkça sorulur!",
+      "tags": ["sınıflar", "hizmet sınıfı", "10 sınıf"],
+      "order_index": 2
+    },
+    {
+      "id": "657_s03",
+      "article_number": "Md. 48",
+      "title": "Devlet Memurluğuna Alınma Şartları",
+      "content": "## Genel Şartlar (Madde 48)\n\n**A) Zorunlu Şartlar:**\n\n- Türk vatandaşı olmak\n- 18 yaşını tamamlamış olmak *(okul mezuniyetiyle 15 yaş yeterlidir)*\n- Kamu haklarından yoksun bırakılmamış olmak\n- Türk Ceza Kanunu'nun 53. maddesinde sayılan suçlardan mahkûm olmamak\n- Askerlik çağına gelmemiş olmak veya askerliği yapmış/ertelemiş olmak\n- Görevin gerektirdiği **sağlık şartlarını** taşımak\n- **İlkokul mezunu** olmak *(en az)*\n\n**B) Özel Şartlar:**\n\nHer kadro için ayrıca belirlenen eğitim düzeyi, sınav vs. şartlar.\n\n> **Not:** Belirtilen mahkûmiyet halleri;\n> taksirli suçlar ve af kapsamına alınanlar için 1 yılın altındaki hapis cezaları bu engeli doğurmaz.",
+      "tags": ["alım şartları", "genel şartlar", "vatandaşlık"],
+      "order_index": 3
+    },
+    {
+      "id": "657_s04",
+      "article_number": "Md. 54–62",
+      "title": "Aday Memurluk",
+      "content": "## Aday Memurluk Süresi (Madde 54)\n\nDevlet memurluğuna atananlar önce **aday memur** statüsüne girerler.\n\n- Aday memurluk süresi: **en az 1 yıl, en fazla 2 yıl**\n- Bu süre **3 yılı geçemez**\n\n## Adaylık Kaldırma (Madde 58)\n\nAday memurun asli memurluğa atanabilmesi için:\n\n1. Aday memurluk süresi dolmuş olmalı\n2. Temel eğitim, hazırlayıcı eğitim ve staj tamamlanmış olmalı\n3. Yapılacak **sınav**dan başarılı olunmuş olmalı\n\n## Adaylığın İptali (Madde 57)\n\nAday memurun görevine **son verilebilir** (tazminatsız):\n- Göreve devamsızlık\n- Sicil yetersizliği\n- İşe yaramazlık\n\n> **Not:** Adaylıkta atılan memurun itiraz hakkı sınırlıdır, asli memurlar gibi tam disiplin güvencesi yoktur.",
+      "tags": ["aday memurluk", "staj", "adaylık süresi"],
+      "order_index": 4
+    },
+    {
+      "id": "657_s05",
+      "article_number": "Md. 64–68",
+      "title": "Kademe İlerlemesi ve Derece Yükselmesi",
+      "content": "## Kademe İlerlemesi (Madde 64)\n\n**Şartlar:**\n- Bulunduğu kademede **en az 1 yıl** çalışmış olmak\n- O yıl içinde **olumlu sicil** almak\n- Üst kademede boş kadro bulunmak *(gerekli değil — kariyer ilkesi)*\n\n> Kademe ilerlemesi otomatik değil; sicil koşuluna bağlıdır.\n\n## Derece Yükselmesi (Madde 68)\n\n**Şartlar:**\n1. Bulunduğu derecede **en az 3 yıl** çalışmış olmak\n2. Üst derecenin **1. kademesinde** boş kadro bulunmak\n3. Sicil notu yeterli olmak\n\n**İstisna (Madde 68/B):**\n\nSınav şartı:\n- Tüm kamu personelinin katıldığı **merkezi sınavda** başarılı olmak\n- Bu koşulla **en fazla 3 derece** birden yükselebilir\n\n| Kavram | Süre |\n|--------|------|\n| Kademe ilerlemesi | Aynı derecede ≥ 1 yıl |\n| Derece yükselmesi | Aynı derecede ≥ 3 yıl |",
+      "tags": ["kademe", "derece", "yükselme", "terfi"],
+      "order_index": 5
+    },
+    {
+      "id": "657_s06",
+      "article_number": "Md. 86–93",
+      "title": "Vekâlet ve İkinci Görev",
+      "content": "## Vekâlet (Madde 86)\n\nBir görevin **boşalması** veya geçici olarak **boş kalması** halinde:\n\n- Vekâlet görevi **aynı kurumun** uygun personeline verilebilir\n- Vekâlet görevi **en fazla 6 ay** sürebilir *(olağanüstü hallerde uzatılabilir)*\n- Vekâlet edenin aylığına **%10 zam** yapılır *(iki göreve ayrı tam aylık verilmez)*\n\n## İkinci Görev (Madde 87–88)\n\n**İkinci görev verilebilecek haller:**\n\n1. Yeterli personel bulunmaması\n2. Hizmetin gereği\n\n**Kısıtlamalar:**\n- Bir memur **aynı anda iki farklı kadroda** tam aylık alamaz\n- İkinci görev ücreti: asıl görev ücreti ile ikinci görev ücretinin **farkı** kadar ek ödeme\n\n> **Uyarı:** İkinci görev devlet memurlarına istisnai verilir; esas olan tek görev ilkesidir.",
+      "tags": ["vekalet", "ikinci görev", "aylık"],
+      "order_index": 6
+    },
+    {
+      "id": "657_s07",
+      "article_number": "Md. 99–105",
+      "title": "Çalışma Saatleri ve Yıllık İzin",
+      "content": "## Çalışma Saatleri (Madde 99–100)\n\n- Haftada **40 saat** esas çalışma süresi\n- Günlük **8 saat**\n- Cumartesi ve Pazar tatil *(uygulamada)*\n\n## Fazla Çalışma (Madde 101)\n\nFazla çalışma: **İzinle birlikte günde 3 saati**, **yılda 90 saati** geçemez.\n\n## Yıllık İzin (Madde 102–103)\n\n| Hizmet Süresi | Yıllık İzin |\n|---------------|-------------|\n| 1–5 yıl (dahil) | **20 gün** |\n| 5 yıldan fazla | **30 gün** |\n\n- Yıllık izin **bölünerek** kullanılabilir; ancak bölünen parçalardan biri **10 günden** az olamaz\n- **Üst üste 2 yıl** kullanılmayan izin hakkı **düşer**\n- **Yurt dışı izni:** 3 güne kadar amirden, daha fazlası için üst amirden onay alınır\n\n> **Not:** İzin günleri hesabında Cumartesi–Pazar tatil, resmî tatiller **sayılmaz**.",
+      "tags": ["çalışma saati", "yıllık izin", "fazla çalışma"],
+      "order_index": 7
+    },
+    {
+      "id": "657_s08",
+      "article_number": "Md. 104–108",
+      "title": "Mazeret, Hastalık ve Aylıksız İzin",
+      "content": "## Mazeret İzni (Madde 104)\n\n| Durum | Süre |\n|-------|------|\n| Evlenme | **7 gün** |\n| Eş/çocuk/anne/baba/kardeş ölümü | **7 gün** |\n| Doğum (anne) | Doğum öncesi **8 hafta** + sonrası **8 hafta** = **16 hafta** |\n| Doğum (baba) | **10 gün** |\n| Evlat edinme | **10 gün** |\n\n## Hastalık İzni (Madde 105)\n\n- 10 güne kadar: **kurumca** doğrudan verilebilir\n- 10 günden fazla: **hekim raporu** zorunlu\n- Toplam hastalık izni:\n  - **Tedavi süresi** boyunca (raporla belgelenmek şartıyla) tam aylıkla\n  - **18 ay** sonra aylık **2/3**'ü ödenir\n\n## Aylıksız İzin (Madde 108)\n\n| Durum | Süre |\n|-------|------|\n| Doğum sonrası (isteğe bağlı) | **24 aya** kadar |\n| Yurt dışında görevlendirilen eş için | **4 yıla** kadar |\n| Öğrenim / lisansüstü | **2 yıla** kadar |\n| Özel sebep | **1 yıla** kadar *(toplamda 2 yıl)* |\n\n> Aylıksız izinde **aylık ödenmez**, izin süresi **terfi ve emekliliğe sayılmaz**.",
+      "tags": ["mazeret izni", "hastalık izni", "aylıksız izin", "doğum izni"],
+      "order_index": 8
+    },
+    {
+      "id": "657_s09",
+      "article_number": "Md. 122–135",
+      "title": "Disiplin Cezaları",
+      "content": "## Disiplin Cezaları (Madde 125)\n\n5 aşamalı disiplin cezası sistemi:\n\n### 1. Uyarma\nMemura yazılı olarak iletilenin uyarılması.\n\n*Örnek fiiller:* Amirlere saygısızlık, göreve geç gelme.\n\n### 2. Kınama\nGörevinde veya davranışlarında kusurlu sayıldığının yazılı bildirimi.\n\n*Örnek fiiller:* Göreve özürsüz geç gelme *(3–9 gün)*, amire yalan söyleme.\n\n### 3. Aylıktan Kesme\nAylığın **1/30 – 1/8** oranında kesilmesi.\n\n*Örnek fiiller:* Özürsüz devamsızlık *(1–2 gün)*, hizmet içi eğitime katılmama.\n\n### 4. Kademe İlerlemesinin Durdurulması\n**1–3 yıl** kademe ilerlemesinin durdurulması.\n\n*Örnek fiiller:* Özürsüz devamsızlık *(3–9 gün)*, göreve sarhoş gelme, yetkisiz grev.\n\n### 5. Devlet Memurluğundan Çıkarma\nBir daha Devlet memuru olamamak üzere memuriyet ilişkisinin sona erdirilmesi.\n\n*Örnek fiiller:* İdeolojik/siyasi amaçlı eylem, terör örgütü üyeliği, yolsuzluk.\n\n> **Önemli:** Devlet memurluğundan çıkarma cezası **Yüksek Disiplin Kurulu** tarafından verilir.",
+      "tags": ["disiplin", "ceza", "uyarma", "kınama", "çıkarma"],
+      "order_index": 9
+    },
+    {
+      "id": "657_s10",
+      "article_number": "Md. 127–136",
+      "title": "Disiplin Soruşturması — Süreler ve İtiraz",
+      "content": "## Zamanaşımı (Madde 127)\n\nDisiplin cezası vermek için zamanaşımı süreleri:\n\n| Durum | Süre |\n|-------|------|\n| Fiilin öğrenilmesinden itibaren soruşturma açma | **1 ay** |\n| Fiilin işlenmesinden itibaren soruşturma açma | **2 yıl** |\n| Ceza verme (soruşturma sonucundan itibaren) | **6 ay** |\n\n> Bu süreler geçirilirse disiplin cezası **verilemez**.\n\n## Savunma Hakkı (Madde 130)\n\nDisiplin cezası verilmeden önce memura **yazılı savunma** hakkı tanınır.\n- Savunma süresi: **7 günden** az olamaz\n- Savunma yapmayan memur hakkını kullanmamış sayılır\n\n## İtiraz (Madde 135)\n\n- Uyarma ve kınama cezaları → **İdare Mahkemesi**'ne itiraz\n- Diğer cezalar → Önce **İtiraz Kurulu**'na, ardından idare mahkemesine\n- İtiraz süresi: cezanın tebliğinden itibaren **30 gün**",
+      "tags": ["zamanaşımı", "savunma", "itiraz", "soruşturma"],
+      "order_index": 10
+    },
+    {
+      "id": "657_s11",
+      "article_number": "Md. 143–160",
+      "title": "Sicil ve Değerlendirme",
+      "content": "## Sicil Sistemi (Madde 143)\n\nHer yıl **sicil amiri** tarafından memur hakkında **sicil raporu** düzenlenir.\n\n**Sicil Notlarının Anlamı:**\n\n| Not Aralığı | Değerlendirme |\n|-------------|----------------|\n| 91–100 | Çok İyi |\n| 76–90 | İyi |\n| 60–75 | Orta |\n| 60'ın altı | Yetersiz |\n\n## Sicil Sonuçları\n\n- **Üst üste 2 yıl** \"yetersiz\" sicil alan memur **başka göreve** nakledilir\n- **3 yıl içinde 2 kez** yetersiz sicil → **meslekten ihraç** gündeme gelebilir\n\n## Gizlilik\n\nSicil dosyaları **gizlidir**; memura sicil notu tebliğ edilmez ancak **itiraz** hakkı vardır.\n\n> **Güncel not:** 6111 sayılı Kanun ile sicil sisteminde önemli değişiklikler yapılmış, performans değerlendirmesi sistemine geçiş tartışmaları sürmektedir.",
+      "tags": ["sicil", "değerlendirme", "performans", "ihraç"],
+      "order_index": 11
+    },
+    {
+      "id": "657_s12",
+      "article_number": "Md. 7–13",
+      "title": "Yasaklar: Grev, Siyaset ve Ticaret",
+      "content": "## Grev Yasağı (Madde 7)\n\nDevlet memurları **grev yapamaz**, greve teşvik edemez ve destekleyemez.\n\n## Toplu Eylem Yasağı (Madde 26)\n\nMemurlar, görevleri ile ilgili konularda basına, haber ajanslarına **izinsiz demeç veremez**.\n\n## Siyasi Faaliyet Yasağı (Madde 28)\n\n- Memurlar siyasi partiye üye **olamaz**\n- Siyasi faaliyette **bulunamaz**\n- İstisna: Milletvekili adayı olabilmek için memuriyetten **istifa** gerekmez, **izin** alınır\n\n## Ticaret Yasağı (Madde 28)\n\n- Görevle ilgili **ticaret** yapamaz\n- Kendi adına iş yeri **açamaz**\n- Ticari işletmelerde ortak veya yönetici **olamaz**\n\n> **İstisna:** Tarımsal faaliyetler, bilimsel ve edebi eserler yasak kapsamı dışındadır.",
+      "tags": ["yasaklar", "grev", "siyaset", "ticaret"],
+      "order_index": 12
+    },
+    {
+      "id": "657_s13",
+      "article_number": "Md. 109–121",
+      "title": "Nakil, Görevden Uzaklaştırma ve Çekilme",
+      "content": "## Nakil (Madde 72–76)\n\n- Kamu yararı ve hizmet gereği: **kurumlar arası nakil** yapılabilir\n- Memur nakle **itiraz** edebilir; ancak hizmet gereği ise uygulanır\n- Eş durumu nakli: belgelemek koşuluyla eşin bulunduğu yere nakil istenebilir\n\n## Görevden Uzaklaştırma (Madde 137)\n\nDisiplin soruşturması veya cezai kovuşturma sırasında:\n\n- Amir veya üst amirler tarafından en fazla **3 ay** görevden uzaklaştırma yapılabilir\n- **3 ay** sonunda soruşturma bitmezse **Merkezi Disiplin Kurulu** kararıyla uzatılabilir\n- Görevden uzaklaştırılan memur **2/3 aylık** alır\n- Aklanırsa **geriye dönük tam aylık** ödenir\n\n## Çekilme (İstifa) (Madde 94)\n\n- **Yazılı** olarak bildirilmesi gerekir\n- Çekilme bildirimi: **1 ay öncesinden** yapılmalı\n- Görevden ayrılma süresini doldurmadan çekilmek **görevi terk** sayılır\n- Görevden çekilenler, **6 ay** geçmeden yeniden göreve alınamaz",
+      "tags": ["nakil", "görevden uzaklaştırma", "istifa", "çekilme"],
+      "order_index": 13
+    }
+  ]
+}

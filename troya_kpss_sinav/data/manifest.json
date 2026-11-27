@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "content_version": 6,
+  "generated_at": "2026-11-27T19:19:12.907141Z",
+  "files": {
+    "blueprints.json": {
+      "sha256": "6ac14146deeeea59d614cf0feb7140890c756152e9b6aaefb1d744215d98679f",
+      "size": 4246
+    },
+    "questions/cografya.json": {
+      "sha256": "f4b1ef40dd279f633362cf49de28be26e0be8f619772a664c5d53c9423429a1b",
+      "size": 313976
+    },
+    "questions/geometri.json": {
+      "sha256": "09d13c74e8266fa996635989de959db80696e1cd20b58858ebdd666bb3930009",
+      "size": 39543
+    },
+    "questions/guncel.json": {
+      "sha256": "155d640702693922ec0a8ee9ed2fef2ed7ac04917789d4bdfd49e4fdf77d3168",
+      "size": 174317
+    },
+    "questions/matematik.json": {
+      "sha256": "80371e91f6e87e8a1d360017ccd13d087588abd9c799682d4401151e6bbb1928",
+      "size": 554982
+    },
+    "questions/tarih.json": {
+      "sha256": "7f4dc9036c7be03f93ce731f8de7641943f4fcd1401a6a6b08a65d1af8995150",
+      "size": 568075
+    },
+    "questions/turkce.json": {
+      "sha256": "8af60eec38e085bd7e67626ab21be641a3437be05f25eeaccf8a8cc4e3c07fbc",
+      "size": 668237
+    },
+    "questions/vatandaslik.json": {
+      "sha256": "d7a39816968bb18a6996c4c3300a60ef3959b645918dacc6db83ecd408d6d87a",
+      "size": 411710
+    },
+    "sinav.json": {
+      "sha256": "fd1aacda9dbd419d82a2bb74792c648e3e13f47778388284c4dfd2743ca90f20",
+      "size": 225
+    },
+    "subjects.json": {
+      "sha256": "e866e36ba82c755bcf984efcd370c8a8775315aa00ffbf69da8b2f7852a433fd",
+      "size": 1467
+    },
+    "topics.json": {
+      "sha256": "f0e5a11fa79a7cb54b2c8b1ea20d6da254c1adcf84378da62892db35db0187f9",
+      "size": 122044
+    },
+    "topics/cografya.json": {
+      "sha256": "9a7bc12a58f09b645be3e766759146e8ea18f088a4a2f83652717fdaf28802c4",
+      "size": 56283
+    },
+    "topics/geometri.json": {
+      "sha256": "9bda4467bdec68c883e75105ba9db0a5b1726303aa672fdd1b6efe644e583ffd",
+      "size": 20938
+    },
+    "topics/guncel.json": {
+      "sha256": "fb8df7b4baf633a072014d9bbb55f01e7bb2b9c8ded1b5a4631daa23cfcab655",
+      "size": 33561
+    },
+    "topics/matematik.json": {
+      "sha256": "7a0c0de9f826d95dcdbc56be3b71e1386b761794230004d337f967eed7acb08d",
+      "size": 61994
+    },
+    "topics/tarih.json": {
+      "sha256": "1c9a837474e6390d1bec331b18e753a87d3c31b7afd3f0bb3693399e52550f2f",
+      "size": 68734
+    },
+    "topics/turkce.json": {
+      "sha256": "fcba4ca3c73eef06ad6503b8ee153f118d6ff6f7ab7ec678aa497d8bd37f86b7",
+      "size": 182887
+    },
+    "topics/vatandaslik.json": {
+      "sha256": "cfe36f4ca57fbca29e472cb230f8c7f72dea0ab722e4192b151f73c6e2159d5b",
+      "size": 82867
+    },
+    "tr-provinces.json": {
+      "sha256": "c5a41fe32e60b2d66009215ae1cd785d0991d1bd44f0a80f38cd480e68ddcbca",
+      "size": 89142
+    }
+  }
+}

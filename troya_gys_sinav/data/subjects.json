@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "key": "turkiye_cumhuriyeti_anayasasi",
+    "name": "Türkiye Cumhuriyeti Anayasası",
+    "short_name": "Anayasa",
+    "description": "Birinci Kısım (Genel Esaslar), İkinci Kısım (Temel Haklar ve Ödevler), Üçüncü Kısım (Cumhuriyetin Temel Organları)",
+    "group": "Anayasa ve Temel Hukuk",
+    "order_index": 1,
+    "question_count": 5,
+    "levels": [
+      "anayasa"
+    ],
+    "version": 1
+  },
+  {
+    "id": 2,
+    "key": "genel_kultur_ve_genel_yetenek",
+    "name": "Genel Kültür ve Genel Yetenek",
+    "short_name": "GKGY",
+    "description": "Genel kültür, genel yetenek ve güncel konular",
+    "group": "Genel Yetenek ve Genel Kültür",
+    "order_index": 2,
+    "question_count": 5,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "version": 1
+  },
+  {
+    "id": 3,
+    "key": "turkce_ve_dil_bilgisi",
+    "name": "Türkçe ve Dil Bilgisi",
+    "short_name": "Türkçe",
+    "description": "Türkçe dil bilgisi, yazım kuralları ve anlama",
+    "group": "Genel Yetenek ve Genel Kültür",
+    "order_index": 3,
+    "question_count": 5,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "version": 1
+  },
+  {
+    "id": 4,
+    "key": "ataturk_ilkeleri_ve_inkilap_tarihi",
+    "name": "Atatürk İlkeleri ve İnkılap Tarihi",
+    "short_name": "İnkılap Tarihi",
+    "description": "Atatürk ilkeleri, Türk inkılabı ve yakın tarih",
+    "group": "Genel Yetenek ve Genel Kültür",
+    "order_index": 4,
+    "question_count": 3,
+    "levels": [
+      "genel_yetenek"
+    ],
+    "version": 1
+  },
+  {
+    "id": 5,
+    "key": "657_sayili_devlet_memurlari_kanunu",
+    "name": "657 Sayılı Devlet Memurları Kanunu",
+    "short_name": "DMK",
+    "description": "Geçici Maddeler ile Ek Geçici Maddeler hariç (Şube Müdürü). Şef/Memur/ÜD için: Kısım-1 Bölüm 1-4, Kısım-4 Bölüm 4-5-7, Kısım-7",
+    "group": "Genel Mevzuat",
+    "order_index": 5,
+    "question_count": 6,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 6,
+    "key": "3071_sayili_dilekce_hakkinin_kullanilmasina_dair_kanun",
+    "name": "3071 Sayılı Dilekçe Hakkının Kullanılmasına Dair Kanun",
+    "short_name": "Dilekçe K.",
+    "description": "Dilekçe hakkının kullanılmasına ilişkin usul ve esaslar",
+    "group": "Genel Mevzuat",
+    "order_index": 6,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 7,
+    "key": "4483_sayili_memurlar_ve_diger_kamu_gorevlilerinin_yargilanmasi_hakkinda_kanun",
+    "name": "4483 Sayılı Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+    "short_name": "Memur Yargılama K.",
+    "description": "Kamu görevlilerinin yargılanmasına ilişkin usul ve esaslar",
+    "group": "Genel Mevzuat",
+    "order_index": 7,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 8,
+    "key": "4734_sayili_kamu_ihale_kanunu",
+    "name": "4734 Sayılı Kamu İhale Kanunu",
+    "short_name": "KİK",
+    "description": "Kamu ihalelerinde uygulanacak usul ve esaslar",
+    "group": "Genel Mevzuat",
+    "order_index": 8,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 9,
+    "key": "4982_sayili_bilgi_edinme_hakki_kanunu",
+    "name": "4982 Sayılı Bilgi Edinme Hakkı Kanunu",
+    "short_name": "Bilgi Edinme K.",
+    "description": "Kamu kurumlarından bilgi edinme hakkı ve usulleri",
+    "group": "Genel Mevzuat",
+    "order_index": 9,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 10,
+    "key": "5018_sayili_kamu_mali_yonetimi_ve_kontrol_kanunu",
+    "name": "5018 Sayılı Kamu Malî Yönetimi ve Kontrol Kanunu",
+    "short_name": "KMYKK",
+    "description": "Kamu malî yönetimi ve kontrol esasları",
+    "group": "Genel Mevzuat",
+    "order_index": 10,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 11,
+    "key": "6331_sayili_is_sagligi_ve_guvenligi_kanunu",
+    "name": "6331 Sayılı İş Sağlığı ve Güvenliği Kanunu",
+    "short_name": "İSG Kanunu",
+    "description": "İş sağlığı ve güvenliğine ilişkin usul ve esaslar",
+    "group": "İş ve Sosyal Güvenlik",
+    "order_index": 11,
+    "question_count": 0,
+    "levels": [
+      "is_sosyal_guvenlik"
+    ],
+    "version": 1
+  },
+  {
+    "id": 12,
+    "key": "6698_sayili_kisisel_verilerin_korunmasi_kanunu",
+    "name": "6698 Sayılı Kişisel Verilerin Korunması Kanunu",
+    "short_name": "KVKK",
+    "description": "Kişisel verilerin işlenmesi ve korunmasına ilişkin esaslar",
+    "group": "Genel Mevzuat",
+    "order_index": 12,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 13,
+    "key": "7201_sayili_tebligat_kanunu",
+    "name": "7201 Sayılı Tebligat Kanunu",
+    "short_name": "Tebligat K.",
+    "description": "Resmi tebligat usul ve esasları",
+    "group": "Genel Mevzuat",
+    "order_index": 13,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 14,
+    "key": "7315_sayili_guvenlik_sorusturmasi_ve_arsiv_arastirmasi_kanunu",
+    "name": "7315 Sayılı Güvenlik Soruşturması ve Arşiv Araştırması Kanunu",
+    "short_name": "Güvenlik Sor. K.",
+    "description": "Güvenlik soruşturması ve arşiv araştırmasına ilişkin esaslar",
+    "group": "Genel Mevzuat",
+    "order_index": 14,
+    "question_count": 0,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 15,
+    "key": "devlet_memurlarinin_sikayet_ve_muracaatlari_hakkinda_yonetmelik",
+    "name": "Devlet Memurlarının Şikayet ve Müracaatları Hakkında Yönetmelik",
+    "short_name": "Şikayet Yön.",
+    "description": "Devlet memurlarının sikayet ve müracaat usul ve esasları",
+    "group": "Genel Mevzuat",
+    "order_index": 15,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 16,
+    "key": "kamu_gorevlileri_etik_davranis_ilkeleri_ile_basvuru_usul_ve_esaslari_hakkinda_yonetmelik",
+    "name": "Kamu Görevlileri Etik Davranış İlkeleri ile Başvuru Usul ve Esasları Hakkında Yönetmelik",
+    "short_name": "Etik Yönetmeliği",
+    "description": "Kamu görevlilerinin uyması gereken etik ilkeler ve basvuru esasları",
+    "group": "Genel Mevzuat",
+    "order_index": 16,
+    "question_count": 1,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 17,
+    "key": "mal_bildiriminde_bulunulmasi_hakkinda_yonetmelik",
+    "name": "Mal Bildiriminde Bulunulması Hakkında Yönetmelik",
+    "short_name": "Mal Bildirimi Yön.",
+    "description": "Kamu görevlilerinin mal bildiriminde bulunmasına iliskin usul ve esaslar",
+    "group": "Genel Mevzuat",
+    "order_index": 17,
+    "question_count": 2,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  },
+  {
+    "id": 18,
+    "key": "resmi_yazismalarda_uygulanacak_usul_ve_esaslar_hakkinda_yonetmelik",
+    "name": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik",
+    "short_name": "Resmi Yazışma Yön.",
+    "description": "Kamu kurumlarında resmi yazısma kural ve standartları",
+    "group": "Genel Mevzuat",
+    "order_index": 18,
+    "question_count": 8,
+    "levels": [
+      "genel_mevzuat"
+    ],
+    "version": 1
+  }
+]
